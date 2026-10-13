@@ -1,0 +1,121 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [],
+ "id": "ifcopenshell-files",
+ "title": "IfcOpenShell public test files",
+ "description": "Bug reproductions and serialization samples (ifcXML, ifcZIP) used by IfcOpenShell.",
+ "license": "LicenseRef-unspecified",
+ "keywords": [
+  "ifcXML",
+  "ifcZIP",
+  "serialization"
+ ],
+ "providers": [
+  {
+   "name": "IfcOpenShell",
+   "url": "https://ifcopenshell.org",
+   "roles": [
+    "host"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     -180,
+     -90,
+     180,
+     90
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2019-06-05T07:56:53Z",
+     "2026-06-04T00:00:00Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "IFC-XML",
+   "IFC-ZIP"
+  ],
+  "bim:format_version": [
+   "IFC4"
+  ],
+  "bim:building_type": [
+   "component"
+  ],
+  "bim:use_cases": [
+   "serialization"
+  ],
+  "bim:license_tier": [
+   "unclear"
+  ]
+ },
+ "bim:license_tier": "unclear",
+ "bim:license_quote": "No license stated (repository has no LICENSE; README describes naming only).",
+ "bim:attribution": "IfcOpenShell/files, https://github.com/IfcOpenShell/files",
+ "bim:origin": {
+  "kind": "git",
+  "repo": "IfcOpenShell/files",
+  "commit": "9fc2267d7f1ff35284c5b0fc28cc97bff7ace8e7",
+  "commit_date": "2026-06-04"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 3,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/IfcOpenShell/files",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "about",
+   "href": "https://github.com/IfcOpenShell/files",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "item",
+   "href": "items/ifcopenshell-files.wall-with-opening-and-window-664c02/ifcopenshell-files.wall-with-opening-and-window-664c02.json",
+   "type": "application/geo+json",
+   "title": "Serialization sample – wall-with-opening-and-window.ifcxml"
+  },
+  {
+   "rel": "item",
+   "href": "items/ifcopenshell-files.wall-with-opening-and-window-ifcxml-format-91bbb3/ifcopenshell-files.wall-with-opening-and-window-ifcxml-format-91bbb3.json",
+   "type": "application/geo+json",
+   "title": "Serialization sample – wall-with-opening-and-window_ifcxml_format.ifczip"
+  },
+  {
+   "rel": "item",
+   "href": "items/ifcopenshell-files.wallinstance-ifc4add2-ifcspf-format-3d6482/ifcopenshell-files.wallinstance-ifc4add2-ifcspf-format-3d6482.json",
+   "type": "application/geo+json",
+   "title": "Serialization sample – WallInstance_IFC4Add2_ifcspf_format.ifczip"
+  }
+ ]
+}

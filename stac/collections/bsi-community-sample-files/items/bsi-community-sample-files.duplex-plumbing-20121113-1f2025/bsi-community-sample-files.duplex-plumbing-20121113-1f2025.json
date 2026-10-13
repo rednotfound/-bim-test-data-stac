@@ -1,0 +1,238 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-community-sample-files.duplex-plumbing-20121113-1f2025",
+ "geometry": null,
+ "properties": {
+  "title": "NIBS Duplex Apartment – Plumbing_20121113",
+  "description": "IFC-SPF IFC2X3 file from 'buildingSMART Community Sample Test Files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2012-12-18T09:56:57Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "CC-BY-4.0",
+  "keywords": [
+   "COBie",
+   "NIBS",
+   "cobie",
+   "coordination view",
+   "multi-discipline",
+   "reference-model"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART community",
+    "url": "https://github.com/buildingsmart-community",
+    "roles": [
+     "host"
+    ]
+   },
+   {
+    "name": "US National Institute of Building Sciences (NIBS) / US Army ERDC-CERL",
+    "url": "https://www.nibs.org",
+    "roles": [
+     "producer"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "bsi-community-sample-files",
+  "bim:project": "nibs-duplex",
+  "bim:building_type": "residential",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "mep"
+  ],
+  "bim:use_cases": [
+   "multi-discipline",
+   "cobie",
+   "reference-model"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "bim:attribution": "BSI (2020) \"Duplex Apartment / Medical-Dental Test Files\", buildingSMART International, https://github.com/buildingsmart-community/Community-Sample-Test-Files (CC BY 4.0)",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/Duplex_Plumbing_20121113.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingsmart-community/Community-Sample-Test-Files",
+   "commit": "7ddf57a201f88a0c213d5322b02ed15e94a60a40",
+   "path": "IFC 2.3.0.1 (IFC 2x3)/Duplex Apartment/Duplex_Plumbing_20121113.ifc",
+   "browse_url": "https://github.com/buildingsmart-community/Community-Sample-Test-Files/blob/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/Duplex_Plumbing_20121113.ifc",
+   "git_lfs": true,
+   "commit_date": "2024-11-06"
+  },
+  "bim:thumbnail": "generated",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView]"
+  ],
+  "ifc:view_definition": "CoordinationView",
+  "ifc:header_timestamp": "2012-12-18T09:56:57",
+  "ifc:preprocessor_version": "Autodesk Revit 2013",
+  "ifc:originating_system": "20121003_2115(x64)",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 1468,
+  "ifc:product_types": 7,
+  "ifc:storeys": 3,
+  "ifc:spaces": 1,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Constraints",
+   "Construction",
+   "Dimensions",
+   "Electrical",
+   "Electrical - Loads",
+   "Graphics",
+   "Identity Data",
+   "Insulation",
+   "Materials and Finishes",
+   "Mechanical",
+   "Mechanical - Flow",
+   "Other",
+   "Phasing",
+   "Plumbing",
+   "Pset_BuildingCommon",
+   "Pset_SpaceCommon",
+   "Text"
+  ],
+  "ifc:props": 22225,
+  "ifc:qsets": 1,
+  "ifc:materials": 3,
+  "ifc:classif_refs": 69,
+  "ifc:type_objects": 73,
+  "ifc:docs": 0,
+  "ifc:score": 17.33,
+  "ifc:disciplines": [
+   "mep"
+  ],
+  "ifc:element_counts": {
+   "IfcDistributionPort": 970,
+   "IfcFlowSegment": 231,
+   "IfcFlowFitting": 227,
+   "IfcFlowController": 20,
+   "IfcFlowTerminal": 16,
+   "IfcEnergyConversionDevice": 2,
+   "IfcFlowMovingDevice": 2
+  },
+  "ifc:classification_systems": [
+   "UniFormat"
+  ],
+  "ifc:project_name": "0001",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:building_names": [
+   "XYZ"
+  ],
+  "ifc:storey_names": [
+   "Level 1",
+   "Level 2",
+   "Roof"
+  ],
+  "ifc:map_conversion": false,
+  "bim:site_location_raw": [
+   -87.6394,
+   41.8744
+  ],
+  "bim:location_source": "IfcSite location is a software/test default (Autodesk Revit MEP default site: Chicago, IL); geometry left null"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-community-sample-files.duplex-plumbing-20121113-1f2025.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "CC-BY-4.0"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingsmart-community/Community-Sample-Test-Files",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingsmart-community/Community-Sample-Test-Files/blob/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/Duplex_Plumbing_20121113.ifc",
+   "title": "Upstream file (pinned commit)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.duplex-a-20110907-a5c127/bsi-community-sample-files.duplex-a-20110907-a5c127.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-duplex)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.duplex-m-20111024-rooms-and-spaces-611d98/bsi-community-sample-files.duplex-m-20111024-rooms-and-spaces-611d98.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-duplex)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.duplex-mep-20110907-63fc38/bsi-community-sample-files.duplex-mep-20110907-63fc38.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-duplex)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.duplex-electrical-20121207-8f04b5/bsi-community-sample-files.duplex-electrical-20121207-8f04b5.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-duplex)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.2012-03-23-duplex-design-134d12/bsi-community-sample-files.2012-03-23-duplex-design-134d12.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-duplex)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.2012-03-23-duplex-handover-5004ab/bsi-community-sample-files.2012-03-23-duplex-handover-5004ab.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-duplex)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/Duplex_Plumbing_20121113.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "Duplex_Plumbing_20121113.ifc",
+   "file:size": 31556138,
+   "file:checksum": "1220abfaf5c0979b6b4b05182aec7ada8945374bdb414db76c763724d549b41b212b"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "bsi-community-sample-files"
+}

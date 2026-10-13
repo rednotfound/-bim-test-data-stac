@@ -1,0 +1,108 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "format-version--ifc-zip-ifc2x3-b459d0",
+ "title": "format-version: IFC-ZIP IFC2X3",
+ "description": "14 items where format-version = IFC-ZIP IFC2X3. Items are shared with their source collections.",
+ "bim:dimension": "format-version",
+ "bim:value": "IFC-ZIP IFC2X3",
+ "bim:item_count": 14,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.linden-kozijnen-4d05e6/schependomlaan.linden-kozijnen-4d05e6.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – LINDEN - Kozijnen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-compleet-f0161c/schependomlaan.root-compleet-f0161c.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-Compleet"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-vebo-999a76/schependomlaan.root-vebo-999a76.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-Vebo"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-breedplaatvloeren-fd4baa/schependomlaan.root-breedplaatvloeren-fd4baa.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-breedplaatvloeren"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-houten-kozijnen-3ab8e2/schependomlaan.root-houten-kozijnen-3ab8e2.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-houten kozijnen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-kalkzandsteen-04d9e3/schependomlaan.root-kalkzandsteen-04d9e3.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-kalkzandsteen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-kanaalplaatvloer-c989c4/schependomlaan.root-kanaalplaatvloer-c989c4.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-kanaalplaatvloer"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-kapconstructie-dakkapellen-platdak-520e59/schependomlaan.root-kapconstructie-dakkapellen-platdak-520e59.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-kapconstructie_dakkapellen_platdak"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-lateien-en-geveldragers-763b4f/schependomlaan.root-lateien-en-geveldragers-763b4f.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-lateien_en_geveldragers"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-prefab-balkons-010df7/schependomlaan.root-prefab-balkons-010df7.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-prefab_balkons"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-prefab-trappen-0f3834/schependomlaan.root-prefab-trappen-0f3834.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-prefab_trappen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-prefab-vloer-lifttop-3bad53/schependomlaan.root-prefab-vloer-lifttop-3bad53.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-prefab_vloer_lifttop"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-staal-a86264/schependomlaan.root-staal-a86264.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-staal"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-traphekken-ae1742/schependomlaan.root-traphekken-ae1742.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-traphekken"
+  }
+ ]
+}

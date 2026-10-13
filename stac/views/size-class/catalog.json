@@ -1,0 +1,46 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "view-size-class",
+ "title": "By file size class",
+ "description": "Items grouped by size-class.",
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "child",
+   "href": "l-100mb-b120b5/catalog.json",
+   "title": "l(<100MB) (62)"
+  },
+  {
+   "rel": "child",
+   "href": "m-20mb-5235b0/catalog.json",
+   "title": "m(<20MB) (177)"
+  },
+  {
+   "rel": "child",
+   "href": "s-1mb-fa6451/catalog.json",
+   "title": "s(<1MB) (142)"
+  },
+  {
+   "rel": "child",
+   "href": "xl-100mb-883b99/catalog.json",
+   "title": "xl(>=100MB) (9)"
+  },
+  {
+   "rel": "child",
+   "href": "xs-100kb-6b8c82/catalog.json",
+   "title": "xs(<100KB) (172)"
+  }
+ ]
+}

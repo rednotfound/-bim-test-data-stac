@@ -1,0 +1,176 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.sgd-hitos-eng-hvac-38ea51",
+ "geometry": null,
+ "properties": {
+  "title": "Statsbygg HiTOS – SGD_HiTOS_Eng-HVAC",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2007-03-08T15:32:25Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-sgd-hitos-ifc-83bfb6",
+  "bim:building_type": "education",
+  "bim:country": "NO",
+  "bim:disciplines": [
+   "mep"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_HiTOS_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "SGD_HiTOS/SGD_HiTOS_Eng-HVAC.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "IFC2X3"
+  ],
+  "ifc:header_timestamp": "2007-03-08T15:32:25",
+  "ifc:preprocessor_version": "DDS-IFC v2.0",
+  "ifc:originating_system": "DDS-CAD Version 6.40 5/2-2007 11:08",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 9124,
+  "ifc:product_types": 7,
+  "ifc:storeys": 6,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 3,
+  "ifc:pset_names": [
+   "Pset_AirTerminalTypeCommon",
+   "Pset_DuctFittingTypeCommon",
+   "Pset_DuctSegmentTypeCommon",
+   "Pset_DuctSilencerTypeCommon",
+   "Pset_FlowSegmentDuctSegment",
+   "Pset_FlowSegmentPipeSegment",
+   "Pset_FlowTerminalAirTerminal",
+   "Pset_NS3420",
+   "Pset_PipeFittingTypeCommon",
+   "Pset_PipeSegmentTypeCommon"
+  ],
+  "ifc:props": 2759,
+  "ifc:qsets": 6,
+  "ifc:materials": 7,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 617,
+  "ifc:docs": 0,
+  "ifc:score": 13.31,
+  "ifc:disciplines": [
+   "mep"
+  ],
+  "ifc:element_counts": {
+   "IfcDistributionPort": 3978,
+   "IfcFlowSegment": 2577,
+   "IfcFlowFitting": 1918,
+   "IfcFlowTerminal": 340,
+   "IfcFlowController": 283,
+   "IfcFlowTreatmentDevice": 21,
+   "IfcEnergyConversionDevice": 7
+  },
+  "ifc:project_name": "DDS Project",
+  "ifc:length_unit": "METRE",
+  "ifc:storey_names": [
+   "1.etasje",
+   "2.etasje",
+   "3.etasje",
+   "4.etasje",
+   "hitor005",
+   "5.etasje"
+  ],
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.sgd-hitos-eng-hvac-38ea51.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-hitos-arch-0b5720/duraark.sgd-hitos-arch-0b5720.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-hitos-ifc-83bfb6)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-hitos-eng-ele-b918e6/duraark.sgd-hitos-eng-ele-b918e6.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-hitos-ifc-83bfb6)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_HiTOS_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "SGD_HiTOS_Eng-HVAC.ifc",
+   "file:size": 11451199,
+   "file:checksum": "12209e8215883e7a9c958d97aa306a2404c13fa1a299fa46976abd2d024665daf309",
+   "bim:archive_member": "SGD_HiTOS/SGD_HiTOS_Eng-HVAC.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 18470189,
+   "bim:archive_member_checksum": "1220eb6219af65fe726bfa62240a5b0cbac97d959cdf4f247b79cca1f23084cee344"
+  }
+ },
+ "collection": "duraark"
+}

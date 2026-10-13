@@ -1,0 +1,186 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "format-version--dwg-ac1024-r2010-c2a52f",
+ "title": "format-version: DWG AC1024 R2010",
+ "description": "27 items where format-version = DWG AC1024 R2010. Items are shared with their source collections.",
+ "bim:dimension": "format-version",
+ "bim:value": "DWG AC1024 R2010",
+ "bim:item_count": 27,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-bg-rio-mv-hwa-51ba71/schependomlaan.sonsbeek-bg-rio-mv-hwa-51ba71.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-BG Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-bg-water-gas-cv-f46863/schependomlaan.sonsbeek-bg-water-gas-cv-f46863.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-BG Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-dak-rio-mv-hwa-ca3873/schependomlaan.sonsbeek-dak-rio-mv-hwa-ca3873.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Dak Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-dak-sparingen-4ac796/schependomlaan.sonsbeek-dak-sparingen-4ac796.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Dak Sparingen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-dak-water-gas-cv-c252aa/schependomlaan.sonsbeek-dak-water-gas-cv-c252aa.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Dak Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-fund-rio-mv-hwa-bd7850/schependomlaan.sonsbeek-fund-rio-mv-hwa-bd7850.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Fund. Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-fund-water-gas-cv-c33aaa/schependomlaan.sonsbeek-fund-water-gas-cv-c33aaa.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Fund. Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v1-rio-mv-hwa-8a2c63/schependomlaan.sonsbeek-v1-rio-mv-hwa-8a2c63.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V1 Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v1-sparingen-a29ee9/schependomlaan.sonsbeek-v1-sparingen-a29ee9.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V1 Sparingen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v1-water-gas-cv-7ce3a4/schependomlaan.sonsbeek-v1-water-gas-cv-7ce3a4.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V1 Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v2-rio-mv-hwa-e11ef8/schependomlaan.sonsbeek-v2-rio-mv-hwa-e11ef8.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V2 Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v2-sparingen-4dc371/schependomlaan.sonsbeek-v2-sparingen-4dc371.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V2 Sparingen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v2-water-gas-cv-977c73/schependomlaan.sonsbeek-v2-water-gas-cv-977c73.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V2 Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v3-rio-mv-hwa-497f4d/schependomlaan.sonsbeek-v3-rio-mv-hwa-497f4d.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V3 Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v3-sparingen-a82584/schependomlaan.sonsbeek-v3-sparingen-a82584.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V3 Sparingen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v3-water-gas-cv-82b14c/schependomlaan.sonsbeek-v3-water-gas-cv-82b14c.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V3 Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-2010-bf8647/libredwg-testdata.example-2010-bf8647.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2010 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.architectural-example-imperial-9d270f/autodesk-acad-samples.architectural-example-imperial-9d270f.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – architectural_example-imperial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.civil-example-imperial-6cab3b/autodesk-acad-samples.civil-example-imperial-6cab3b.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – civil_example-imperial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.mechanical-example-imperial-cfc613/autodesk-acad-samples.mechanical-example-imperial-cfc613.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – mechanical_example-imperial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.title-block-ansi-499aee/autodesk-acad-samples.title-block-ansi-499aee.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – title_block-ansi"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.title-block-arch-288c1a/autodesk-acad-samples.title-block-arch-288c1a.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – title_block-arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.title-block-iso-0218ff/autodesk-acad-samples.title-block-iso-0218ff.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – title_block-iso"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.visualization-aerial-ea0eef/autodesk-acad-samples.visualization-aerial-ea0eef.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_aerial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.visualization-condominium-with-skylight-8cea38/autodesk-acad-samples.visualization-condominium-with-skylight-8cea38.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_condominium_with_skylight"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.visualization-conference-room-fe13a3/autodesk-acad-samples.visualization-conference-room-fe13a3.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_conference_room"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.visualization-sun-and-sky-demo-71ad93/autodesk-acad-samples.visualization-sun-and-sky-demo-71ad93.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_sun_and_sky_demo"
+  }
+ ]
+}

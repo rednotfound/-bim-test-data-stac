@@ -1,0 +1,30 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "country--it-542203",
+ "title": "country: IT",
+ "description": "1 items where country = IT. Items are shared with their source collections.",
+ "bim:dimension": "country",
+ "bim:value": "IT",
+ "bim:item_count": 1,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/web-ifc-tests/items/web-ifc-tests.viadotto-acerno-39f500/web-ifc-tests.viadotto-acerno-39f500.json",
+   "type": "application/geo+json",
+   "title": "Viadotto Acerno bridge (IFC4X3_ADD2)"
+  }
+ ]
+}

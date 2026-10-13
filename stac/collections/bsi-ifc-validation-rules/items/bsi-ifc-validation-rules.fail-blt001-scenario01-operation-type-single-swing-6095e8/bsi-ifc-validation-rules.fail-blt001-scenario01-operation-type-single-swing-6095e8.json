@@ -1,0 +1,143 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-ifc-validation-rules.fail-blt001-scenario01-operation-type-single-swing-6095e8",
+ "geometry": null,
+ "properties": {
+  "title": "Validation rule BLT – fail",
+  "description": "IFC-SPF IFC4X3_ADD2 file from 'buildingSMART ifc-gherkin-rules test files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2024-06-14T16:36:44Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "MIT",
+  "keywords": [
+   "gherkin",
+   "invalid",
+   "rules",
+   "validation",
+   "validation-fail"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4X3_ADD2",
+  "bim:source": "bsi-ifc-validation-rules",
+  "bim:building_type": "component",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "validation",
+   "validation-fail"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+  "bim:attribution": "buildingSMART International, ifc-gherkin-rules (MIT)",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/BLT/blt001/fail-blt001-scenario01-operation_type_single_swing_door_type.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "commit": "893f8275049b8960c3ce0c7379b4b57aefeaa8f9",
+   "path": "test/files/BLT/blt001/fail-blt001-scenario01-operation_type_single_swing_door_type.ifc",
+   "browse_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/BLT/blt001/fail-blt001-scenario01-operation_type_single_swing_door_type.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-07-29"
+  },
+  "bim:thumbnail": "not generated: RuntimeError: no geometry",
+  "bim:validation_rule": "BLT",
+  "bim:validation_expected": "fail",
+  "ifc:file_description": [
+   "ViewDefinition [ReferenceView]"
+  ],
+  "ifc:view_definition": "ReferenceView",
+  "ifc:header_timestamp": "2024-06-14T16:36:44",
+  "ifc:schema": "IFC4X3_ADD2",
+  "ifc:products": 1,
+  "ifc:product_types": 1,
+  "ifc:storeys": 0,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:props": 0,
+  "ifc:qsets": 0,
+  "ifc:materials": 0,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 1,
+  "ifc:docs": 0,
+  "ifc:score": 3.4,
+  "ifc:originating_system": "IfcOpenShell contributors - IfcOpenShell - v0.7.0+fa6bbf2d",
+  "ifc:disciplines": [
+   "architecture"
+  ],
+  "ifc:element_counts": {
+   "IfcDoor": 1
+  },
+  "ifc:length_unit": "METRE",
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-ifc-validation-rules.fail-blt001-scenario01-operation-type-single-swing-6095e8.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+   "title": "MIT"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/BLT/blt001/fail-blt001-scenario01-operation_type_single_swing_door_type.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/BLT/blt001/fail-blt001-scenario01-operation_type_single_swing_door_type.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "fail-blt001-scenario01-operation_type_single_swing_door_type.ifc",
+   "file:size": 1416,
+   "file:checksum": "1220db988571efb2fbd0698aaa35b8a199e31097df75cf322b178cfc852999bcd99c"
+  }
+ },
+ "collection": "bsi-ifc-validation-rules"
+}

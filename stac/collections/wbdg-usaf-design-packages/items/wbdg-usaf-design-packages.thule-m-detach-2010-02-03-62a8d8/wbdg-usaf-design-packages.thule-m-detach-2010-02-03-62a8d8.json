@@ -1,0 +1,241 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "wbdg-usaf-design-packages.thule-m-detach-2010-02-03-62a8d8",
+ "geometry": null,
+ "properties": {
+  "title": "USAF Thule Dorm – THULE-M-DETACH-2010-02-03",
+  "description": "RVT Revit 2009 file from 'WBDG US Air Force design packages (AFDP)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-13T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-US-Government-Public-Domain",
+  "keywords": [
+   "Revit",
+   "USAF",
+   "public domain",
+   "real-project",
+   "revit-native",
+   "sheet set"
+  ],
+  "providers": [
+   {
+    "name": "US Air Force Civil Engineer Center (AFCEC)",
+    "url": "https://www.wbdg.org/ffc/af-afcec",
+    "roles": [
+     "producer"
+    ]
+   },
+   {
+    "name": "Whole Building Design Guide (WBDG), NIBS",
+    "url": "https://www.wbdg.org",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "RVT",
+  "bim:format_family": "BIM-native",
+  "bim:format_version": "Revit 2009",
+  "bim:source": "wbdg-usaf-design-packages",
+  "bim:project": "usaf-thule_dorm",
+  "bim:building_type": "dormitory",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "mep"
+  ],
+  "bim:use_cases": [
+   "revit-native",
+   "real-project"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://www.usa.gov/government-copyright",
+  "bim:attribution": "US Air Force Civil Engineer Center, via WBDG (wbdg.org)",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "retrieval date",
+  "bim:provenance": {
+   "upstream_href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/THULE-M-DETACH-2010-02-03.rvt",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "not applicable",
+  "rvt:build": "20080915_2100(x64)",
+  "rvt:revit_version": "2009",
+  "rvt:revit_version_estimated_from_build": true,
+  "rvt:worksharing": "Central"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./wbdg-usaf-design-packages.thule-m-detach-2010-02-03-62a8d8.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.usa.gov/government-copyright",
+   "title": "LicenseRef-US-Government-Public-Domain"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.wbdg.org/ffc/af-afcec/design-packages",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.afcee-dorms-all-version-2-1-0da534/wbdg-usaf-design-packages.afcee-dorms-all-version-2-1-0da534.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.architecturesheets-v1-0-077fef/wbdg-usaf-design-packages.architecturesheets-v1-0-077fef.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.electrical-sheets-v1-0-705039/wbdg-usaf-design-packages.electrical-sheets-v1-0-705039.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.fireprotectionsheets-v1-0-3e6f80/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-3e6f80.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.mechanicalsheets-v1-0-9f003f/wbdg-usaf-design-packages.mechanicalsheets-v1-0-9f003f.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.plumbingsheets-v1-0-f0a0a8/wbdg-usaf-design-packages.plumbingsheets-v1-0-f0a0a8.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.structuralsheets-v1-0-da37d0/wbdg-usaf-design-packages.structuralsheets-v1-0-da37d0.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.thule-a-detached-20100201-d4eed7/wbdg-usaf-design-packages.thule-a-detached-20100201-d4eed7.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.thule-e-detacted-20100205-1589aa/wbdg-usaf-design-packages.thule-e-detacted-20100205-1589aa.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.thule-p-detached-20100203-79010a/wbdg-usaf-design-packages.thule-p-detached-20100203-79010a.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.thule-s-detached-20100201-fdc423/wbdg-usaf-design-packages.thule-s-detached-20100201-fdc423.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.thule-bldg-1-officer-cont-mgr-48-7a9889/wbdg-usaf-design-packages.thule-bldg-1-officer-cont-mgr-48-7a9889.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.thule-bldg-2-cont-trainees-lab-72-9840cb/wbdg-usaf-design-packages.thule-bldg-2-cont-trainees-lab-72-9840cb.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-8a4f97/wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-8a4f97.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.thule-bldg-4-officer-72-549a9a/wbdg-usaf-design-packages.thule-bldg-4-officer-72-549a9a.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.thule-bldg-1-officer-contractor-managers-48-cdd7d0/wbdg-usaf-design-packages.thule-bldg-1-officer-contractor-managers-48-cdd7d0.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.thule-bldg-2-contractor-trainees-laborers-72-c33814/wbdg-usaf-design-packages.thule-bldg-2-contractor-trainees-laborers-72-c33814.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-e634b0/wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-e634b0.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.thule-bldg-4-officer-72-28fe76/wbdg-usaf-design-packages.thule-bldg-4-officer-72-28fe76.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.thule-prototypes-bim-manual-2010-02-17-5226d4/wbdg-usaf-design-packages.thule-prototypes-bim-manual-2010-02-17-5226d4.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.thule-specifications-c54807/wbdg-usaf-design-packages.thule-specifications-c54807.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-thule_dorm)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/THULE-M-DETACH-2010-02-03.rvt",
+   "type": "application/octet-stream",
+   "roles": [
+    "data"
+   ],
+   "title": "THULE-M-DETACH-2010-02-03.rvt",
+   "file:size": 8097792,
+   "file:checksum": "122010e305b69c86e70814736e28acd59864108fe4d9ac295a84dd3ed9d103056996"
+  }
+ },
+ "collection": "wbdg-usaf-design-packages"
+}

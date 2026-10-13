@@ -1,0 +1,31 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "view-has-thumbnail",
+ "title": "By thumbnail availability",
+ "description": "Items grouped by has-thumbnail.",
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "child",
+   "href": "no-fd1286/catalog.json",
+   "title": "no (296)"
+  },
+  {
+   "rel": "child",
+   "href": "yes-fb360f/catalog.json",
+   "title": "yes (266)"
+  }
+ ]
+}

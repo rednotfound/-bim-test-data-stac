@@ -1,0 +1,144 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "use-case--validation-fail-40ed11",
+ "title": "use-case: validation-fail",
+ "description": "20 items where use-case = validation-fail. Items are shared with their source collections.",
+ "bim:dimension": "use-case",
+ "bim:value": "validation-fail",
+ "bim:item_count": 20,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-alb002-scenario01-invalid-decomposition-203807/bsi-ifc-validation-rules.fail-alb002-scenario01-invalid-decomposition-203807.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ALB – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-als004-scenario01-wrong-representationidentif-818c3f/bsi-ifc-validation-rules.fail-als004-scenario01-wrong-representationidentif-818c3f.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ALS – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-bbx001-wrong-identifier-1dfe8f/bsi-ifc-validation-rules.fail-bbx001-wrong-identifier-1dfe8f.json",
+   "type": "application/geo+json",
+   "title": "Validation rule BBX – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-blt001-scenario01-operation-type-single-swing-6095e8/bsi-ifc-validation-rules.fail-blt001-scenario01-operation-type-single-swing-6095e8.json",
+   "type": "application/geo+json",
+   "title": "Validation rule BLT – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-brp001-concave-non-parallel-crossing-faceinne-76adb0/bsi-ifc-validation-rules.fail-brp001-concave-non-parallel-crossing-faceinne-76adb0.json",
+   "type": "application/geo+json",
+   "title": "Validation rule BRP – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-gem001-polygonal-face-oriented-edge-3eb36f/bsi-ifc-validation-rules.fail-gem001-polygonal-face-oriented-edge-3eb36f.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GEM – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-grf001-ifcmapconversion-ifcmapconversion-non-171f55/bsi-ifc-validation-rules.fail-grf001-ifcmapconversion-ifcmapconversion-non-171f55.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GRF – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-grp001-scenario01-cycle-of-length-1-95d2f5/bsi-ifc-validation-rules.fail-grp001-scenario01-cycle-of-length-1-95d2f5.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GRP – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-ifc101-ifc4x3-069c3b/bsi-ifc-validation-rules.fail-ifc101-ifc4x3-069c3b.json",
+   "type": "application/geo+json",
+   "title": "Validation rule IFC – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-lip002-imperial-no-value-fbf860/bsi-ifc-validation-rules.fail-lip002-imperial-no-value-fbf860.json",
+   "type": "application/geo+json",
+   "title": "Validation rule LIP – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-mpd001-scenario01-two-mapped-items-different-a0829e/bsi-ifc-validation-rules.fail-mpd001-scenario01-two-mapped-items-different-a0829e.json",
+   "type": "application/geo+json",
+   "title": "Validation rule MPD – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-ojp001-scenario01-wrong-ifclocalplacement-lin-3597fc/bsi-ifc-validation-rules.fail-ojp001-scenario01-wrong-ifclocalplacement-lin-3597fc.json",
+   "type": "application/geo+json",
+   "title": "Validation rule OJP – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-ojt001-scenario01-userdefined-blank-object-ty-cd926e/bsi-ifc-validation-rules.fail-ojt001-scenario01-userdefined-blank-object-ty-cd926e.json",
+   "type": "application/geo+json",
+   "title": "Validation rule OJT – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-pjs001-scenario01-degree-ifc2x3-6c192d/bsi-ifc-validation-rules.fail-pjs001-scenario01-degree-ifc2x3-6c192d.json",
+   "type": "application/geo+json",
+   "title": "Validation rule PJS – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-pse001-ifc2x3-on-occurence-electric-actuator-70e8c1/bsi-ifc-validation-rules.fail-pse001-ifc2x3-on-occurence-electric-actuator-70e8c1.json",
+   "type": "application/geo+json",
+   "title": "Validation rule PSE – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-qty001-scenario01-invalid-element-quantity-na-54fbf4/bsi-ifc-validation-rules.fail-qty001-scenario01-invalid-element-quantity-na-54fbf4.json",
+   "type": "application/geo+json",
+   "title": "Validation rule QTY – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-sps001-scenario01-2-sites-0-buildings-variant-939295/bsi-ifc-validation-rules.fail-sps001-scenario01-2-sites-0-buildings-variant-939295.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SPS – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-swe001-ifcarbitraryclosedprofiledef-concave-n-0e33b8/bsi-ifc-validation-rules.fail-swe001-ifcarbitraryclosedprofiledef-concave-n-0e33b8.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SWE – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-sys001-scenario01-sourceandsink-sink-bca668/bsi-ifc-validation-rules.fail-sys001-scenario01-sourceandsink-sink-bca668.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SYS – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-tas001-polygonalfaceset-concave-non-parallel-44586e/bsi-ifc-validation-rules.fail-tas001-polygonalfaceset-concave-non-parallel-44586e.json",
+   "type": "application/geo+json",
+   "title": "Validation rule TAS – fail"
+  }
+ ]
+}

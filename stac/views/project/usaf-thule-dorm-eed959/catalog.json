@@ -1,0 +1,156 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--usaf-thule-dorm-eed959",
+ "title": "project: usaf-thule_dorm",
+ "description": "22 items where project = usaf-thule_dorm. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "usaf-thule_dorm",
+ "bim:item_count": 22,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afcee-dorms-all-version-2-1-0da534/wbdg-usaf-design-packages.afcee-dorms-all-version-2-1-0da534.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – AFCEE-DORMS-ALL-VERSION 2.1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.architecturesheets-v1-0-077fef/wbdg-usaf-design-packages.architecturesheets-v1-0-077fef.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – ArchitectureSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.electrical-sheets-v1-0-705039/wbdg-usaf-design-packages.electrical-sheets-v1-0-705039.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Electrical Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-3e6f80/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-3e6f80.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – FireProtectionSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.mechanicalsheets-v1-0-9f003f/wbdg-usaf-design-packages.mechanicalsheets-v1-0-9f003f.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – MechanicalSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.plumbingsheets-v1-0-f0a0a8/wbdg-usaf-design-packages.plumbingsheets-v1-0-f0a0a8.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – PlumbingSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.structuralsheets-v1-0-da37d0/wbdg-usaf-design-packages.structuralsheets-v1-0-da37d0.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – StructuralSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-a-detached-20100201-d4eed7/wbdg-usaf-design-packages.thule-a-detached-20100201-d4eed7.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-A-DETACHED 20100201"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-e-detacted-20100205-1589aa/wbdg-usaf-design-packages.thule-e-detacted-20100205-1589aa.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-E-DETACTED-20100205"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-m-detach-2010-02-03-62a8d8/wbdg-usaf-design-packages.thule-m-detach-2010-02-03-62a8d8.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-M-DETACH-2010-02-03"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-p-detached-20100203-79010a/wbdg-usaf-design-packages.thule-p-detached-20100203-79010a.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-P-DETACHED-20100203"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-s-detached-20100201-fdc423/wbdg-usaf-design-packages.thule-s-detached-20100201-fdc423.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-S-DETACHED-20100201"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-1-officer-cont-mgr-48-7a9889/wbdg-usaf-design-packages.thule-bldg-1-officer-cont-mgr-48-7a9889.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule Bldg 1-Officer & Cont Mgr 48"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-2-cont-trainees-lab-72-9840cb/wbdg-usaf-design-packages.thule-bldg-2-cont-trainees-lab-72-9840cb.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule Bldg 2-Cont Trainees & Lab 72"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-8a4f97/wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-8a4f97.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule Bldg 3-Enlisted 48"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-4-officer-72-549a9a/wbdg-usaf-design-packages.thule-bldg-4-officer-72-549a9a.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule Bldg 4 - Officer 72"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-1-officer-contractor-managers-48-cdd7d0/wbdg-usaf-design-packages.thule-bldg-1-officer-contractor-managers-48-cdd7d0.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Bldg_1_-_Officer_&_Contractor_Managers_48"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-2-contractor-trainees-laborers-72-c33814/wbdg-usaf-design-packages.thule-bldg-2-contractor-trainees-laborers-72-c33814.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Bldg_2_-_Contractor_Trainees_&_Laborers_72"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-e634b0/wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-e634b0.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Bldg_3_-_Enlisted_48"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-4-officer-72-28fe76/wbdg-usaf-design-packages.thule-bldg-4-officer-72-28fe76.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Bldg_4_-_Officer_72"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-prototypes-bim-manual-2010-02-17-5226d4/wbdg-usaf-design-packages.thule-prototypes-bim-manual-2010-02-17-5226d4.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Prototypes_BIM_Manual_2010-02-17"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-specifications-c54807/wbdg-usaf-design-packages.thule-specifications-c54807.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Specifications"
+  }
+ ]
+}

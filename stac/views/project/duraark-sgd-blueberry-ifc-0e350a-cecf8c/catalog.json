@@ -1,0 +1,84 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--duraark-sgd-blueberry-ifc-0e350a-cecf8c",
+ "title": "project: duraark-sgd-blueberry-ifc-0e350a",
+ "description": "10 items where project = duraark-sgd-blueberry-ifc-0e350a. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "duraark-sgd-blueberry-ifc-0e350a",
+ "bim:item_count": 10,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-arch-1-c3dc41/duraark.sgd-blueberry-arch-1-c3dc41.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-arch-2-e21292/duraark.sgd-blueberry-arch-2-e21292.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-arch-3-4a2704/duraark.sgd-blueberry-arch-3-4a2704.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-plumbing-1-d25031/duraark.sgd-blueberry-eng-hvac-plumbing-1-d25031.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Plumbing-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-plumbing-2-40a8fe/duraark.sgd-blueberry-eng-hvac-plumbing-2-40a8fe.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Plumbing-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-ventilation-e91fcc/duraark.sgd-blueberry-eng-hvac-ventilation-e91fcc.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-c59679/duraark.sgd-blueberry-eng-hvac-c59679.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-merged-plumbing-1-fd02c1/duraark.sgd-blueberry-merged-plumbing-1-fd02c1.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Plumbing-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-merged-plumbing-2-851723/duraark.sgd-blueberry-merged-plumbing-2-851723.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Plumbing-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-merged-ventilation-bb05a3/duraark.sgd-blueberry-merged-ventilation-bb05a3.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Ventilation_"
+  }
+ ]
+}

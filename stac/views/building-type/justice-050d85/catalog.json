@@ -1,0 +1,36 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--justice-050d85",
+ "title": "building-type: justice",
+ "description": "2 items where building-type = justice. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "justice",
+ "bim:item_count": 2,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.confinementfacility01apr15-063779/wbdg-usaf-design-packages.confinementfacility01apr15-063779.json",
+   "type": "application/geo+json",
+   "title": "USAF Confinement – ConfinementFacility01APR15"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fdwd5022-dpconfinement-revit2013-arch-central-d7da7c/wbdg-usaf-design-packages.fdwd5022-dpconfinement-revit2013-arch-central-d7da7c.json",
+   "type": "application/geo+json",
+   "title": "USAF Confinement – FDWD5022_DPConfinement_Revit2013_Arch_Central"
+  }
+ ]
+}

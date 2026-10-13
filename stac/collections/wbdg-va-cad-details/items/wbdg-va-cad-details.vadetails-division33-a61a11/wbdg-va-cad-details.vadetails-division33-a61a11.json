@@ -1,0 +1,241 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "wbdg-va-cad-details.vadetails-division33-a61a11",
+ "geometry": null,
+ "properties": {
+  "title": "VA standard details – CSI division 33 (DWG set)",
+  "description": "ZIP file from 'WBDG VA standard CAD details'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-13T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-US-Government-Public-Domain",
+  "keywords": [
+   "DWG",
+   "VA",
+   "cad-render",
+   "detail-drawings",
+   "details",
+   "public domain"
+  ],
+  "providers": [
+   {
+    "name": "US Department of Veterans Affairs (VA)",
+    "url": "https://www.cfm.va.gov",
+    "roles": [
+     "producer"
+    ]
+   },
+   {
+    "name": "Whole Building Design Guide (WBDG), NIBS",
+    "url": "https://www.wbdg.org",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "ZIP",
+  "bim:format_family": "CAD-2D",
+  "bim:source": "wbdg-va-cad-details",
+  "bim:project": "va-cad-details",
+  "bim:building_type": "healthcare",
+  "bim:country": "US",
+  "bim:use_cases": [
+   "cad-render",
+   "detail-drawings"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://www.usa.gov/government-copyright",
+  "bim:attribution": "US Department of Veterans Affairs, via WBDG (wbdg.org)",
+  "bim:size_class": "s(<1MB)",
+  "bim:datetime_source": "retrieval date",
+  "bim:provenance": {
+   "upstream_href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division33.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "generated from asset 'pdf'",
+  "bim:csi_division": "33",
+  "archive:files": 1,
+  "archive:extensions": {
+   ".dwg": 1
+  },
+  "archive:uncompressed_size": 219968,
+  "cad:dwg_versions": {
+   "AC1021 R2007": 1
+  }
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./wbdg-va-cad-details.vadetails-division33-a61a11.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.usa.gov/government-copyright",
+   "title": "LicenseRef-US-Government-Public-Domain"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.wbdg.org/ffc/va/cad-standards",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division00-f06f62/wbdg-va-cad-details.vadetails-division00-f06f62.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division01-adf368/wbdg-va-cad-details.vadetails-division01-adf368.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division05-bbeaed/wbdg-va-cad-details.vadetails-division05-bbeaed.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division06-ae4c89/wbdg-va-cad-details.vadetails-division06-ae4c89.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division07-e1a2ec/wbdg-va-cad-details.vadetails-division07-e1a2ec.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division08-67eb64/wbdg-va-cad-details.vadetails-division08-67eb64.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division10-eea72f/wbdg-va-cad-details.vadetails-division10-eea72f.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division11-f01ace/wbdg-va-cad-details.vadetails-division11-f01ace.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division12-de2b99/wbdg-va-cad-details.vadetails-division12-de2b99.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division13-92ebc2/wbdg-va-cad-details.vadetails-division13-92ebc2.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division14-8e8413/wbdg-va-cad-details.vadetails-division14-8e8413.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division22-0bf25e/wbdg-va-cad-details.vadetails-division22-0bf25e.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division23-c6304a/wbdg-va-cad-details.vadetails-division23-c6304a.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division26-f31473/wbdg-va-cad-details.vadetails-division26-f31473.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division27-655337/wbdg-va-cad-details.vadetails-division27-655337.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division28-a0acff/wbdg-va-cad-details.vadetails-division28-a0acff.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-va-cad-details.vadetails-division32-aadfd6/wbdg-va-cad-details.vadetails-division32-aadfd6.json",
+   "type": "application/geo+json",
+   "title": "Same project (va-cad-details)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division33.zip",
+   "type": "application/zip",
+   "roles": [
+    "data"
+   ],
+   "title": "vadetails_division33.zip",
+   "file:size": 167725,
+   "file:checksum": "12201e3bbe4e8e1603132ea7c26c6c8716d2e77dd99d4c0049c44103aa7d02afd6bb"
+  },
+  "pdf": {
+   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division33.pdf",
+   "type": "application/pdf",
+   "roles": [
+    "data",
+    "overview"
+   ],
+   "title": "Division 33 details (PDF)",
+   "file:size": 82332,
+   "file:checksum": "1220295c0cf5b3db759386f520d9a1e0feacb459e951c0ad8f73e993830aa1f97cd2",
+   "pdf:pages": 1,
+   "pdf:page_sizes": {
+    "ANSI B landscape": 1
+   }
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "wbdg-va-cad-details"
+}

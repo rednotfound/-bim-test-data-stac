@@ -1,0 +1,246 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "view-format-version",
+ "title": "By format version (IFC schema, DWG release, Revit version, ...)",
+ "description": "Items grouped by format-version.",
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "child",
+   "href": "bcf-bcf-2-0-d82fc9/catalog.json",
+   "title": "BCF BCF 2.0 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "bcf-bcf-3-0-b975c8/catalog.json",
+   "title": "BCF BCF 3.0 (19)"
+  },
+  {
+   "rel": "child",
+   "href": "dwg-ac1004-r9-e323c6/catalog.json",
+   "title": "DWG AC1004 R9 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dwg-ac1006-r10-84d8d1/catalog.json",
+   "title": "DWG AC1006 R10 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dwg-ac1009-r11-r12-9aef16/catalog.json",
+   "title": "DWG AC1009 R11/R12 (2)"
+  },
+  {
+   "rel": "child",
+   "href": "dwg-ac1012-r13-1e0dc5/catalog.json",
+   "title": "DWG AC1012 R13 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dwg-ac1014-r14-09304a/catalog.json",
+   "title": "DWG AC1014 R14 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dwg-ac1015-r2000-16c68b/catalog.json",
+   "title": "DWG AC1015 R2000 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dwg-ac1018-r2004-f69795/catalog.json",
+   "title": "DWG AC1018 R2004 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dwg-ac1021-r2007-5b1936/catalog.json",
+   "title": "DWG AC1021 R2007 (13)"
+  },
+  {
+   "rel": "child",
+   "href": "dwg-ac1024-r2010-c2a52f/catalog.json",
+   "title": "DWG AC1024 R2010 (27)"
+  },
+  {
+   "rel": "child",
+   "href": "dwg-ac1027-r2013-528fa9/catalog.json",
+   "title": "DWG AC1027 R2013 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dwg-ac1032-r2018-3ab3c2/catalog.json",
+   "title": "DWG AC1032 R2018 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dxf-ac1009-r11-r12-ef0a83/catalog.json",
+   "title": "DXF AC1009 R11/R12 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dxf-ac1012-r13-29a995/catalog.json",
+   "title": "DXF AC1012 R13 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dxf-ac1014-r14-9664d0/catalog.json",
+   "title": "DXF AC1014 R14 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dxf-ac1015-r2000-9226a1/catalog.json",
+   "title": "DXF AC1015 R2000 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dxf-ac1018-r2004-ebcd4e/catalog.json",
+   "title": "DXF AC1018 R2004 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dxf-ac1021-r2007-35dbb4/catalog.json",
+   "title": "DXF AC1021 R2007 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dxf-ac1024-r2010-e8699c/catalog.json",
+   "title": "DXF AC1024 R2010 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dxf-ac1027-r2013-bcd2d4/catalog.json",
+   "title": "DXF AC1027 R2013 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "dxf-ac1032-r2018-63c5f3/catalog.json",
+   "title": "DXF AC1032 R2018 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "ids-ids-1-0-858f6c/catalog.json",
+   "title": "IDS IDS 1.0 (12)"
+  },
+  {
+   "rel": "child",
+   "href": "ifc-spf-ifc2x2-final-99d331/catalog.json",
+   "title": "IFC-SPF IFC2X2_FINAL (13)"
+  },
+  {
+   "rel": "child",
+   "href": "ifc-spf-ifc2x3-84c7be/catalog.json",
+   "title": "IFC-SPF IFC2X3 (141)"
+  },
+  {
+   "rel": "child",
+   "href": "ifc-spf-ifc2x-final-e6b455/catalog.json",
+   "title": "IFC-SPF IFC2X_FINAL (1)"
+  },
+  {
+   "rel": "child",
+   "href": "ifc-spf-ifc4-bff312/catalog.json",
+   "title": "IFC-SPF IFC4 (39)"
+  },
+  {
+   "rel": "child",
+   "href": "ifc-spf-ifc4x3-9f7115/catalog.json",
+   "title": "IFC-SPF IFC4X3 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "ifc-spf-ifc4x3-add2-c10557/catalog.json",
+   "title": "IFC-SPF IFC4X3_ADD2 (91)"
+  },
+  {
+   "rel": "child",
+   "href": "ifc-spf-ifc4x3-rc2-e829f5/catalog.json",
+   "title": "IFC-SPF IFC4X3_RC2 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "ifc-xml-ifc4-a7b9ac/catalog.json",
+   "title": "IFC-XML IFC4 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "ifc-zip-ifc2x3-b459d0/catalog.json",
+   "title": "IFC-ZIP IFC2X3 (14)"
+  },
+  {
+   "rel": "child",
+   "href": "ifc-zip-ifc4-45e068/catalog.json",
+   "title": "IFC-ZIP IFC4 (2)"
+  },
+  {
+   "rel": "child",
+   "href": "ifcx-ifc5-alpha-956901/catalog.json",
+   "title": "IFCX IFC5-alpha (11)"
+  },
+  {
+   "rel": "child",
+   "href": "jww-jww-v600-f8344e/catalog.json",
+   "title": "JWW JWW v600 (8)"
+  },
+  {
+   "rel": "child",
+   "href": "pdf-pdf-1-4-73ac56/catalog.json",
+   "title": "PDF PDF 1.4 (4)"
+  },
+  {
+   "rel": "child",
+   "href": "pdf-pdf-1-5-58145b/catalog.json",
+   "title": "PDF PDF 1.5 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "pdf-pdf-1-6-2fa9f0/catalog.json",
+   "title": "PDF PDF 1.6 (84)"
+  },
+  {
+   "rel": "child",
+   "href": "pdf-pdf-1-7-464bea/catalog.json",
+   "title": "PDF PDF 1.7 (4)"
+  },
+  {
+   "rel": "child",
+   "href": "rvt-revit-2009-66626c/catalog.json",
+   "title": "RVT Revit 2009 (10)"
+  },
+  {
+   "rel": "child",
+   "href": "rvt-revit-2011-a67385/catalog.json",
+   "title": "RVT Revit 2011 (10)"
+  },
+  {
+   "rel": "child",
+   "href": "rvt-revit-2013-fa241b/catalog.json",
+   "title": "RVT Revit 2013 (6)"
+  },
+  {
+   "rel": "child",
+   "href": "rvt-revit-2014-551ac7/catalog.json",
+   "title": "RVT Revit 2014 (2)"
+  },
+  {
+   "rel": "child",
+   "href": "sxf-sxf-sfc-e95185/catalog.json",
+   "title": "SXF SXF SFC (2)"
+  },
+  {
+   "rel": "child",
+   "href": "xlsx-cobie-2-4-9472c7/catalog.json",
+   "title": "XLSX COBie 2.4 (4)"
+  }
+ ]
+}

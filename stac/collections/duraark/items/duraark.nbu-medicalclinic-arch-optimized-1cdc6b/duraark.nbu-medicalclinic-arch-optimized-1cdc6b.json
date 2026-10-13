@@ -1,0 +1,246 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.nbu-medicalclinic-arch-optimized-1cdc6b",
+ "geometry": null,
+ "properties": {
+  "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Arch-Optimized",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2011-09-06T11:22:43Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-nbu-medicalclinic-ifc-8b1454",
+  "bim:building_type": "healthcare",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBU_MedicalClinic_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "NBU_MedicalClinic/NBU_MedicalClinic_Arch-Optimized.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView]"
+  ],
+  "ifc:view_definition": "CoordinationView",
+  "ifc:header_timestamp": "2011-09-06T11:22:43",
+  "ifc:preprocessor_version": "Autodesk Revit Architecture 2011 - 1.0",
+  "ifc:originating_system": "20100326_1700 (Solibri IFC Optimizer)",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 2620,
+  "ifc:product_types": 14,
+  "ifc:storeys": 4,
+  "ifc:spaces": 269,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "PSet_Revit_Constraints",
+   "PSet_Revit_Construction",
+   "PSet_Revit_Dimensions",
+   "PSet_Revit_Electrical - Loads",
+   "PSet_Revit_Graphics",
+   "PSet_Revit_Horizontal Grid Pattern",
+   "PSet_Revit_Identity Data",
+   "PSet_Revit_Other",
+   "PSet_Revit_Phasing",
+   "PSet_Revit_Structural",
+   "PSet_Revit_Type_Constraints",
+   "PSet_Revit_Type_Construction",
+   "PSet_Revit_Type_Dimensions",
+   "PSet_Revit_Type_Fire Protection",
+   "PSet_Revit_Type_Graphics",
+   "PSet_Revit_Type_Green Building Properties",
+   "PSet_Revit_Type_Horizontal Grid Pattern",
+   "PSet_Revit_Type_Horizontal Mullions",
+   "PSet_Revit_Type_Identity Data",
+   "PSet_Revit_Type_Materials and Finishes",
+   "PSet_Revit_Type_Other",
+   "PSet_Revit_Type_Risers",
+   "PSet_Revit_Type_Stringers",
+   "PSet_Revit_Type_Treads",
+   "PSet_Revit_Type_Vertical Grid Pattern",
+   "PSet_Revit_Type_Vertical Mullions",
+   "PSet_Revit_Vertical Grid Pattern",
+   "Pset_BuildingCommon",
+   "Pset_CoveringCommon",
+   "Pset_CurtainWallCommon",
+   "Pset_DoorCommon",
+   "Pset_RailingCommon",
+   "Pset_SpaceCommon",
+   "Pset_StairCommon",
+   "Pset_StairFlightCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon"
+  ],
+  "ifc:props": 55155,
+  "ifc:qsets": 269,
+  "ifc:materials": 12,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 481,
+  "ifc:docs": 0,
+  "ifc:score": 22.63,
+  "ifc:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcWallStandardCase": 1065,
+   "IfcMember": 534,
+   "IfcDoor": 254,
+   "IfcCovering": 250,
+   "IfcPlate": 172,
+   "IfcFurnishingElement": 118,
+   "IfcFlowTerminal": 102,
+   "IfcWindow": 58,
+   "IfcCurtainWall": 31,
+   "IfcWall": 15,
+   "IfcRailing": 9,
+   "IfcStairFlight": 6,
+   "IfcSlab": 3,
+   "IfcStair": 3
+  },
+  "ifc:project_name": "Project Number",
+  "ifc:length_unit": "METRE",
+  "ifc:storey_names": [
+   "First Floor",
+   "Second Floor",
+   "Roof - Main",
+   "TOF Footing"
+  ],
+  "ifc:map_conversion": false,
+  "bim:site_location_raw": [
+   -71.059776,
+   42.358429
+  ],
+  "bim:location_source": "IfcSite location is a software/test default (Autodesk Revit default site: Boston, MA); geometry left null"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.nbu-medicalclinic-arch-optimized-1cdc6b.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-medicalclinic-arch-533287/duraark.nbu-medicalclinic-arch-533287.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-medicalclinic-ifc-8b1454)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-medicalclinic-eng-con-optimized-6e159f/duraark.nbu-medicalclinic-eng-con-optimized-6e159f.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-medicalclinic-ifc-8b1454)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-medicalclinic-eng-con-34598f/duraark.nbu-medicalclinic-eng-con-34598f.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-medicalclinic-ifc-8b1454)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-medicalclinic-eng-ele-844e46/duraark.nbu-medicalclinic-eng-ele-844e46.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-medicalclinic-ifc-8b1454)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-medicalclinic-eng-hvac-1a8cd0/duraark.nbu-medicalclinic-eng-hvac-1a8cd0.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-medicalclinic-ifc-8b1454)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-medicalclinic-eng-mep-optimized-a77f60/duraark.nbu-medicalclinic-eng-mep-optimized-a77f60.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-medicalclinic-ifc-8b1454)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-medicalclinic-eng-mep-9b2176/duraark.nbu-medicalclinic-eng-mep-9b2176.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-medicalclinic-ifc-8b1454)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBU_MedicalClinic_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "NBU_MedicalClinic_Arch-Optimized.ifc",
+   "file:size": 82736494,
+   "file:checksum": "122032b5f8008a39bd7510adc8cae35179ad40a48d13a339e6aa0208ef43d6220a5c",
+   "bim:archive_member": "NBU_MedicalClinic/NBU_MedicalClinic_Arch-Optimized.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 13208096,
+   "bim:archive_member_checksum": "1220b90fe57b8aa9329d762a564770e697d4f7357677484e3a78ede4ab6d2163c0c0"
+  }
+ },
+ "collection": "duraark"
+}

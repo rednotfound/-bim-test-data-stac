@@ -1,0 +1,222 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--healthcare-1e8f51",
+ "title": "building-type: healthcare",
+ "description": "33 items where building-type = healthcare. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "healthcare",
+ "bim:item_count": 33,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.clinic-architectural-010c75/bsi-community-sample-files.clinic-architectural-010c75.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical-Dental Clinic – Architectural"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.clinic-structural-a9498a/bsi-community-sample-files.clinic-structural-a9498a.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical-Dental Clinic – Structural"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.clinic-hvac-7792db/bsi-community-sample-files.clinic-hvac-7792db.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical-Dental Clinic – HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.clinic-plumbing-0f1dbf/bsi-community-sample-files.clinic-plumbing-0f1dbf.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical-Dental Clinic – Plumbing"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.clinic-electrical-911268/bsi-community-sample-files.clinic-electrical-911268.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical-Dental Clinic – Electrical"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.2013-10-09-clinic-design-v14-working-01-544ea1/bsi-community-sample-files.2013-10-09-clinic-design-v14-working-01-544ea1.json",
+   "type": "application/geo+json",
+   "title": "NIBS Clinic COBie – Design-v14-WORKING-01"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.2013-10-09-clinic-handover-v14-4855bd/bsi-community-sample-files.2013-10-09-clinic-handover-v14-4855bd.json",
+   "type": "application/geo+json",
+   "title": "NIBS Clinic COBie – Handover-v14"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-arch-optimized-1cdc6b/duraark.nbu-medicalclinic-arch-optimized-1cdc6b.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Arch-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-arch-533287/duraark.nbu-medicalclinic-arch-533287.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-con-optimized-6e159f/duraark.nbu-medicalclinic-eng-con-optimized-6e159f.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-CON-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-con-34598f/duraark.nbu-medicalclinic-eng-con-34598f.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-CON"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-ele-844e46/duraark.nbu-medicalclinic-eng-ele-844e46.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-ELE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-hvac-1a8cd0/duraark.nbu-medicalclinic-eng-hvac-1a8cd0.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-mep-optimized-a77f60/duraark.nbu-medicalclinic-eng-mep-optimized-a77f60.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-MEP-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-mep-9b2176/duraark.nbu-medicalclinic-eng-mep-9b2176.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-MEP"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division00-f06f62/wbdg-va-cad-details.vadetails-division00-f06f62.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 00 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division01-adf368/wbdg-va-cad-details.vadetails-division01-adf368.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 01 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division05-bbeaed/wbdg-va-cad-details.vadetails-division05-bbeaed.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 05 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division06-ae4c89/wbdg-va-cad-details.vadetails-division06-ae4c89.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 06 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division07-e1a2ec/wbdg-va-cad-details.vadetails-division07-e1a2ec.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 07 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division08-67eb64/wbdg-va-cad-details.vadetails-division08-67eb64.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 08 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division10-eea72f/wbdg-va-cad-details.vadetails-division10-eea72f.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 10 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division11-f01ace/wbdg-va-cad-details.vadetails-division11-f01ace.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 11 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division12-de2b99/wbdg-va-cad-details.vadetails-division12-de2b99.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 12 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division13-92ebc2/wbdg-va-cad-details.vadetails-division13-92ebc2.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 13 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division14-8e8413/wbdg-va-cad-details.vadetails-division14-8e8413.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 14 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division22-0bf25e/wbdg-va-cad-details.vadetails-division22-0bf25e.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 22 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division23-c6304a/wbdg-va-cad-details.vadetails-division23-c6304a.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 23 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division26-f31473/wbdg-va-cad-details.vadetails-division26-f31473.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 26 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division27-655337/wbdg-va-cad-details.vadetails-division27-655337.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 27 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division28-a0acff/wbdg-va-cad-details.vadetails-division28-a0acff.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 28 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division32-aadfd6/wbdg-va-cad-details.vadetails-division32-aadfd6.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 32 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division33-a61a11/wbdg-va-cad-details.vadetails-division33-a61a11.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 33 (DWG set)"
+  }
+ ]
+}

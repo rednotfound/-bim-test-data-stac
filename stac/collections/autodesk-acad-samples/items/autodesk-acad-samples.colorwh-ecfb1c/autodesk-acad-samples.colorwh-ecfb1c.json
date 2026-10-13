@@ -1,0 +1,129 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "autodesk-acad-samples.colorwh-ecfb1c",
+ "geometry": null,
+ "properties": {
+  "title": "AutoCAD sample – colorwh",
+  "description": "DWG AC1021 R2007 file from 'Autodesk AutoCAD sample files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-13T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-Autodesk-sample",
+  "keywords": [
+   "AutoCAD",
+   "DWG",
+   "cad-render",
+   "real-drawing"
+  ],
+  "providers": [
+   {
+    "name": "Autodesk, Inc.",
+    "url": "https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/6XGQklp3ZcBFqljLPjrnQ9.html",
+    "roles": [
+     "producer",
+     "host",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "DWG",
+  "bim:format_family": "CAD-2D",
+  "bim:format_version": "AC1021 R2007",
+  "bim:source": "autodesk-acad-samples",
+  "bim:building_type": "generic-building",
+  "bim:country": "US",
+  "bim:use_cases": [
+   "cad-render",
+   "real-drawing"
+  ],
+  "bim:license_tier": "restricted",
+  "bim:license_url": "https://www.autodesk.com/company/legal-notices-trademarks/terms-of-use",
+  "bim:attribution": "Autodesk, Inc., AutoCAD sample files",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "retrieval date",
+  "bim:provenance": {
+   "upstream_href": "https://download.autodesk.com/us/samplefiles/acad/colorwh.dwg",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "cad:version_code": "AC1021",
+  "cad:release": "R2007",
+  "cad:layers": 6,
+  "cad:blocks": 0,
+  "cad:layouts": 2,
+  "cad:modelspace_entities": 36367,
+  "cad:entity_counts": {
+   "SOLID": 36095,
+   "LINE": 266,
+   "LWPOLYLINE": 6
+  },
+  "cad:units": "inch",
+  "cad:text_styles": 2,
+  "cad:extents": [
+   -266.197,
+   -170.0,
+   784.361,
+   213.146
+  ],
+  "cad:layer_names": [
+   "0",
+   "Lines",
+   "Shades",
+   "Text",
+   "Viewports",
+   "Defpoints"
+  ],
+  "cad:audit_errors": 0,
+  "cad:read_via": "LibreDWG 0.14 dwg2dxf"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./autodesk-acad-samples.colorwh-ecfb1c.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.autodesk.com/company/legal-notices-trademarks/terms-of-use",
+   "title": "LicenseRef-Autodesk-sample"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/6XGQklp3ZcBFqljLPjrnQ9.html",
+   "title": "Upstream dataset page"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://download.autodesk.com/us/samplefiles/acad/colorwh.dwg",
+   "type": "image/vnd.dwg",
+   "roles": [
+    "data"
+   ],
+   "title": "colorwh.dwg",
+   "file:size": 1786976,
+   "file:checksum": "12207c70a76ce00647770b5026727fd0156a94a11d456db47db97d0bdf5a81acc344"
+  }
+ },
+ "collection": "autodesk-acad-samples"
+}

@@ -1,0 +1,1086 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "size-class--m-20mb-5235b0",
+ "title": "size-class: m(<20MB)",
+ "description": "177 items where size-class = m(<20MB). Items are shared with their source collections.",
+ "bim:dimension": "size-class",
+ "bim:value": "m(<20MB)",
+ "bim:item_count": 177,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-landscaping-eafdd5/bsi-certification-datasets.infra-landscaping-eafdd5.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Landscaping (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-landscaping-66ff70/bsi-certification-datasets.building-landscaping-66ff70.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Landscaping (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-bridge-6dec50/bsi-certification-datasets.infra-bridge-6dec50.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Bridge (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-landscaping-7597e3/bsi-certification-datasets.infra-landscaping-7597e3.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Landscaping (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-landscaping-55e371/bsi-certification-datasets.building-landscaping-55e371.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Landscaping (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-bridge-567b12/bsi-certification-datasets.infra-bridge-567b12.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Bridge (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-landscaping-1c9afd/bsi-certification-datasets.infra-landscaping-1c9afd.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Landscaping (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.ifc-hero-model-2b48de/bsi-ifc5-development.ifc-hero-model-2b48de.json",
+   "type": "application/geo+json",
+   "title": "IFC Hero Model (IFC4 twin)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.ifc-hero-model-77b929/bsi-ifc5-development.ifc-hero-model-77b929.json",
+   "type": "application/geo+json",
+   "title": "IFC Hero Model (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/kit-ifc-examples/items/kit-ifc-examples.ac20-fzk-haus-10b1a2/kit-ifc-examples.ac20-fzk-haus-10b1a2.json",
+   "type": "application/geo+json",
+   "title": "KIT FZK-Haus (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/kit-ifc-examples/items/kit-ifc-examples.ac20-institute-var-2-a17161/kit-ifc-examples.ac20-institute-var-2-a17161.json",
+   "type": "application/geo+json",
+   "title": "KIT Institute Var-2 office (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/opensourcebim-testfiles/items/opensourcebim-testfiles.allplan-smiley-west-9d5f65/opensourcebim-testfiles.allplan-smiley-west-9d5f65.json",
+   "type": "application/geo+json",
+   "title": "KIT Smiley West (IFC2X_FINAL, Allplan)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.duplex-a-20110907-a5c127/bsi-community-sample-files.duplex-a-20110907-a5c127.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex Apartment – A_20110907"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.duplex-m-20111024-rooms-and-spaces-611d98/bsi-community-sample-files.duplex-m-20111024-rooms-and-spaces-611d98.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex Apartment – M_20111024_ROOMS_AND_SPACES"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.duplex-mep-20110907-63fc38/bsi-community-sample-files.duplex-mep-20110907-63fc38.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex Apartment – MEP_20110907"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.duplex-electrical-20121207-8f04b5/bsi-community-sample-files.duplex-electrical-20121207-8f04b5.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex Apartment – Electrical_20121207"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.clinic-architectural-010c75/bsi-community-sample-files.clinic-architectural-010c75.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical-Dental Clinic – Architectural"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.clinic-structural-a9498a/bsi-community-sample-files.clinic-structural-a9498a.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical-Dental Clinic – Structural"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.clinic-electrical-911268/bsi-community-sample-files.clinic-electrical-911268.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical-Dental Clinic – Electrical"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.2013-10-09-clinic-design-v14-working-01-544ea1/bsi-community-sample-files.2013-10-09-clinic-design-v14-working-01-544ea1.json",
+   "type": "application/geo+json",
+   "title": "NIBS Clinic COBie – Design-v14-WORKING-01"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.2013-10-09-clinic-handover-v14-4855bd/bsi-community-sample-files.2013-10-09-clinic-handover-v14-4855bd.json",
+   "type": "application/geo+json",
+   "title": "NIBS Clinic COBie – Handover-v14"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.week-26-26-june-ifc-schependomlaan-incl-planningsd-e16b0e/schependomlaan.week-26-26-june-ifc-schependomlaan-incl-planningsd-e16b0e.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 26 26 june IF"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.week-27-3-july-ifc-schependomlaan-incl-planningsda-d6990f/schependomlaan.week-27-3-july-ifc-schependomlaan-incl-planningsda-d6990f.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 27 3 july IFC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.balkonhekken-23-9-2015-fb2376/schependomlaan.balkonhekken-23-9-2015-fb2376.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – BALKONHEKKEN 23-9-2015"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.bernts-staalconstructie-76e96d/schependomlaan.bernts-staalconstructie-76e96d.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – BERNTS-Staalconstructie"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.fek-balkonhekken-en-borstweringsleuningen-86d56b/schependomlaan.fek-balkonhekken-en-borstweringsleuningen-86d56b.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – FEK - Balkonhekken en borstweringsleuningen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.fek-franse-balkonhekken-en-doorvalbeveiliging-20e166/schependomlaan.fek-franse-balkonhekken-en-doorvalbeveiliging-20e166.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – FEK - Franse balkonhekken en doorvalbeveiliging"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.fek-traphekken-537441/schependomlaan.fek-traphekken-537441.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – FEK - Traphekken"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.jordahl-gevelderagers-2cd7c2/schependomlaan.jordahl-gevelderagers-2cd7c2.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – JORDAHL-Gevelderagers"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-compleet-f0161c/schependomlaan.root-compleet-f0161c.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-Compleet"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-houten-kozijnen-3ab8e2/schependomlaan.root-houten-kozijnen-3ab8e2.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-houten kozijnen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.waardo-kanaalplaatvloer-28fc77/schependomlaan.waardo-kanaalplaatvloer-28fc77.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WAARDO-Kanaalplaatvloer"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.willemsen-hoogbouw-dakpannen-707aa6/schependomlaan.willemsen-hoogbouw-dakpannen-707aa6.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WILLEMSEN-Hoogbouw dakpannen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.willemsen-hoogbouw-eab4cf/schependomlaan.willemsen-hoogbouw-eab4cf.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WILLEMSEN-Hoogbouw"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.willemsen-laagbouw-3206e1/schependomlaan.willemsen-laagbouw-3206e1.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WILLEMSEN-Laagbouw"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/web-ifc-tests/items/web-ifc-tests.issue-159-kleine-wohnung-r22-c3eb57/web-ifc-tests.issue-159-kleine-wohnung-r22-c3eb57.json",
+   "type": "application/geo+json",
+   "title": "Small apartment (Archicad, IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/yousheng-ifcsamplefiles/items/yousheng-ifcsamplefiles.ifc4-revit-arc-b1d0c4/yousheng-ifcsamplefiles.ifc4-revit-arc-b1d0c4.json",
+   "type": "application/geo+json",
+   "title": "Revit sample project – architecture (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20210215ifc4-rv-convenience-store-renga-4-5-092f11/auckland-openifc.20210215ifc4-rv-convenience-store-renga-4-5-092f11.json",
+   "type": "application/geo+json",
+   "title": "Convenience store (Renga, IFC4 Reference View)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20160613office-model-cv2b-fordesign-142c7d/auckland-openifc.20160613office-model-cv2b-fordesign-142c7d.json",
+   "type": "application/geo+json",
+   "title": "Office model CV2 for design (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/klassiqua-office-archetypes/items/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-3ef1f7/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-3ef1f7.json",
+   "type": "application/geo+json",
+   "title": "Klassiqua office archetype 1970 (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/klassiqua-office-archetypes/items/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-29c5fb/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-29c5fb.json",
+   "type": "application/geo+json",
+   "title": "Klassiqua office archetype 1998 (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/klassiqua-office-archetypes/items/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-45214b/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-45214b.json",
+   "type": "application/geo+json",
+   "title": "Klassiqua office archetype 2026 (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.largebuilding-6c3acb/bim-whale-samples.largebuilding-6c3acb.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – LargeBuilding (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.academic-autodesk-basicsampleproject-arch-ab5596/duraark.academic-autodesk-basicsampleproject-arch-ab5596.json",
+   "type": "application/geo+json",
+   "title": "Autodesk academic sample projects – Academic_Autodesk-BasicSampleProject_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.kit-institute-arch-66a241/duraark.kit-institute-arch-66a241.json",
+   "type": "application/geo+json",
+   "title": "KIT Institute – KIT_Institute_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.kit-smiley-west-arch-f73627/duraark.kit-smiley-west-arch-f73627.json",
+   "type": "application/geo+json",
+   "title": "KIT Smiley West – KIT_Smiley-West_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-ducting-0034bb/duraark.ltu-a-house-ducting-0034bb.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Ducting"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesidervt01-arch-e8476a/duraark.nbs-lakesidervt01-arch-e8476a.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideRVT01_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-arch-optimized-7d2f52/duraark.nbu-duplex-apt-arch-optimized-7d2f52.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Arch-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-arch-2a541a/duraark.nbu-duplex-apt-arch-2a541a.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-1-1f89f8/duraark.nbu-duplex-apt-eng-mep-1-1f89f8.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-2-d556be/duraark.nbu-duplex-apt-eng-mep-2-d556be.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-optimized-2b49f8/duraark.nbu-duplex-apt-eng-mep-optimized-2b49f8.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-3d6c63/duraark.nbu-duplex-apt-eng-mep-3d6c63.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-arch-optimized-1cdc6b/duraark.nbu-medicalclinic-arch-optimized-1cdc6b.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Arch-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-arch-533287/duraark.nbu-medicalclinic-arch-533287.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-con-optimized-6e159f/duraark.nbu-medicalclinic-eng-con-optimized-6e159f.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-CON-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-con-34598f/duraark.nbu-medicalclinic-eng-con-34598f.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-CON"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-ele-844e46/duraark.nbu-medicalclinic-eng-ele-844e46.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-ELE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bard-arch-226c60/duraark.sgd-bard-arch-226c60.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg BARD – SGD_BARD_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-arch-1-c3dc41/duraark.sgd-blueberry-arch-1-c3dc41.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-arch-2-e21292/duraark.sgd-blueberry-arch-2-e21292.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-arch-3-4a2704/duraark.sgd-blueberry-arch-3-4a2704.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-plumbing-1-d25031/duraark.sgd-blueberry-eng-hvac-plumbing-1-d25031.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Plumbing-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-plumbing-2-40a8fe/duraark.sgd-blueberry-eng-hvac-plumbing-2-40a8fe.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Plumbing-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-ventilation-e91fcc/duraark.sgd-blueberry-eng-hvac-ventilation-e91fcc.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-c59679/duraark.sgd-blueberry-eng-hvac-c59679.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-merged-plumbing-1-fd02c1/duraark.sgd-blueberry-merged-plumbing-1-fd02c1.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Plumbing-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-merged-plumbing-2-851723/duraark.sgd-blueberry-merged-plumbing-2-851723.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Plumbing-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-merged-ventilation-bb05a3/duraark.sgd-blueberry-merged-ventilation-bb05a3.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Ventilation_"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-duplex-eng-hvac-ventilation-7aff8a/duraark.sgd-duplex-eng-hvac-ventilation-7aff8a.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Duplex – SGD_Duplex_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-hitos-eng-ele-b918e6/duraark.sgd-hitos-eng-ele-b918e6.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg HiTOS – SGD_HiTOS_Eng-ELE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-hitos-eng-hvac-38ea51/duraark.sgd-hitos-eng-hvac-38ea51.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg HiTOS – SGD_HiTOS_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-arch-1-96c32c/duraark.sgd-munkerud-arch-1-96c32c.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Arch-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-arch-2-8de680/duraark.sgd-munkerud-arch-2-8de680.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Arch-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-arch-3-e03ec0/duraark.sgd-munkerud-arch-3-e03ec0.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Arch-3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-eng-ele-075788/duraark.sgd-munkerud-eng-ele-075788.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Eng-ELE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-eng-hvac-sanitary-c31506/duraark.sgd-munkerud-eng-hvac-sanitary-c31506.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Eng-HVAC-Sanitary"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-eng-hvac-ventilation-ed8922/duraark.sgd-munkerud-eng-hvac-ventilation-ed8922.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-lip002-imperial-no-value-fbf860/bsi-ifc-validation-rules.fail-lip002-imperial-no-value-fbf860.json",
+   "type": "application/geo+json",
+   "title": "Validation rule LIP – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-r13-793c51/libredwg-testdata.example-r13-793c51.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing R13 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-2000-174106/libredwg-testdata.example-2000-174106.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2000 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.colorwh-ecfb1c/autodesk-acad-samples.colorwh-ecfb1c.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – colorwh"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.visualization-condominium-with-skylight-8cea38/autodesk-acad-samples.visualization-condominium-with-skylight-8cea38.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_condominium_with_skylight"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.usaf-sfile-template-2011-a5c7cb/wbdg-usaf-design-packages.usaf-sfile-template-2011-a5c7cb.json",
+   "type": "application/geo+json",
+   "title": "USAF Template – usaf_sfile_template_2011"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ces-sd-drawings-admin-bldg-2dbd7a/wbdg-usaf-design-packages.ces-sd-drawings-admin-bldg-2dbd7a.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Admin – CES_SD_drawings_admin_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ce-admin-building-dcb9a0/wbdg-usaf-design-packages.ce-admin-building-dcb9a0.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Admin – ce_admin_building"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ces-sd-drawings-eod-bldg-0f86df/wbdg-usaf-design-packages.ces-sd-drawings-eod-bldg-0f86df.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Explosive – CES_sd_drawings_eod_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afdp-ce-explosive-concept-plans-b19506/wbdg-usaf-design-packages.afdp-ce-explosive-concept-plans-b19506.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Explosive – afdp_ce_explosive_concept_plans"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ces-sd-drawings-fac-main-bldg-f89eff/wbdg-usaf-design-packages.ces-sd-drawings-fac-main-bldg-f89eff.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Fac Main – CES_sd_drawings_fac_main_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.af-remotely-piloted-aircraft-squadron-ops-fac-4b9959/wbdg-usaf-design-packages.af-remotely-piloted-aircraft-squadron-ops-fac-4b9959.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Fac Main – af_remotely_piloted_aircraft_squadron_ops_fac"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.concept-plans-fac-maint-8ddb05/wbdg-usaf-design-packages.concept-plans-fac-maint-8ddb05.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Fac Main – concept_plans_fac_maint"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.squad-ops-facility-standard-design-plans-9e3bb2/wbdg-usaf-design-packages.squad-ops-facility-standard-design-plans-9e3bb2.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Fac Main – squad_ops_facility_standard_design_plans"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ces-sd-drawings-pest-bldg-13f725/wbdg-usaf-design-packages.ces-sd-drawings-pest-bldg-13f725.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Pest – CES_sd_drawings_pest_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.confinementfacility01apr15-063779/wbdg-usaf-design-packages.confinementfacility01apr15-063779.json",
+   "type": "application/geo+json",
+   "title": "USAF Confinement – ConfinementFacility01APR15"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afcee-dynamic-dorm-prototypes-111709-dad8c1/wbdg-usaf-design-packages.afcee-dynamic-dorm-prototypes-111709-dad8c1.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE Dynamic Dorm Prototypes_111709"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afcee-dorms-a-version-2-0-060309-9e0bcb/wbdg-usaf-design-packages.afcee-dorms-a-version-2-0-060309-9e0bcb.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-A-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afcee-dorms-e-version-2-0-060309-d80bfe/wbdg-usaf-design-packages.afcee-dorms-e-version-2-0-060309-d80bfe.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-E-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afcee-dorms-f-version-2-0-060309-36f02f/wbdg-usaf-design-packages.afcee-dorms-f-version-2-0-060309-36f02f.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-F-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afcee-dorms-m-version-2-0-060309-b4dad5/wbdg-usaf-design-packages.afcee-dorms-m-version-2-0-060309-b4dad5.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-M-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afcee-dorms-p-version-2-0-060309-77de9b/wbdg-usaf-design-packages.afcee-dorms-p-version-2-0-060309-77de9b.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-P-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.architecturesheets-v1-0-94d065/wbdg-usaf-design-packages.architecturesheets-v1-0-94d065.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – ArchitectureSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.electrical-sheets-v1-0-5a4a11/wbdg-usaf-design-packages.electrical-sheets-v1-0-5a4a11.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – Electrical Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-f57a5b/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-f57a5b.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – FireProtectionSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.mechanicalsheets-v1-0-f68e34/wbdg-usaf-design-packages.mechanicalsheets-v1-0-f68e34.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – MechanicalSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.plumbingsheets-v1-0-553698/wbdg-usaf-design-packages.plumbingsheets-v1-0-553698.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – PlumbingSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.v2-1-afcee-dynamic-prototype-bim-manual-051109-f81120/wbdg-usaf-design-packages.v2-1-afcee-dynamic-prototype-bim-manual-051109-f81120.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – V2.1_AFCEE Dynamic Prototype BIM Manual_051109"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.v2-2-specifications-061509-rev-0bf234/wbdg-usaf-design-packages.v2-2-specifications-061509-rev-0bf234.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – V2.2_Specifications_061509 (rev)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.20150106-ecf-iacp-5b5763/wbdg-usaf-design-packages.20150106-ecf-iacp-5b5763.json",
+   "type": "application/geo+json",
+   "title": "USAF Entry Control – 20150106_ECF-IACP"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-46b7dd/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-46b7dd.json",
+   "type": "application/geo+json",
+   "title": "USAF Fighter-Hangar – DynamicPrototypes-FighterHangarAMU"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.sd-drawings-fight-hangar-e9e397/wbdg-usaf-design-packages.sd-drawings-fight-hangar-e9e397.json",
+   "type": "application/geo+json",
+   "title": "USAF Fighter-Hangar – sd_drawings_fight_hangar"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-design-guide-with-markups-5a2489/wbdg-usaf-design-packages.fitness-center-design-guide-with-markups-5a2489.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center Design Guide_With Markups"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.largefc-architectural-sheets-v1-0-a4218b/wbdg-usaf-design-packages.largefc-architectural-sheets-v1-0-a4218b.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – LARGEFC_Architectural Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.mediumfc-architectural-sheets-v1-0-c695c2/wbdg-usaf-design-packages.mediumfc-architectural-sheets-v1-0-c695c2.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – MEDIUMFC_Architectural_Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.megafc-architectural-sheets-v1-0-52cbfe/wbdg-usaf-design-packages.megafc-architectural-sheets-v1-0-52cbfe.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – MEGAFC_Architectural_Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.indoorsmallarmsrangedrawings-ba9623/wbdg-usaf-design-packages.indoorsmallarmsrangedrawings-ba9623.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – IndoorSmallArmsRangeDrawings"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.indoor-small-arms-range-drawings-2018-c6dc10/wbdg-usaf-design-packages.indoor-small-arms-range-drawings-2018-c6dc10.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – Indoor_Small_Arms_Range_Drawings_2018"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.standard-design-indoor-small-arms-firing-range-gui-4c90ab/wbdg-usaf-design-packages.standard-design-indoor-small-arms-firing-range-gui-4c90ab.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – standard_design_indoor_small_arms_firing_range_guide_2018"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.20130328-bim-manual-afcec-bim-prototype-mwd-kennel-ab0050/wbdg-usaf-design-packages.20130328-bim-manual-afcec-bim-prototype-mwd-kennel-ab0050.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – 20130328_BIM MANUAL_AFCEC-BIM_Prototype-MWD_Kennel"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.20130328-military-working-dog-kennel-prototype-dra-e8ecab/wbdg-usaf-design-packages.20130328-military-working-dog-kennel-prototype-dra-e8ecab.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – 20130328_Military_Working_Dog_Kennel_Prototype_Drawings"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.drawings-mil-work-dog-june-2018-6fc7a2/wbdg-usaf-design-packages.drawings-mil-work-dog-june-2018-6fc7a2.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – drawings_mil_work_dog_june_2018"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.standard-design-mil-working-dog-july-2018-5a751e/wbdg-usaf-design-packages.standard-design-mil-working-dog-july-2018-5a751e.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – standard_design_mil_working_dog_july_2018"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.cc-fc-hangar-prototype-dc-fbf30c/wbdg-usaf-design-packages.cc-fc-hangar-prototype-dc-fbf30c.json",
+   "type": "application/geo+json",
+   "title": "USAF Laccch – CC-FC_Hangar_Prototype_DC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.af-fuel-cell-hangar-standard-design-2305ee/wbdg-usaf-design-packages.af-fuel-cell-hangar-standard-design-2305ee.json",
+   "type": "application/geo+json",
+   "title": "USAF Laccch – af_fuel_cell_hangar_standard_design"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.af-rpa-general-maintenance-hangar-facility-standar-ddb4a7/wbdg-usaf-design-packages.af-rpa-general-maintenance-hangar-facility-standar-ddb4a7.json",
+   "type": "application/geo+json",
+   "title": "USAF Laccch – af_rpa_general_maintenance_hangar_facility_standard_design"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.rpa-maintenance-hangar-drawings-c4267c/wbdg-usaf-design-packages.rpa-maintenance-hangar-drawings-c4267c.json",
+   "type": "application/geo+json",
+   "title": "USAF Laccch – rpa_maintenance_hangar_drawings"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fut-definitivedesignsubmittaldrawings-6628c6/wbdg-usaf-design-packages.fut-definitivedesignsubmittaldrawings-6628c6.json",
+   "type": "application/geo+json",
+   "title": "USAF Laft – FuT_DefinitiveDesignSubmittalDrawings"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ftc-definitivedesignanalysis-bfd870/wbdg-usaf-design-packages.ftc-definitivedesignanalysis-bfd870.json",
+   "type": "application/geo+json",
+   "title": "USAF Laftc – FTC_DefinitiveDesignAnalysis"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ftc-definitivedesigndrawings-d2dc7b/wbdg-usaf-design-packages.ftc-definitivedesigndrawings-d2dc7b.json",
+   "type": "application/geo+json",
+   "title": "USAF Laftc – FTC_DefinitiveDesignDrawings"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.gm-hangar-dc-9a3200/wbdg-usaf-design-packages.gm-hangar-dc-9a3200.json",
+   "type": "application/geo+json",
+   "title": "USAF Lagmh – GM_Hangar_DC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.gm-hangar-prototype-dc-ea5bea/wbdg-usaf-design-packages.gm-hangar-prototype-dc-ea5bea.json",
+   "type": "application/geo+json",
+   "title": "USAF Lagmh – GM_Hangar_Prototype_DC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.standard-design-flight-sim-1-2-drawings-8435f4/wbdg-usaf-design-packages.standard-design-flight-sim-1-2-drawings-8435f4.json",
+   "type": "application/geo+json",
+   "title": "USAF Laofs – Standard_Design_flight_sim_1_2_DRAWINGS"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.dorm-sd-drawings-jun-2019-4966db/wbdg-usaf-design-packages.dorm-sd-drawings-jun-2019-4966db.json",
+   "type": "application/geo+json",
+   "title": "USAF Perm Party Enlisted Dorm – Dorm_SD_Drawings_jun_2019"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.perm-party-enlisted-dorm-dg-jun-2019-ce57a7/wbdg-usaf-design-packages.perm-party-enlisted-dorm-dg-jun-2019-ce57a7.json",
+   "type": "application/geo+json",
+   "title": "USAF Perm Party Enlisted Dorm – perm_party_enlisted_dorm_DG_jun_2019"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.sfo-bim-manual-255091/wbdg-usaf-design-packages.sfo-bim-manual-255091.json",
+   "type": "application/geo+json",
+   "title": "USAF Sfo – SFO BIM Manual"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.sfo-pdf-version-of-all-sheets-v1-0-f40411/wbdg-usaf-design-packages.sfo-pdf-version-of-all-sheets-v1-0-f40411.json",
+   "type": "application/geo+json",
+   "title": "USAF Sfo – SFO PDF Version of all Sheets v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ces-sd-drawings-warehouse-bldg-16d47f/wbdg-usaf-design-packages.ces-sd-drawings-warehouse-bldg-16d47f.json",
+   "type": "application/geo+json",
+   "title": "USAF Shops-Warehouse – CES_sd_drawings_warehouse_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.concept-plans-shops-warehouse-49dba7/wbdg-usaf-design-packages.concept-plans-shops-warehouse-49dba7.json",
+   "type": "application/geo+json",
+   "title": "USAF Shops-Warehouse – concept_plans_shops_warehouse"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.architecturesheets-v1-0-077fef/wbdg-usaf-design-packages.architecturesheets-v1-0-077fef.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – ArchitectureSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.electrical-sheets-v1-0-705039/wbdg-usaf-design-packages.electrical-sheets-v1-0-705039.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Electrical Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-3e6f80/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-3e6f80.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – FireProtectionSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.mechanicalsheets-v1-0-9f003f/wbdg-usaf-design-packages.mechanicalsheets-v1-0-9f003f.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – MechanicalSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.plumbingsheets-v1-0-f0a0a8/wbdg-usaf-design-packages.plumbingsheets-v1-0-f0a0a8.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – PlumbingSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-a-detached-20100201-d4eed7/wbdg-usaf-design-packages.thule-a-detached-20100201-d4eed7.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-A-DETACHED 20100201"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-e-detacted-20100205-1589aa/wbdg-usaf-design-packages.thule-e-detacted-20100205-1589aa.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-E-DETACTED-20100205"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-m-detach-2010-02-03-62a8d8/wbdg-usaf-design-packages.thule-m-detach-2010-02-03-62a8d8.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-M-DETACH-2010-02-03"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-p-detached-20100203-79010a/wbdg-usaf-design-packages.thule-p-detached-20100203-79010a.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-P-DETACHED-20100203"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-s-detached-20100201-fdc423/wbdg-usaf-design-packages.thule-s-detached-20100201-fdc423.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-S-DETACHED-20100201"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-1-officer-cont-mgr-48-7a9889/wbdg-usaf-design-packages.thule-bldg-1-officer-cont-mgr-48-7a9889.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule Bldg 1-Officer & Cont Mgr 48"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-2-cont-trainees-lab-72-9840cb/wbdg-usaf-design-packages.thule-bldg-2-cont-trainees-lab-72-9840cb.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule Bldg 2-Cont Trainees & Lab 72"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-8a4f97/wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-8a4f97.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule Bldg 3-Enlisted 48"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-4-officer-72-549a9a/wbdg-usaf-design-packages.thule-bldg-4-officer-72-549a9a.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule Bldg 4 - Officer 72"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-prototypes-bim-manual-2010-02-17-5226d4/wbdg-usaf-design-packages.thule-prototypes-bim-manual-2010-02-17-5226d4.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Prototypes_BIM_Manual_2010-02-17"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-specifications-c54807/wbdg-usaf-design-packages.thule-specifications-c54807.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Specifications"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.architecturalsheets-v1-0-1d47a7/wbdg-usaf-design-packages.architecturalsheets-v1-0-1d47a7.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – ArchitecturalSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.electrical-vq-model-v1-0-ff7d45/wbdg-usaf-design-packages.electrical-vq-model-v1-0-ff7d45.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Electrical VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-c038d0/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-c038d0.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – FireProtectionSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.mechanical-vq-model-v1-0-0d48da/wbdg-usaf-design-packages.mechanical-vq-model-v1-0-0d48da.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Mechanical VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.mechanicalsheets-v1-0-6fb8df/wbdg-usaf-design-packages.mechanicalsheets-v1-0-6fb8df.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – MechanicalSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.plumbing-vq-model-v1-0-e4ca9b/wbdg-usaf-design-packages.plumbing-vq-model-v1-0-e4ca9b.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Plumbing VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.plumbingsheets-v1-0-2c0b7c/wbdg-usaf-design-packages.plumbingsheets-v1-0-2c0b7c.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – PlumbingSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.structural-vq-model-v1-0-29062c/wbdg-usaf-design-packages.structural-vq-model-v1-0-29062c.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Structural VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.visitors-quarters-bim-manual-v1-0-d81ef1/wbdg-usaf-design-packages.visitors-quarters-bim-manual-v1-0-d81ef1.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Visitors Quarters BIM Manual v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division00-f06f62/wbdg-va-cad-details.vadetails-division00-f06f62.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 00 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division08-67eb64/wbdg-va-cad-details.vadetails-division08-67eb64.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 08 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division10-eea72f/wbdg-va-cad-details.vadetails-division10-eea72f.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 10 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division11-f01ace/wbdg-va-cad-details.vadetails-division11-f01ace.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 11 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division14-8e8413/wbdg-va-cad-details.vadetails-division14-8e8413.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 14 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division22-0bf25e/wbdg-va-cad-details.vadetails-division22-0bf25e.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 22 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division26-f31473/wbdg-va-cad-details.vadetails-division26-f31473.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 26 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division27-655337/wbdg-va-cad-details.vadetails-division27-655337.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 27 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division28-a0acff/wbdg-va-cad-details.vadetails-division28-a0acff.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 28 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division32-aadfd6/wbdg-va-cad-details.vadetails-division32-aadfd6.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 32 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.revit-bim-01-28498f/blcj-bim-kakunin.revit-bim-01-28498f.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 A_意匠 – Revit_BIM申請サンプルモデル_01"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.s-260319-d1180c/blcj-bim-kakunin.s-260319-d1180c.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 S_構造 – S_構造モデル_260319修正分"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.blcjsample-m-revit-01-7e672c/blcj-bim-kakunin.blcjsample-m-revit-01-7e672c.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 MEP_設備 – BLCJsample_M_Revit_01"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/sxf-samples/items/sxf-samples.sample-0e832a/sxf-samples.sample-0e832a.json",
+   "type": "application/geo+json",
+   "title": "SXF(SFC) survey drawing sample"
+  }
+ ]
+}

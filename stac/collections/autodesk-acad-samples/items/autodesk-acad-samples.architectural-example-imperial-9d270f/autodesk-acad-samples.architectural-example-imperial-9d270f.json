@@ -1,0 +1,129 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "autodesk-acad-samples.architectural-example-imperial-9d270f",
+ "geometry": null,
+ "properties": {
+  "title": "AutoCAD sample – architectural_example-imperial",
+  "description": "DWG AC1024 R2010 file from 'Autodesk AutoCAD sample files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-13T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-Autodesk-sample",
+  "keywords": [
+   "AutoCAD",
+   "DWG",
+   "cad-render",
+   "real-drawing"
+  ],
+  "providers": [
+   {
+    "name": "Autodesk, Inc.",
+    "url": "https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/6XGQklp3ZcBFqljLPjrnQ9.html",
+    "roles": [
+     "producer",
+     "host",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "DWG",
+  "bim:format_family": "CAD-2D",
+  "bim:format_version": "AC1024 R2010",
+  "bim:source": "autodesk-acad-samples",
+  "bim:building_type": "generic-building",
+  "bim:country": "US",
+  "bim:use_cases": [
+   "cad-render",
+   "real-drawing"
+  ],
+  "bim:license_tier": "restricted",
+  "bim:license_url": "https://www.autodesk.com/company/legal-notices-trademarks/terms-of-use",
+  "bim:attribution": "Autodesk, Inc., AutoCAD sample files",
+  "bim:size_class": "s(<1MB)",
+  "bim:datetime_source": "retrieval date",
+  "bim:provenance": {
+   "upstream_href": "https://download.autodesk.com/us/samplefiles/acad/architectural_example-imperial.dwg",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "cad:version_code": "AC1024",
+  "cad:release": "R2010",
+  "cad:layers": 7,
+  "cad:blocks": 4,
+  "cad:layouts": 1,
+  "cad:modelspace_entities": 34,
+  "cad:entity_counts": {
+   "LINE": 22,
+   "INSERT": 12
+  },
+  "cad:units": "inch",
+  "cad:text_styles": 2,
+  "cad:extents": [
+   -288.762,
+   19.806,
+   1152.175,
+   861.52
+  ],
+  "cad:layer_names": [
+   "0",
+   "View Port",
+   "Defpoints",
+   "Wall",
+   "Doors",
+   "Windows",
+   "*LayerNameForDynamicConstraint"
+  ],
+  "cad:audit_errors": 0,
+  "cad:read_via": "LibreDWG 0.14 dwg2dxf"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./autodesk-acad-samples.architectural-example-imperial-9d270f.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.autodesk.com/company/legal-notices-trademarks/terms-of-use",
+   "title": "LicenseRef-Autodesk-sample"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/6XGQklp3ZcBFqljLPjrnQ9.html",
+   "title": "Upstream dataset page"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://download.autodesk.com/us/samplefiles/acad/architectural_example-imperial.dwg",
+   "type": "image/vnd.dwg",
+   "roles": [
+    "data"
+   ],
+   "title": "architectural_example-imperial.dwg",
+   "file:size": 148638,
+   "file:checksum": "122052d14a7bdb946099d3cf16fd276d19bd8924348fd02b2ddd0003cd4f6b34cce7"
+  }
+ },
+ "collection": "autodesk-acad-samples"
+}

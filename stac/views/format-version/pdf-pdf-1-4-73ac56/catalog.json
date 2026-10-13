@@ -1,0 +1,48 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "format-version--pdf-pdf-1-4-73ac56",
+ "title": "format-version: PDF PDF 1.4",
+ "description": "4 items where format-version = PDF PDF 1.4. Items are shared with their source collections.",
+ "bim:dimension": "format-version",
+ "bim:value": "PDF PDF 1.4",
+ "bim:item_count": 4,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.schependomlaan-nijmegen-18-02-2015-34fa37/schependomlaan.schependomlaan-nijmegen-18-02-2015-34fa37.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan construction planning (PDF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.indoor-small-arms-range-drawings-2018-c6dc10/wbdg-usaf-design-packages.indoor-small-arms-range-drawings-2018-c6dc10.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – Indoor_Small_Arms_Range_Drawings_2018"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.cc-fc-hangar-prototype-dc-fbf30c/wbdg-usaf-design-packages.cc-fc-hangar-prototype-dc-fbf30c.json",
+   "type": "application/geo+json",
+   "title": "USAF Laccch – CC-FC_Hangar_Prototype_DC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.dorm-sd-drawings-jun-2019-4966db/wbdg-usaf-design-packages.dorm-sd-drawings-jun-2019-4966db.json",
+   "type": "application/geo+json",
+   "title": "USAF Perm Party Enlisted Dorm – Dorm_SD_Drawings_jun_2019"
+  }
+ ]
+}

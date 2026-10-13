@@ -1,0 +1,30 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--duraark-kit-smiley-west-ifc-4d601b-001bf4",
+ "title": "project: duraark-kit-smiley-west-ifc-4d601b",
+ "description": "1 items where project = duraark-kit-smiley-west-ifc-4d601b. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "duraark-kit-smiley-west-ifc-4d601b",
+ "bim:item_count": 1,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.kit-smiley-west-arch-f73627/duraark.kit-smiley-west-arch-f73627.json",
+   "type": "application/geo+json",
+   "title": "KIT Smiley West – KIT_Smiley-West_Arch"
+  }
+ ]
+}

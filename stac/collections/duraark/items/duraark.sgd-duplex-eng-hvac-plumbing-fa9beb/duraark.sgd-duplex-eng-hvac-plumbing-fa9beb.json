@@ -1,0 +1,188 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.sgd-duplex-eng-hvac-plumbing-fa9beb",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   11.333333,
+   50.966667
+  ]
+ },
+ "bbox": [
+  11.333333,
+  50.966667,
+  11.333333,
+  50.966667
+ ],
+ "properties": {
+  "title": "Statsbygg Duplex – SGD_Duplex_Eng-HVAC-Plumbing",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2012-06-27T10:55:25Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-sgd-duplex-ifc-5c6343",
+  "bim:building_type": "residential",
+  "bim:country": "NO",
+  "bim:disciplines": [
+   "mep"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_Duplex_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "SGD_Duplex/SGD_Duplex_Eng-HVAC-Plumbing.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView_V2.0]"
+  ],
+  "ifc:view_definition": "CoordinationView_V2.0",
+  "ifc:header_timestamp": "2012-06-27T10:55:25",
+  "ifc:preprocessor_version": "DDS-IFC v2.0",
+  "ifc:originating_system": "DDS-CAD Version 8.0 Win32 build 27/6-2012",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 1359,
+  "ifc:product_types": 4,
+  "ifc:storeys": 4,
+  "ifc:spaces": 20,
+  "ifc:zones": 0,
+  "ifc:systems": 6,
+  "ifc:pset_names": [
+   "Pset_FlowSegmentPipeSegment",
+   "Pset_ManufacturerTypeInformation",
+   "Pset_PipeFittingTypeCommon",
+   "Pset_PipeSegmentTypeCommon",
+   "Pset_SanitaryTerminalTypeBath",
+   "Pset_SanitaryTerminalTypeShower",
+   "Pset_SanitaryTerminalTypeSink",
+   "Pset_SanitaryTerminalTypeToiletPan",
+   "Pset_SpaceOccupancyRequirements",
+   "Pset_SpaceThermalDesign",
+   "Pset_SpaceThermalRequirements"
+  ],
+  "ifc:props": 1608,
+  "ifc:qsets": 0,
+  "ifc:materials": 6,
+  "ifc:classif_refs": 10,
+  "ifc:type_objects": 256,
+  "ifc:docs": 0,
+  "ifc:score": 13.76,
+  "ifc:disciplines": [
+   "mep"
+  ],
+  "ifc:element_counts": {
+   "IfcDistributionPort": 835,
+   "IfcFlowSegment": 287,
+   "IfcFlowFitting": 213,
+   "IfcFlowTerminal": 24
+  },
+  "ifc:classification_systems": [
+   "NS3420",
+   "NS3451"
+  ],
+  "ifc:project_name": "NBH",
+  "ifc:length_unit": "METRE",
+  "ifc:building_names": [
+   "Duplex House"
+  ],
+  "ifc:storey_names": [
+   "Basement",
+   "Ground Floor",
+   "First Floor",
+   "Roof"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)",
+  "bim:site_elevation": -2.5
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.sgd-duplex-eng-hvac-plumbing-fa9beb.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-duplex-eng-hvac-ventilation-7aff8a/duraark.sgd-duplex-eng-hvac-ventilation-7aff8a.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-duplex-ifc-5c6343)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_Duplex_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "SGD_Duplex_Eng-HVAC-Plumbing.ifc",
+   "file:size": 11478718,
+   "file:checksum": "122095e7e7fb73d82d7cb3531b2c8864974b45972c9e0ca3f07d83a9554388fd0ba2",
+   "bim:archive_member": "SGD_Duplex/SGD_Duplex_Eng-HVAC-Plumbing.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 92830256,
+   "bim:archive_member_checksum": "1220350ef164657afdd405cd87e25a2fa0b4df60c9884f90d16e99f1755c23a676f5"
+  }
+ },
+ "collection": "duraark"
+}

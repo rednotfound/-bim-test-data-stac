@@ -1,0 +1,131 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "wbdg-usaf-design-packages.indoorsmallarmsfiringrangemodel-111714-bd810e",
+ "geometry": null,
+ "properties": {
+  "title": "USAF Indoor-Range – IndoorSmallArmsFiringRangeModel_111714",
+  "description": "RVT Revit 2013 file from 'WBDG US Air Force design packages (AFDP)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-13T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-US-Government-Public-Domain",
+  "keywords": [
+   "Revit",
+   "USAF",
+   "public domain",
+   "real-project",
+   "revit-native",
+   "sheet set"
+  ],
+  "providers": [
+   {
+    "name": "US Air Force Civil Engineer Center (AFCEC)",
+    "url": "https://www.wbdg.org/ffc/af-afcec",
+    "roles": [
+     "producer"
+    ]
+   },
+   {
+    "name": "Whole Building Design Guide (WBDG), NIBS",
+    "url": "https://www.wbdg.org",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "RVT",
+  "bim:format_family": "BIM-native",
+  "bim:format_version": "Revit 2013",
+  "bim:source": "wbdg-usaf-design-packages",
+  "bim:project": "usaf-indoor-range",
+  "bim:building_type": "sports",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "revit-native",
+   "real-project"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://www.usa.gov/government-copyright",
+  "bim:attribution": "US Air Force Civil Engineer Center, via WBDG (wbdg.org)",
+  "bim:size_class": "xl(>=100MB)",
+  "bim:datetime_source": "retrieval date",
+  "bim:provenance": {
+   "upstream_href": "https://www.wbdg.org/FFC/AF/AFDP/INDOOR-RANGE/IndoorSmallArmsFiringRangeModel_111714.rvt",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "not applicable",
+  "rvt:build": "20130531_2115(x64)",
+  "rvt:revit_version": "2013"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./wbdg-usaf-design-packages.indoorsmallarmsfiringrangemodel-111714-bd810e.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.usa.gov/government-copyright",
+   "title": "LicenseRef-US-Government-Public-Domain"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.wbdg.org/ffc/af-afcec/design-packages",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.indoorsmallarmsrangedrawings-ba9623/wbdg-usaf-design-packages.indoorsmallarmsrangedrawings-ba9623.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-indoor-range)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.indoor-small-arms-range-drawings-2018-c6dc10/wbdg-usaf-design-packages.indoor-small-arms-range-drawings-2018-c6dc10.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-indoor-range)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.standard-design-indoor-small-arms-firing-range-gui-4c90ab/wbdg-usaf-design-packages.standard-design-indoor-small-arms-firing-range-gui-4c90ab.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-indoor-range)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://www.wbdg.org/FFC/AF/AFDP/INDOOR-RANGE/IndoorSmallArmsFiringRangeModel_111714.rvt",
+   "type": "application/octet-stream",
+   "roles": [
+    "data"
+   ],
+   "title": "IndoorSmallArmsFiringRangeModel_111714.rvt",
+   "file:size": 103702528,
+   "file:checksum": "1220770b3a9439aba1beb4ba253ef7bf8447316a31ec7c19e244e04248b666a107fd"
+  }
+ },
+ "collection": "wbdg-usaf-design-packages"
+}

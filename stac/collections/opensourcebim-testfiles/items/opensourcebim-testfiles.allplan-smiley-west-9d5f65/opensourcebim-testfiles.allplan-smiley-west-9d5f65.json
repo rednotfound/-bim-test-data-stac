@@ -1,0 +1,112 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "opensourcebim-testfiles.allplan-smiley-west-9d5f65",
+ "geometry": null,
+ "properties": {
+  "title": "KIT Smiley West (IFC2X_FINAL, Allplan)",
+  "description": "IFC-SPF IFC2X_FINAL file from 'opensourceBIM TestFiles (BIMserver test set)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2005-06-03T10:34:17Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "BIMserver",
+   "legacy schema",
+   "legacy-schema"
+  ],
+  "providers": [
+   {
+    "name": "opensourceBIM",
+    "url": "https://github.com/opensourceBIM",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X_FINAL",
+  "bim:source": "opensourcebim-testfiles",
+  "bim:building_type": "residential",
+  "bim:country": "DE",
+  "bim:use_cases": [
+   "legacy-schema"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://github.com/opensourceBIM/TestFiles",
+  "bim:attribution": "opensourceBIM/TestFiles",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/opensourceBIM/TestFiles/2fdf94854a7fba814a17604ed65f543f125cd265/TestData/data/Allplan-Smiley-West.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/opensourceBIM/TestFiles",
+   "commit": "2fdf94854a7fba814a17604ed65f543f125cd265",
+   "path": "TestData/data/Allplan-Smiley-West.ifc",
+   "browse_url": "https://github.com/opensourceBIM/TestFiles/blob/2fdf94854a7fba814a17604ed65f543f125cd265/TestData/data/Allplan-Smiley-West.ifc",
+   "git_lfs": false,
+   "commit_date": "2023-03-06"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:header_timestamp": "2005-06-03T10:34:17",
+  "ifc:preprocessor_version": " - IFC Toolbox Version 2.x (00/11/07)",
+  "ifc:originating_system": "ALLPLAN",
+  "ifc:schema": "IFC2X_FINAL",
+  "ifc:parse_error": "SchemaError: Unsupported schema: IFC2X_FINAL"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./opensourcebim-testfiles.allplan-smiley-west-9d5f65.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/opensourceBIM/TestFiles",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/opensourceBIM/TestFiles",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/opensourceBIM/TestFiles/blob/2fdf94854a7fba814a17604ed65f543f125cd265/TestData/data/Allplan-Smiley-West.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/opensourceBIM/TestFiles/2fdf94854a7fba814a17604ed65f543f125cd265/TestData/data/Allplan-Smiley-West.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "Allplan-Smiley-West.ifc",
+   "file:size": 4078240,
+   "file:checksum": "12204645c31b853d1a9aa59ce370e2cdd0a64b1266a96bd2ea1b50ee3fb4f98c744c"
+  }
+ },
+ "collection": "opensourcebim-testfiles"
+}

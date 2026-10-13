@@ -1,0 +1,113 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-bcf.perspective-camera-4c04f8",
+ "geometry": null,
+ "properties": {
+  "title": "BCF 3.0 test – perspective camera",
+  "description": "BCF BCF 3.0 file from 'buildingSMART BCF-XML test cases'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2023-11-28T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "CC-BY-ND-4.0",
+  "keywords": [
+   "BCF",
+   "bcf",
+   "collaboration",
+   "future-standards",
+   "issues"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "BCF",
+  "bim:format_family": "openBIM-exchange",
+  "bim:format_version": "BCF 3.0",
+  "bim:source": "bsi-bcf",
+  "bim:use_cases": [
+   "bcf",
+   "future-standards"
+  ],
+  "bim:license_tier": "open-nd",
+  "bim:license_url": "https://creativecommons.org/licenses/by-nd/4.0/",
+  "bim:attribution": "buildingSMART International, BCF-XML (CC BY-ND 4.0)",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "upstream repository commit date",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Perspective%20camera/perspective%20camera.bcf",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/BCF-XML",
+   "commit": "bc48611d0d7a1587f028a2b69677a1aafd5cd0a8",
+   "path": "Test Cases/v3.0/Visualization/Perspective camera/perspective camera.bcf",
+   "browse_url": "https://github.com/buildingSMART/BCF-XML/blob/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Perspective%20camera/perspective%20camera.bcf",
+   "git_lfs": false,
+   "commit_date": "2023-11-28"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "bcf:version": "3.0",
+  "bcf:topics": 1,
+  "bcf:viewpoints": 1,
+  "bcf:snapshots": 1
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-bcf.perspective-camera-4c04f8.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by-nd/4.0/",
+   "title": "CC-BY-ND-4.0"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/BCF-XML",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/BCF-XML/blob/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Perspective%20camera/perspective%20camera.bcf",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Perspective%20camera/perspective%20camera.bcf",
+   "type": "application/zip",
+   "roles": [
+    "data"
+   ],
+   "title": "perspective camera.bcf",
+   "file:size": 82183,
+   "file:checksum": "1220e9c71573d93ab9a6e9378427a8f4a52a9dfc317a137ce4dd4ea6a4b1b3e1e24f"
+  }
+ },
+ "collection": "bsi-bcf"
+}

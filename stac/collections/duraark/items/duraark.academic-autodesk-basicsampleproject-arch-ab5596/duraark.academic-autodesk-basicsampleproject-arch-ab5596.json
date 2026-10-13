@@ -1,0 +1,221 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.academic-autodesk-basicsampleproject-arch-ab5596",
+ "geometry": null,
+ "properties": {
+  "title": "Autodesk academic sample projects – Academic_Autodesk-BasicSampleProject_Arch",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2013-03-01T11:08:34Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-academic-autodesk-ifc-94e957",
+  "bim:building_type": "office",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/Academic_Autodesk_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "Academic_Autodesk/Academic_Autodesk-BasicSampleProject_Arch.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView]"
+  ],
+  "ifc:view_definition": "CoordinationView",
+  "ifc:header_timestamp": "2013-03-01T11:08:34",
+  "ifc:preprocessor_version": "Autodesk Revit 2013",
+  "ifc:originating_system": "20120221_2030(x64)",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 417,
+  "ifc:product_types": 18,
+  "ifc:storeys": 6,
+  "ifc:spaces": 6,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Analytical Properties",
+   "Constraints",
+   "Construction",
+   "Dimensions",
+   "Electrical",
+   "Electrical - Lighting",
+   "Electrical - Loads",
+   "Graphics",
+   "Handrail 1",
+   "Handrail 2",
+   "Horizontal Grid Pattern",
+   "Horizontal Mullions",
+   "Identity Data",
+   "Materials and Finishes",
+   "Other",
+   "Phasing",
+   "Photometrics",
+   "Pset_BeamCommon",
+   "Pset_BuildingCommon",
+   "Pset_BuildingElementProxyCommon",
+   "Pset_ColumnCommon",
+   "Pset_CurtainWallCommon",
+   "Pset_DoorCommon",
+   "Pset_RailingCommon",
+   "Pset_RoofCommon",
+   "Pset_SlabCommon",
+   "Pset_SpaceCommon",
+   "Pset_StairCommon",
+   "Pset_StairFlightCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon",
+   "Risers",
+   "Stringers",
+   "Structural",
+   "Text",
+   "Top Rail",
+   "Treads",
+   "Vertical Grid Pattern",
+   "Vertical Mullions"
+  ],
+  "ifc:props": 5150,
+  "ifc:qsets": 6,
+  "ifc:materials": 32,
+  "ifc:classif_refs": 49,
+  "ifc:type_objects": 49,
+  "ifc:docs": 0,
+  "ifc:score": 22.57,
+  "ifc:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcMember": 148,
+   "IfcBeam": 82,
+   "IfcDoor": 43,
+   "IfcPlate": 40,
+   "IfcWallStandardCase": 40,
+   "IfcFurnishingElement": 11,
+   "IfcFlowTerminal": 9,
+   "IfcRailing": 7,
+   "IfcSlab": 6,
+   "IfcWindow": 6,
+   "IfcColumn": 4,
+   "IfcWall": 4,
+   "IfcBuildingElementProxy": 3,
+   "IfcCurtainWall": 3,
+   "IfcFooting": 3,
+   "IfcStair": 3,
+   "IfcStairFlight": 3,
+   "IfcRoof": 2
+  },
+  "ifc:classification_systems": [
+   "UniFormat"
+  ],
+  "ifc:project_name": "Project Number",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:storey_names": [
+   "Sub",
+   "Level 1",
+   "T.O. Found",
+   "Entry",
+   "Level 2",
+   "Level 3"
+  ],
+  "ifc:map_conversion": false,
+  "bim:site_location_raw": [
+   -71.0603,
+   42.3583
+  ],
+  "bim:location_source": "IfcSite location is a software/test default (Autodesk Revit default site: Boston, MA); geometry left null"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.academic-autodesk-basicsampleproject-arch-ab5596.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.academic-autodesk-advancedsampleproject-arch-310c53/duraark.academic-autodesk-advancedsampleproject-arch-310c53.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-academic-autodesk-ifc-94e957)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/Academic_Autodesk_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "Academic_Autodesk-BasicSampleProject_Arch.ifc",
+   "file:size": 7374733,
+   "file:checksum": "1220133b7293456a1049f64bea0a3a466282454ef1963385aeaa03b34e0718adafc5",
+   "bim:archive_member": "Academic_Autodesk/Academic_Autodesk-BasicSampleProject_Arch.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 5386575,
+   "bim:archive_member_checksum": "1220783105bf5aa05cdc6586304922ab929f6ee33a125a37d4913b98b6c29d0541c4"
+  }
+ },
+ "collection": "duraark"
+}

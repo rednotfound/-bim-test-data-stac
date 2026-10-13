@@ -1,0 +1,72 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--usaf-fitness-center-b9e2f1",
+ "title": "project: usaf-fitness_center",
+ "description": "8 items where project = usaf-fitness_center. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "usaf-fitness_center",
+ "bim:item_count": 8,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-bim-manual-v1-0-6126ac/wbdg-usaf-design-packages.fitness-center-bim-manual-v1-0-6126ac.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center BIM Manual v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-design-guide-with-markups-5a2489/wbdg-usaf-design-packages.fitness-center-design-guide-with-markups-5a2489.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center Design Guide_With Markups"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-large-c35ba3/wbdg-usaf-design-packages.fitness-center-large-c35ba3.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center_LARGE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-medium2-be1cd5/wbdg-usaf-design-packages.fitness-center-medium2-be1cd5.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center_MEDIUM2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-mega2-daf977/wbdg-usaf-design-packages.fitness-center-mega2-daf977.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center_MEGA2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.largefc-architectural-sheets-v1-0-a4218b/wbdg-usaf-design-packages.largefc-architectural-sheets-v1-0-a4218b.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – LARGEFC_Architectural Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.mediumfc-architectural-sheets-v1-0-c695c2/wbdg-usaf-design-packages.mediumfc-architectural-sheets-v1-0-c695c2.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – MEDIUMFC_Architectural_Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.megafc-architectural-sheets-v1-0-52cbfe/wbdg-usaf-design-packages.megafc-architectural-sheets-v1-0-52cbfe.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – MEGAFC_Architectural_Sheets_v1.0"
+  }
+ ]
+}

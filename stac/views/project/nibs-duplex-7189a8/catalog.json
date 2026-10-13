@@ -1,0 +1,66 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--nibs-duplex-7189a8",
+ "title": "project: nibs-duplex",
+ "description": "7 items where project = nibs-duplex. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "nibs-duplex",
+ "bim:item_count": 7,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.duplex-a-20110907-a5c127/bsi-community-sample-files.duplex-a-20110907-a5c127.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex Apartment – A_20110907"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.duplex-m-20111024-rooms-and-spaces-611d98/bsi-community-sample-files.duplex-m-20111024-rooms-and-spaces-611d98.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex Apartment – M_20111024_ROOMS_AND_SPACES"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.duplex-mep-20110907-63fc38/bsi-community-sample-files.duplex-mep-20110907-63fc38.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex Apartment – MEP_20110907"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.duplex-plumbing-20121113-1f2025/bsi-community-sample-files.duplex-plumbing-20121113-1f2025.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex Apartment – Plumbing_20121113"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.duplex-electrical-20121207-8f04b5/bsi-community-sample-files.duplex-electrical-20121207-8f04b5.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex Apartment – Electrical_20121207"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.2012-03-23-duplex-design-134d12/bsi-community-sample-files.2012-03-23-duplex-design-134d12.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex COBie – -Design"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.2012-03-23-duplex-handover-5004ab/bsi-community-sample-files.2012-03-23-duplex-handover-5004ab.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex COBie – -Handover"
+  }
+ ]
+}

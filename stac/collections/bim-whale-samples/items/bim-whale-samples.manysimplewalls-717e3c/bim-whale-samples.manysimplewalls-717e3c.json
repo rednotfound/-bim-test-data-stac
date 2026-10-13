@@ -1,0 +1,195 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bim-whale-samples.manysimplewalls-717e3c",
+ "geometry": null,
+ "properties": {
+  "title": "BIM Whale – ManySimpleWalls (IFC2X3)",
+  "description": "IFC-SPF IFC2X3 file from 'BIM Whale IFC samples'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2020-11-25T13:36:10Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "MIT",
+  "keywords": [
+   "dummy data",
+   "dummy-data",
+   "properties"
+  ],
+  "providers": [
+   {
+    "name": "André Wisén (bim-whale)",
+    "url": "https://github.com/andrewisen/bim-whale-ifc-samples",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "bim-whale-samples",
+  "bim:building_type": "generic-building",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "dummy-data"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://github.com/andrewisen/bim-whale-ifc-samples/blob/main/LICENSE",
+  "bim:attribution": "andrewisen/bim-whale-ifc-samples (MIT)",
+  "bim:size_class": "s(<1MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/andrewisen/bim-whale-ifc-samples/595fa90e3af7120d004fcb37a79d8657f1d1c9c2/ManySimpleWalls/IFC/ManySimpleWalls.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/andrewisen/bim-whale-ifc-samples",
+   "commit": "595fa90e3af7120d004fcb37a79d8657f1d1c9c2",
+   "path": "ManySimpleWalls/IFC/ManySimpleWalls.ifc",
+   "browse_url": "https://github.com/andrewisen/bim-whale-ifc-samples/blob/595fa90e3af7120d004fcb37a79d8657f1d1c9c2/ManySimpleWalls/IFC/ManySimpleWalls.ifc",
+   "git_lfs": false,
+   "commit_date": "2020-11-30"
+  },
+  "bim:thumbnail": "generated",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView_V2.0, QuantityTakeOffAddOnView]"
+  ],
+  "ifc:view_definition": "CoordinationView_V2.0, QuantityTakeOffAddOnView",
+  "ifc:header_timestamp": "2020-11-25T13:36:10",
+  "ifc:preprocessor_version": "The EXPRESS Data Manager Version 5.02.0100.07 : 28 Aug 2013",
+  "ifc:originating_system": "21.1.10.26 - Exporter 21.1.10.26 - Alternate UI 21.1.10.26",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 20,
+  "ifc:product_types": 3,
+  "ifc:storeys": 1,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Analytical Properties",
+   "Constraints",
+   "Constraints(Type)",
+   "Construction",
+   "Custom_Pset",
+   "Dimensions",
+   "Graphics",
+   "Graphics(Type)",
+   "Identity Data",
+   "Identity Data(Type)",
+   "Materials and Finishes",
+   "Other",
+   "Other(Type)",
+   "Phasing",
+   "Pset_AirSideSystemInformation",
+   "Pset_BuildingCommon",
+   "Pset_BuildingElementProxyCommon",
+   "Pset_BuildingStoreyCommon",
+   "Pset_ConcreteElementGeneral",
+   "Pset_DoorCommon",
+   "Pset_ElementShading",
+   "Pset_ManufacturerTypeInformation",
+   "Pset_ProductRequirements",
+   "Pset_ProvisionForVoid",
+   "Pset_QuantityTakeOff",
+   "Pset_ReinforcementBarPitchOfWall",
+   "Pset_WallCommon",
+   "Structural",
+   "Text"
+  ],
+  "ifc:props": 862,
+  "ifc:qsets": 31,
+  "ifc:materials": 6,
+  "ifc:classif_refs": 3,
+  "ifc:type_objects": 8,
+  "ifc:docs": 0,
+  "ifc:score": 16.23,
+  "ifc:disciplines": [
+   "architecture"
+  ],
+  "ifc:element_counts": {
+   "IfcDoor": 14,
+   "IfcBuildingElementProxy": 3,
+   "IfcWallStandardCase": 3
+  },
+  "ifc:classification_systems": [
+   "Uniformat"
+  ],
+  "ifc:project_name": "// PROJECT/NUMBER //",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:building_names": [
+   "// BUILDING/NAME //"
+  ],
+  "ifc:storey_names": [
+   "Level 1"
+  ],
+  "ifc:map_conversion": false,
+  "bim:site_location_raw": [
+   -71.05674,
+   42.358662
+  ],
+  "bim:location_source": "IfcSite location is a software/test default (Autodesk Revit default site: Boston, MA); geometry left null"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bim-whale-samples.manysimplewalls-717e3c.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/andrewisen/bim-whale-ifc-samples/blob/main/LICENSE",
+   "title": "MIT"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/andrewisen/bim-whale-ifc-samples",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/andrewisen/bim-whale-ifc-samples/blob/595fa90e3af7120d004fcb37a79d8657f1d1c9c2/ManySimpleWalls/IFC/ManySimpleWalls.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/andrewisen/bim-whale-ifc-samples/595fa90e3af7120d004fcb37a79d8657f1d1c9c2/ManySimpleWalls/IFC/ManySimpleWalls.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "ManySimpleWalls.ifc",
+   "file:size": 584056,
+   "file:checksum": "1220a5af5b76127e85cd2ec431a9cd3ea6b54cbf4c3ab3a8c1d9b0dd2e01d2b141de"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "bim-whale-samples"
+}

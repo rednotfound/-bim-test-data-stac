@@ -1,0 +1,245 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [],
+ "id": "libredwg-testdata",
+ "title": "GNU LibreDWG test data",
+ "description": "DWG/DXF example drawing saved in every AutoCAD release from R9 to R2018, plus entity test drawings.",
+ "license": "GPL-3.0-or-later",
+ "keywords": [
+  "DWG",
+  "DXF",
+  "versions"
+ ],
+ "providers": [
+  {
+   "name": "GNU LibreDWG",
+   "url": "https://www.gnu.org/software/libredwg/",
+   "roles": [
+    "producer",
+    "host",
+    "licensor"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     -180,
+     -90,
+     180,
+     90
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2026-10-12T00:00:00Z",
+     "2026-10-12T00:00:00Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "DWG",
+   "DXF"
+  ],
+  "bim:format_version": [
+   "AC1004 R9",
+   "AC1006 R10",
+   "AC1009 R11/R12",
+   "AC1012 R13",
+   "AC1014 R14",
+   "AC1015 R2000",
+   "AC1018 R2004",
+   "AC1021 R2007",
+   "AC1024 R2010",
+   "AC1027 R2013",
+   "AC1032 R2018"
+  ],
+  "bim:use_cases": [
+   "cad-versions",
+   "legacy-format"
+  ],
+  "bim:license_tier": [
+   "open"
+  ]
+ },
+ "bim:license_tier": "open",
+ "bim:license_quote": "Distributed with GNU LibreDWG under the GNU General Public License v3 or later.",
+ "bim:attribution": "GNU LibreDWG test-data (GPL-3.0-or-later)",
+ "bim:origin": {
+  "kind": "git",
+  "repo": "LibreDWG/libredwg",
+  "commit": "ee49c38f085407a1e0215c1f527f560ea24f0588",
+  "commit_date": "2026-10-12"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 22,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.gnu.org/licenses/gpl-3.0.html",
+   "title": "GPL-3.0-or-later"
+  },
+  {
+   "rel": "about",
+   "href": "https://github.com/LibreDWG/libredwg",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.entities-93fd2e/libredwg-testdata.entities-93fd2e.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG R9 entities.dwg"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.entities-c2ac69/libredwg-testdata.entities-c2ac69.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG R10 entities.dwg"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.entities-2d-54bc54/libredwg-testdata.entities-2d-54bc54.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG R11 entities-2d.dwg"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.entities-3d-84ab2f/libredwg-testdata.entities-3d-84ab2f.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG R11 entities-3d.dwg"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-r13-123ecd/libredwg-testdata.example-r13-123ecd.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing R13 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-r13-793c51/libredwg-testdata.example-r13-793c51.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing R13 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-r14-faea5c/libredwg-testdata.example-r14-faea5c.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing R14 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-r14-64535a/libredwg-testdata.example-r14-64535a.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing R14 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-2000-6e2a6c/libredwg-testdata.example-2000-6e2a6c.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2000 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-2000-174106/libredwg-testdata.example-2000-174106.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2000 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-2004-bbd251/libredwg-testdata.example-2004-bbd251.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2004 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-2004-72f0ff/libredwg-testdata.example-2004-72f0ff.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2004 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-2007-e49cb1/libredwg-testdata.example-2007-e49cb1.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2007 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-2007-d18507/libredwg-testdata.example-2007-d18507.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2007 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-2010-bf8647/libredwg-testdata.example-2010-bf8647.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2010 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-2010-e9ac37/libredwg-testdata.example-2010-e9ac37.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2010 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-2013-ecac16/libredwg-testdata.example-2013-ecac16.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2013 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-2013-c7df70/libredwg-testdata.example-2013-c7df70.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2013 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-2018-05b894/libredwg-testdata.example-2018-05b894.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2018 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-2018-c3f252/libredwg-testdata.example-2018-c3f252.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2018 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-r12-ab5801/libredwg-testdata.example-r12-ab5801.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing R12 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "items/libredwg-testdata.example-2018-c623f2/libredwg-testdata.example-2018-c623f2.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2018 (binary DXF)"
+  }
+ ]
+}

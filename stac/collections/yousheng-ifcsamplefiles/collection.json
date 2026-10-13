@@ -1,0 +1,119 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [],
+ "id": "yousheng-ifcsamplefiles",
+ "title": "youshengCode IfcSampleFiles",
+ "description": "Revit-exported IFC4 project (architecture + MEP) and other samples.",
+ "license": "LicenseRef-unspecified",
+ "keywords": [
+  "Revit export",
+  "MEP"
+ ],
+ "providers": [
+  {
+   "name": "youshengCode",
+   "url": "https://github.com/youshengCode/IfcSampleFiles",
+   "roles": [
+    "host"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     -71.0335,
+     42.213,
+     11.583,
+     48.133
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2021-03-02T22:49:04Z",
+     "2021-03-02T23:38:45Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "IFC-SPF"
+  ],
+  "bim:format_version": [
+   "IFC4"
+  ],
+  "bim:building_type": [
+   "office"
+  ],
+  "bim:use_cases": [
+   "data-rich",
+   "multi-discipline"
+  ],
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:license_tier": [
+   "unclear"
+  ]
+ },
+ "bim:license_tier": "unclear",
+ "bim:license_quote": "No license stated.",
+ "bim:attribution": "youshengCode/IfcSampleFiles",
+ "bim:origin": {
+  "kind": "git",
+  "repo": "youshengCode/IfcSampleFiles",
+  "commit": "7e6927982d7e57b29409bb631ef93d6770ef0665",
+  "commit_date": "2021-08-24"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 2,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/youshengCode/IfcSampleFiles",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "about",
+   "href": "https://github.com/youshengCode/IfcSampleFiles",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "item",
+   "href": "items/yousheng-ifcsamplefiles.ifc4-revit-arc-b1d0c4/yousheng-ifcsamplefiles.ifc4-revit-arc-b1d0c4.json",
+   "type": "application/geo+json",
+   "title": "Revit sample project – architecture (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "items/yousheng-ifcsamplefiles.ifc4-revit-mep-aed5a4/yousheng-ifcsamplefiles.ifc4-revit-mep-aed5a4.json",
+   "type": "application/geo+json",
+   "title": "Revit sample project – MEP (IFC4)"
+  }
+ ]
+}

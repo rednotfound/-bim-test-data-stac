@@ -1,0 +1,96 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--sports-150a8a",
+ "title": "building-type: sports",
+ "description": "12 items where building-type = sports. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "sports",
+ "bim:item_count": 12,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-bim-manual-v1-0-6126ac/wbdg-usaf-design-packages.fitness-center-bim-manual-v1-0-6126ac.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center BIM Manual v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-design-guide-with-markups-5a2489/wbdg-usaf-design-packages.fitness-center-design-guide-with-markups-5a2489.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center Design Guide_With Markups"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-large-c35ba3/wbdg-usaf-design-packages.fitness-center-large-c35ba3.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center_LARGE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-medium2-be1cd5/wbdg-usaf-design-packages.fitness-center-medium2-be1cd5.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center_MEDIUM2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-mega2-daf977/wbdg-usaf-design-packages.fitness-center-mega2-daf977.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center_MEGA2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.largefc-architectural-sheets-v1-0-a4218b/wbdg-usaf-design-packages.largefc-architectural-sheets-v1-0-a4218b.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – LARGEFC_Architectural Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.mediumfc-architectural-sheets-v1-0-c695c2/wbdg-usaf-design-packages.mediumfc-architectural-sheets-v1-0-c695c2.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – MEDIUMFC_Architectural_Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.megafc-architectural-sheets-v1-0-52cbfe/wbdg-usaf-design-packages.megafc-architectural-sheets-v1-0-52cbfe.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – MEGAFC_Architectural_Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.indoorsmallarmsfiringrangemodel-111714-bd810e/wbdg-usaf-design-packages.indoorsmallarmsfiringrangemodel-111714-bd810e.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – IndoorSmallArmsFiringRangeModel_111714"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.indoorsmallarmsrangedrawings-ba9623/wbdg-usaf-design-packages.indoorsmallarmsrangedrawings-ba9623.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – IndoorSmallArmsRangeDrawings"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.indoor-small-arms-range-drawings-2018-c6dc10/wbdg-usaf-design-packages.indoor-small-arms-range-drawings-2018-c6dc10.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – Indoor_Small_Arms_Range_Drawings_2018"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.standard-design-indoor-small-arms-firing-range-gui-4c90ab/wbdg-usaf-design-packages.standard-design-indoor-small-arms-firing-range-gui-4c90ab.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – standard_design_indoor_small_arms_firing_range_guide_2018"
+  }
+ ]
+}

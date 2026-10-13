@@ -1,0 +1,224 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "auckland-openifc.20210215ifc4-rv-convenience-store-renga-4-5-092f11",
+ "geometry": null,
+ "properties": {
+  "title": "Convenience store (Renga, IFC4 Reference View)",
+  "description": "IFC-SPF IFC4 file from 'Open IFC Model Repository (University of Auckland)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2021-02-15T11:35:41Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "data-rich",
+   "repository"
+  ],
+  "providers": [
+   {
+    "name": "University of Auckland, School of Computer Science",
+    "url": "https://openifcmodel.cs.auckland.ac.nz/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4",
+  "bim:source": "auckland-openifc",
+  "bim:building_type": "retail",
+  "bim:country": "RU",
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:use_cases": [
+   "data-rich"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://openifcmodel.cs.auckland.ac.nz/",
+  "bim:attribution": "Open IFC Model Repository, University of Auckland",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://openifcmodel.cs.auckland.ac.nz/api/download/20210215IFC4_RV_Convenience_store_Renga_4.5.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [ДЛЯ ПРОХОЖДЕНИЯ ЭКСПЕРТИЗЫ]"
+  ],
+  "ifc:view_definition": "ДЛЯ ПРОХОЖДЕНИЯ ЭКСПЕРТИЗЫ",
+  "ifc:header_timestamp": "2021-02-15T11:35:41",
+  "ifc:preprocessor_version": "IfcPlusPlus",
+  "ifc:originating_system": "Renga 4.5.33624.0",
+  "ifc:schema": "IFC4",
+  "ifc:products": 6235,
+  "ifc:product_types": 37,
+  "ifc:storeys": 6,
+  "ifc:spaces": 8,
+  "ifc:zones": 0,
+  "ifc:systems": 9,
+  "ifc:pset_names": [
+   "ExpCheck",
+   "ExpCheck_CableCarrier",
+   "ExpCheck_Column",
+   "ExpCheck_ElectricalSystem",
+   "ExpCheck_MaterialConcrete",
+   "ExpCheck_System",
+   "Pset_AirTerminalOccurrence",
+   "Pset_AirTerminalTypeCommon",
+   "Pset_BeamCommon",
+   "Pset_BuildingCommon",
+   "Pset_BuildingStoreyCommon",
+   "Pset_CableCarrierSegmentTypeCommon",
+   "Pset_CableSegmentTypeCommon",
+   "Pset_ColumnCommon",
+   "Pset_CoveringCommon",
+   "Pset_DamperTypeCommon",
+   "Pset_DistributionPortDuct",
+   "Pset_DistributionPortElectrical",
+   "Pset_DistributionPortPipe",
+   "Pset_DistributionSystemCommon",
+   "Pset_DoorCommon",
+   "Pset_DuctFittingTypeCommon",
+   "Pset_DuctSegmentTypeCommon",
+   "Pset_DuctSilencerTypeCommon",
+   "Pset_ElectricDistributionBoardTypeCommon",
+   "Pset_ElectricalDeviceCommon",
+   "Pset_FanOccurrence",
+   "Pset_FanTypeCommon",
+   "Pset_FilterTypeCommon",
+   "Pset_FootingCommon",
+   "Pset_JunctionBoxTypeCommon",
+   "Pset_LightFixtureTypeCommon",
+   "Pset_MechanicalFastenerCommon",
+   "Pset_OpeningElementCommon",
+   "Pset_PileCommon",
+   "Pset_PipeFittingTypeCommon",
+   "Pset_PipeSegmentOccurrence",
+   "Pset_PipeSegmentTypeCommon",
+   "Pset_RailingCommon",
+   "Pset_RampFlightCommon",
+   "Pset_ReinforcementBarPitchOfColumn",
+   "Pset_ReinforcementBarPitchOfSlab",
+   "Pset_ReinforcementBarPitchOfWall",
+   "Pset_RoofCommon",
+   "Pset_SanitaryTerminalTypeCommon",
+   "Pset_SiteCommon",
+   "Pset_SlabCommon",
+   "Pset_SpaceCommon",
+   "Pset_SpaceCoveringRequirements",
+   "Pset_StairCommon",
+   "Pset_StairFlightCommon",
+   "Pset_SwitchingDeviceTypeCommon",
+   "Pset_ValveTypeCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon"
+  ],
+  "ifc:props": 4786,
+  "ifc:qsets": 564,
+  "ifc:materials": 27,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 103,
+  "ifc:docs": 0,
+  "ifc:score": 23.86,
+  "ifc:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcReinforcingBar": 4086,
+   "IfcDistributionPort": 932,
+   "IfcMechanicalFastener": 260,
+   "IfcCableSegment": 192,
+   "IfcSensor": 105,
+   "IfcDuctSegment": 87,
+   "IfcPile": 84,
+   "IfcFooting": 80,
+   "IfcLightFixture": 68,
+   "IfcDuctFitting": 54,
+   "IfcWall": 33,
+   "IfcPipeSegment": 29,
+   "IfcDamper": 24,
+   "IfcBeam": 23,
+   "IfcColumn": 21,
+   "IfcPipeFitting": 21,
+   "IfcAirTerminal": 20,
+   "IfcCovering": 16,
+   "IfcWindow": 15,
+   "IfcCableCarrierSegment": 15,
+   "IfcDoor": 12,
+   "IfcVoidingFeature": 9,
+   "IfcSwitchingDevice": 8,
+   "IfcJunctionBox": 8,
+   "IfcUnitaryControlElement": 5
+  },
+  "ifc:project_name": "Rn4-IFC4-2020",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:building_names": [
+   "269"
+  ],
+  "ifc:storey_names": [
+   "Базовый уровень",
+   "у.ч.п.",
+   "Кровля",
+   "у.з.",
+   "Фундамент",
+   "Св. поле"
+  ],
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./auckland-openifc.20210215ifc4-rv-convenience-store-renga-4-5-092f11.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://openifcmodel.cs.auckland.ac.nz/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://openifcmodel.cs.auckland.ac.nz/",
+   "title": "Upstream dataset page"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://openifcmodel.cs.auckland.ac.nz/api/download/20210215IFC4_RV_Convenience_store_Renga_4.5.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "20210215IFC4_RV_Convenience_store_Renga_4.5.ifc",
+   "file:size": 10158914,
+   "file:checksum": "1220b95a298dba3f4eb20d8e4424a37ab5c075d2d096e92c07cd49fc42c872b0d088"
+  }
+ },
+ "collection": "auckland-openifc"
+}

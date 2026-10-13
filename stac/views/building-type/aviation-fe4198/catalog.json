@@ -1,0 +1,138 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--aviation-fe4198",
+ "title": "building-type: aviation",
+ "description": "19 items where building-type = aviation. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "aviation",
+ "bim:item_count": 19,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.asos-standard-design-guide-6768e4/wbdg-usaf-design-packages.asos-standard-design-guide-6768e4.json",
+   "type": "application/geo+json",
+   "title": "USAF Asos Dg – ASOS.standard.design.guide"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-46b7dd/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-46b7dd.json",
+   "type": "application/geo+json",
+   "title": "USAF Fighter-Hangar – DynamicPrototypes-FighterHangarAMU"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-4e4dd6/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-4e4dd6.json",
+   "type": "application/geo+json",
+   "title": "USAF Fighter-Hangar – DynamicPrototypes-FighterHangarAMU"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.sd-drawings-fight-hangar-e9e397/wbdg-usaf-design-packages.sd-drawings-fight-hangar-e9e397.json",
+   "type": "application/geo+json",
+   "title": "USAF Fighter-Hangar – sd_drawings_fight_hangar"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.cc-fc-hangar-prototype-dc-fbf30c/wbdg-usaf-design-packages.cc-fc-hangar-prototype-dc-fbf30c.json",
+   "type": "application/geo+json",
+   "title": "USAF Laccch – CC-FC_Hangar_Prototype_DC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.af-fuel-cell-hangar-standard-design-2305ee/wbdg-usaf-design-packages.af-fuel-cell-hangar-standard-design-2305ee.json",
+   "type": "application/geo+json",
+   "title": "USAF Laccch – af_fuel_cell_hangar_standard_design"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.af-rpa-general-maintenance-hangar-facility-standar-ddb4a7/wbdg-usaf-design-packages.af-rpa-general-maintenance-hangar-facility-standar-ddb4a7.json",
+   "type": "application/geo+json",
+   "title": "USAF Laccch – af_rpa_general_maintenance_hangar_facility_standard_design"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.rpa-maintenance-hangar-drawings-c4267c/wbdg-usaf-design-packages.rpa-maintenance-hangar-drawings-c4267c.json",
+   "type": "application/geo+json",
+   "title": "USAF Laccch – rpa_maintenance_hangar_drawings"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fut-definitivedesignsubmittaldesignanalysis-30c495/wbdg-usaf-design-packages.fut-definitivedesignsubmittaldesignanalysis-30c495.json",
+   "type": "application/geo+json",
+   "title": "USAF Laft – FuT_DefinitiveDesignSubmittalDesignAnalysis"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fut-definitivedesignsubmittaldrawings-6628c6/wbdg-usaf-design-packages.fut-definitivedesignsubmittaldrawings-6628c6.json",
+   "type": "application/geo+json",
+   "title": "USAF Laft – FuT_DefinitiveDesignSubmittalDrawings"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ftc-definitivedesignanalysis-bfd870/wbdg-usaf-design-packages.ftc-definitivedesignanalysis-bfd870.json",
+   "type": "application/geo+json",
+   "title": "USAF Laftc – FTC_DefinitiveDesignAnalysis"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ftc-definitivedesigndrawings-d2dc7b/wbdg-usaf-design-packages.ftc-definitivedesigndrawings-d2dc7b.json",
+   "type": "application/geo+json",
+   "title": "USAF Laftc – FTC_DefinitiveDesignDrawings"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.gm-hangarprgmingworksheet-16c205/wbdg-usaf-design-packages.gm-hangarprgmingworksheet-16c205.json",
+   "type": "application/geo+json",
+   "title": "USAF Lagmh – GM_HangarPrgmingWorksheet"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.gm-hangar-dc-9a3200/wbdg-usaf-design-packages.gm-hangar-dc-9a3200.json",
+   "type": "application/geo+json",
+   "title": "USAF Lagmh – GM_Hangar_DC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.gm-hangar-prototype-dc-ea5bea/wbdg-usaf-design-packages.gm-hangar-prototype-dc-ea5bea.json",
+   "type": "application/geo+json",
+   "title": "USAF Lagmh – GM_Hangar_Prototype_DC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.gm-hangar-prototype-dc-9f79d1/wbdg-usaf-design-packages.gm-hangar-prototype-dc-9f79d1.json",
+   "type": "application/geo+json",
+   "title": "USAF Lagmh – GM_Hangar_Prototype_DC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.milconsust-leed09hpsb-gm-pe-2c7d7a/wbdg-usaf-design-packages.milconsust-leed09hpsb-gm-pe-2c7d7a.json",
+   "type": "application/geo+json",
+   "title": "USAF Lagmh – MILCONSust_LEED09HPSB_GM-PE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.1bfs-definitivesubmittaldesignanalysis-48a7da/wbdg-usaf-design-packages.1bfs-definitivesubmittaldesignanalysis-48a7da.json",
+   "type": "application/geo+json",
+   "title": "USAF Laofs – 1BFS_DefinitiveSubmittalDesignAnalysis"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.standard-design-flight-sim-1-2-drawings-8435f4/wbdg-usaf-design-packages.standard-design-flight-sim-1-2-drawings-8435f4.json",
+   "type": "application/geo+json",
+   "title": "USAF Laofs – Standard_Design_flight_sim_1_2_DRAWINGS"
+  }
+ ]
+}

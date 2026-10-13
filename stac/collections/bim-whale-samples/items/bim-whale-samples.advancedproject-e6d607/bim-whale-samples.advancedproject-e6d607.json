@@ -1,0 +1,263 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bim-whale-samples.advancedproject-e6d607",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   18.08655,
+   59.357529
+  ]
+ },
+ "bbox": [
+  18.08655,
+  59.357529,
+  18.08655,
+  59.357529
+ ],
+ "properties": {
+  "title": "BIM Whale – AdvancedProject (IFC2X3)",
+  "description": "IFC-SPF IFC2X3 file from 'BIM Whale IFC samples'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2020-11-30T11:37:46Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "MIT",
+  "keywords": [
+   "dummy data",
+   "dummy-data",
+   "performance",
+   "properties"
+  ],
+  "providers": [
+   {
+    "name": "André Wisén (bim-whale)",
+    "url": "https://github.com/andrewisen/bim-whale-ifc-samples",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "bim-whale-samples",
+  "bim:building_type": "generic-building",
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:use_cases": [
+   "dummy-data",
+   "performance"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://github.com/andrewisen/bim-whale-ifc-samples/blob/main/LICENSE",
+  "bim:attribution": "andrewisen/bim-whale-ifc-samples (MIT)",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/andrewisen/bim-whale-ifc-samples/595fa90e3af7120d004fcb37a79d8657f1d1c9c2/AdvancedProject/IFC/AdvancedProject.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/andrewisen/bim-whale-ifc-samples",
+   "commit": "595fa90e3af7120d004fcb37a79d8657f1d1c9c2",
+   "path": "AdvancedProject/IFC/AdvancedProject.ifc",
+   "browse_url": "https://github.com/andrewisen/bim-whale-ifc-samples/blob/595fa90e3af7120d004fcb37a79d8657f1d1c9c2/AdvancedProject/IFC/AdvancedProject.ifc",
+   "git_lfs": false,
+   "commit_date": "2020-11-30"
+  },
+  "bim:thumbnail": "generated",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView_V2.0, QuantityTakeOffAddOnView]"
+  ],
+  "ifc:view_definition": "CoordinationView_V2.0, QuantityTakeOffAddOnView",
+  "ifc:header_timestamp": "2020-11-30T11:37:46",
+  "ifc:preprocessor_version": "The EXPRESS Data Manager Version 5.02.0100.07 : 28 Aug 2013",
+  "ifc:originating_system": "21.1.10.26 - Exporter 21.1.10.26 - Alternate UI 21.1.10.26",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 1901,
+  "ifc:product_types": 16,
+  "ifc:storeys": 10,
+  "ifc:spaces": 8,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Analytical Properties",
+   "Analytical Properties(Type)",
+   "Calculation Rules(Type)",
+   "Constraints",
+   "Constraints(Type)",
+   "Construction",
+   "Construction(Type)",
+   "Custom_Pset",
+   "Data",
+   "Dimensions",
+   "Dimensions(Type)",
+   "Electrical",
+   "Electrical - Circuiting",
+   "Electrical - Loads",
+   "Electrical Engineering",
+   "General",
+   "General(Type)",
+   "Graphics",
+   "Graphics(Type)",
+   "Handrail 1(Type)",
+   "Handrail 2(Type)",
+   "Identity Data",
+   "Identity Data(Type)",
+   "Materials and Finishes",
+   "Materials and Finishes(Type)",
+   "Mechanical",
+   "Mechanical - Flow",
+   "Model Properties",
+   "Other",
+   "Other(Type)",
+   "Phasing",
+   "Plumbing",
+   "Pset_AirSideSystemInformation",
+   "Pset_BuildingCommon",
+   "Pset_BuildingElementProxyCommon",
+   "Pset_BuildingStoreyCommon",
+   "Pset_ConcreteElementGeneral",
+   "Pset_DistributionFlowElementCommon",
+   "Pset_DoorCommon",
+   "Pset_DrainageReserve",
+   "Pset_ElementShading",
+   "Pset_FurnitureTypeCommon",
+   "Pset_ManufacturerOccurrence",
+   "Pset_ManufacturerTypeInformation",
+   "Pset_MemberCommon",
+   "Pset_OpeningElementCommon",
+   "Pset_PrecastConcreteElementGeneral",
+   "Pset_ProductRequirements",
+   "Pset_ProvisionForVoid",
+   "Pset_QuantityTakeOff",
+   "Pset_RailingCommon",
+   "Pset_RampCommon",
+   "Pset_RampFlightCommon",
+   "Pset_ReinforcementBarPitchOfSlab",
+   "Pset_ReinforcementBarPitchOfWall",
+   "Pset_RoofCommon",
+   "Pset_SlabCommon",
+   "Pset_SpaceCommon",
+   "Pset_StairCommon",
+   "Pset_StairFlightCommon"
+  ],
+  "ifc:props": 56985,
+  "ifc:qsets": 1354,
+  "ifc:materials": 97,
+  "ifc:classif_refs": 8,
+  "ifc:type_objects": 202,
+  "ifc:docs": 0,
+  "ifc:score": 25.77,
+  "ifc:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcFurnishingElement": 407,
+   "IfcWallStandardCase": 381,
+   "IfcBuildingElementProxy": 358,
+   "IfcWindow": 263,
+   "IfcDistributionPort": 139,
+   "IfcDoor": 126,
+   "IfcMember": 83,
+   "IfcFlowTerminal": 49,
+   "IfcSlab": 43,
+   "IfcRailing": 19,
+   "IfcStair": 9,
+   "IfcStairFlight": 9,
+   "IfcWall": 9,
+   "IfcRamp": 2,
+   "IfcRampFlight": 2,
+   "IfcRoof": 2
+  },
+  "ifc:classification_systems": [
+   "Uniformat"
+  ],
+  "ifc:project_name": "Project Number",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:building_names": [
+   "Building Name"
+  ],
+  "ifc:storey_names": [
+   "-1 - Garage",
+   "Level 1",
+   "1 - First Floor",
+   "Level 2",
+   "2 - Second Floor",
+   "3 - Third Floor",
+   "4 - Fourth Floor",
+   "5 - Fifth Floor",
+   "6 - Sixth Floor",
+   "7- ROOF"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)",
+  "bim:site_elevation": 0.0
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bim-whale-samples.advancedproject-e6d607.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/andrewisen/bim-whale-ifc-samples/blob/main/LICENSE",
+   "title": "MIT"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/andrewisen/bim-whale-ifc-samples",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/andrewisen/bim-whale-ifc-samples/blob/595fa90e3af7120d004fcb37a79d8657f1d1c9c2/AdvancedProject/IFC/AdvancedProject.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/andrewisen/bim-whale-ifc-samples/595fa90e3af7120d004fcb37a79d8657f1d1c9c2/AdvancedProject/IFC/AdvancedProject.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "AdvancedProject.ifc",
+   "file:size": 44337371,
+   "file:checksum": "122086b068a7ca6947e398c1daaa8bede9d31048c3990adc308429faeb56ee01db94"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "bim-whale-samples"
+}

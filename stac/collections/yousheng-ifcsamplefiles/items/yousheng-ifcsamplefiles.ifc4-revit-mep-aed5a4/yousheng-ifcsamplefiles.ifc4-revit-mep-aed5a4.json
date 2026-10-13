@@ -1,0 +1,236 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "yousheng-ifcsamplefiles.ifc4-revit-mep-aed5a4",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   11.583,
+   48.133
+  ]
+ },
+ "bbox": [
+  11.583,
+  48.133,
+  11.583,
+  48.133
+ ],
+ "properties": {
+  "title": "Revit sample project – MEP (IFC4)",
+  "description": "IFC-SPF IFC4 file from 'youshengCode IfcSampleFiles'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2021-03-02T23:38:45Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "MEP",
+   "Revit export",
+   "data-rich",
+   "multi-discipline"
+  ],
+  "providers": [
+   {
+    "name": "youshengCode",
+    "url": "https://github.com/youshengCode/IfcSampleFiles",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4",
+  "bim:source": "yousheng-ifcsamplefiles",
+  "bim:project": "yousheng-revit-ifc4",
+  "bim:building_type": "office",
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:use_cases": [
+   "data-rich",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://github.com/youshengCode/IfcSampleFiles",
+  "bim:attribution": "youshengCode/IfcSampleFiles",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/youshengCode/IfcSampleFiles/7e6927982d7e57b29409bb631ef93d6770ef0665/Ifc4_Revit_MEP.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/youshengCode/IfcSampleFiles",
+   "commit": "7e6927982d7e57b29409bb631ef93d6770ef0665",
+   "path": "Ifc4_Revit_MEP.ifc",
+   "browse_url": "https://github.com/youshengCode/IfcSampleFiles/blob/7e6927982d7e57b29409bb631ef93d6770ef0665/Ifc4_Revit_MEP.ifc",
+   "git_lfs": false,
+   "commit_date": "2021-08-24"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [ReferenceView_V1.2]"
+  ],
+  "ifc:view_definition": "ReferenceView_V1.2",
+  "ifc:header_timestamp": "2021-03-02T23:38:45",
+  "ifc:preprocessor_version": "The EXPRESS Data Manager Version 5.02.0100.07 : 28 Aug 2013",
+  "ifc:originating_system": "21.0.0.383 - Exporter 21.0.0.383 - Alternate UI 21.0.0.383",
+  "ifc:schema": "IFC4",
+  "ifc:products": 15339,
+  "ifc:product_types": 23,
+  "ifc:storeys": 4,
+  "ifc:spaces": 163,
+  "ifc:zones": 51,
+  "ifc:systems": 289,
+  "ifc:pset_names": [
+   "Pset_AirSideSystemInformation",
+   "Pset_AirTerminalBoxTypeCommon",
+   "Pset_AirTerminalTypeCommon",
+   "Pset_BuildingCommon",
+   "Pset_BuildingElementProxyCommon",
+   "Pset_BuildingStoreyCommon",
+   "Pset_BuildingSystemCommon",
+   "Pset_CableCarrierFittingTypeCommon",
+   "Pset_CableCarrierSegmentTypeCommon",
+   "Pset_ColumnCommon",
+   "Pset_CoveringCommon",
+   "Pset_CurtainWallCommon",
+   "Pset_DoorCommon",
+   "Pset_DuctFittingTypeCommon",
+   "Pset_DuctSegmentTypeCommon",
+   "Pset_EnvironmentalImpactIndicators",
+   "Pset_FireSuppressionTerminalTypeCommon",
+   "Pset_LightFixtureTypeCommon",
+   "Pset_ManufacturerTypeInformation",
+   "Pset_MemberCommon",
+   "Pset_OpeningElementCommon",
+   "Pset_PipeFittingTypeCommon",
+   "Pset_PipeSegmentOccurrence",
+   "Pset_PipeSegmentTypeCommon",
+   "Pset_PlateCommon",
+   "Pset_RailingCommon",
+   "Pset_ReinforcementBarPitchOfColumn",
+   "Pset_ReinforcementBarPitchOfSlab",
+   "Pset_ReinforcementBarPitchOfWall",
+   "Pset_SiteCommon",
+   "Pset_SlabCommon",
+   "Pset_SpaceCommon",
+   "Pset_SpaceHeaterTypeCommon",
+   "Pset_StairCommon",
+   "Pset_StairFlightCommon",
+   "Pset_WallCommon",
+   "Pset_ZoneCommon"
+  ],
+  "ifc:props": 24516,
+  "ifc:qsets": 2208,
+  "ifc:materials": 34,
+  "ifc:classif_refs": 2,
+  "ifc:type_objects": 1172,
+  "ifc:docs": 0,
+  "ifc:score": 25.27,
+  "ifc:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcDistributionPort": 8515,
+   "IfcMember": 1450,
+   "IfcDuctFitting": 935,
+   "IfcDuctSegment": 837,
+   "IfcBuildingElementProxy": 654,
+   "IfcPlate": 629,
+   "IfcPipeFitting": 535,
+   "IfcPipeSegment": 491,
+   "IfcLightFixture": 410,
+   "IfcAirTerminal": 309,
+   "IfcColumn": 135,
+   "IfcWall": 133,
+   "IfcDoor": 124,
+   "IfcCovering": 43,
+   "IfcCurtainWall": 33,
+   "IfcSlab": 25,
+   "IfcCableCarrierSegment": 20,
+   "IfcRailing": 14,
+   "IfcCableCarrierFitting": 14,
+   "IfcFlowTerminal": 11,
+   "IfcStair": 8,
+   "IfcStairFlight": 8,
+   "IfcFireSuppressionTerminal": 6
+  },
+  "ifc:classification_systems": [
+   "Uniformat"
+  ],
+  "ifc:project_name": "Project Number",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:storey_names": [
+   "Level 1",
+   "Level 2",
+   "Level 3",
+   "Roof Level"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)",
+  "bim:site_elevation": 0.0
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./yousheng-ifcsamplefiles.ifc4-revit-mep-aed5a4.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/youshengCode/IfcSampleFiles",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/youshengCode/IfcSampleFiles",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/youshengCode/IfcSampleFiles/blob/7e6927982d7e57b29409bb631ef93d6770ef0665/Ifc4_Revit_MEP.ifc",
+   "title": "Upstream file (pinned commit)"
+  },
+  {
+   "rel": "related",
+   "href": "../yousheng-ifcsamplefiles.ifc4-revit-arc-b1d0c4/yousheng-ifcsamplefiles.ifc4-revit-arc-b1d0c4.json",
+   "type": "application/geo+json",
+   "title": "Same project (yousheng-revit-ifc4)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/youshengCode/IfcSampleFiles/7e6927982d7e57b29409bb631ef93d6770ef0665/Ifc4_Revit_MEP.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "Ifc4_Revit_MEP.ifc",
+   "file:size": 29165277,
+   "file:checksum": "1220829c08715d56256e04d04fa7be40ec68928e0397631c3b846efd72d003f96495"
+  }
+ },
+ "collection": "yousheng-ifcsamplefiles"
+}

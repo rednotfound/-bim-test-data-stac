@@ -1,0 +1,148 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "wbdg-usaf-design-packages.cc-fc-hangar-prototype-dc-fbf30c",
+ "geometry": null,
+ "properties": {
+  "title": "USAF Laccch – CC-FC_Hangar_Prototype_DC",
+  "description": "PDF PDF 1.4 file from 'WBDG US Air Force design packages (AFDP)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2018-05-21T14:17:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-US-Government-Public-Domain",
+  "keywords": [
+   "Revit",
+   "USAF",
+   "pdf-drawing",
+   "public domain",
+   "real-project",
+   "sheet set"
+  ],
+  "providers": [
+   {
+    "name": "US Air Force Civil Engineer Center (AFCEC)",
+    "url": "https://www.wbdg.org/ffc/af-afcec",
+    "roles": [
+     "producer"
+    ]
+   },
+   {
+    "name": "Whole Building Design Guide (WBDG), NIBS",
+    "url": "https://www.wbdg.org",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "PDF",
+  "bim:format_family": "PDF",
+  "bim:format_version": "PDF 1.4",
+  "bim:source": "wbdg-usaf-design-packages",
+  "bim:project": "usaf-laccch",
+  "bim:building_type": "aviation",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "pdf-drawing",
+   "real-project"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://www.usa.gov/government-copyright",
+  "bim:attribution": "US Air Force Civil Engineer Center, via WBDG (wbdg.org)",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "PDF CreationDate",
+  "bim:provenance": {
+   "upstream_href": "https://www.wbdg.org/FFC/AF/AFDP/LACCCH/CC-FC_Hangar_Prototype_DC.pdf",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "generated",
+  "pdf:pages": 9,
+  "pdf:creator": "Bluebeam Stapler 2017.0.20",
+  "pdf:producer": "Bluebeam Brewery 5.0",
+  "pdf:version": "PDF 1.4",
+  "pdf:page_sizes": {
+   "ANSI B landscape": 9
+  },
+  "pdf:vector_pages_ratio": 1.0,
+  "pdf:raster_pages_ratio": 1.0,
+  "pdf:text_extractable": true,
+  "pdf:language_cjk": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./wbdg-usaf-design-packages.cc-fc-hangar-prototype-dc-fbf30c.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.usa.gov/government-copyright",
+   "title": "LicenseRef-US-Government-Public-Domain"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.wbdg.org/ffc/af-afcec/design-packages",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.af-fuel-cell-hangar-standard-design-2305ee/wbdg-usaf-design-packages.af-fuel-cell-hangar-standard-design-2305ee.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-laccch)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.af-rpa-general-maintenance-hangar-facility-standar-ddb4a7/wbdg-usaf-design-packages.af-rpa-general-maintenance-hangar-facility-standar-ddb4a7.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-laccch)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.rpa-maintenance-hangar-drawings-c4267c/wbdg-usaf-design-packages.rpa-maintenance-hangar-drawings-c4267c.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-laccch)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://www.wbdg.org/FFC/AF/AFDP/LACCCH/CC-FC_Hangar_Prototype_DC.pdf",
+   "type": "application/pdf",
+   "roles": [
+    "data"
+   ],
+   "title": "CC-FC_Hangar_Prototype_DC.pdf",
+   "file:size": 2765928,
+   "file:checksum": "12206e36a687241f4d138cf1f5beb505a862a4717c2d3c701c85d7056ea0e62a6aae"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "wbdg-usaf-design-packages"
+}

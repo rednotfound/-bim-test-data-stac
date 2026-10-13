@@ -1,0 +1,847 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [],
+ "id": "wbdg-usaf-design-packages",
+ "title": "WBDG US Air Force design packages (AFDP)",
+ "description": "US Air Force standard facility prototypes: Revit models, PDF sheet sets, DWG and DWF, published on WBDG.",
+ "license": "LicenseRef-US-Government-Public-Domain",
+ "keywords": [
+  "Revit",
+  "sheet set",
+  "public domain",
+  "USAF"
+ ],
+ "providers": [
+  {
+   "name": "US Air Force Civil Engineer Center (AFCEC)",
+   "url": "https://www.wbdg.org/ffc/af-afcec",
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "name": "Whole Building Design Guide (WBDG), NIBS",
+   "url": "https://www.wbdg.org",
+   "roles": [
+    "host"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     -180,
+     -90,
+     180,
+     90
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2009-04-23T23:11:00Z",
+     "2026-10-13T00:00:00Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "DWG",
+   "PDF",
+   "RVT"
+  ],
+  "bim:format_version": [
+   "AC1021 R2007",
+   "PDF 1.4",
+   "PDF 1.5",
+   "PDF 1.6",
+   "PDF 1.7",
+   "Revit 2009",
+   "Revit 2011",
+   "Revit 2013",
+   "Revit 2014"
+  ],
+  "bim:building_type": [
+   "aviation",
+   "dormitory",
+   "industrial",
+   "justice",
+   "lodging",
+   "office",
+   "other",
+   "public-safety",
+   "security",
+   "sports",
+   "template"
+  ],
+  "bim:country": [
+   "US"
+  ],
+  "bim:use_cases": [
+   "cad-render",
+   "pdf-drawing",
+   "real-project",
+   "revit-native"
+  ],
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:license_tier": [
+   "open"
+  ]
+ },
+ "bim:license_tier": "open",
+ "bim:license_quote": "Work of the US federal government; not subject to copyright in the United States (17 U.S.C. §105).",
+ "bim:attribution": "US Air Force Civil Engineer Center, via WBDG (wbdg.org)",
+ "bim:origin": {
+  "kind": "url",
+  "base": "https://www.wbdg.org/FFC/"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 118,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.usa.gov/government-copyright",
+   "title": "LicenseRef-US-Government-Public-Domain"
+  },
+  {
+   "rel": "about",
+   "href": "https://www.wbdg.org/ffc/af-afcec/design-packages",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.usaf-sfile-template-2011-a5c7cb/wbdg-usaf-design-packages.usaf-sfile-template-2011-a5c7cb.json",
+   "type": "application/geo+json",
+   "title": "USAF Template – usaf_sfile_template_2011"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.asos-standard-design-guide-6768e4/wbdg-usaf-design-packages.asos-standard-design-guide-6768e4.json",
+   "type": "application/geo+json",
+   "title": "USAF Asos Dg – ASOS.standard.design.guide"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.ces-sd-drawings-admin-bldg-2dbd7a/wbdg-usaf-design-packages.ces-sd-drawings-admin-bldg-2dbd7a.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Admin – CES_SD_drawings_admin_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.ce-admin-building-dcb9a0/wbdg-usaf-design-packages.ce-admin-building-dcb9a0.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Admin – ce_admin_building"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.ces-admin-building-f306b8/wbdg-usaf-design-packages.ces-admin-building-f306b8.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Admin – ces__admin_building"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.ces-sd-drawings-eod-bldg-0f86df/wbdg-usaf-design-packages.ces-sd-drawings-eod-bldg-0f86df.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Explosive – CES_sd_drawings_eod_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.afdp-ce-explosive-concept-plans-b19506/wbdg-usaf-design-packages.afdp-ce-explosive-concept-plans-b19506.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Explosive – afdp_ce_explosive_concept_plans"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.ces-sd-drawings-fac-main-bldg-f89eff/wbdg-usaf-design-packages.ces-sd-drawings-fac-main-bldg-f89eff.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Fac Main – CES_sd_drawings_fac_main_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.af-remotely-piloted-aircraft-squadron-ops-fac-4b9959/wbdg-usaf-design-packages.af-remotely-piloted-aircraft-squadron-ops-fac-4b9959.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Fac Main – af_remotely_piloted_aircraft_squadron_ops_fac"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.concept-plans-fac-maint-8ddb05/wbdg-usaf-design-packages.concept-plans-fac-maint-8ddb05.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Fac Main – concept_plans_fac_maint"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.squad-ops-facility-standard-design-plans-9e3bb2/wbdg-usaf-design-packages.squad-ops-facility-standard-design-plans-9e3bb2.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Fac Main – squad_ops_facility_standard_design_plans"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.ces-sd-drawings-pest-bldg-13f725/wbdg-usaf-design-packages.ces-sd-drawings-pest-bldg-13f725.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Pest – CES_sd_drawings_pest_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.cepestmanagementprototype-c5bd68/wbdg-usaf-design-packages.cepestmanagementprototype-c5bd68.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Pest – cepestmanagementprototype"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.confinementfacility01apr15-063779/wbdg-usaf-design-packages.confinementfacility01apr15-063779.json",
+   "type": "application/geo+json",
+   "title": "USAF Confinement – ConfinementFacility01APR15"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.fdwd5022-dpconfinement-revit2013-arch-central-d7da7c/wbdg-usaf-design-packages.fdwd5022-dpconfinement-revit2013-arch-central-d7da7c.json",
+   "type": "application/geo+json",
+   "title": "USAF Confinement – FDWD5022_DPConfinement_Revit2013_Arch_Central"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.afcee-dynamic-dorm-prototypes-111709-dad8c1/wbdg-usaf-design-packages.afcee-dynamic-dorm-prototypes-111709-dad8c1.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE Dynamic Dorm Prototypes_111709"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.afcee-dorms-a-version-2-0-060309-9e0bcb/wbdg-usaf-design-packages.afcee-dorms-a-version-2-0-060309-9e0bcb.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-A-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.afcee-dorms-all-version-2-1-321e5d/wbdg-usaf-design-packages.afcee-dorms-all-version-2-1-321e5d.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-ALL-VERSION 2.1"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.afcee-dorms-e-version-2-0-060309-d80bfe/wbdg-usaf-design-packages.afcee-dorms-e-version-2-0-060309-d80bfe.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-E-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.afcee-dorms-f-version-2-0-060309-36f02f/wbdg-usaf-design-packages.afcee-dorms-f-version-2-0-060309-36f02f.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-F-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.afcee-dorms-m-version-2-0-060309-b4dad5/wbdg-usaf-design-packages.afcee-dorms-m-version-2-0-060309-b4dad5.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-M-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.afcee-dorms-p-version-2-0-060309-77de9b/wbdg-usaf-design-packages.afcee-dorms-p-version-2-0-060309-77de9b.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-P-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.architecturesheets-v1-0-94d065/wbdg-usaf-design-packages.architecturesheets-v1-0-94d065.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – ArchitectureSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.electrical-sheets-v1-0-5a4a11/wbdg-usaf-design-packages.electrical-sheets-v1-0-5a4a11.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – Electrical Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-f57a5b/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-f57a5b.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – FireProtectionSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.mechanicalsheets-v1-0-f68e34/wbdg-usaf-design-packages.mechanicalsheets-v1-0-f68e34.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – MechanicalSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.plumbingsheets-v1-0-553698/wbdg-usaf-design-packages.plumbingsheets-v1-0-553698.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – PlumbingSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.structuralsheets-v1-0-8b0e4d/wbdg-usaf-design-packages.structuralsheets-v1-0-8b0e4d.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – StructuralSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.v2-1-afcee-dynamic-prototype-bim-manual-051109-f81120/wbdg-usaf-design-packages.v2-1-afcee-dynamic-prototype-bim-manual-051109-f81120.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – V2.1_AFCEE Dynamic Prototype BIM Manual_051109"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.v2-2-specifications-061509-rev-0bf234/wbdg-usaf-design-packages.v2-2-specifications-061509-rev-0bf234.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – V2.2_Specifications_061509 (rev)"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.20141117-entrycontrolfacility-iacp-model-8b028c/wbdg-usaf-design-packages.20141117-entrycontrolfacility-iacp-model-8b028c.json",
+   "type": "application/geo+json",
+   "title": "USAF Entry Control – 20141117_EntryControlFacility-IACP_Model"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.20150106-ecf-iacp-5b5763/wbdg-usaf-design-packages.20150106-ecf-iacp-5b5763.json",
+   "type": "application/geo+json",
+   "title": "USAF Entry Control – 20150106_ECF-IACP"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-46b7dd/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-46b7dd.json",
+   "type": "application/geo+json",
+   "title": "USAF Fighter-Hangar – DynamicPrototypes-FighterHangarAMU"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-4e4dd6/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-4e4dd6.json",
+   "type": "application/geo+json",
+   "title": "USAF Fighter-Hangar – DynamicPrototypes-FighterHangarAMU"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.sd-drawings-fight-hangar-e9e397/wbdg-usaf-design-packages.sd-drawings-fight-hangar-e9e397.json",
+   "type": "application/geo+json",
+   "title": "USAF Fighter-Hangar – sd_drawings_fight_hangar"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.fire-station-prototype-central-89a143/wbdg-usaf-design-packages.fire-station-prototype-central-89a143.json",
+   "type": "application/geo+json",
+   "title": "USAF Fire Station – FIRE_STATION_PROTOTYPE_CENTRAL"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.fs-proto-hq-606dbb/wbdg-usaf-design-packages.fs-proto-hq-606dbb.json",
+   "type": "application/geo+json",
+   "title": "USAF Fire Station – fs_proto_hq"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.fs-proto-sat-0057e4/wbdg-usaf-design-packages.fs-proto-sat-0057e4.json",
+   "type": "application/geo+json",
+   "title": "USAF Fire Station – fs_proto_sat"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.fitness-center-bim-manual-v1-0-6126ac/wbdg-usaf-design-packages.fitness-center-bim-manual-v1-0-6126ac.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center BIM Manual v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.fitness-center-design-guide-with-markups-5a2489/wbdg-usaf-design-packages.fitness-center-design-guide-with-markups-5a2489.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center Design Guide_With Markups"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.fitness-center-large-c35ba3/wbdg-usaf-design-packages.fitness-center-large-c35ba3.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center_LARGE"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.fitness-center-medium2-be1cd5/wbdg-usaf-design-packages.fitness-center-medium2-be1cd5.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center_MEDIUM2"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.fitness-center-mega2-daf977/wbdg-usaf-design-packages.fitness-center-mega2-daf977.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center_MEGA2"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.largefc-architectural-sheets-v1-0-a4218b/wbdg-usaf-design-packages.largefc-architectural-sheets-v1-0-a4218b.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – LARGEFC_Architectural Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.mediumfc-architectural-sheets-v1-0-c695c2/wbdg-usaf-design-packages.mediumfc-architectural-sheets-v1-0-c695c2.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – MEDIUMFC_Architectural_Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.megafc-architectural-sheets-v1-0-52cbfe/wbdg-usaf-design-packages.megafc-architectural-sheets-v1-0-52cbfe.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – MEGAFC_Architectural_Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.indoorsmallarmsfiringrangemodel-111714-bd810e/wbdg-usaf-design-packages.indoorsmallarmsfiringrangemodel-111714-bd810e.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – IndoorSmallArmsFiringRangeModel_111714"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.indoorsmallarmsrangedrawings-ba9623/wbdg-usaf-design-packages.indoorsmallarmsrangedrawings-ba9623.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – IndoorSmallArmsRangeDrawings"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.indoor-small-arms-range-drawings-2018-c6dc10/wbdg-usaf-design-packages.indoor-small-arms-range-drawings-2018-c6dc10.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – Indoor_Small_Arms_Range_Drawings_2018"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.standard-design-indoor-small-arms-firing-range-gui-4c90ab/wbdg-usaf-design-packages.standard-design-indoor-small-arms-firing-range-gui-4c90ab.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – standard_design_indoor_small_arms_firing_range_guide_2018"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.20130328-bim-manual-afcec-bim-prototype-mwd-kennel-ab0050/wbdg-usaf-design-packages.20130328-bim-manual-afcec-bim-prototype-mwd-kennel-ab0050.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – 20130328_BIM MANUAL_AFCEC-BIM_Prototype-MWD_Kennel"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.20130328-military-working-dog-kennel-prototype-dra-e8ecab/wbdg-usaf-design-packages.20130328-military-working-dog-kennel-prototype-dra-e8ecab.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – 20130328_Military_Working_Dog_Kennel_Prototype_Drawings"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.military-working-dog-kennel-program-de654e/wbdg-usaf-design-packages.military-working-dog-kennel-program-de654e.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – Military_Working_Dog_Kennel_Program"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.military-working-dog-kennel-prototype-arch2013-cen-2431e7/wbdg-usaf-design-packages.military-working-dog-kennel-prototype-arch2013-cen-2431e7.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – Military_Working_Dog_Kennel_Prototype_ARCH2013_Central"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.drawings-mil-work-dog-june-2018-6fc7a2/wbdg-usaf-design-packages.drawings-mil-work-dog-june-2018-6fc7a2.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – drawings_mil_work_dog_june_2018"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.mil-working-dog-cal-spreadsheet-june-2018-e59245/wbdg-usaf-design-packages.mil-working-dog-cal-spreadsheet-june-2018-e59245.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – mil_working_dog_cal_spreadsheet_june_2018"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.standard-design-mil-working-dog-july-2018-5a751e/wbdg-usaf-design-packages.standard-design-mil-working-dog-july-2018-5a751e.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – standard_design_mil_working_dog_july_2018"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.cc-fc-hangar-prototype-dc-fbf30c/wbdg-usaf-design-packages.cc-fc-hangar-prototype-dc-fbf30c.json",
+   "type": "application/geo+json",
+   "title": "USAF Laccch – CC-FC_Hangar_Prototype_DC"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.af-fuel-cell-hangar-standard-design-2305ee/wbdg-usaf-design-packages.af-fuel-cell-hangar-standard-design-2305ee.json",
+   "type": "application/geo+json",
+   "title": "USAF Laccch – af_fuel_cell_hangar_standard_design"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.af-rpa-general-maintenance-hangar-facility-standar-ddb4a7/wbdg-usaf-design-packages.af-rpa-general-maintenance-hangar-facility-standar-ddb4a7.json",
+   "type": "application/geo+json",
+   "title": "USAF Laccch – af_rpa_general_maintenance_hangar_facility_standard_design"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.rpa-maintenance-hangar-drawings-c4267c/wbdg-usaf-design-packages.rpa-maintenance-hangar-drawings-c4267c.json",
+   "type": "application/geo+json",
+   "title": "USAF Laccch – rpa_maintenance_hangar_drawings"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.fut-definitivedesignsubmittaldesignanalysis-30c495/wbdg-usaf-design-packages.fut-definitivedesignsubmittaldesignanalysis-30c495.json",
+   "type": "application/geo+json",
+   "title": "USAF Laft – FuT_DefinitiveDesignSubmittalDesignAnalysis"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.fut-definitivedesignsubmittaldrawings-6628c6/wbdg-usaf-design-packages.fut-definitivedesignsubmittaldrawings-6628c6.json",
+   "type": "application/geo+json",
+   "title": "USAF Laft – FuT_DefinitiveDesignSubmittalDrawings"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.ftc-definitivedesignanalysis-bfd870/wbdg-usaf-design-packages.ftc-definitivedesignanalysis-bfd870.json",
+   "type": "application/geo+json",
+   "title": "USAF Laftc – FTC_DefinitiveDesignAnalysis"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.ftc-definitivedesigndrawings-d2dc7b/wbdg-usaf-design-packages.ftc-definitivedesigndrawings-d2dc7b.json",
+   "type": "application/geo+json",
+   "title": "USAF Laftc – FTC_DefinitiveDesignDrawings"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.gm-hangarprgmingworksheet-16c205/wbdg-usaf-design-packages.gm-hangarprgmingworksheet-16c205.json",
+   "type": "application/geo+json",
+   "title": "USAF Lagmh – GM_HangarPrgmingWorksheet"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.gm-hangar-dc-9a3200/wbdg-usaf-design-packages.gm-hangar-dc-9a3200.json",
+   "type": "application/geo+json",
+   "title": "USAF Lagmh – GM_Hangar_DC"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.gm-hangar-prototype-dc-ea5bea/wbdg-usaf-design-packages.gm-hangar-prototype-dc-ea5bea.json",
+   "type": "application/geo+json",
+   "title": "USAF Lagmh – GM_Hangar_Prototype_DC"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.gm-hangar-prototype-dc-9f79d1/wbdg-usaf-design-packages.gm-hangar-prototype-dc-9f79d1.json",
+   "type": "application/geo+json",
+   "title": "USAF Lagmh – GM_Hangar_Prototype_DC"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.milconsust-leed09hpsb-gm-pe-2c7d7a/wbdg-usaf-design-packages.milconsust-leed09hpsb-gm-pe-2c7d7a.json",
+   "type": "application/geo+json",
+   "title": "USAF Lagmh – MILCONSust_LEED09HPSB_GM-PE"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.1bfs-definitivesubmittaldesignanalysis-48a7da/wbdg-usaf-design-packages.1bfs-definitivesubmittaldesignanalysis-48a7da.json",
+   "type": "application/geo+json",
+   "title": "USAF Laofs – 1BFS_DefinitiveSubmittalDesignAnalysis"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.standard-design-flight-sim-1-2-drawings-8435f4/wbdg-usaf-design-packages.standard-design-flight-sim-1-2-drawings-8435f4.json",
+   "type": "application/geo+json",
+   "title": "USAF Laofs – Standard_Design_flight_sim_1_2_DRAWINGS"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.dorm-sd-drawings-jun-2019-4966db/wbdg-usaf-design-packages.dorm-sd-drawings-jun-2019-4966db.json",
+   "type": "application/geo+json",
+   "title": "USAF Perm Party Enlisted Dorm – Dorm_SD_Drawings_jun_2019"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.perm-party-enlisted-dorm-dg-jun-2019-ce57a7/wbdg-usaf-design-packages.perm-party-enlisted-dorm-dg-jun-2019-ce57a7.json",
+   "type": "application/geo+json",
+   "title": "USAF Perm Party Enlisted Dorm – perm_party_enlisted_dorm_DG_jun_2019"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.sfo-bim-manual-255091/wbdg-usaf-design-packages.sfo-bim-manual-255091.json",
+   "type": "application/geo+json",
+   "title": "USAF Sfo – SFO BIM Manual"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.sfo-pdf-version-of-all-sheets-v1-0-f40411/wbdg-usaf-design-packages.sfo-pdf-version-of-all-sheets-v1-0-f40411.json",
+   "type": "application/geo+json",
+   "title": "USAF Sfo – SFO PDF Version of all Sheets v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.sfo-prototypes-a-c02aa2/wbdg-usaf-design-packages.sfo-prototypes-a-c02aa2.json",
+   "type": "application/geo+json",
+   "title": "USAF Sfo – SFO Prototypes - A"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.ces-sd-drawings-warehouse-bldg-16d47f/wbdg-usaf-design-packages.ces-sd-drawings-warehouse-bldg-16d47f.json",
+   "type": "application/geo+json",
+   "title": "USAF Shops-Warehouse – CES_sd_drawings_warehouse_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.concept-plans-shops-warehouse-49dba7/wbdg-usaf-design-packages.concept-plans-shops-warehouse-49dba7.json",
+   "type": "application/geo+json",
+   "title": "USAF Shops-Warehouse – concept_plans_shops_warehouse"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.standard-design-storage-igloo-957b45/wbdg-usaf-design-packages.standard-design-storage-igloo-957b45.json",
+   "type": "application/geo+json",
+   "title": "USAF Storage Igloo – standard_design_storage_igloo"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.afcee-dorms-all-version-2-1-0da534/wbdg-usaf-design-packages.afcee-dorms-all-version-2-1-0da534.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – AFCEE-DORMS-ALL-VERSION 2.1"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.architecturesheets-v1-0-077fef/wbdg-usaf-design-packages.architecturesheets-v1-0-077fef.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – ArchitectureSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.electrical-sheets-v1-0-705039/wbdg-usaf-design-packages.electrical-sheets-v1-0-705039.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Electrical Sheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-3e6f80/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-3e6f80.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – FireProtectionSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.mechanicalsheets-v1-0-9f003f/wbdg-usaf-design-packages.mechanicalsheets-v1-0-9f003f.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – MechanicalSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.plumbingsheets-v1-0-f0a0a8/wbdg-usaf-design-packages.plumbingsheets-v1-0-f0a0a8.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – PlumbingSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.structuralsheets-v1-0-da37d0/wbdg-usaf-design-packages.structuralsheets-v1-0-da37d0.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – StructuralSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-a-detached-20100201-d4eed7/wbdg-usaf-design-packages.thule-a-detached-20100201-d4eed7.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-A-DETACHED 20100201"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-e-detacted-20100205-1589aa/wbdg-usaf-design-packages.thule-e-detacted-20100205-1589aa.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-E-DETACTED-20100205"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-m-detach-2010-02-03-62a8d8/wbdg-usaf-design-packages.thule-m-detach-2010-02-03-62a8d8.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-M-DETACH-2010-02-03"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-p-detached-20100203-79010a/wbdg-usaf-design-packages.thule-p-detached-20100203-79010a.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-P-DETACHED-20100203"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-s-detached-20100201-fdc423/wbdg-usaf-design-packages.thule-s-detached-20100201-fdc423.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-S-DETACHED-20100201"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-bldg-1-officer-cont-mgr-48-7a9889/wbdg-usaf-design-packages.thule-bldg-1-officer-cont-mgr-48-7a9889.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule Bldg 1-Officer & Cont Mgr 48"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-bldg-2-cont-trainees-lab-72-9840cb/wbdg-usaf-design-packages.thule-bldg-2-cont-trainees-lab-72-9840cb.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule Bldg 2-Cont Trainees & Lab 72"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-8a4f97/wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-8a4f97.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule Bldg 3-Enlisted 48"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-bldg-4-officer-72-549a9a/wbdg-usaf-design-packages.thule-bldg-4-officer-72-549a9a.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule Bldg 4 - Officer 72"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-bldg-1-officer-contractor-managers-48-cdd7d0/wbdg-usaf-design-packages.thule-bldg-1-officer-contractor-managers-48-cdd7d0.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Bldg_1_-_Officer_&_Contractor_Managers_48"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-bldg-2-contractor-trainees-laborers-72-c33814/wbdg-usaf-design-packages.thule-bldg-2-contractor-trainees-laborers-72-c33814.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Bldg_2_-_Contractor_Trainees_&_Laborers_72"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-e634b0/wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-e634b0.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Bldg_3_-_Enlisted_48"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-bldg-4-officer-72-28fe76/wbdg-usaf-design-packages.thule-bldg-4-officer-72-28fe76.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Bldg_4_-_Officer_72"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-prototypes-bim-manual-2010-02-17-5226d4/wbdg-usaf-design-packages.thule-prototypes-bim-manual-2010-02-17-5226d4.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Prototypes_BIM_Manual_2010-02-17"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.thule-specifications-c54807/wbdg-usaf-design-packages.thule-specifications-c54807.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Specifications"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.architectural-vq-model-v1-0-ff310c/wbdg-usaf-design-packages.architectural-vq-model-v1-0-ff310c.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Architectural VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.architecturalsheets-v1-0-1d47a7/wbdg-usaf-design-packages.architecturalsheets-v1-0-1d47a7.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – ArchitecturalSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.e-specs-database-v1-0-1440ef/wbdg-usaf-design-packages.e-specs-database-v1-0-1440ef.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – E-Specs Database v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.electrical-vq-model-v1-0-ff7d45/wbdg-usaf-design-packages.electrical-vq-model-v1-0-ff7d45.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Electrical VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.electricalsheets-v1-0-3f83bd/wbdg-usaf-design-packages.electricalsheets-v1-0-3f83bd.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – ElectricalSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-c038d0/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-c038d0.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – FireProtectionSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.mechanical-vq-model-v1-0-0d48da/wbdg-usaf-design-packages.mechanical-vq-model-v1-0-0d48da.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Mechanical VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.mechanicalsheets-v1-0-6fb8df/wbdg-usaf-design-packages.mechanicalsheets-v1-0-6fb8df.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – MechanicalSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.pdf-version-of-all-sheets-v1-0-5cea64/wbdg-usaf-design-packages.pdf-version-of-all-sheets-v1-0-5cea64.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – PDF Version of all Sheets v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.plumbing-vq-model-v1-0-e4ca9b/wbdg-usaf-design-packages.plumbing-vq-model-v1-0-e4ca9b.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Plumbing VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.plumbingsheets-v1-0-2c0b7c/wbdg-usaf-design-packages.plumbingsheets-v1-0-2c0b7c.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – PlumbingSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.structural-vq-model-v1-0-29062c/wbdg-usaf-design-packages.structural-vq-model-v1-0-29062c.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Structural VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.structuralsheets-v1-0-0d0ed6/wbdg-usaf-design-packages.structuralsheets-v1-0-0d0ed6.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – StructuralSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.visitors-quarters-bim-manual-v1-0-d81ef1/wbdg-usaf-design-packages.visitors-quarters-bim-manual-v1-0-d81ef1.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Visitors Quarters BIM Manual v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.standard-design-warehouse-dabs-fev-0ecde0/wbdg-usaf-design-packages.standard-design-warehouse-dabs-fev-0ecde0.json",
+   "type": "application/geo+json",
+   "title": "USAF Warehouse – standard_design_warehouse_dabs_fev"
+  },
+  {
+   "rel": "item",
+   "href": "items/wbdg-usaf-design-packages.standard-design-weapons-release-system-shop-3c6433/wbdg-usaf-design-packages.standard-design-weapons-release-system-shop-3c6433.json",
+   "type": "application/geo+json",
+   "title": "USAF Wrss – standard_design_weapons_release_system_shop"
+  }
+ ]
+}

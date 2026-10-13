@@ -1,0 +1,123 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "autodesk-acad-samples.title-block-ansi-499aee",
+ "geometry": null,
+ "properties": {
+  "title": "AutoCAD sample – title_block-ansi",
+  "description": "DWG AC1024 R2010 file from 'Autodesk AutoCAD sample files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-13T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-Autodesk-sample",
+  "keywords": [
+   "AutoCAD",
+   "DWG",
+   "cad-render",
+   "real-drawing"
+  ],
+  "providers": [
+   {
+    "name": "Autodesk, Inc.",
+    "url": "https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/6XGQklp3ZcBFqljLPjrnQ9.html",
+    "roles": [
+     "producer",
+     "host",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "DWG",
+  "bim:format_family": "CAD-2D",
+  "bim:format_version": "AC1024 R2010",
+  "bim:source": "autodesk-acad-samples",
+  "bim:building_type": "generic-building",
+  "bim:country": "US",
+  "bim:use_cases": [
+   "cad-render",
+   "real-drawing"
+  ],
+  "bim:license_tier": "restricted",
+  "bim:license_url": "https://www.autodesk.com/company/legal-notices-trademarks/terms-of-use",
+  "bim:attribution": "Autodesk, Inc., AutoCAD sample files",
+  "bim:size_class": "s(<1MB)",
+  "bim:datetime_source": "retrieval date",
+  "bim:provenance": {
+   "upstream_href": "https://download.autodesk.com/us/samplefiles/acad/title_block-ansi.dwg",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "cad:version_code": "AC1024",
+  "cad:release": "R2010",
+  "cad:layers": 2,
+  "cad:blocks": 1,
+  "cad:layouts": 1,
+  "cad:modelspace_entities": 1,
+  "cad:entity_counts": {
+   "INSERT": 1
+  },
+  "cad:units": "inch",
+  "cad:text_styles": 2,
+  "cad:extents": [
+   0.0,
+   0.0,
+   34.0,
+   22.0
+  ],
+  "cad:layer_names": [
+   "0",
+   "Defpoints"
+  ],
+  "cad:audit_errors": 0,
+  "cad:read_via": "LibreDWG 0.14 dwg2dxf"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./autodesk-acad-samples.title-block-ansi-499aee.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.autodesk.com/company/legal-notices-trademarks/terms-of-use",
+   "title": "LicenseRef-Autodesk-sample"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/6XGQklp3ZcBFqljLPjrnQ9.html",
+   "title": "Upstream dataset page"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://download.autodesk.com/us/samplefiles/acad/title_block-ansi.dwg",
+   "type": "image/vnd.dwg",
+   "roles": [
+    "data"
+   ],
+   "title": "title_block-ansi.dwg",
+   "file:size": 125896,
+   "file:checksum": "1220907398897552a090182f5446f18ad1ef82b91176764c8ccf08b5c5799546eeba"
+  }
+ },
+ "collection": "autodesk-acad-samples"
+}

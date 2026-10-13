@@ -1,0 +1,30 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--template-3226ec",
+ "title": "building-type: template",
+ "description": "1 items where building-type = template. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "template",
+ "bim:item_count": 1,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.usaf-sfile-template-2011-a5c7cb/wbdg-usaf-design-packages.usaf-sfile-template-2011-a5c7cb.json",
+   "type": "application/geo+json",
+   "title": "USAF Template – usaf_sfile_template_2011"
+  }
+ ]
+}

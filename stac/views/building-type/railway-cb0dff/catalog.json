@@ -1,0 +1,48 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--railway-cb0dff",
+ "title": "building-type: railway",
+ "description": "4 items where building-type = railway. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "railway",
+ "bim:item_count": 4,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-rail-6e81be/bsi-certification-datasets.infra-rail-6e81be.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Rail (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-rail-a5535d/bsi-certification-datasets.infra-rail-a5535d.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Rail (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-rail-4d1e5d/bsi-certification-datasets.infra-rail-4d1e5d.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Rail (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-rail-d89af1/bsi-ifc5-development.infra-rail-d89af1.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Rail (IFC5 alpha)"
+  }
+ ]
+}

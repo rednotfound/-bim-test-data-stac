@@ -1,0 +1,189 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.kit-institute-arch-66a241",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   8.716667,
+   49.15
+  ]
+ },
+ "bbox": [
+  8.716667,
+  49.15,
+  8.716667,
+  49.15
+ ],
+ "properties": {
+  "title": "KIT Institute – KIT_Institute_Arch",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2008-07-03T15:22:43Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-kit-institute-ifc-3269bd",
+  "bim:building_type": "office",
+  "bim:country": "DE",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/KIT_Institute_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "KIT_Institute/KIT_Institute_Arch.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ArchiCAD 11.00 Release 1 generated IFC file.",
+   "Build Number of the Ifc 2x3 interface: 63090 (13-06-2008)\n"
+  ],
+  "ifc:header_timestamp": "2008-07-03T15:22:43",
+  "ifc:preprocessor_version": "PreProc - EDM 4.5.0033",
+  "ifc:originating_system": "Windows System",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 702,
+  "ifc:product_types": 9,
+  "ifc:storeys": 5,
+  "ifc:spaces": 82,
+  "ifc:zones": 12,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Pset_BuildingCommon",
+   "Pset_ColumnCommon",
+   "Pset_DoorCommon",
+   "Pset_FurnitureTypeCommon",
+   "Pset_ProjectCommon",
+   "Pset_RailingCommon",
+   "Pset_SiteCommon",
+   "Pset_SlabCommon",
+   "Pset_SpaceCommon",
+   "Pset_SpaceOccupancyRequirements",
+   "Pset_SpaceThermalRequirements",
+   "Pset_StairCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon",
+   "Pset_ZoneCommon"
+  ],
+  "ifc:props": 1970,
+  "ifc:qsets": 229,
+  "ifc:materials": 4,
+  "ifc:classif_refs": 1,
+  "ifc:type_objects": 288,
+  "ifc:docs": 0,
+  "ifc:score": 21.14,
+  "ifc:disciplines": [
+   "architecture",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcFurnishingElement": 253,
+   "IfcWindow": 206,
+   "IfcWallStandardCase": 119,
+   "IfcAnnotation": 110,
+   "IfcDoor": 77,
+   "IfcSlab": 26,
+   "IfcRailing": 12,
+   "IfcStair": 4,
+   "IfcVirtualElement": 3,
+   "IfcColumn": 2
+  },
+  "ifc:project_name": "Projekt Buerogebaeude",
+  "ifc:length_unit": "METRE",
+  "ifc:building_names": [
+   "Buerogebaeude"
+  ],
+  "ifc:storey_names": [
+   "Keller",
+   "Erdgeschoss",
+   "1. Obergeschoss",
+   "2. Obergeschoss",
+   "Dachgeschoss"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.kit-institute-arch-66a241.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/KIT_Institute_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "KIT_Institute_Arch.ifc",
+   "file:size": 555775,
+   "file:checksum": "1220c7893e45f6a7e18dc488b431d48f63228dd69d89a1f54a3d708d7fc5bb1c21f0",
+   "bim:archive_member": "KIT_Institute/KIT_Institute_Arch.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 2836276,
+   "bim:archive_member_checksum": "12203556ecbc39ae94c03ad9efcd87ffdbd66f45ed5f769f03ddc1ecc3ef8c26877e"
+  }
+ },
+ "collection": "duraark"
+}

@@ -1,0 +1,207 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.ltu-a-house-air-c8f0f3",
+ "geometry": null,
+ "properties": {
+  "title": "LTU A-House – LTU_A-House_Air",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2014-06-19T08:48:47Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-ltu-a-house-2014-09-25-ifc-05915d",
+  "bim:building_type": "residential",
+  "bim:country": "SE",
+  "bim:disciplines": [
+   "architecture",
+   "mep"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/03_IFC_E57/LTU_A-House_2014-09-25_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "LTU_A-House_Air.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView]"
+  ],
+  "ifc:view_definition": "CoordinationView",
+  "ifc:header_timestamp": "2014-06-19T08:48:47",
+  "ifc:preprocessor_version": "IfcLib (28th of April 2013)",
+  "ifc:originating_system": "MagiCAD HPV 2013.4",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 16570,
+  "ifc:product_types": 8,
+  "ifc:storeys": 4,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 43,
+  "ifc:pset_names": [
+   "Pset_AirTerminalTypeCommon",
+   "Pset_DuctFittingTypeCommon",
+   "Pset_DuctSegmentTypeCommon",
+   "Pset_ProvisionForVoid"
+  ],
+  "ifc:props": 15921,
+  "ifc:qsets": 0,
+  "ifc:materials": 9,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 6438,
+  "ifc:docs": 0,
+  "ifc:score": 11.7,
+  "ifc:disciplines": [
+   "architecture",
+   "mep"
+  ],
+  "ifc:element_counts": {
+   "IfcFlowSegment": 7354,
+   "IfcFlowFitting": 5679,
+   "IfcFlowTerminal": 1451,
+   "IfcCovering": 1170,
+   "IfcFlowController": 436,
+   "IfcFlowTreatmentDevice": 238,
+   "IfcBuildingElementProxy": 229,
+   "IfcFlowMovingDevice": 13
+  },
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:storey_names": [
+   "Plan 1",
+   "Plan 2",
+   "Plan 3",
+   "Plan 4"
+  ],
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.ltu-a-house-air-c8f0f3.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.ltu-a-house-cooling-afa549/duraark.ltu-a-house-cooling-afa549.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-ltu-a-house-2014-09-25-ifc-05915d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.ltu-a-house-ducting-0034bb/duraark.ltu-a-house-ducting-0034bb.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-ltu-a-house-2014-09-25-ifc-05915d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.ltu-a-house-heating-a133cd/duraark.ltu-a-house-heating-a133cd.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-ltu-a-house-2014-09-25-ifc-05915d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.ltu-a-house-k-modell-1c28a0/duraark.ltu-a-house-k-modell-1c28a0.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-ltu-a-house-2014-09-25-ifc-05915d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.ltu-a-house-plumbing-561157/duraark.ltu-a-house-plumbing-561157.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-ltu-a-house-2014-09-25-ifc-05915d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.ltu-a-house-sanitation-883c45/duraark.ltu-a-house-sanitation-883c45.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-ltu-a-house-2014-09-25-ifc-05915d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.ltu-a-house-voids-583df6/duraark.ltu-a-house-voids-583df6.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-ltu-a-house-2014-09-25-ifc-05915d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.ltu-a-house-redesign-7862bb/duraark.ltu-a-house-redesign-7862bb.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-ltu-a-house-2014-09-25-ifc-05915d)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/03_IFC_E57/LTU_A-House_2014-09-25_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "LTU_A-House_Air.ifc",
+   "file:size": 74973047,
+   "file:checksum": "1220b4b7e0f0c1d480319fc3ca666f1c0bbf2bcdc09ce08f6d5f0adebca61cf5c9a6",
+   "bim:archive_member": "LTU_A-House_Air.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 25352861,
+   "bim:archive_member_checksum": "1220bfc99fc94996261567b6283fa20e31bd7a0dced9e102ac918fa8343e679edeae"
+  }
+ },
+ "collection": "duraark"
+}

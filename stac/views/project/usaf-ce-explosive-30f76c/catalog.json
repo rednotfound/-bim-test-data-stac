@@ -1,0 +1,36 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--usaf-ce-explosive-30f76c",
+ "title": "project: usaf-ce_explosive",
+ "description": "2 items where project = usaf-ce_explosive. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "usaf-ce_explosive",
+ "bim:item_count": 2,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ces-sd-drawings-eod-bldg-0f86df/wbdg-usaf-design-packages.ces-sd-drawings-eod-bldg-0f86df.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Explosive – CES_sd_drawings_eod_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afdp-ce-explosive-concept-plans-b19506/wbdg-usaf-design-packages.afdp-ce-explosive-concept-plans-b19506.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Explosive – afdp_ce_explosive_concept_plans"
+  }
+ ]
+}

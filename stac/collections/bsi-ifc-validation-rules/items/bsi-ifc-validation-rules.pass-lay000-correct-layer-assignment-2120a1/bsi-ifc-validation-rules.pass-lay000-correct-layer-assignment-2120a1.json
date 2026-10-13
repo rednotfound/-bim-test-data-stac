@@ -1,0 +1,213 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-ifc-validation-rules.pass-lay000-correct-layer-assignment-2120a1",
+ "geometry": null,
+ "properties": {
+  "title": "Validation rule LAY – pass",
+  "description": "IFC-SPF IFC4 file from 'buildingSMART ifc-gherkin-rules test files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2024-07-04T11:07:30Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "MIT",
+  "keywords": [
+   "gherkin",
+   "invalid",
+   "rules",
+   "validation",
+   "validation-pass"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4",
+  "bim:source": "bsi-ifc-validation-rules",
+  "bim:building_type": "component",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "validation",
+   "validation-pass"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+  "bim:attribution": "buildingSMART International, ifc-gherkin-rules (MIT)",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/LAY/lay000/pass-lay000-correct_layer_assignment.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "commit": "893f8275049b8960c3ce0c7379b4b57aefeaa8f9",
+   "path": "test/files/LAY/lay000/pass-lay000-correct_layer_assignment.ifc",
+   "browse_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/LAY/lay000/pass-lay000-correct_layer_assignment.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-07-29"
+  },
+  "bim:thumbnail": "generated",
+  "bim:validation_rule": "LAY",
+  "bim:validation_expected": "pass",
+  "ifc:file_description": [
+   "ViewDefinition[ReferenceView_V1.2]"
+  ],
+  "ifc:view_definition": "ReferenceView_V1.2",
+  "ifc:header_timestamp": "2024-07-04T11:07:30",
+  "ifc:preprocessor_version": "Example IFC",
+  "ifc:originating_system": "Example - Architecture - v1",
+  "ifc:schema": "IFC4",
+  "ifc:products": 2,
+  "ifc:product_types": 2,
+  "ifc:storeys": 4,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "0Nr2UowCYP",
+   "0l4a6c",
+   "20oN2bAg",
+   "22H0yAcIc",
+   "2J0j4uK19D",
+   "2Kgn9oL",
+   "7sbPMfchu",
+   "8aBNtKg",
+   "Dxn9Zi",
+   "F0S15o",
+   "FKBAex",
+   "Gp6hfVZI",
+   "K3rY1iZTeL",
+   "KhVxPco2L",
+   "Kvgtr6JTD",
+   "OHGwEl",
+   "P4qGgV",
+   "Sw4nID9C",
+   "TYe8YWLw3c",
+   "UcqfUv",
+   "VxnloDaX",
+   "WK4r4CE",
+   "acWSAbGf",
+   "adz0UkJ",
+   "asWqmJECF",
+   "bg2AKHiEx",
+   "brnlV5BS",
+   "cKKwbeNNv",
+   "doQEbf",
+   "eAqsHPZ0kN",
+   "htpeO5qt",
+   "hwqFJ9K1h",
+   "lsGwk4RtW",
+   "mfrwKiQoBn",
+   "omLzQMS",
+   "q2DWE8R",
+   "q3Rcv1",
+   "qYdmBDzBb",
+   "qfwjly",
+   "tsotsL8e",
+   "tu8JG4fD",
+   "uhZ2Wt0",
+   "x83fUlb",
+   "xaCa2SJ",
+   "yZhwgHzNte",
+   "z04QMMDK1",
+   "zQHEeV"
+  ],
+  "ifc:props": 211,
+  "ifc:qsets": 0,
+  "ifc:materials": 6,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 2,
+  "ifc:docs": 0,
+  "ifc:score": 12.33,
+  "ifc:disciplines": [
+   "architecture"
+  ],
+  "ifc:element_counts": {
+   "IfcWallStandardCase": 1,
+   "IfcWindow": 1
+  },
+  "ifc:project_name": "J82Cw3CF",
+  "ifc:length_unit": "METRE",
+  "ifc:building_names": [
+   "lHnHpG"
+  ],
+  "ifc:storey_names": [
+   "3lc8ZLycF",
+   "YroQA2K3e",
+   "ddMPWhJr",
+   "zBBauFe2i"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite location zero (geometry left null)"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-ifc-validation-rules.pass-lay000-correct-layer-assignment-2120a1.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+   "title": "MIT"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/LAY/lay000/pass-lay000-correct_layer_assignment.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/LAY/lay000/pass-lay000-correct_layer_assignment.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "pass-lay000-correct_layer_assignment.ifc",
+   "file:size": 57763,
+   "file:checksum": "1220bb3ede3bbcae06fb47bb92f58e1a9be4a490444b59d5fe19a64582cd800ee7ea"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "bsi-ifc-validation-rules"
+}

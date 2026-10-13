@@ -1,0 +1,113 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-bcf.user-assignment-a6d928",
+ "geometry": null,
+ "properties": {
+  "title": "BCF 3.0 test – User assignment",
+  "description": "BCF BCF 3.0 file from 'buildingSMART BCF-XML test cases'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2023-11-28T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "CC-BY-ND-4.0",
+  "keywords": [
+   "BCF",
+   "bcf",
+   "collaboration",
+   "future-standards",
+   "issues"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "BCF",
+  "bim:format_family": "openBIM-exchange",
+  "bim:format_version": "BCF 3.0",
+  "bim:source": "bsi-bcf",
+  "bim:use_cases": [
+   "bcf",
+   "future-standards"
+  ],
+  "bim:license_tier": "open-nd",
+  "bim:license_url": "https://creativecommons.org/licenses/by-nd/4.0/",
+  "bim:attribution": "buildingSMART International, BCF-XML (CC BY-ND 4.0)",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "upstream repository commit date",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/User%20assignment/User%20assignment.bcf",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/BCF-XML",
+   "commit": "bc48611d0d7a1587f028a2b69677a1aafd5cd0a8",
+   "path": "Test Cases/v3.0/Markup/User assignment/User assignment.bcf",
+   "browse_url": "https://github.com/buildingSMART/BCF-XML/blob/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/User%20assignment/User%20assignment.bcf",
+   "git_lfs": false,
+   "commit_date": "2023-11-28"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "bcf:version": "3.0",
+  "bcf:topics": 1,
+  "bcf:viewpoints": 1,
+  "bcf:snapshots": 1
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-bcf.user-assignment-a6d928.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by-nd/4.0/",
+   "title": "CC-BY-ND-4.0"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/BCF-XML",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/BCF-XML/blob/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/User%20assignment/User%20assignment.bcf",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/User%20assignment/User%20assignment.bcf",
+   "type": "application/zip",
+   "roles": [
+    "data"
+   ],
+   "title": "User assignment.bcf",
+   "file:size": 62809,
+   "file:checksum": "12203f665c791f90f71fa5aee9535b8c01be087fd3a9bf24bc459526f4c5306e100e"
+  }
+ },
+ "collection": "bsi-bcf"
+}

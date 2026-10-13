@@ -1,0 +1,158 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-ifc-validation-rules.fail-qty001-scenario01-invalid-element-quantity-na-54fbf4",
+ "geometry": null,
+ "properties": {
+  "title": "Validation rule QTY – fail",
+  "description": "IFC-SPF IFC4X3_ADD2 file from 'buildingSMART ifc-gherkin-rules test files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2025-05-04T23:28:55Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "MIT",
+  "keywords": [
+   "gherkin",
+   "invalid",
+   "rules",
+   "validation",
+   "validation-fail"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4X3_ADD2",
+  "bim:source": "bsi-ifc-validation-rules",
+  "bim:building_type": "component",
+  "bim:disciplines": [
+   "structure"
+  ],
+  "bim:use_cases": [
+   "validation",
+   "validation-fail"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+  "bim:attribution": "buildingSMART International, ifc-gherkin-rules (MIT)",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/QTY/qty001/fail-qty001-scenario01-invalid_element_quantity_name_on_occurrence.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "commit": "893f8275049b8960c3ce0c7379b4b57aefeaa8f9",
+   "path": "test/files/QTY/qty001/fail-qty001-scenario01-invalid_element_quantity_name_on_occurrence.ifc",
+   "browse_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/QTY/qty001/fail-qty001-scenario01-invalid_element_quantity_name_on_occurrence.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-07-29"
+  },
+  "bim:thumbnail": "generated",
+  "bim:validation_rule": "QTY",
+  "bim:validation_expected": "fail",
+  "ifc:file_description": [
+   "ViewDefinition [ReferenceView]"
+  ],
+  "ifc:view_definition": "ReferenceView",
+  "ifc:header_timestamp": "2025-05-04T23:28:55",
+  "ifc:preprocessor_version": "redacted",
+  "ifc:originating_system": "redacted - redacted - 3.14159",
+  "ifc:schema": "IFC4X3_ADD2",
+  "ifc:products": 36,
+  "ifc:product_types": 3,
+  "ifc:storeys": 0,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:props": 0,
+  "ifc:qsets": 1,
+  "ifc:materials": 2,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 2,
+  "ifc:docs": 1,
+  "ifc:score": 8.11,
+  "ifc:disciplines": [
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcReinforcingBar": 34,
+   "IfcBeam": 1,
+   "IfcElementAssembly": 1
+  },
+  "ifc:project_name": "IfcProject",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:building_names": [
+   "IfcBuilding"
+  ],
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-ifc-validation-rules.fail-qty001-scenario01-invalid-element-quantity-na-54fbf4.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+   "title": "MIT"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/QTY/qty001/fail-qty001-scenario01-invalid_element_quantity_name_on_occurrence.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/QTY/qty001/fail-qty001-scenario01-invalid_element_quantity_name_on_occurrence.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "fail-qty001-scenario01-invalid_element_quantity_name_on_occurrence.ifc",
+   "file:size": 22681,
+   "file:checksum": "1220b01abd3e9f8bf335d2dcf0e71cefd9091220dad39d4a839d364faa005ddd5ace"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "bsi-ifc-validation-rules"
+}

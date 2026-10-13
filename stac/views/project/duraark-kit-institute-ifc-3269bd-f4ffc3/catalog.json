@@ -1,0 +1,30 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--duraark-kit-institute-ifc-3269bd-f4ffc3",
+ "title": "project: duraark-kit-institute-ifc-3269bd",
+ "description": "1 items where project = duraark-kit-institute-ifc-3269bd. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "duraark-kit-institute-ifc-3269bd",
+ "bim:item_count": 1,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.kit-institute-arch-66a241/duraark.kit-institute-arch-66a241.json",
+   "type": "application/geo+json",
+   "title": "KIT Institute – KIT_Institute_Arch"
+  }
+ ]
+}

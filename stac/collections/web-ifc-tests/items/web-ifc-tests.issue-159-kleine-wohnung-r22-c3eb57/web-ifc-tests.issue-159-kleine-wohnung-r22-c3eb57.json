@@ -1,0 +1,236 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "web-ifc-tests.issue-159-kleine-wohnung-r22-c3eb57",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   16.3666,
+   48.200001
+  ]
+ },
+ "bbox": [
+  16.3666,
+  48.200001,
+  16.3666,
+  48.200001
+ ],
+ "properties": {
+  "title": "Small apartment (Archicad, IFC4)",
+  "description": "IFC-SPF IFC4 file from 'That Open Company web-ifc public test models'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2022-05-04T08:01:15Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "data-rich",
+   "performance",
+   "real-world"
+  ],
+  "providers": [
+   {
+    "name": "That Open Company (web-ifc)",
+    "url": "https://github.com/ThatOpen/engine_web-ifc",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4",
+  "bim:source": "web-ifc-tests",
+  "bim:building_type": "residential",
+  "bim:disciplines": [
+   "architecture",
+   "mep"
+  ],
+  "bim:use_cases": [
+   "data-rich"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://github.com/ThatOpen/engine_web-ifc",
+  "bim:attribution": "ThatOpen/engine_web-ifc tests/ifcfiles/public",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/ThatOpen/engine_web-ifc/cd0739cc8e7d379aded1dace95f835455a96ebdd/tests/ifcfiles/public/ISSUE_159_kleine_Wohnung_R22.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/ThatOpen/engine_web-ifc",
+   "commit": "cd0739cc8e7d379aded1dace95f835455a96ebdd",
+   "path": "tests/ifcfiles/public/ISSUE_159_kleine_Wohnung_R22.ifc",
+   "browse_url": "https://github.com/ThatOpen/engine_web-ifc/blob/cd0739cc8e7d379aded1dace95f835455a96ebdd/tests/ifcfiles/public/ISSUE_159_kleine_Wohnung_R22.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-10-12"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [DesignTransferView_V1.0]"
+  ],
+  "ifc:view_definition": "DesignTransferView_V1.0",
+  "ifc:header_timestamp": "2022-05-04T10:01:15+02:00",
+  "ifc:preprocessor_version": "IfcOpenShell v0.7.0-2985bba1",
+  "ifc:originating_system": "BlenderBIM 0.0.220420",
+  "ifc:schema": "IFC4",
+  "ifc:products": 451,
+  "ifc:product_types": 11,
+  "ifc:storeys": 4,
+  "ifc:spaces": 28,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Abhängigkeiten",
+   "Abhängigkeiten(Type)",
+   "Analytische Eigenschaften",
+   "Analytische Eigenschaften(Type)",
+   "Auflager",
+   "Auftritte",
+   "Bemaßungen",
+   "Bemaßungen(Type)",
+   "Berechnungsregeln",
+   "Daten",
+   "Elektro",
+   "Elektro - Beleuchtung",
+   "Elektro - Lasten",
+   "Elektro - Stromkreise",
+   "Energieanalyse",
+   "Ergebnisse der Analyse",
+   "Grafiken",
+   "Grafiken(Type)",
+   "Grenzen",
+   "Handlauf 1(Type)",
+   "Handlauf 2(Type)",
+   "ID-Daten",
+   "ID-Daten(Type)",
+   "Konstruktion",
+   "Konstruktion(Type)",
+   "Materialien und Oberflächen",
+   "Modelleigenschaften",
+   "Oberer Geländerholm(Type)",
+   "Phasen",
+   "Pset_AirSideSystemInformation",
+   "Pset_BuildingCommon",
+   "Pset_BuildingElementProxyCommon",
+   "Pset_BuildingStoreyCommon",
+   "Pset_BuildingSystemCommon",
+   "Pset_DoorCommon",
+   "Pset_DoorWindowGlazingType",
+   "Pset_EnvironmentalImpactIndicators",
+   "Pset_LightFixtureTypeCommon",
+   "Pset_ManufacturerTypeInformation",
+   "Pset_OpeningElementCommon",
+   "Pset_RailingCommon",
+   "Pset_ReinforcementBarPitchOfSlab",
+   "Pset_ReinforcementBarPitchOfWall",
+   "Pset_RoofCommon",
+   "Pset_SiteCommon",
+   "Pset_SlabCommon",
+   "Pset_SpaceCommon",
+   "Pset_SpaceCoveringRequirements",
+   "Pset_SpaceHeaterTypeCommon",
+   "Pset_SpaceOccupancyRequirements",
+   "Pset_StairCommon",
+   "Pset_StairFlightCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon",
+   "Schichten",
+   "Sichtbarkeit",
+   "Sichtbarkeit(Type)",
+   "Sonstige",
+   "Sonstige(Type)",
+   "Steigungen"
+  ],
+  "ifc:props": 19996,
+  "ifc:qsets": 466,
+  "ifc:materials": 35,
+  "ifc:classif_refs": 3,
+  "ifc:type_objects": 126,
+  "ifc:docs": 0,
+  "ifc:score": 23.49,
+  "ifc:disciplines": [
+   "architecture",
+   "mep"
+  ],
+  "ifc:element_counts": {
+   "IfcWall": 211,
+   "IfcSlab": 53,
+   "IfcWindow": 52,
+   "IfcDoor": 47,
+   "IfcBuildingElementProxy": 45,
+   "IfcDistributionPort": 21,
+   "IfcRailing": 8,
+   "IfcLightFixture": 6,
+   "IfcRoof": 4,
+   "IfcStair": 2,
+   "IfcStairFlight": 2
+  },
+  "ifc:classification_systems": [
+   "Uniformat"
+  ],
+  "ifc:project_name": "Projektnummer",
+  "ifc:length_unit": "METRE",
+  "ifc:storey_names": [
+   "BT-A_0990_UG01_RDOK_0,000",
+   "BT-A_1010_OG01_RDOK_3,000",
+   "BT-A_1020_OG02_RDOK_6,000",
+   "BT-A_1030_DG03_RDOK_9,000"
+  ],
+  "ifc:map_conversion": true,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)",
+  "bim:site_elevation": 500.0
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./web-ifc-tests.issue-159-kleine-wohnung-r22-c3eb57.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/ThatOpen/engine_web-ifc",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/ThatOpen/engine_web-ifc",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/ThatOpen/engine_web-ifc/blob/cd0739cc8e7d379aded1dace95f835455a96ebdd/tests/ifcfiles/public/ISSUE_159_kleine_Wohnung_R22.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/ThatOpen/engine_web-ifc/cd0739cc8e7d379aded1dace95f835455a96ebdd/tests/ifcfiles/public/ISSUE_159_kleine_Wohnung_R22.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "ISSUE_159_kleine_Wohnung_R22.ifc",
+   "file:size": 10199477,
+   "file:checksum": "12206e4160d669c4873a1b1765ad121e2b192ca7cb050549b4930177de19bbbe5222"
+  }
+ },
+ "collection": "web-ifc-tests"
+}

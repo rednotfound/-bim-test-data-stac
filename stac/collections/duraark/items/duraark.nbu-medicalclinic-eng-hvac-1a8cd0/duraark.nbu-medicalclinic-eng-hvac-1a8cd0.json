@@ -1,0 +1,229 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.nbu-medicalclinic-eng-hvac-1a8cd0",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -71.033,
+   42.213
+  ]
+ },
+ "bbox": [
+  -71.033,
+  42.213,
+  -71.033,
+  42.213
+ ],
+ "properties": {
+  "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-HVAC",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2012-03-29T16:47:43Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-nbu-medicalclinic-ifc-8b1454",
+  "bim:building_type": "healthcare",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "mep"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBU_MedicalClinic_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "NBU_MedicalClinic/NBU_MedicalClinic_Eng-HVAC.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView]"
+  ],
+  "ifc:view_definition": "CoordinationView",
+  "ifc:header_timestamp": "2012-03-29T16:47:43",
+  "ifc:preprocessor_version": "Autodesk Revit MEP 2013",
+  "ifc:originating_system": "20120224_1515 (Solibri IFC Optimizer)",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 11094,
+  "ifc:product_types": 7,
+  "ifc:storeys": 4,
+  "ifc:spaces": 263,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Constraints",
+   "Construction",
+   "Dimensions",
+   "Electrical",
+   "Electrical - Loads",
+   "Energy Analysis",
+   "Fittings",
+   "Graphics",
+   "Identity Data",
+   "Insulation",
+   "Lining",
+   "Mechanical",
+   "Mechanical - Flow",
+   "Other",
+   "Phasing",
+   "Pset_BuildingCommon",
+   "Pset_SpaceCommon"
+  ],
+  "ifc:props": 113487,
+  "ifc:qsets": 260,
+  "ifc:materials": 0,
+  "ifc:classif_refs": 5,
+  "ifc:type_objects": 825,
+  "ifc:docs": 0,
+  "ifc:score": 17.71,
+  "ifc:disciplines": [
+   "mep"
+  ],
+  "ifc:element_counts": {
+   "IfcDistributionPort": 7390,
+   "IfcFlowFitting": 1590,
+   "IfcFlowSegment": 1548,
+   "IfcFlowTerminal": 440,
+   "IfcFlowController": 115,
+   "IfcFlowMovingDevice": 8,
+   "IfcEnergyConversionDevice": 3
+  },
+  "ifc:classification_systems": [
+   "UniFormat"
+  ],
+  "ifc:project_name": "123456789",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:storey_names": [
+   "Roof - Mech",
+   "First Floor",
+   "Second Floor",
+   "TOF Footing"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)",
+  "bim:site_elevation": -0.0
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.nbu-medicalclinic-eng-hvac-1a8cd0.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-medicalclinic-arch-optimized-1cdc6b/duraark.nbu-medicalclinic-arch-optimized-1cdc6b.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-medicalclinic-ifc-8b1454)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-medicalclinic-arch-533287/duraark.nbu-medicalclinic-arch-533287.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-medicalclinic-ifc-8b1454)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-medicalclinic-eng-con-optimized-6e159f/duraark.nbu-medicalclinic-eng-con-optimized-6e159f.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-medicalclinic-ifc-8b1454)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-medicalclinic-eng-con-34598f/duraark.nbu-medicalclinic-eng-con-34598f.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-medicalclinic-ifc-8b1454)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-medicalclinic-eng-ele-844e46/duraark.nbu-medicalclinic-eng-ele-844e46.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-medicalclinic-ifc-8b1454)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-medicalclinic-eng-mep-optimized-a77f60/duraark.nbu-medicalclinic-eng-mep-optimized-a77f60.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-medicalclinic-ifc-8b1454)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-medicalclinic-eng-mep-9b2176/duraark.nbu-medicalclinic-eng-mep-9b2176.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-medicalclinic-ifc-8b1454)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBU_MedicalClinic_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "NBU_MedicalClinic_Eng-HVAC.ifc",
+   "file:size": 82736494,
+   "file:checksum": "122032b5f8008a39bd7510adc8cae35179ad40a48d13a339e6aa0208ef43d6220a5c",
+   "bim:archive_member": "NBU_MedicalClinic/NBU_MedicalClinic_Eng-HVAC.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 27370562,
+   "bim:archive_member_checksum": "1220c54c4541f0397f2240ab9cd013e1b89dd59c6a7dd2d067e5e8f876bcb9ac51f2"
+  }
+ },
+ "collection": "duraark"
+}

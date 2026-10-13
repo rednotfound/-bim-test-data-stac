@@ -1,0 +1,3810 @@
+[
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%202.3.0.1%20%28IFC%202x3%20TC1%29/Simple-Scene/Building-Architecture.ifc",
+  "status": "200",
+  "remote_size": 92542,
+  "local_size": 92542,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%202.3.0.1%20%28IFC%202x3%20TC1%29/Simple-Scene/Building-Structural.ifc",
+  "status": "200",
+  "remote_size": 109012,
+  "local_size": 109012,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%202.3.0.1%20%28IFC%202x3%20TC1%29/Simple-Scene/Building-Hvac.ifc",
+  "status": "200",
+  "remote_size": 69893,
+  "local_size": 69893,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%202.3.0.1%20%28IFC%202x3%20TC1%29/Simple-Scene/Building-Landscaping.ifc",
+  "status": "200",
+  "remote_size": 521142,
+  "local_size": 521142,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%202.3.0.1%20%28IFC%202x3%20TC1%29/Simple-Scene/Infra-Road.ifc",
+  "status": "200",
+  "remote_size": 175399,
+  "local_size": 175399,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%202.3.0.1%20%28IFC%202x3%20TC1%29/Simple-Scene/Infra-Bridge.ifc",
+  "status": "200",
+  "remote_size": 807671,
+  "local_size": 807671,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%202.3.0.1%20%28IFC%202x3%20TC1%29/Simple-Scene/Infra-Rail.ifc",
+  "status": "200",
+  "remote_size": 108325,
+  "local_size": 108325,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%202.3.0.1%20%28IFC%202x3%20TC1%29/Simple-Scene/Infra-Plumbing.ifc",
+  "status": "200",
+  "remote_size": 187456,
+  "local_size": 187456,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%202.3.0.1%20%28IFC%202x3%20TC1%29/Simple-Scene/Infra-Electrical.ifc",
+  "status": "200",
+  "remote_size": 72140,
+  "local_size": 72140,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%202.3.0.1%20%28IFC%202x3%20TC1%29/Simple-Scene/Infra-Landscaping.ifc",
+  "status": "200",
+  "remote_size": 1180719,
+  "local_size": 1180719,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/Simple-Scene/Building-Architecture.ifc",
+  "status": "200",
+  "remote_size": 142325,
+  "local_size": 142325,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/Simple-Scene/Building-Structural.ifc",
+  "status": "200",
+  "remote_size": 185185,
+  "local_size": 185185,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/Simple-Scene/Building-Hvac.ifc",
+  "status": "200",
+  "remote_size": 111375,
+  "local_size": 111375,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/Simple-Scene/Building-Landscaping.ifc",
+  "status": "200",
+  "remote_size": 1074044,
+  "local_size": 1074044,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/Simple-Scene/Infra-Road.ifc",
+  "status": "200",
+  "remote_size": 277133,
+  "local_size": 277133,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/Simple-Scene/Infra-Bridge.ifc",
+  "status": "200",
+  "remote_size": 1742591,
+  "local_size": 1742591,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/Simple-Scene/Infra-Rail.ifc",
+  "status": "200",
+  "remote_size": 162605,
+  "local_size": 162605,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/Simple-Scene/Infra-Plumbing.ifc",
+  "status": "200",
+  "remote_size": 350757,
+  "local_size": 350757,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/Simple-Scene/Infra-Electrical.ifc",
+  "status": "200",
+  "remote_size": 120095,
+  "local_size": 120095,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/Simple-Scene/Infra-Landscaping.ifc",
+  "status": "200",
+  "remote_size": 2349038,
+  "local_size": 2349038,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.3.2.0%20%28IFC%204.3%20ADD2%29/Simple-Scene/Building-Architecture.ifc",
+  "status": "200",
+  "remote_size": 141965,
+  "local_size": 141965,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.3.2.0%20%28IFC%204.3%20ADD2%29/Simple-Scene/Building-Structural.ifc",
+  "status": "200",
+  "remote_size": 185139,
+  "local_size": 185139,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.3.2.0%20%28IFC%204.3%20ADD2%29/Simple-Scene/Building-Hvac.ifc",
+  "status": "200",
+  "remote_size": 111304,
+  "local_size": 111304,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.3.2.0%20%28IFC%204.3%20ADD2%29/Simple-Scene/Building-Landscaping.ifc",
+  "status": "200",
+  "remote_size": 1073991,
+  "local_size": 1073991,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.3.2.0%20%28IFC%204.3%20ADD2%29/Simple-Scene/Infra-Road.ifc",
+  "status": "200",
+  "remote_size": 263708,
+  "local_size": 263708,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.3.2.0%20%28IFC%204.3%20ADD2%29/Simple-Scene/Infra-Bridge.ifc",
+  "status": "200",
+  "remote_size": 1739554,
+  "local_size": 1739554,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.3.2.0%20%28IFC%204.3%20ADD2%29/Simple-Scene/Infra-Rail.ifc",
+  "status": "200",
+  "remote_size": 161670,
+  "local_size": 161670,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.3.2.0%20%28IFC%204.3%20ADD2%29/Simple-Scene/Infra-Plumbing.ifc",
+  "status": "200",
+  "remote_size": 350835,
+  "local_size": 350835,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.3.2.0%20%28IFC%204.3%20ADD2%29/Simple-Scene/Infra-Electrical.ifc",
+  "status": "200",
+  "remote_size": 120043,
+  "local_size": 120043,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.3.2.0%20%28IFC%204.3%20ADD2%29/Simple-Scene/Infra-Landscaping.ifc",
+  "status": "200",
+  "remote_size": 2348837,
+  "local_size": 2348837,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/ISO%20Spec%20-%20ReferenceView_V1.2/basin-tessellation.ifc",
+  "status": "200",
+  "remote_size": 12131,
+  "local_size": 12131,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/ISO%20Spec%20-%20ReferenceView_V1.2/column-straight-rectangle-tessellation.ifc",
+  "status": "200",
+  "remote_size": 4594,
+  "local_size": 4594,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/ISO%20Spec%20-%20ReferenceView_V1.2/tessellated-item.ifc",
+  "status": "200",
+  "remote_size": 5199,
+  "local_size": 5199,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/ISO%20Spec%20-%20ReferenceView_V1.2/tessellation-with-individual-colors.ifc",
+  "status": "200",
+  "remote_size": 2593,
+  "local_size": 2593,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/ISO%20Spec%20-%20ReferenceView_V1.2/wall-with-opening-and-window.ifc",
+  "status": "200",
+  "remote_size": 12492,
+  "local_size": 12492,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC5-development/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/PCERT-Sample-Scene/Building-Architecture.ifcx",
+  "status": "200",
+  "remote_size": 94827,
+  "local_size": 94827,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC5-development/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/PCERT-Sample-Scene/Building-Structural.ifcx",
+  "status": "200",
+  "remote_size": 122671,
+  "local_size": 122671,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC5-development/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/PCERT-Sample-Scene/Building-Hvac.ifcx",
+  "status": "200",
+  "remote_size": 79281,
+  "local_size": 79281,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC5-development/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/PCERT-Sample-Scene/Building-Landscaping.ifcx",
+  "status": "200",
+  "remote_size": 853046,
+  "local_size": 853046,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC5-development/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/PCERT-Sample-Scene/Infra-Road.ifcx",
+  "status": "200",
+  "remote_size": 233721,
+  "local_size": 233721,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC5-development/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/PCERT-Sample-Scene/Infra-Bridge.ifcx",
+  "status": "200",
+  "remote_size": 866107,
+  "local_size": 866107,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC5-development/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/PCERT-Sample-Scene/Infra-Rail.ifcx",
+  "status": "200",
+  "remote_size": 163676,
+  "local_size": 163676,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC5-development/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/PCERT-Sample-Scene/Infra-Plumbing.ifcx",
+  "status": "200",
+  "remote_size": 206884,
+  "local_size": 206884,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC5-development/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/PCERT-Sample-Scene/Infra-Electrical.ifcx",
+  "status": "200",
+  "remote_size": 75265,
+  "local_size": 75265,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC5-development/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/PCERT-Sample-Scene/Infra-Landscaping.ifcx",
+  "status": "200",
+  "remote_size": 609410,
+  "local_size": 609410,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC5-development/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/IFC%20Hero%20Model/IFC%20Hero%20Model.ifc",
+  "status": "200",
+  "remote_size": 5583956,
+  "local_size": 5583956,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC5-development/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/IFC%20Hero%20Model/IFC%20Hero%20Model.ifcx",
+  "status": "200",
+  "remote_size": 19846535,
+  "local_size": 19846535,
+  "size_match": true
+ },
+ {
+  "href": "https://downloads.steptools.com/docs/stpfiles/ifc/AC20-FZK-Haus.ifc",
+  "status": "200",
+  "remote_size": 2526544,
+  "local_size": 2526544,
+  "size_match": true
+ },
+ {
+  "href": "https://downloads.steptools.com/docs/stpfiles/ifc/AC20-Institute-Var-2.ifc",
+  "status": "200",
+  "remote_size": 10786515,
+  "local_size": 10786515,
+  "size_match": true
+ },
+ {
+  "href": "https://downloads.steptools.com/docs/stpfiles/ifc/KIT-Simple-Road-Test-Web-IFC4x3_RC2.ifc",
+  "status": "200",
+  "remote_size": 388157,
+  "local_size": 388157,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/opensourceBIM/TestFiles/2fdf94854a7fba814a17604ed65f543f125cd265/TestData/data/Allplan-Smiley-West.ifc",
+  "status": "200",
+  "remote_size": 4078240,
+  "local_size": 4078240,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/opensourceBIM/TestFiles/2fdf94854a7fba814a17604ed65f543f125cd265/TestData/data/HITOS_070308.ifc",
+  "status": "200",
+  "remote_size": 64095402,
+  "local_size": 64095402,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/Duplex_A_20110907.ifc",
+  "status": "200",
+  "remote_size": 2380763,
+  "local_size": 2380763,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/Duplex_M_20111024_ROOMS_AND_SPACES.ifc",
+  "status": "200",
+  "remote_size": 8781887,
+  "local_size": 8781887,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/Duplex_MEP_20110907.ifc",
+  "status": "200",
+  "remote_size": 17871432,
+  "local_size": 17871432,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/Duplex_Plumbing_20121113.ifc",
+  "status": "200",
+  "remote_size": 31556138,
+  "local_size": 31556138,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/Duplex_Electrical_20121207.ifc",
+  "status": "200",
+  "remote_size": 1602758,
+  "local_size": 1602758,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/2012-03-23-Duplex-Design.xlsx",
+  "status": "200",
+  "remote_size": 197832,
+  "local_size": 197832,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/2012-03-23-Duplex-Handover.xlsx",
+  "status": "200",
+  "remote_size": 233186,
+  "local_size": 233186,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/Clinic_Architectural.ifc",
+  "status": "200",
+  "remote_size": 13003205,
+  "local_size": 13003205,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/Clinic_Structural.ifc",
+  "status": "200",
+  "remote_size": 19058175,
+  "local_size": 19058175,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/Clinic_HVAC.ifc",
+  "status": "200",
+  "remote_size": 26914597,
+  "local_size": 26914597,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/Clinic_Plumbing.ifc",
+  "status": "200",
+  "remote_size": 55834520,
+  "local_size": 55834520,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/Clinic_Electrical.ifc",
+  "status": "200",
+  "remote_size": 6800204,
+  "local_size": 6800204,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/2013-10-09-Clinic-Design-v14-WORKING-01.xlsx",
+  "status": "200",
+  "remote_size": 1418464,
+  "local_size": 1418464,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/2013-10-09-Clinic-Handover-v14.xlsx",
+  "status": "200",
+  "remote_size": 1547559,
+  "local_size": 1547559,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Design%20model%20IFC/IFC%20Schependomlaan.ifc",
+  "status": "200",
+  "remote_size": 49286967,
+  "local_size": 49286967,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Design%20model%20IFC/ROOT-Compleet%20interne%20modelkwaliteit.bcfzip",
+  "status": "200",
+  "remote_size": 177722,
+  "local_size": 177722,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/As%20Planned%20models/Week%2026%2026%20june%20IFC%20Schependomlaan%20incl%20planningsdata.ifc",
+  "status": "200",
+  "remote_size": 14843114,
+  "local_size": 14843114,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/As%20Planned%20models/Week%2027%203%20july%20IFC%20Schependomlaan%20incl%20planningsdata.ifc",
+  "status": "200",
+  "remote_size": 19547479,
+  "local_size": 19547479,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/As%20Planned%20models/Week%2028%2010%20july%20IFC%20Schependomlaan%20incl%20planningsdata.ifc",
+  "status": "200",
+  "remote_size": 26715414,
+  "local_size": 26715414,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/As%20Planned%20models/Week%2029%2017%20july%20IFC%20Schependomlaan%20incl%20planningsdata.ifc",
+  "status": "200",
+  "remote_size": 28765558,
+  "local_size": 28765558,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/As%20Planned%20models/Week%2030%2024%20july%20IFC%20Schependomlaan%20incl%20planningsdata.ifc",
+  "status": "200",
+  "remote_size": 30292565,
+  "local_size": 30292565,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/As%20Planned%20models/Week%2037%2011%20sept%20IFC%20Schependomlaan%20incl%20planningsdata.ifc",
+  "status": "200",
+  "remote_size": 65064843,
+  "local_size": 65064843,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/BALKONHEKKEN%2023-9-2015.IFC",
+  "status": "200",
+  "remote_size": 2215938,
+  "local_size": 2215938,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/BERNTS-Staalconstructie.ifc",
+  "status": "200",
+  "remote_size": 3886639,
+  "local_size": 3886639,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/FEK%20-%20Balkonhekken%20en%20borstweringsleuningen.IFC",
+  "status": "200",
+  "remote_size": 4023823,
+  "local_size": 4023823,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/FEK%20-%20Franse%20balkonhekken%20en%20doorvalbeveiliging.IFC",
+  "status": "200",
+  "remote_size": 11173030,
+  "local_size": 11173030,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/FEK%20-%20Traphekken.IFC",
+  "status": "200",
+  "remote_size": 12040545,
+  "local_size": 12040545,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/GEELEN-Breedplaat%20V1.ifc",
+  "status": "200",
+  "remote_size": 521474,
+  "local_size": 521474,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/GEELEN-Breedplaat%20V2.ifc",
+  "status": "200",
+  "remote_size": 299842,
+  "local_size": 299842,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/GEELEN-Breedplaat%20V3.ifc",
+  "status": "200",
+  "remote_size": 332660,
+  "local_size": 332660,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/GEELEN-Dakvloer.ifc",
+  "status": "200",
+  "remote_size": 266382,
+  "local_size": 266382,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/HB_Nutsvoorzieningen.ifc",
+  "status": "200",
+  "remote_size": 34475935,
+  "local_size": 34475935,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/JORDAHL-Gevelderagers.ifc",
+  "status": "200",
+  "remote_size": 3574980,
+  "local_size": 3574980,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/LINDEN%20-%20Kozijnen.ifcZIP",
+  "status": "200",
+  "remote_size": 460876,
+  "local_size": 460876,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/MULTICOM-balkons.ifc",
+  "status": "200",
+  "remote_size": 644143,
+  "local_size": 644143,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/MULTICOM-banden.ifc",
+  "status": "200",
+  "remote_size": 403044,
+  "local_size": 403044,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/MULTICOM-trappen%2Bbordessen.ifc",
+  "status": "200",
+  "remote_size": 334666,
+  "local_size": 334666,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/ROOT-Compleet.ifczip",
+  "status": "200",
+  "remote_size": 8873221,
+  "local_size": 8873221,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/ROOT-Vebo.ifczip",
+  "status": "200",
+  "remote_size": 232375,
+  "local_size": 232375,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/ROOT-breedplaatvloeren.ifczip",
+  "status": "200",
+  "remote_size": 116132,
+  "local_size": 116132,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/ROOT-houten%20kozijnen.ifczip",
+  "status": "200",
+  "remote_size": 1898930,
+  "local_size": 1898930,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/ROOT-kalkzandsteen.ifczip",
+  "status": "200",
+  "remote_size": 262213,
+  "local_size": 262213,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/ROOT-kanaalplaatvloer.ifczip",
+  "status": "200",
+  "remote_size": 76281,
+  "local_size": 76281,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/ROOT-kapconstructie_dakkapellen_platdak.ifczip",
+  "status": "200",
+  "remote_size": 348082,
+  "local_size": 348082,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/ROOT-lateien_en_geveldragers.ifczip",
+  "status": "200",
+  "remote_size": 85708,
+  "local_size": 85708,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/ROOT-prefab_balkons.ifczip",
+  "status": "200",
+  "remote_size": 12864,
+  "local_size": 12864,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/ROOT-prefab_trappen.ifczip",
+  "status": "200",
+  "remote_size": 39017,
+  "local_size": 39017,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/ROOT-prefab_vloer_lifttop.ifczip",
+  "status": "200",
+  "remote_size": 7961,
+  "local_size": 7961,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/ROOT-staal.ifczip",
+  "status": "200",
+  "remote_size": 170769,
+  "local_size": 170769,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/ROOT-traphekken.ifczip",
+  "status": "200",
+  "remote_size": 65394,
+  "local_size": 65394,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-BG%20Rio%2BMV%2BHwa.dwg",
+  "status": "200",
+  "remote_size": 348788,
+  "local_size": 348788,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-BG%20Water%2BGas%2BCV.dwg",
+  "status": "200",
+  "remote_size": 414002,
+  "local_size": 414002,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-Dak%20Rio%2BMV%2BHwa.dwg",
+  "status": "200",
+  "remote_size": 264667,
+  "local_size": 264667,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-Dak%20Sparingen.dwg",
+  "status": "200",
+  "remote_size": 237294,
+  "local_size": 237294,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-Dak%20Water%2BGas%2BCV.dwg",
+  "status": "200",
+  "remote_size": 212935,
+  "local_size": 212935,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-Fund.%20Rio%2BMV%2BHwa.dwg",
+  "status": "200",
+  "remote_size": 275042,
+  "local_size": 275042,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-Fund.%20Water%2BGas%2BCV.dwg",
+  "status": "200",
+  "remote_size": 200094,
+  "local_size": 200094,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-V1%20Rio%2BMV%2BHwa.dwg",
+  "status": "200",
+  "remote_size": 352319,
+  "local_size": 352319,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-V1%20Sparingen.dwg",
+  "status": "200",
+  "remote_size": 192988,
+  "local_size": 192988,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-V1%20Water%2BGas%2BCV.dwg",
+  "status": "200",
+  "remote_size": 426049,
+  "local_size": 426049,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-V2%20Rio%2BMV%2BHwa.dwg",
+  "status": "200",
+  "remote_size": 338122,
+  "local_size": 338122,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-V2%20Sparingen.dwg",
+  "status": "200",
+  "remote_size": 193641,
+  "local_size": 193641,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-V2%20Water%2BGas%2BCV.dwg",
+  "status": "200",
+  "remote_size": 363433,
+  "local_size": 363433,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-V3%20Rio%2BMV%2BHwa.dwg",
+  "status": "200",
+  "remote_size": 288641,
+  "local_size": 288641,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-V3%20Sparingen.dwg",
+  "status": "200",
+  "remote_size": 192994,
+  "local_size": 192994,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/SONSBEEK-V3%20Water%2BGas%2BCV.dwg",
+  "status": "200",
+  "remote_size": 340662,
+  "local_size": 340662,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/V_L_Constructief.ifc",
+  "status": "200",
+  "remote_size": 941642,
+  "local_size": 941642,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/WAARDO-Kanaalplaatvloer.ifc",
+  "status": "200",
+  "remote_size": 4697244,
+  "local_size": 4697244,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/WILLEMSEN-Hoogbouw%20dakpannen.ifc",
+  "status": "200",
+  "remote_size": 5219347,
+  "local_size": 5219347,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/WILLEMSEN-Hoogbouw.ifc",
+  "status": "200",
+  "remote_size": 6017265,
+  "local_size": 6017265,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/WILLEMSEN-Laagbouw.ifc",
+  "status": "200",
+  "remote_size": 1958122,
+  "local_size": 1958122,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/WILLEMSEN-laagbouw%20dakpannen.ifc",
+  "status": "200",
+  "remote_size": 999706,
+  "local_size": 999706,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/XELLA-1e%20verdieping.ifc",
+  "status": "200",
+  "remote_size": 564479,
+  "local_size": 564479,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/XELLA-2e%20verdieping.ifc",
+  "status": "200",
+  "remote_size": 445748,
+  "local_size": 445748,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/XELLA-3e%20verdieping.ifc",
+  "status": "200",
+  "remote_size": 201295,
+  "local_size": 201295,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/XELLA-Begane%20grond.ifc",
+  "status": "200",
+  "remote_size": 596450,
+  "local_size": 596450,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/YTONG-Algemeen.ifc",
+  "status": "200",
+  "remote_size": 11162,
+  "local_size": 11162,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/YTONG-Kavel%2001.ifc",
+  "status": "200",
+  "remote_size": 77686,
+  "local_size": 77686,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/YTONG-Kavel%2002.ifc",
+  "status": "200",
+  "remote_size": 58497,
+  "local_size": 58497,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/YTONG-Kavel%2003.ifc",
+  "status": "200",
+  "remote_size": 92184,
+  "local_size": 92184,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/YTONG-Kavel%2004.ifc",
+  "status": "200",
+  "remote_size": 70583,
+  "local_size": 70583,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/YTONG-Kavel%2005.ifc",
+  "status": "200",
+  "remote_size": 63285,
+  "local_size": 63285,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/YTONG-Kavel%2006.ifc",
+  "status": "200",
+  "remote_size": 60863,
+  "local_size": 60863,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/YTONG-Kavel%2007.ifc",
+  "status": "200",
+  "remote_size": 63277,
+  "local_size": 63277,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/YTONG-Kavel%2008.ifc",
+  "status": "200",
+  "remote_size": 60871,
+  "local_size": 60871,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/YTONG-Kavel%2009.ifc",
+  "status": "200",
+  "remote_size": 62320,
+  "local_size": 62320,
+  "size_match": true
+ },
+ {
+  "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Coordination%20model%20and%20subcontractors%20models/BIMsight%20Projectdata1/YTONG-Kavel%2010.ifc",
+  "status": "200",
+  "remote_size": 61406,
+  "local_size": 61406,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Schependomlaan/Planning/PDF/Schependomlaan%20Nijmegen%2018-02-2015.pdf",
+  "status": "200",
+  "remote_size": 542155,
+  "local_size": 542155,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/ThatOpen/engine_web-ifc/cd0739cc8e7d379aded1dace95f835455a96ebdd/tests/ifcfiles/public/ISSUE_068_ARK_NUS_skolebygg.ifc",
+  "status": "200",
+  "remote_size": 57304675,
+  "local_size": 57304675,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/ThatOpen/engine_web-ifc/cd0739cc8e7d379aded1dace95f835455a96ebdd/tests/ifcfiles/public/ISSUE_159_kleine_Wohnung_R22.ifc",
+  "status": "200",
+  "remote_size": 10199477,
+  "local_size": 10199477,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/ThatOpen/engine_web-ifc/cd0739cc8e7d379aded1dace95f835455a96ebdd/tests/ifcfiles/public/Viadotto%20Acerno.ifc",
+  "status": "200",
+  "remote_size": 33045484,
+  "local_size": 33045484,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/youshengCode/IfcSampleFiles/7e6927982d7e57b29409bb631ef93d6770ef0665/Ifc4_Revit_ARC.ifc",
+  "status": "200",
+  "remote_size": 13646137,
+  "local_size": 13646137,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/youshengCode/IfcSampleFiles/7e6927982d7e57b29409bb631ef93d6770ef0665/Ifc4_Revit_MEP.ifc",
+  "status": "200",
+  "remote_size": 29165277,
+  "local_size": 29165277,
+  "size_match": true
+ },
+ {
+  "href": "https://openifcmodel.cs.auckland.ac.nz/api/download/20160125Trapelo_Design_Intent.ifc",
+  "status": "200",
+  "remote_size": 27176969,
+  "local_size": 27176969,
+  "size_match": true
+ },
+ {
+  "href": "https://openifcmodel.cs.auckland.ac.nz/api/download/20160125Trapelo%20-%20Existing-Trapelo_Design_Intent.ifc",
+  "status": "200",
+  "remote_size": 22402887,
+  "local_size": 22402887,
+  "size_match": true
+ },
+ {
+  "href": "https://openifcmodel.cs.auckland.ac.nz/api/download/20160125OTC-Conference%20Center%20-%20IFC4.ifc",
+  "status": "200",
+  "remote_size": 71700417,
+  "local_size": 71700417,
+  "size_match": true
+ },
+ {
+  "href": "https://openifcmodel.cs.auckland.ac.nz/api/download/20160124OTC-Conference%20Center.ifc",
+  "status": "200",
+  "remote_size": 70327151,
+  "local_size": 70327151,
+  "size_match": true
+ },
+ {
+  "href": "https://openifcmodel.cs.auckland.ac.nz/api/download/20210215IFC4_RV_Convenience_store_Renga_4.5.ifc",
+  "status": "200",
+  "remote_size": 10158914,
+  "local_size": 10158914,
+  "size_match": true
+ },
+ {
+  "href": "https://openifcmodel.cs.auckland.ac.nz/api/download/20160613office_model_CV2b_fordesign.ifc",
+  "status": "200",
+  "remote_size": 3162297,
+  "local_size": 3162297,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/BIMvoice/ifcsamples/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/IFC4x3/Klassiqua-Office-Archetypes/2026-07_Klassiqua_Office_Archetype_Construction_Year_1970.ifc",
+  "status": "200",
+  "remote_size": 1471699,
+  "local_size": 1471699,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/BIMvoice/ifcsamples/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/IFC4x3/Klassiqua-Office-Archetypes/2026-07_Klassiqua_Office_Archetype_Construction_Year_1998.ifc",
+  "status": "200",
+  "remote_size": 1348554,
+  "local_size": 1348554,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/BIMvoice/ifcsamples/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/IFC4x3/Klassiqua-Office-Archetypes/2026-07_Klassiqua_Office_Archetype_Construction_Year_2026.ifc",
+  "status": "200",
+  "remote_size": 1380399,
+  "local_size": 1380399,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/andrewisen/bim-whale-ifc-samples/595fa90e3af7120d004fcb37a79d8657f1d1c9c2/AdvancedProject/IFC/AdvancedProject.ifc",
+  "status": "200",
+  "remote_size": 44337371,
+  "local_size": 44337371,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/andrewisen/bim-whale-ifc-samples/595fa90e3af7120d004fcb37a79d8657f1d1c9c2/BasicHouse/IFC/BasicHouse.ifc",
+  "status": "200",
+  "remote_size": 52702577,
+  "local_size": 52702577,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/andrewisen/bim-whale-ifc-samples/595fa90e3af7120d004fcb37a79d8657f1d1c9c2/LargeBuilding/IFC/LargeBuilding.ifc",
+  "status": "200",
+  "remote_size": 1292595,
+  "local_size": 1292595,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/andrewisen/bim-whale-ifc-samples/595fa90e3af7120d004fcb37a79d8657f1d1c9c2/ManySimpleWalls/IFC/ManySimpleWalls.ifc",
+  "status": "200",
+  "remote_size": 584056,
+  "local_size": 584056,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/andrewisen/bim-whale-ifc-samples/595fa90e3af7120d004fcb37a79d8657f1d1c9c2/SimpleWall/IFC/SimpleWall.ifc",
+  "status": "200",
+  "remote_size": 39818,
+  "local_size": 39818,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/andrewisen/bim-whale-ifc-samples/595fa90e3af7120d004fcb37a79d8657f1d1c9c2/TallBuilding/IFC/TallBuilding.ifc",
+  "status": "200",
+  "remote_size": 616509,
+  "local_size": 616509,
+  "size_match": true
+ },
+ {
+  "href": "https://researchdata.tuwien.ac.at/api/records/n0mcf-ghs19/files/JS-RealWorldEscapeRouteModel-RoutesGroupSegments-Group-IFC4X3.ifc/content",
+  "status": "200",
+  "remote_size": 173990,
+  "local_size": 173990,
+  "size_match": true
+ },
+ {
+  "href": "https://researchdata.tuwien.ac.at/api/records/n0mcf-ghs19/files/JS-RealWorldEscapeRouteModel-RoutesGroupSegments-Part-IFC4X3.ifc/content",
+  "status": "200",
+  "remote_size": 174898,
+  "local_size": 174898,
+  "size_match": true
+ },
+ {
+  "href": "https://researchdata.tuwien.ac.at/api/records/n0mcf-ghs19/files/Py-RealWorldEscapeRouteModel-RoutesGroupSegments-Group-IFC4X3.ifc/content",
+  "status": "200",
+  "remote_size": 239522,
+  "local_size": 239522,
+  "size_match": true
+ },
+ {
+  "href": "https://researchdata.tuwien.ac.at/api/records/n0mcf-ghs19/files/Py-RealWorldEscapeRouteModel-RoutesGroupSegments-Group.ifc/content",
+  "status": "200",
+  "remote_size": 239515,
+  "local_size": 239515,
+  "size_match": true
+ },
+ {
+  "href": "https://researchdata.tuwien.ac.at/api/records/n0mcf-ghs19/files/Py-RealWorldEscapeRouteModel-RoutesGroupSegments-Part.ifc/content",
+  "status": "200",
+  "remote_size": 238631,
+  "local_size": 238631,
+  "size_match": true
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/Academic_Autodesk_ifc.zip",
+  "status": "200",
+  "remote_size": 7374733,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/03_IFC_E57/Autodesk_210-King_ifc.zip",
+  "status": "200",
+  "remote_size": 26730937,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/03_IFC_E57/FOJAB_Landsarkivet_IFC.zip",
+  "status": "200",
+  "remote_size": 28658442,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/KIT_Institute_ifc.zip",
+  "status": "200",
+  "remote_size": 555775,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/KIT_Smiley-West_ifc.zip",
+  "status": "200",
+  "remote_size": 612512,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/03_IFC_E57/LTU_A-House_2014-09-25_ifc.zip",
+  "status": "200",
+  "remote_size": 74973047,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBS_Lakeside_ifc.zip",
+  "status": "200",
+  "remote_size": 29348700,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBU_Duplex_ifc.zip",
+  "status": "200",
+  "remote_size": 13543482,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBU_MedicalClinic_ifc.zip",
+  "status": "200",
+  "remote_size": 82736494,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_BARD_ifc.zip",
+  "status": "200",
+  "remote_size": 6677093,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_BODO_ifc.zip",
+  "status": "200",
+  "remote_size": 32617382,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_Blueberry_ifc.zip",
+  "status": "200",
+  "remote_size": 8589274,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_Duplex_ifc.zip",
+  "status": "200",
+  "remote_size": 11478718,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_HiTOS_ifc.zip",
+  "status": "200",
+  "remote_size": 11451199,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_Munkerud_ifc.zip",
+  "status": "200",
+  "remote_size": 10095919,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/advanced-geometric-shape/basin-advanced-brep/basin-advanced-brep.ifc",
+  "status": "200",
+  "remote_size": 10073,
+  "local_size": 10073,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/advanced-geometric-shape/basin-faceted-brep/basin-faceted-brep.ifc",
+  "status": "200",
+  "remote_size": 32713,
+  "local_size": 32713,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/advanced-geometric-shape/basin-tessellation/basin-tessellation.ifc",
+  "status": "200",
+  "remote_size": 11877,
+  "local_size": 11877,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/advanced-geometric-shape/bath-csg-solid/bath-csg-solid.ifc",
+  "status": "200",
+  "remote_size": 3313,
+  "local_size": 3313,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/advanced-geometric-shape/cube-advanced-brep/cube-advanced-brep.ifc",
+  "status": "200",
+  "remote_size": 10729,
+  "local_size": 10729,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/alignment-geometries-and-linear-positioning/fixed-reference-swept-area-solid/fixed-reference-swept-area-solid.ifc",
+  "status": "200",
+  "remote_size": 10673,
+  "local_size": 10673,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/alignment-geometries-and-linear-positioning/linear-placement-of-signal/linear-placement-of-signal.ifc",
+  "status": "200",
+  "remote_size": 233672,
+  "local_size": 233672,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/alignment-geometries-and-linear-positioning/sectioned-solid-horizontal/sectioned-solid-horizontal.ifc",
+  "status": "200",
+  "remote_size": 10542,
+  "local_size": 10542,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/alignment-geometries-and-linear-positioning/segmented-reference-curve/segmented-reference-curve.ifc",
+  "status": "200",
+  "remote_size": 6402,
+  "local_size": 6402,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/basic-geometric-shape/brep-model/brep-model.ifc",
+  "status": "200",
+  "remote_size": 6186,
+  "local_size": 6186,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/basic-geometric-shape/csg-primitive/csg-primitive.ifc",
+  "status": "200",
+  "remote_size": 5101,
+  "local_size": 5101,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/basic-geometric-shape/extruded-solid/extruded-solid.ifc",
+  "status": "200",
+  "remote_size": 5428,
+  "local_size": 5428,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/basic-geometric-shape/surface-model/surface-model.ifc",
+  "status": "200",
+  "remote_size": 6221,
+  "local_size": 6221,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/basic-geometric-shape/triangulated-item/triangulated-item.ifc",
+  "status": "200",
+  "remote_size": 5295,
+  "local_size": 5295,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/beam-extruded-solid/beam-extruded-solid.ifc",
+  "status": "200",
+  "remote_size": 2711,
+  "local_size": 2711,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/beam-parametric-cross-section/beam-parametric-cross-section.ifc",
+  "status": "200",
+  "remote_size": 35218,
+  "local_size": 35218,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/beam-revolved-solid/beam-revolved-solid.ifc",
+  "status": "200",
+  "remote_size": 6223,
+  "local_size": 6223,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/beam-varying-cardinal-points/beam-varying-cardinal-points.ifc",
+  "status": "200",
+  "remote_size": 5659,
+  "local_size": 5659,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/beam-varying-extrusion-paths/beam-varying-extrusion-paths.ifc",
+  "status": "200",
+  "remote_size": 4359,
+  "local_size": 4359,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/beam-varying-profiles/beam-varying-profiles.ifc",
+  "status": "200",
+  "remote_size": 4314,
+  "local_size": 4314,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/column-extruded-solid/column-extruded-solid.ifc",
+  "status": "200",
+  "remote_size": 3118,
+  "local_size": 3118,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/reinforcing-assembly/reinforcing-assembly.ifc",
+  "status": "200",
+  "remote_size": 23220,
+  "local_size": 23220,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/reinforcing-stirrup/reinforcing-stirrup.ifc",
+  "status": "200",
+  "remote_size": 4161,
+  "local_size": 4161,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/slab-extrusion/slab-extruded-solid.ifc",
+  "status": "200",
+  "remote_size": 3189,
+  "local_size": 3189,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/slab-openings/slab-openings.ifc",
+  "status": "200",
+  "remote_size": 4302,
+  "local_size": 4302,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/wall-extrusion/wall-extruded-solid.ifc",
+  "status": "200",
+  "remote_size": 3313,
+  "local_size": 3313,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/construction-scheduling/construction-scheduling-task/construction-scheduling-task.ifc",
+  "status": "200",
+  "remote_size": 18874,
+  "local_size": 18874,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/mapped-geometric-shape/mapped-shape-with-multiple-items/mapped-shape-with-multiple-items.ifc",
+  "status": "200",
+  "remote_size": 7906,
+  "local_size": 7906,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/mapped-geometric-shape/mapped-shape-with-transformation/mapped-shape-with-transformation.ifc",
+  "status": "200",
+  "remote_size": 6748,
+  "local_size": 6748,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/mapped-geometric-shape/mapped-shape-without-transformation/mapped-shape-without-transformation.ifc",
+  "status": "200",
+  "remote_size": 6676,
+  "local_size": 6676,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/placements-and-gis-referencing/geographic-referencing-gk/geographic-referencing-gk.ifc",
+  "status": "200",
+  "remote_size": 3612,
+  "local_size": 3612,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/placements-and-gis-referencing/geographic-referencing-rigid-operation/geographic-referencing-rigid-operation.ifc",
+  "status": "200",
+  "remote_size": 3994,
+  "local_size": 3994,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/placements-and-gis-referencing/geographic-referencing-utm/geographic-referencing-utm.ifc",
+  "status": "200",
+  "remote_size": 3585,
+  "local_size": 3585,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/placements-and-gis-referencing/grid-placement/grid-placement.ifc",
+  "status": "200",
+  "remote_size": 31361,
+  "local_size": 31361,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/structural-analysis-model/structural-curve-member/structural-curve-member.ifc",
+  "status": "200",
+  "remote_size": 15275,
+  "local_size": 15275,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/tessellated-shape/beam-curved-i-shape-tessellated/beam-curved-i-shape-tessellated.ifc",
+  "status": "200",
+  "remote_size": 356818,
+  "local_size": 356818,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/tessellated-shape/beam-straight-i-shape-tessellated/beam-straight-i-shape-tessellated.ifc",
+  "status": "200",
+  "remote_size": 5438,
+  "local_size": 5438,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/tessellated-shape/column-straight-rectangle-tessellation/column-straight-rectangle-tessellation.ifc",
+  "status": "200",
+  "remote_size": 4417,
+  "local_size": 4417,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/tessellated-shape/polygonal-face-tessellation/polygonal-face-tessellation.ifc",
+  "status": "200",
+  "remote_size": 4176,
+  "local_size": 4176,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/tessellated-shape/slab-tessellated-unique-vertices/slab-tessellated-unique-vertices.ifc",
+  "status": "200",
+  "remote_size": 5060,
+  "local_size": 5060,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/tessellated-shape-with-style/tessellation-with-blob-texture/tessellation-with-blob-texture.ifc",
+  "status": "200",
+  "remote_size": 23562,
+  "local_size": 23562,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/tessellated-shape-with-style/tessellation-with-image-texture/tessellation-with-image-texture.ifc",
+  "status": "200",
+  "remote_size": 10337,
+  "local_size": 10337,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/tessellated-shape-with-style/tessellation-with-individual-colors/tessellation-with-individual-colors.ifc",
+  "status": "200",
+  "remote_size": 2657,
+  "local_size": 2657,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/tessellated-shape-with-style/tessellation-with-pixel-texture/tessellation-with-pixel-texture.ifc",
+  "status": "200",
+  "remote_size": 796767,
+  "local_size": 796767,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/trimmed-curve-parameters/curve-parameters-in-degrees/curve-parameters-in-degrees.ifc",
+  "status": "200",
+  "remote_size": 8071,
+  "local_size": 8071,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/trimmed-curve-parameters/curve-parameters-in-radians/curve-parameters-in-radians.ifc",
+  "status": "200",
+  "remote_size": 7993,
+  "local_size": 7993,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/ALB/alb000/pass-alb000-alignment_with_layout.ifc",
+  "status": "200",
+  "remote_size": 11202,
+  "local_size": 11202,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/ALB/alb002/fail-alb002-scenario01-invalid_decomposition.ifc",
+  "status": "200",
+  "remote_size": 11481,
+  "local_size": 11481,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/ALS/als000/pass-als000-alignment_geometry.ifc",
+  "status": "200",
+  "remote_size": 11251,
+  "local_size": 11251,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/ALS/als004/fail-als004-scenario01-wrong_representationidentifier_value.ifc",
+  "status": "200",
+  "remote_size": 375672,
+  "local_size": 375672,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/ANN/ann000/pass-ann000-annotations_geometry_present.ifc",
+  "status": "200",
+  "remote_size": 5873,
+  "local_size": 5873,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/ASM/asm000/pass-asm000-activated_assembly_present.ifc",
+  "status": "200",
+  "remote_size": 4179,
+  "local_size": 4179,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/AXG/axg000/pass-axg000-axis_geometry_present.ifc",
+  "status": "200",
+  "remote_size": 3323,
+  "local_size": 3323,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/BBX/bbx000/pass-bbx000-ifc4_bounding_box_present.ifc",
+  "status": "200",
+  "remote_size": 57727,
+  "local_size": 57727,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/BBX/bbx001/fail-bbx001-wrong_identifier.ifc",
+  "status": "200",
+  "remote_size": 57796,
+  "local_size": 57796,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/BLT/blt000/pass-blt000-ifc2x3_building_element_present.ifc",
+  "status": "200",
+  "remote_size": 1652,
+  "local_size": 1652,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/BLT/blt001/fail-blt001-scenario01-operation_type_single_swing_door_type.ifc",
+  "status": "200",
+  "remote_size": 1416,
+  "local_size": 1416,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/BRP/brp001/pass-brp001-parallel_concave_faceinnerbound.ifc",
+  "status": "200",
+  "remote_size": 2215,
+  "local_size": 2215,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/BRP/brp001/fail-brp001-concave_non_parallel_crossing_faceinnerbound.ifc",
+  "status": "200",
+  "remote_size": 2227,
+  "local_size": 2227,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/CLS/cls000/pass-cls000-classification_present.ifc",
+  "status": "200",
+  "remote_size": 176221,
+  "local_size": 176221,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/CTX/ctx000/pass-ctx000-alignment_with_styled_material.ifc",
+  "status": "200",
+  "remote_size": 19414,
+  "local_size": 19414,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/DOC/doc000/pass-doc000-reference_to_project.ifc",
+  "status": "200",
+  "remote_size": 26628,
+  "local_size": 26628,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/GDP/gdp000/pass-gdp000-grid_placement_present.ifc",
+  "status": "200",
+  "remote_size": 31000,
+  "local_size": 31000,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/GEM/gem001/pass-gem001-beam_straight_i_shape_tessellated.ifc",
+  "status": "200",
+  "remote_size": 5275,
+  "local_size": 5275,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/GEM/gem001/fail-gem001-polygonal_face_oriented_edge.ifc",
+  "status": "200",
+  "remote_size": 4087,
+  "local_size": 4087,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/GRF/grf000/pass-grf000-correct_georeferencing.ifc",
+  "status": "200",
+  "remote_size": 3245,
+  "local_size": 3245,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/GRF/grf001/fail-grf001-ifcmapconversion_ifcmapconversion_non_identical.ifc",
+  "status": "200",
+  "remote_size": 1505,
+  "local_size": 1505,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/GRP/grp000/pass-grp000-contains_groups.ifc",
+  "status": "200",
+  "remote_size": 15008,
+  "local_size": 15008,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/GRP/grp001/fail-grp001-scenario01-cycle_of_length_1.ifc",
+  "status": "200",
+  "remote_size": 1358,
+  "local_size": 1358,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/IFC/ifc101/pass-ifc101-IFC2X3.ifc",
+  "status": "200",
+  "remote_size": 1284,
+  "local_size": 1284,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/IFC/ifc101/fail-ifc101-IFC4X3.ifc",
+  "status": "200",
+  "remote_size": 1276,
+  "local_size": 1276,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/LAY/lay000/pass-lay000-correct_layer_assignment.ifc",
+  "status": "200",
+  "remote_size": 57763,
+  "local_size": 57763,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/LIP/lip000/pass-lip000-linear_placement_present.ifc",
+  "status": "200",
+  "remote_size": 384658,
+  "local_size": 384658,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/LIP/lip002/fail-lip002-imperial_no_value.ifc",
+  "status": "200",
+  "remote_size": 1296867,
+  "local_size": 1296867,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/LOP/lop000/pass-lop000-grid_placement.ifc",
+  "status": "200",
+  "remote_size": 31404,
+  "local_size": 31404,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/MAT/mat000/pass-mat000-passing_valid_material_assigned_to_element.ifc",
+  "status": "200",
+  "remote_size": 1357,
+  "local_size": 1357,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/MPD/mpd001/pass-mpd001-single-mapped-item.ifc",
+  "status": "200",
+  "remote_size": 1981,
+  "local_size": 1981,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/MPD/mpd001/fail-mpd001-scenario01-two-mapped-items-different-identifier.ifc",
+  "status": "200",
+  "remote_size": 2149,
+  "local_size": 2149,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/OJP/ojp000/pass-ojp000-object_placement_present.ifc",
+  "status": "200",
+  "remote_size": 22612,
+  "local_size": 22612,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/OJP/ojp001/fail-ojp001-scenario01-wrong_ifclocalplacement_linked.ifc",
+  "status": "200",
+  "remote_size": 2634,
+  "local_size": 2634,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/OJT/ojt001/pass-ojt001-scenario01-userdefined_w_object_type.ifc",
+  "status": "200",
+  "remote_size": 2726,
+  "local_size": 2726,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/OJT/ojt001/fail-ojt001-scenario01-userdefined_blank_object_type.ifc",
+  "status": "200",
+  "remote_size": 2708,
+  "local_size": 2708,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/PJS/pjs000/pass-pjs000-project_present.ifc",
+  "status": "200",
+  "remote_size": 1273,
+  "local_size": 1273,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/PJS/pjs001/fail-pjs001-scenario01-degree_ifc2x3.ifc",
+  "status": "200",
+  "remote_size": 1528,
+  "local_size": 1528,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/POR/por000/pass-por000-passing_valid_port_connectivity.ifc",
+  "status": "200",
+  "remote_size": 1377,
+  "local_size": 1377,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/PSE/pse001/pass-pse001-ifc2x3-on-occurence-electric-actuator-pset.ifc",
+  "status": "200",
+  "remote_size": 782,
+  "local_size": 782,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/PSE/pse001/fail-pse001-ifc2x3-on-occurence-electric-actuator-pset.ifc",
+  "status": "200",
+  "remote_size": 786,
+  "local_size": 786,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/QTY/qty000/pass-qty000-activated_quantities_and_psets.ifc",
+  "status": "200",
+  "remote_size": 6179,
+  "local_size": 6179,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/QTY/qty001/fail-qty001-scenario01-invalid_element_quantity_name_on_occurrence.ifc",
+  "status": "200",
+  "remote_size": 22681,
+  "local_size": 22681,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/SPA/spa000/pass-spa000-activated_space_present.ifc",
+  "status": "200",
+  "remote_size": 1266,
+  "local_size": 1266,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/SPS/sps001/pass-sps001-0_sites_1_buildings_variant_0.ifc",
+  "status": "200",
+  "remote_size": 1345,
+  "local_size": 1345,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/SPS/sps001/fail-sps001-scenario01-2_sites_0_buildings_variant_0.ifc",
+  "status": "200",
+  "remote_size": 1426,
+  "local_size": 1426,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/SWE/swe001/pass-swe001-IfcArbitraryClosedProfileDef-non_intersecting_tangent-compcurve.ifc",
+  "status": "200",
+  "remote_size": 2418,
+  "local_size": 2418,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/SWE/swe001/fail-swe001-IfcArbitraryClosedProfileDef-concave_non_parallel_crossing-indexed.ifc",
+  "status": "200",
+  "remote_size": 2021,
+  "local_size": 2021,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/SYS/sys001/pass-sys001-sink_source.ifc",
+  "status": "200",
+  "remote_size": 1716,
+  "local_size": 1716,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/SYS/sys001/fail-sys001-scenario01-sourceandsink_sink.ifc",
+  "status": "200",
+  "remote_size": 1741,
+  "local_size": 1741,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/TAS/tas001/pass-tas001-PolygonalFaceSet_parallel_concave.ifc",
+  "status": "200",
+  "remote_size": 2829,
+  "local_size": 2829,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/TAS/tas001/fail-tas001-PolygonalFaceSet_concave_non_parallel_crossing.ifc",
+  "status": "200",
+  "remote_size": 2844,
+  "local_size": 2844,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/VER/ver000/pass-ver000-owner_with_last_modify_date.ifc",
+  "status": "200",
+  "remote_size": 1102,
+  "local_size": 1102,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/VRT/vrt000/pass-vrt000-virtual_element_present.ifc",
+  "status": "200",
+  "remote_size": 1299,
+  "local_size": 1299,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IDS/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_Aedes_example.ids",
+  "status": "200",
+  "remote_size": 1704,
+  "local_size": 1704,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IDS/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_ArcDox.ids",
+  "status": "200",
+  "remote_size": 5815,
+  "local_size": 5815,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IDS/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_SimpleBIM_examples.ids",
+  "status": "200",
+  "remote_size": 3731,
+  "local_size": 3731,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IDS/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_StructuralSafety.ids",
+  "status": "200",
+  "remote_size": 1332,
+  "local_size": 1332,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IDS/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_aachen_example.ids",
+  "status": "200",
+  "remote_size": 1253,
+  "local_size": 1253,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IDS/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_demo_BIM-basis-ILS.ids",
+  "status": "200",
+  "remote_size": 58686,
+  "local_size": 58686,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IDS/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_oma_input.ids",
+  "status": "200",
+  "remote_size": 70631,
+  "local_size": 70631,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IDS/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_oma_output.ids",
+  "status": "200",
+  "remote_size": 4326,
+  "local_size": 4326,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IDS/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_random_example.ids",
+  "status": "200",
+  "remote_size": 4717,
+  "local_size": 4717,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IDS/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_ucms_prefab_pipes_IFC2x3.ids",
+  "status": "200",
+  "remote_size": 8562,
+  "local_size": 8562,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IDS/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_ucms_prefab_pipes_IFC4.3.ids",
+  "status": "200",
+  "remote_size": 5887,
+  "local_size": 5887,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/IDS/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_wooden-windows.ids",
+  "status": "200",
+  "remote_size": 13132,
+  "local_size": 13132,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Document%20Reference%20External/document%20reference%20external.bcf",
+  "status": "200",
+  "remote_size": 24589,
+  "local_size": 24589,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Document%20Reference%20External/unzipped/1b66b5cb-18b4-4edd-a700-d02c3a673710/markup.bcf",
+  "status": "200",
+  "remote_size": 2091,
+  "local_size": 2091,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Document%20reference%20internal/Document%20reference%20internal.bcf",
+  "status": "200",
+  "remote_size": 100614,
+  "local_size": 100614,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Document%20reference%20internal/unzipped/8ac9822a-761a-4deb-9f39-f61286acbf6a/markup.bcf",
+  "status": "200",
+  "remote_size": 2286,
+  "local_size": 2286,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Due%20Date/DueDate.bcf",
+  "status": "200",
+  "remote_size": 2087,
+  "local_size": 2087,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Due%20Date/unzipped/fffc1b9d-1f64-46ee-ad84-4fd4a0640e5f/markup.bcf",
+  "status": "200",
+  "remote_size": 1451,
+  "local_size": 1451,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Labels/Labels.bcf",
+  "status": "200",
+  "remote_size": 97604,
+  "local_size": 97604,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Labels/unzipped/bee19eb8-3ec0-4e0d-90df-52afc806beaf/markup.bcf",
+  "status": "200",
+  "remote_size": 2001,
+  "local_size": 2001,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Milestone/Milestone.bcf",
+  "status": "200",
+  "remote_size": 61468,
+  "local_size": 61468,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Milestone/unzipped/547bb53e-0c84-4a07-a75d-19a68576394c/markup.bcf",
+  "status": "200",
+  "remote_size": 2046,
+  "local_size": 2046,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Minimum%20information/Minimum%20information.bcf",
+  "status": "200",
+  "remote_size": 1255,
+  "local_size": 1255,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Minimum%20information/unzipped/b0ddb128-a997-44c1-8ad8-59492daa5f6b/markup.bcf",
+  "status": "200",
+  "remote_size": 576,
+  "local_size": 576,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Related%20topics%20with%20both%20topics%20in%20the%20same%20file/Related%20topics%20with%20both%20topics%20in%20the%20same%20file.bcf",
+  "status": "200",
+  "remote_size": 2939,
+  "local_size": 2939,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Related%20topics%20with%20both%20topics%20in%20the%20same%20file/unzipped/a6f801b9-6bf6-4cb9-8b89-1ae24b76074a/markup.bcf",
+  "status": "200",
+  "remote_size": 1716,
+  "local_size": 1716,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/Related%20topics%20with%20both%20topics%20in%20the%20same%20file/unzipped/c69c8879-bd4a-4182-a759-f3c8c5b47c94/markup.bcf",
+  "status": "200",
+  "remote_size": 1311,
+  "local_size": 1311,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/User%20assignment/User%20assignment.bcf",
+  "status": "200",
+  "remote_size": 62809,
+  "local_size": 62809,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Markup/User%20assignment/unzipped/7ad1a717-bf20-4c12-b511-cbd90370ddba/markup.bcf",
+  "status": "200",
+  "remote_size": 1950,
+  "local_size": 1950,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/All%20parts%20of%20curtain%20wall%20visible/all%20parts%20of%20curtain%20walls%20visible.bcf",
+  "status": "200",
+  "remote_size": 19549,
+  "local_size": 19549,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/All%20parts%20of%20curtain%20wall%20visible/unzipped/cc1ba10e-c55c-4056-a24c-45f30172899b/markup.bcf",
+  "status": "200",
+  "remote_size": 1742,
+  "local_size": 1742,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/All%20parts%20of%20decomposed%20object%20except%20one%20visible/all%20parts%20except%20one%20visible.bcf",
+  "status": "200",
+  "remote_size": 23678,
+  "local_size": 23678,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/All%20parts%20of%20decomposed%20object%20except%20one%20visible/unzipped/6e9a9f2f-263c-4358-815e-87baf9c7df15/markup.bcf",
+  "status": "200",
+  "remote_size": 1497,
+  "local_size": 1497,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Component%20selection/component%20selection.bcf",
+  "status": "200",
+  "remote_size": 69378,
+  "local_size": 69378,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Component%20selection/unzipped/647bca1c-cac3-4f16-84a8-912e081edd57/markup.bcf",
+  "status": "200",
+  "remote_size": 1248,
+  "local_size": 1248,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/One%20part%20of%20decomposed%20object%20visible/one%20part%20of%20decomposed%20object%20visible.bcf",
+  "status": "200",
+  "remote_size": 6869,
+  "local_size": 6869,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/One%20part%20of%20decomposed%20object%20visible/unzipped/c9582109-3852-4bdf-86bf-52a6cfd74bf1/markup.bcf",
+  "status": "200",
+  "remote_size": 1090,
+  "local_size": 1090,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Orthogonal%20camera/orthogonal%20camera.bcf",
+  "status": "200",
+  "remote_size": 17825,
+  "local_size": 17825,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Orthogonal%20camera/unzipped/793a5f9f-788e-46e4-b484-9c44d3061577/markup.bcf",
+  "status": "200",
+  "remote_size": 1867,
+  "local_size": 1867,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Perspective%20camera/perspective%20camera.bcf",
+  "status": "200",
+  "remote_size": 82183,
+  "local_size": 82183,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Perspective%20camera/unzipped/01777b21-ba39-4c2b-ad1d-a9320f81214a/markup.bcf",
+  "status": "200",
+  "remote_size": 1285,
+  "local_size": 1285,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Single%20invisible%20wall/single%20invisible%20wall.bcf",
+  "status": "200",
+  "remote_size": 41001,
+  "local_size": 41001,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Single%20invisible%20wall/unzipped/e1fff3a6-db0f-48e8-a240-0e2f38b2fc21/markup.bcf",
+  "status": "200",
+  "remote_size": 1304,
+  "local_size": 1304,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Single%20visible%20space/single%20visible%20space.bcf",
+  "status": "200",
+  "remote_size": 33789,
+  "local_size": 33789,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Single%20visible%20space/unzipped/aeb8d729-ec2f-4f46-aa9e-e7a9f15582b0/markup.bcf",
+  "status": "200",
+  "remote_size": 1465,
+  "local_size": 1465,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Single%20visible%20wall/single%20visible%20wall.bcf",
+  "status": "200",
+  "remote_size": 15337,
+  "local_size": 15337,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Single%20visible%20wall/unzipped/456b122e-3c6c-480c-9f60-30b4bd47ae08/markup.bcf",
+  "status": "200",
+  "remote_size": 1252,
+  "local_size": 1252,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Topics%20with%20different%20models%20visible/Topics%20with%20different%20models%20visible.bcf",
+  "status": "200",
+  "remote_size": 38459,
+  "local_size": 38459,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Topics%20with%20different%20models%20visible/unzipped/73ff1e90-e8f3-45e3-a973-b4fdcb338aa0/markup.bcf",
+  "status": "200",
+  "remote_size": 1689,
+  "local_size": 1689,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/Topics%20with%20different%20models%20visible/unzipped/ad503a8c-ac9a-42ab-9b44-ec99f19700d3/markup.bcf",
+  "status": "200",
+  "remote_size": 1669,
+  "local_size": 1669,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/all%20components%20and%20spaces%20visible/all%20components%20and%20spaces%20visible.bcf",
+  "status": "200",
+  "remote_size": 104568,
+  "local_size": 104568,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/buildingSMART/BCF-XML/bc48611d0d7a1587f028a2b69677a1aafd5cd0a8/Test%20Cases/v3.0/Visualization/all%20components%20and%20spaces%20visible/unzipped/9af7d7db-2cd3-4b32-bec6-3edf21d86d50/markup.bcf",
+  "status": "200",
+  "remote_size": 1309,
+  "local_size": 1309,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/IfcOpenShell/files/9fc2267d7f1ff35284c5b0fc28cc97bff7ace8e7/wall-with-opening-and-window.ifcxml",
+  "status": "200",
+  "remote_size": 23162,
+  "local_size": 23162,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/IfcOpenShell/files/9fc2267d7f1ff35284c5b0fc28cc97bff7ace8e7/wall-with-opening-and-window_ifcxml_format.ifczip",
+  "status": "200",
+  "remote_size": 3909,
+  "local_size": 3909,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/IfcOpenShell/files/9fc2267d7f1ff35284c5b0fc28cc97bff7ace8e7/WallInstance_IFC4Add2_ifcspf_format.ifczip",
+  "status": "200",
+  "remote_size": 7570,
+  "local_size": 7570,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/r9/entities.dwg",
+  "status": "200",
+  "remote_size": 3476,
+  "local_size": 3476,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/r10/entities.dwg",
+  "status": "200",
+  "remote_size": 4305,
+  "local_size": 4305,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/r11/entities-2d.dwg",
+  "status": "200",
+  "remote_size": 5416,
+  "local_size": 5416,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/r11/entities-3d.dwg",
+  "status": "200",
+  "remote_size": 5522,
+  "local_size": 5522,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_r13.dwg",
+  "status": "200",
+  "remote_size": 519995,
+  "local_size": 519995,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_r13.dxf",
+  "status": "200",
+  "remote_size": 1206223,
+  "local_size": 1206223,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_r14.dwg",
+  "status": "200",
+  "remote_size": 439875,
+  "local_size": 439875,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_r14.dxf",
+  "status": "200",
+  "remote_size": 575437,
+  "local_size": 575437,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_2000.dwg",
+  "status": "200",
+  "remote_size": 582572,
+  "local_size": 582572,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_2000.dxf",
+  "status": "200",
+  "remote_size": 1387952,
+  "local_size": 1387952,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_2004.dwg",
+  "status": "200",
+  "remote_size": 187890,
+  "local_size": 187890,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_2004.dxf",
+  "status": "200",
+  "remote_size": 922305,
+  "local_size": 922305,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_2007.dwg",
+  "status": "200",
+  "remote_size": 456000,
+  "local_size": 456000,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_2007.dxf",
+  "status": "200",
+  "remote_size": 925472,
+  "local_size": 925472,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_2010.dwg",
+  "status": "200",
+  "remote_size": 450071,
+  "local_size": 450071,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_2010.dxf",
+  "status": "200",
+  "remote_size": 879558,
+  "local_size": 879558,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_2013.dwg",
+  "status": "200",
+  "remote_size": 146906,
+  "local_size": 146906,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_2013.dxf",
+  "status": "200",
+  "remote_size": 850618,
+  "local_size": 850618,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_2018.dwg",
+  "status": "200",
+  "remote_size": 149218,
+  "local_size": 149218,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_2018.dxf",
+  "status": "200",
+  "remote_size": 845818,
+  "local_size": 845818,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_r12.dxf",
+  "status": "200",
+  "remote_size": 711206,
+  "local_size": 711206,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/example_2018.dxfb",
+  "status": "200",
+  "remote_size": 65268,
+  "local_size": 65268,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/architectural_-_annotation_scaling_and_multileaders.dwg",
+  "status": "200",
+  "remote_size": 188992,
+  "local_size": 188992,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/architectural_example-imperial.dwg",
+  "status": "200",
+  "remote_size": 148638,
+  "local_size": 148638,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/blocks_and_tables_-_imperial.dwg",
+  "status": "200",
+  "remote_size": 227008,
+  "local_size": 227008,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/blocks_and_tables_-_metric.dwg",
+  "status": "200",
+  "remote_size": 258848,
+  "local_size": 258848,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/civil_example-imperial.dwg",
+  "status": "200",
+  "remote_size": 169592,
+  "local_size": 169592,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/colorwh.dwg",
+  "status": "200",
+  "remote_size": 1786976,
+  "local_size": 1786976,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/lineweights.dwg",
+  "status": "200",
+  "remote_size": 58496,
+  "local_size": 58496,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/mechanical_example-imperial.dwg",
+  "status": "200",
+  "remote_size": 142267,
+  "local_size": 142267,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/plot_screening_and_fill_patterns.dwg",
+  "status": "200",
+  "remote_size": 85952,
+  "local_size": 85952,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/tablet.dwg",
+  "status": "200",
+  "remote_size": 438656,
+  "local_size": 438656,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/title_block-ansi.dwg",
+  "status": "200",
+  "remote_size": 125896,
+  "local_size": 125896,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/title_block-arch.dwg",
+  "status": "200",
+  "remote_size": 126985,
+  "local_size": 126985,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/title_block-iso.dwg",
+  "status": "200",
+  "remote_size": 128233,
+  "local_size": 128233,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/truetype.dwg",
+  "status": "200",
+  "remote_size": 70464,
+  "local_size": 70464,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/visualization_-_aerial.dwg",
+  "status": "200",
+  "remote_size": 733036,
+  "local_size": 733036,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/visualization_-_condominium_with_skylight.dwg",
+  "status": "200",
+  "remote_size": 1415699,
+  "local_size": 1415699,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/visualization_-_conference_room.dwg",
+  "status": "200",
+  "remote_size": 973730,
+  "local_size": 973730,
+  "size_match": true
+ },
+ {
+  "href": "https://download.autodesk.com/us/samplefiles/acad/visualization_-_sun_and_sky_demo.dwg",
+  "status": "200",
+  "remote_size": 553297,
+  "local_size": 553297,
+  "size_match": true
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFBIM/usaf_sfile_template_2011.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2768896,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ASOS_DG/ASOS.standard.design.guide.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 36064445,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/CE_ADMIN/CES_SD_drawings_admin_bldg.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 3064922,
+  "size_match": false
+ },
+ {
+  "href": "https://web.archive.org/web/20170408125937id_/https://www.wbdg.org/FFC/AF/AFDP/CE_ADMIN/ce_admin_building.pdf",
+  "status": "200",
+  "remote_size": 10320713,
+  "local_size": 10320713,
+  "size_match": true
+ },
+ {
+  "href": "https://web.archive.org/web/20170408125948id_/https://www.wbdg.org/FFC/AF/AFDP/CE_ADMIN/ces__admin_building.rvt",
+  "status": "200",
+  "remote_size": 53710848,
+  "local_size": 53710848,
+  "size_match": true
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/CE_EXPLOSIVE/CES_sd_drawings_eod_bldg.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2015723,
+  "size_match": false
+ },
+ {
+  "href": "https://web.archive.org/web/20170408130046id_/https://www.wbdg.org/FFC/AF/AFDP/CE_EXPLOSIVE/afdp_ce_explosive_concept_plans.pdf",
+  "status": "200",
+  "remote_size": 1204924,
+  "local_size": 1204924,
+  "size_match": true
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/CE_FAC_MAIN/CES_sd_drawings_fac_main_bldg.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1026707,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/CE_FAC_MAIN/af_remotely_piloted_aircraft_squadron_ops_fac.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 3218001,
+  "size_match": false
+ },
+ {
+  "href": "https://web.archive.org/web/20170408130051id_/https://www.wbdg.org/FFC/AF/AFDP/CE_FAC_MAIN/concept_plans_fac_maint.pdf",
+  "status": "200",
+  "remote_size": 1022242,
+  "local_size": 1022242,
+  "size_match": true
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/CE_FAC_MAIN/squad_ops_facility_standard_design_plans.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 3662868,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/CE_PEST/CES_sd_drawings_pest_bldg.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1334938,
+  "size_match": false
+ },
+ {
+  "href": "https://web.archive.org/web/20170408130057id_/https://www.wbdg.org/FFC/AF/AFDP/CE_PEST/cepestmanagementprototype.pdf",
+  "status": "200",
+  "remote_size": 392363,
+  "local_size": 392363,
+  "size_match": true
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/CONFINEMENT/ConfinementFacility01APR15.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 3770939,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/CONFINEMENT/FDWD5022_DPConfinement_Revit2013_Arch_Central.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 55431168,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE%20Dynamic%20Dorm%20Prototypes_111709.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 14347460,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE-DORMS-A-VERSION%202.0-060309.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 14331904,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE-DORMS-ALL-VERSION%202.1.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 24262944,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE-DORMS-E-VERSION%202.0-060309.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 4476928,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE-DORMS-F-VERSION%202.0-060309.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1536000,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE-DORMS-M-VERSION%202.0-060309.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 9977856,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE-DORMS-P-VERSION%202.0-060309.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 3424256,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/ArchitectureSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1417485,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/Electrical%20Sheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 7719209,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/FireProtectionSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 9164955,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/MechanicalSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 4320098,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/PlumbingSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1350628,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/StructuralSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 300007,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/V2.1_AFCEE%20Dynamic%20Prototype%20BIM%20Manual_051109.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2022142,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/V2.2_Specifications_061509%20%28rev%29.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1343460,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENTRY_CONTROL/20141117_EntryControlFacility-IACP_Model.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 41541632,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/ENTRY_CONTROL/20150106_ECF-IACP.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 11862250,
+  "size_match": false
+ },
+ {
+  "href": "https://web.archive.org/web/20170408130414id_/https://www.wbdg.org/FFC/AF/AFDP/FIGHTER-HANGAR/DynamicPrototypes-FighterHangarAMU.pdf",
+  "status": "200",
+  "remote_size": 6470202,
+  "local_size": 6470202,
+  "size_match": true
+ },
+ {
+  "href": "https://web.archive.org/web/20170408130423id_/https://www.wbdg.org/FFC/AF/AFDP/FIGHTER-HANGAR/DynamicPrototypes-FighterHangarAMU.rvt",
+  "status": "200",
+  "remote_size": 60375040,
+  "local_size": 60375040,
+  "size_match": true
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/FIGHTER-HANGAR/sd_drawings_fight_hangar.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2907713,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/FIRE_STATION/FIRE_STATION_PROTOTYPE_CENTRAL.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 137465856,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/FIRE_STATION/fs_proto_hq.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 38775983,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/FIRE_STATION/fs_proto_sat.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 25533841,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/Fitness%20Center%20BIM%20Manual%20v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 262632,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/Fitness%20Center%20Design%20Guide_With%20Markups.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1479192,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/Fitness%20Center_LARGE.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 40226816,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/Fitness%20Center_MEDIUM2.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 36663296,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/Fitness%20Center_MEGA2.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 38187008,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/LARGEFC_Architectural%20Sheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 11808773,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/MEDIUMFC_Architectural_Sheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 8985157,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/MEGAFC_Architectural_Sheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 12715325,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/INDOOR-RANGE/IndoorSmallArmsFiringRangeModel_111714.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 103702528,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/INDOOR-RANGE/IndoorSmallArmsRangeDrawings.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 10440844,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/INDOOR-RANGE/Indoor_Small_Arms_Range_Drawings_2018.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1869275,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/INDOOR-RANGE/standard_design_indoor_small_arms_firing_range_guide_2018.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2156922,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/20130328_BIM%20MANUAL_AFCEC-BIM_Prototype-MWD_Kennel.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2765178,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/20130328_Military_Working_Dog_Kennel_Prototype_Drawings.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 7273588,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/Military_Working_Dog_Kennel_Program.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 14963,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/Military_Working_Dog_Kennel_Prototype_ARCH2013_Central.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 32452608,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/drawings_mil_work_dog_june_2018.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1353232,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/mil_working_dog_cal_spreadsheet_june_2018.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 100623,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/standard_design_mil_working_dog_july_2018.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2715810,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LACCCH/CC-FC_Hangar_Prototype_DC.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2765928,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LACCCH/af_fuel_cell_hangar_standard_design.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 3767616,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LACCCH/af_rpa_general_maintenance_hangar_facility_standard_design.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 6621100,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LACCCH/rpa_maintenance_hangar_drawings.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 4334672,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LAFT/FuT_DefinitiveDesignSubmittalDesignAnalysis.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 68363728,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LAFT/FuT_DefinitiveDesignSubmittalDrawings.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 6361464,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LAFTC/FTC_DefinitiveDesignAnalysis.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 13851024,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LAFTC/FTC_DefinitiveDesignDrawings.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 10226762,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LAGMH/GM_HangarPrgmingWorksheet.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 64068,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LAGMH/GM_Hangar_DC.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 7953404,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LAGMH/GM_Hangar_Prototype_DC.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1511662,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LAGMH/GM_Hangar_Prototype_DC.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 69427200,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LAGMH/MILCONSust_LEED09HPSB_GM-PE.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 88269,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LAOFS/1BFS_DefinitiveSubmittalDesignAnalysis.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 68363422,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/LAOFS/Standard_Design_flight_sim_1_2_DRAWINGS.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2832628,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/PERM_PARTY_ENLISTED_DORM/Dorm_SD_Drawings_jun_2019.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 4567396,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/PERM_PARTY_ENLISTED_DORM/perm_party_enlisted_dorm_DG_jun_2019.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 7708686,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/SFO/SFO%20BIM%20Manual.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 3201900,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/SFO/SFO%20PDF%20Version%20of%20all%20Sheets%20v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 6609030,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/SFO/SFO%20Prototypes%20-%20A.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 22777856,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/SHOPS-WAREHOUSE/CES_sd_drawings_warehouse_bldg.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1443136,
+  "size_match": false
+ },
+ {
+  "href": "https://web.archive.org/web/20170408130058id_/https://www.wbdg.org/FFC/AF/AFDP/SHOPS-WAREHOUSE/concept_plans_shops_warehouse.pdf",
+  "status": "200",
+  "remote_size": 1486100,
+  "local_size": 1486100,
+  "size_match": true
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/STORAGE_IGLOO/standard_design_storage_igloo.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 352734,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/AFCEE-DORMS-ALL-VERSION%202.1.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 24262902,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/ArchitectureSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1417499,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Electrical%20Sheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 7719225,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/FireProtectionSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 9164970,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/MechanicalSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 4320101,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/PlumbingSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1350643,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/StructuralSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 300011,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/THULE-A-DETACHED%2020100201.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 12001280,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/THULE-E-DETACTED-20100205.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 6557696,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/THULE-M-DETACH-2010-02-03.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 8097792,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/THULE-P-DETACHED-20100203.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 5963776,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/THULE-S-DETACHED-20100201.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2359296,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule%20Bldg%201-Officer%20%26%20Cont%20Mgr%2048.dwg",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2015552,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule%20Bldg%202-Cont%20Trainees%20%26%20Lab%2072.dwg",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1330880,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule%20Bldg%203-Enlisted%2048.dwg",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1969440,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule%20Bldg%204%20-%20Officer%2072.dwg",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1423328,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule_Bldg_1_-_Officer_%26_Contractor_Managers_48.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 726474,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule_Bldg_2_-_Contractor_Trainees_%26_Laborers_72.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 926815,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule_Bldg_3_-_Enlisted_48.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 850923,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule_Bldg_4_-_Officer_72.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 962922,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule_Prototypes_BIM_Manual_2010-02-17.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 3238470,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule_Specifications.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1034057,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/Architectural%20VQ%20-%20Model%20v1.0.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 58421248,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/ArchitecturalSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 19261120,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/E-Specs%20Database%20v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 29130,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/Electrical%20VQ%20-%20Model%20v1.0.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 4431872,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/ElectricalSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 629079,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/FireProtectionSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 11783913,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/Mechanical%20VQ%20-%20Model%20v1.0.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 4136960,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/MechanicalSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2197465,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/PDF%20Version%20of%20all%20Sheets%20v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 29080465,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/Plumbing%20VQ%20-%20Model%20v1.0.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 3670016,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/PlumbingSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1079685,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/Structural%20VQ%20-%20Model%20v1.0.rvt",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2134016,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/StructuralSheets_v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 181733,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/Visitors%20Quarters%20BIM%20Manual%20v1.0.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 4349532,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/WAREHOUSE/standard_design_warehouse_dabs_fev.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 692717,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/AF/AFDP/WRSS/standard_design_weapons_release_system_shop.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 221120,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division00.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 7929571,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division00.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2560116,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division01.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 243649,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division01.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 199884,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division05.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 360106,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division05.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 358050,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division06.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 207228,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division06.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 142287,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division07.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 113191,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division07.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 250683,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division08.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1167681,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division08.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 623881,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division10.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2093130,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division10.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1279385,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division11.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1194134,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division11.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 521471,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division12.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 376967,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division12.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 230839,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division13.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 860322,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division13.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 446302,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division14.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1411747,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division14.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1140247,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division22.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 10786909,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division22.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2082655,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division23.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 38098947,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division23.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 12935340,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division26.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 9053814,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division26.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 2164073,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division27.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 4128427,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division27.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 643511,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division28.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 5185506,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division28.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 1142430,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division32.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 10017330,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division32.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 4308809,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division33.zip",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 167725,
+  "size_match": false
+ },
+ {
+  "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division33.pdf",
+  "status": "403",
+  "remote_size": 118,
+  "local_size": 82332,
+  "size_match": false
+ },
+ {
+  "href": "https://blcj.or.jp/wp/wp-content/uploads/2026/04/BLCJ_S1000_A_Revit1.zip",
+  "status": "200",
+  "remote_size": 60281681,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://blcj.or.jp/wp/wp-content/uploads/2026/04/BLCJ_S1000_S_Revit.zip",
+  "status": "200",
+  "remote_size": 23622500,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://blcj.or.jp/wp/wp-content/uploads/2026/04/BLCJ_S1000_MEP_Revit1.zip",
+  "status": "200",
+  "remote_size": 70946795,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://raw.githubusercontent.com/monozukuri-ai/ezjww/0965e059e9ece2c341d1a845815ae68fb9fbd703/jww_samples/%E6%9C%A8%E9%80%A0%E5%B9%B3%E9%9D%A2%E4%BE%8B.jww",
+  "status": "200",
+  "remote_size": 53814,
+  "local_size": 53814,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/monozukuri-ai/ezjww/0965e059e9ece2c341d1a845815ae68fb9fbd703/jww_samples/%EF%BC%A1%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E5%B9%B3%E9%9D%A2%E4%BE%8B.jww",
+  "status": "200",
+  "remote_size": 112788,
+  "local_size": 112788,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/monozukuri-ai/ezjww/0965e059e9ece2c341d1a845815ae68fb9fbd703/jww_samples/%EF%BC%A1%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3%E7%AB%8B%E9%9D%A2%E4%BE%8B.jww",
+  "status": "200",
+  "remote_size": 44669,
+  "local_size": 44669,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/monozukuri-ai/ezjww/0965e059e9ece2c341d1a845815ae68fb9fbd703/jww_samples/%EF%BC%A1%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B325d.jww",
+  "status": "200",
+  "remote_size": 128135,
+  "local_size": 128135,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/monozukuri-ai/ezjww/0965e059e9ece2c341d1a845815ae68fb9fbd703/jww_samples/%E6%95%B7%E5%9C%B0%E5%9B%B3.jww",
+  "status": "200",
+  "remote_size": 14939,
+  "local_size": 14939,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/monozukuri-ai/ezjww/0965e059e9ece2c341d1a845815ae68fb9fbd703/jww_samples/%E6%97%A5%E5%BD%B1%E5%9B%B3.jww",
+  "status": "200",
+  "remote_size": 117097,
+  "local_size": 117097,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/monozukuri-ai/ezjww/0965e059e9ece2c341d1a845815ae68fb9fbd703/jww_samples/%E5%A4%A9%E7%A9%BA%E7%8E%87%E8%A1%A8.jww",
+  "status": "200",
+  "remote_size": 355887,
+  "local_size": 355887,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/monozukuri-ai/ezjww/0965e059e9ece2c341d1a845815ae68fb9fbd703/jww_samples/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB.jww",
+  "status": "200",
+  "remote_size": 51336,
+  "local_size": 51336,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/iku190t/ais-survey-tool/ac516c6c7a068eae2680fbfeb27455fa09a3dcd6/sample.sfc",
+  "status": "200",
+  "remote_size": 1159865,
+  "local_size": 1159865,
+  "size_match": true
+ },
+ {
+  "href": "https://raw.githubusercontent.com/allfestaboss/doboku-bench/fde87cac1893dc7adfc0023a39d8c3e39ebb490f/reference/reference_t002.sfc",
+  "status": "200",
+  "remote_size": 3344,
+  "local_size": 3344,
+  "size_match": true
+ },
+ {
+  "href": "https://zenodo.org/records/19722012/files/2025_BIMfundamentals.zip?download=1",
+  "status": "200",
+  "remote_size": 763,
+  "local_size": null,
+  "size_match": null
+ },
+ {
+  "href": "https://zenodo.org/records/19722012/files/2026_BIMprojects.zip?download=1",
+  "status": "200",
+  "remote_size": 763,
+  "local_size": null,
+  "size_match": null
+ }
+]

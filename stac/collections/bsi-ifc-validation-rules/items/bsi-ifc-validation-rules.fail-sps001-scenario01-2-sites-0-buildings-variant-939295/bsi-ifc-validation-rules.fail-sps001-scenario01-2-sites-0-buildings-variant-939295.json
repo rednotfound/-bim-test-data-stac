@@ -1,0 +1,134 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-ifc-validation-rules.fail-sps001-scenario01-2-sites-0-buildings-variant-939295",
+ "geometry": null,
+ "properties": {
+  "title": "Validation rule SPS – fail",
+  "description": "IFC-SPF IFC2X3 file from 'buildingSMART ifc-gherkin-rules test files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2022-07-31T09:43:22Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "MIT",
+  "keywords": [
+   "gherkin",
+   "invalid",
+   "rules",
+   "validation",
+   "validation-fail"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "bsi-ifc-validation-rules",
+  "bim:building_type": "component",
+  "bim:use_cases": [
+   "validation",
+   "validation-fail"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+  "bim:attribution": "buildingSMART International, ifc-gherkin-rules (MIT)",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/SPS/sps001/fail-sps001-scenario01-2_sites_0_buildings_variant_0.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "commit": "893f8275049b8960c3ce0c7379b4b57aefeaa8f9",
+   "path": "test/files/SPS/sps001/fail-sps001-scenario01-2_sites_0_buildings_variant_0.ifc",
+   "browse_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/SPS/sps001/fail-sps001-scenario01-2_sites_0_buildings_variant_0.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-07-29"
+  },
+  "bim:thumbnail": "not generated: RuntimeError: no geometry",
+  "bim:validation_rule": "SPS",
+  "bim:validation_expected": "fail",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView_V2.0]"
+  ],
+  "ifc:view_definition": "CoordinationView_V2.0",
+  "ifc:header_timestamp": "2022-07-31T09:43:22",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 0,
+  "ifc:product_types": 0,
+  "ifc:storeys": 0,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:props": 0,
+  "ifc:qsets": 0,
+  "ifc:materials": 0,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 0,
+  "ifc:docs": 0,
+  "ifc:score": 0.0,
+  "ifc:originating_system": "IfcOpenShell contributors - IfcOpenShell - v0.6.0+b0",
+  "ifc:length_unit": "METRE",
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-ifc-validation-rules.fail-sps001-scenario01-2-sites-0-buildings-variant-939295.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+   "title": "MIT"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/SPS/sps001/fail-sps001-scenario01-2_sites_0_buildings_variant_0.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/SPS/sps001/fail-sps001-scenario01-2_sites_0_buildings_variant_0.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "fail-sps001-scenario01-2_sites_0_buildings_variant_0.ifc",
+   "file:size": 1426,
+   "file:checksum": "1220f320a7c1130ab427063c2257bb17fe31ad3a7cd09f2b39560031eeab66128592"
+  }
+ },
+ "collection": "bsi-ifc-validation-rules"
+}

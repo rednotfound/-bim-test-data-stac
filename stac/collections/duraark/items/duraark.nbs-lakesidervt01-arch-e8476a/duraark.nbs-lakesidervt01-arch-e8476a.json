@@ -1,0 +1,192 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.nbs-lakesidervt01-arch-e8476a",
+ "geometry": null,
+ "properties": {
+  "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideRVT01_Arch",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2012-09-17T10:31:31Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-nbs-lakeside-ifc-4e0964",
+  "bim:building_type": "hospitality",
+  "bim:country": "GB",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-vendor"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBS_Lakeside_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "NBS_Lakeside/NBS_LakesideRVT01_Arch.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView_V2.0]",
+   "ExchangeRequirement[Architecture]"
+  ],
+  "ifc:view_definition": "CoordinationView_V2.0",
+  "ifc:header_timestamp": "2012-09-17T10:31:31",
+  "ifc:preprocessor_version": "Vectorworks Architect 2013 (Build 167540) by Nemetschek Vectorworks, Inc.",
+  "ifc:originating_system": "Macintosh",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 1217,
+  "ifc:product_types": 11,
+  "ifc:storeys": 1,
+  "ifc:spaces": 21,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Pset_BeamCommon",
+   "Pset_BuildingCommon",
+   "Pset_BuildingStoreyCommon",
+   "Pset_ColumnCommon",
+   "Pset_ElementShading",
+   "Pset_ProjectCommon",
+   "Pset_RoofCommon",
+   "Pset_SlabCommon",
+   "Pset_WallCommon"
+  ],
+  "ifc:props": 1060,
+  "ifc:qsets": 0,
+  "ifc:materials": 295,
+  "ifc:classif_refs": 21,
+  "ifc:type_objects": 0,
+  "ifc:docs": 0,
+  "ifc:score": 13.65,
+  "ifc:disciplines": [
+   "architecture",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcBeam": 777,
+   "IfcColumn": 140,
+   "IfcWallStandardCase": 80,
+   "IfcBuildingElementProxy": 73,
+   "IfcCurtainWall": 51,
+   "IfcSlab": 48,
+   "IfcBuildingElementPart": 28,
+   "IfcMember": 7,
+   "IfcWall": 7,
+   "IfcRoof": 5,
+   "IfcDoor": 1
+  },
+  "ifc:project_name": "Lakeside",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:building_names": [
+   "Default Building"
+  ],
+  "ifc:storey_names": [
+   "Story-1"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite location zero (geometry left null)"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.nbs-lakesidervt01-arch-e8476a.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbs-lakesideac01-arch-4cb31a/duraark.nbs-lakesideac01-arch-4cb31a.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbs-lakeside-ifc-4e0964)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbs-lakesideac10-arch-a2241c/duraark.nbs-lakesideac10-arch-a2241c.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbs-lakeside-ifc-4e0964)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbs-lakesidervt10-arch-a5bab3/duraark.nbs-lakesidervt10-arch-a5bab3.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbs-lakeside-ifc-4e0964)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbs-lakesidevw00-arch-d856f9/duraark.nbs-lakesidevw00-arch-d856f9.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbs-lakeside-ifc-4e0964)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBS_Lakeside_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "NBS_LakesideRVT01_Arch.ifc",
+   "file:size": 29348700,
+   "file:checksum": "1220fa10e6fdb4b62e4b0a1e36684c4f1910f1bb477c38df5a64db6c9a465e5701c6",
+   "bim:archive_member": "NBS_Lakeside/NBS_LakesideRVT01_Arch.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 9601292,
+   "bim:archive_member_checksum": "1220f005b622a44ad90bad9aad99185dc2cbfabd47b0fb05b10e06628dfa00b01ec9"
+  }
+ },
+ "collection": "duraark"
+}

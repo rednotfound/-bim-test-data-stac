@@ -1,0 +1,216 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [],
+ "id": "autodesk-acad-samples",
+ "title": "Autodesk AutoCAD sample files",
+ "description": "Official AutoCAD sample drawings (architecture, civil, mechanical, blocks, title blocks).",
+ "license": "LicenseRef-Autodesk-sample",
+ "keywords": [
+  "AutoCAD",
+  "DWG"
+ ],
+ "providers": [
+  {
+   "name": "Autodesk, Inc.",
+   "url": "https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/6XGQklp3ZcBFqljLPjrnQ9.html",
+   "roles": [
+    "producer",
+    "host",
+    "licensor"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     -180,
+     -90,
+     180,
+     90
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2026-10-13T00:00:00Z",
+     "2026-10-13T00:00:00Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "DWG"
+  ],
+  "bim:format_version": [
+   "AC1021 R2007",
+   "AC1024 R2010"
+  ],
+  "bim:building_type": [
+   "civil",
+   "generic-building",
+   "industrial"
+  ],
+  "bim:country": [
+   "US"
+  ],
+  "bim:use_cases": [
+   "cad-render",
+   "real-drawing"
+  ],
+  "bim:license_tier": [
+   "restricted"
+  ]
+ },
+ "bim:license_tier": "restricted",
+ "bim:license_quote": "Freely downloadable from Autodesk; no redistribution grant. Link only.",
+ "bim:attribution": "Autodesk, Inc., AutoCAD sample files",
+ "bim:origin": {
+  "kind": "url",
+  "base": "https://download.autodesk.com/us/samplefiles/acad/"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 18,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.autodesk.com/company/legal-notices-trademarks/terms-of-use",
+   "title": "LicenseRef-Autodesk-sample"
+  },
+  {
+   "rel": "about",
+   "href": "https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/6XGQklp3ZcBFqljLPjrnQ9.html",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.architectural-annotation-scaling-and-multileaders-f60b0c/autodesk-acad-samples.architectural-annotation-scaling-and-multileaders-f60b0c.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – architectural_-_annotation_scaling_and_multileaders"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.architectural-example-imperial-9d270f/autodesk-acad-samples.architectural-example-imperial-9d270f.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – architectural_example-imperial"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.blocks-and-tables-imperial-800cf0/autodesk-acad-samples.blocks-and-tables-imperial-800cf0.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – blocks_and_tables_-_imperial"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.blocks-and-tables-metric-e5f244/autodesk-acad-samples.blocks-and-tables-metric-e5f244.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – blocks_and_tables_-_metric"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.civil-example-imperial-6cab3b/autodesk-acad-samples.civil-example-imperial-6cab3b.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – civil_example-imperial"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.colorwh-ecfb1c/autodesk-acad-samples.colorwh-ecfb1c.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – colorwh"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.lineweights-cd661a/autodesk-acad-samples.lineweights-cd661a.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – lineweights"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.mechanical-example-imperial-cfc613/autodesk-acad-samples.mechanical-example-imperial-cfc613.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – mechanical_example-imperial"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.plot-screening-and-fill-patterns-e87500/autodesk-acad-samples.plot-screening-and-fill-patterns-e87500.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – plot_screening_and_fill_patterns"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.tablet-bb88af/autodesk-acad-samples.tablet-bb88af.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – tablet"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.title-block-ansi-499aee/autodesk-acad-samples.title-block-ansi-499aee.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – title_block-ansi"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.title-block-arch-288c1a/autodesk-acad-samples.title-block-arch-288c1a.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – title_block-arch"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.title-block-iso-0218ff/autodesk-acad-samples.title-block-iso-0218ff.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – title_block-iso"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.truetype-2264fd/autodesk-acad-samples.truetype-2264fd.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – truetype"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.visualization-aerial-ea0eef/autodesk-acad-samples.visualization-aerial-ea0eef.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_aerial"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.visualization-condominium-with-skylight-8cea38/autodesk-acad-samples.visualization-condominium-with-skylight-8cea38.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_condominium_with_skylight"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.visualization-conference-room-fe13a3/autodesk-acad-samples.visualization-conference-room-fe13a3.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_conference_room"
+  },
+  {
+   "rel": "item",
+   "href": "items/autodesk-acad-samples.visualization-sun-and-sky-demo-71ad93/autodesk-acad-samples.visualization-sun-and-sky-demo-71ad93.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_sun_and_sky_demo"
+  }
+ ]
+}

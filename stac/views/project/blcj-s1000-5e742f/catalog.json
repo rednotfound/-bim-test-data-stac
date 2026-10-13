@@ -1,0 +1,60 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--blcj-s1000-5e742f",
+ "title": "project: blcj-s1000",
+ "description": "6 items where project = blcj-s1000. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "blcj-s1000",
+ "bim:item_count": 6,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.03-2-bim-r08-03-001-revit-3b4a98/blcj-bim-kakunin.03-2-bim-r08-03-001-revit-3b4a98.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 A_意匠 – 03_別紙2_BIM図面審査における入出力基準適合申告書（初版）R08_03版(001)_意匠Revit"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.revit-bim-01-28498f/blcj-bim-kakunin.revit-bim-01-28498f.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 A_意匠 – Revit_BIM申請サンプルモデル_01"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.s-260319-d1180c/blcj-bim-kakunin.s-260319-d1180c.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 S_構造 – S_構造モデル_260319修正分"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.s-ss7-bim-fc36ab/blcj-bim-kakunin.s-ss7-bim-fc36ab.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 S_構造 – S_構造モデル_SS7_構造計算書-結果(BIM申請サンプル)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.blcjsample-e-revit-01-ef8839/blcj-bim-kakunin.blcjsample-e-revit-01-ef8839.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 MEP_設備 – BLCJsample_E_Revit_01"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.blcjsample-m-revit-01-7e672c/blcj-bim-kakunin.blcjsample-m-revit-01-7e672c.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 MEP_設備 – BLCJsample_M_Revit_01"
+  }
+ ]
+}

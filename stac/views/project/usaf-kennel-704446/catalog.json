@@ -1,0 +1,66 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--usaf-kennel-704446",
+ "title": "project: usaf-kennel",
+ "description": "7 items where project = usaf-kennel. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "usaf-kennel",
+ "bim:item_count": 7,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.20130328-bim-manual-afcec-bim-prototype-mwd-kennel-ab0050/wbdg-usaf-design-packages.20130328-bim-manual-afcec-bim-prototype-mwd-kennel-ab0050.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – 20130328_BIM MANUAL_AFCEC-BIM_Prototype-MWD_Kennel"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.20130328-military-working-dog-kennel-prototype-dra-e8ecab/wbdg-usaf-design-packages.20130328-military-working-dog-kennel-prototype-dra-e8ecab.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – 20130328_Military_Working_Dog_Kennel_Prototype_Drawings"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.military-working-dog-kennel-program-de654e/wbdg-usaf-design-packages.military-working-dog-kennel-program-de654e.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – Military_Working_Dog_Kennel_Program"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.military-working-dog-kennel-prototype-arch2013-cen-2431e7/wbdg-usaf-design-packages.military-working-dog-kennel-prototype-arch2013-cen-2431e7.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – Military_Working_Dog_Kennel_Prototype_ARCH2013_Central"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.drawings-mil-work-dog-june-2018-6fc7a2/wbdg-usaf-design-packages.drawings-mil-work-dog-june-2018-6fc7a2.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – drawings_mil_work_dog_june_2018"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.mil-working-dog-cal-spreadsheet-june-2018-e59245/wbdg-usaf-design-packages.mil-working-dog-cal-spreadsheet-june-2018-e59245.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – mil_working_dog_cal_spreadsheet_june_2018"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.standard-design-mil-working-dog-july-2018-5a751e/wbdg-usaf-design-packages.standard-design-mil-working-dog-july-2018-5a751e.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – standard_design_mil_working_dog_july_2018"
+  }
+ ]
+}

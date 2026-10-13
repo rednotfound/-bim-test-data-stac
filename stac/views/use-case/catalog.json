@@ -1,0 +1,221 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "view-use-case",
+ "title": "By test use case",
+ "description": "Items grouped by use-case.",
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "child",
+   "href": "4d-construction-03811a/catalog.json",
+   "title": "4d-construction (7)"
+  },
+  {
+   "rel": "child",
+   "href": "archetype-4524fa/catalog.json",
+   "title": "archetype (3)"
+  },
+  {
+   "rel": "child",
+   "href": "bcf-52bb53/catalog.json",
+   "title": "bcf (20)"
+  },
+  {
+   "rel": "child",
+   "href": "cad-render-4517bb/catalog.json",
+   "title": "cad-render (48)"
+  },
+  {
+   "rel": "child",
+   "href": "cad-versions-c64b42/catalog.json",
+   "title": "cad-versions (22)"
+  },
+  {
+   "rel": "child",
+   "href": "certification-064122/catalog.json",
+   "title": "certification (30)"
+  },
+  {
+   "rel": "child",
+   "href": "classification-941722/catalog.json",
+   "title": "classification (1)"
+  },
+  {
+   "rel": "child",
+   "href": "cobie-30d342/catalog.json",
+   "title": "cobie (14)"
+  },
+  {
+   "rel": "child",
+   "href": "data-rich-97d01c/catalog.json",
+   "title": "data-rich (11)"
+  },
+  {
+   "rel": "child",
+   "href": "dataset-76f747/catalog.json",
+   "title": "dataset (2)"
+  },
+  {
+   "rel": "child",
+   "href": "detail-drawings-a3e0ac/catalog.json",
+   "title": "detail-drawings (18)"
+  },
+  {
+   "rel": "child",
+   "href": "dummy-data-b3ff6b/catalog.json",
+   "title": "dummy-data (6)"
+  },
+  {
+   "rel": "child",
+   "href": "federated-models-205d59/catalog.json",
+   "title": "federated-models (65)"
+  },
+  {
+   "rel": "child",
+   "href": "future-standards-8757cf/catalog.json",
+   "title": "future-standards (43)"
+  },
+  {
+   "rel": "child",
+   "href": "geometry-ff63fa/catalog.json",
+   "title": "geometry (51)"
+  },
+  {
+   "rel": "child",
+   "href": "ids-3adc09/catalog.json",
+   "title": "ids (12)"
+  },
+  {
+   "rel": "child",
+   "href": "infrastructure-35f8b7/catalog.json",
+   "title": "infrastructure (1)"
+  },
+  {
+   "rel": "child",
+   "href": "jp-bim-drawing-review-f4fbed/catalog.json",
+   "title": "jp-bim-drawing-review (6)"
+  },
+  {
+   "rel": "child",
+   "href": "jp-building-regulation-4de222/catalog.json",
+   "title": "jp-building-regulation (3)"
+  },
+  {
+   "rel": "child",
+   "href": "jp-cad-5da936/catalog.json",
+   "title": "jp-cad (10)"
+  },
+  {
+   "rel": "child",
+   "href": "jp-public-works-36fcf5/catalog.json",
+   "title": "jp-public-works (2)"
+  },
+  {
+   "rel": "child",
+   "href": "legacy-format-a2204e/catalog.json",
+   "title": "legacy-format (4)"
+  },
+  {
+   "rel": "child",
+   "href": "legacy-schema-1f832e/catalog.json",
+   "title": "legacy-schema (2)"
+  },
+  {
+   "rel": "child",
+   "href": "machine-learning-9532a7/catalog.json",
+   "title": "machine-learning (1)"
+  },
+  {
+   "rel": "child",
+   "href": "multi-discipline-e64c42/catalog.json",
+   "title": "multi-discipline (77)"
+  },
+  {
+   "rel": "child",
+   "href": "multi-vendor-b763ea/catalog.json",
+   "title": "multi-vendor (5)"
+  },
+  {
+   "rel": "child",
+   "href": "parser-95324d/catalog.json",
+   "title": "parser (38)"
+  },
+  {
+   "rel": "child",
+   "href": "pdf-drawing-1591c8/catalog.json",
+   "title": "pdf-drawing (92)"
+  },
+  {
+   "rel": "child",
+   "href": "performance-476ee0/catalog.json",
+   "title": "performance (5)"
+  },
+  {
+   "rel": "child",
+   "href": "real-drawing-69f8c8/catalog.json",
+   "title": "real-drawing (18)"
+  },
+  {
+   "rel": "child",
+   "href": "real-project-5cc383/catalog.json",
+   "title": "real-project (267)"
+  },
+  {
+   "rel": "child",
+   "href": "reference-model-5c79c2/catalog.json",
+   "title": "reference-model (8)"
+  },
+  {
+   "rel": "child",
+   "href": "revit-native-68c5b3/catalog.json",
+   "title": "revit-native (28)"
+  },
+  {
+   "rel": "child",
+   "href": "safety-be6c32/catalog.json",
+   "title": "safety (5)"
+  },
+  {
+   "rel": "child",
+   "href": "schema-versions-1810c6/catalog.json",
+   "title": "schema-versions (52)"
+  },
+  {
+   "rel": "child",
+   "href": "serialization-a27277/catalog.json",
+   "title": "serialization (3)"
+  },
+  {
+   "rel": "child",
+   "href": "unit-test-801f9b/catalog.json",
+   "title": "unit-test (46)"
+  },
+  {
+   "rel": "child",
+   "href": "validation-6d361f/catalog.json",
+   "title": "validation (54)"
+  },
+  {
+   "rel": "child",
+   "href": "validation-fail-40ed11/catalog.json",
+   "title": "validation-fail (20)"
+  },
+  {
+   "rel": "child",
+   "href": "validation-pass-0cb31a/catalog.json",
+   "title": "validation-pass (34)"
+  }
+ ]
+}

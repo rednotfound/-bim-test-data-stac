@@ -1,0 +1,135 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [],
+ "id": "web-ifc-tests",
+ "title": "That Open Company web-ifc public test models",
+ "description": "Real-world models reported to the web-ifc project (schools, bridges, towers). Third-party files.",
+ "license": "LicenseRef-unspecified",
+ "keywords": [
+  "real-world",
+  "performance"
+ ],
+ "providers": [
+  {
+   "name": "That Open Company (web-ifc)",
+   "url": "https://github.com/ThatOpen/engine_web-ifc",
+   "roles": [
+    "host"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     10.75,
+     48.200001,
+     16.3666,
+     59.912289
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2021-01-12T15:32:57Z",
+     "2024-05-31T15:40:09Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "IFC-SPF"
+  ],
+  "bim:format_version": [
+   "IFC2X3",
+   "IFC4",
+   "IFC4X3_ADD2"
+  ],
+  "bim:building_type": [
+   "bridge",
+   "education",
+   "residential"
+  ],
+  "bim:country": [
+   "IT",
+   "NO"
+  ],
+  "bim:use_cases": [
+   "data-rich",
+   "infrastructure",
+   "performance",
+   "real-project"
+  ],
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:license_tier": [
+   "unclear"
+  ]
+ },
+ "bim:license_tier": "unclear",
+ "bim:license_quote": "Repository code is MPL-2.0; the test models are third-party files with no per-file terms.",
+ "bim:attribution": "ThatOpen/engine_web-ifc tests/ifcfiles/public",
+ "bim:origin": {
+  "kind": "git",
+  "repo": "ThatOpen/engine_web-ifc",
+  "commit": "cd0739cc8e7d379aded1dace95f835455a96ebdd",
+  "commit_date": "2026-10-12"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 3,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/ThatOpen/engine_web-ifc",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "about",
+   "href": "https://github.com/ThatOpen/engine_web-ifc",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "item",
+   "href": "items/web-ifc-tests.issue-068-ark-nus-skolebygg-19b6d9/web-ifc-tests.issue-068-ark-nus-skolebygg-19b6d9.json",
+   "type": "application/geo+json",
+   "title": "Norwegian school building, architecture (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "items/web-ifc-tests.issue-159-kleine-wohnung-r22-c3eb57/web-ifc-tests.issue-159-kleine-wohnung-r22-c3eb57.json",
+   "type": "application/geo+json",
+   "title": "Small apartment (Archicad, IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "items/web-ifc-tests.viadotto-acerno-39f500/web-ifc-tests.viadotto-acerno-39f500.json",
+   "type": "application/geo+json",
+   "title": "Viadotto Acerno bridge (IFC4X3_ADD2)"
+  }
+ ]
+}

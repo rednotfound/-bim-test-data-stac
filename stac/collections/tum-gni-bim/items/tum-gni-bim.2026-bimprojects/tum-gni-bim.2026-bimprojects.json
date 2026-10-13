@@ -1,0 +1,98 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json",
+  "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
+ ],
+ "id": "tum-gni-bim.2026-bimprojects",
+ "geometry": null,
+ "properties": {
+  "title": "TUM GNI BIM Projects – 16 IFC (paired arch/structure, zip)",
+  "description": "Archive of IFC models from 'TUM GNI BIM Dataset' (not downloaded or analysed here).",
+  "datetime": "2026-04-24T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "license": "CC-BY-4.0",
+  "providers": [
+   {
+    "name": "TUM Georg Nemetschek Institute",
+    "url": "https://github.com/ZijianWang-ZW/GNI-BIM-Dataset",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   },
+   {
+    "name": "Zenodo",
+    "url": "https://zenodo.org/records/19722012",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "keywords": [
+   "student models",
+   "machine learning",
+   "dataset"
+  ],
+  "bim:format": "ZIP",
+  "bim:format_family": "IFC",
+  "bim:source": "tum-gni-bim",
+  "bim:building_type": "mixed",
+  "bim:country": "DE",
+  "bim:use_cases": [
+   "dataset",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "bim:attribution": "TUM GNI BIM Dataset, DOI 10.5281/zenodo.19722011 (CC BY 4.0)",
+  "bim:size_class": "xl(>=100MB)",
+  "bim:datetime_source": "Zenodo publication date",
+  "bim:provenance": {
+   "upstream_href": "https://zenodo.org/records/19722012/files/2026_BIMprojects.zip?download=1",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "sci:doi": "10.5281/zenodo.19722011",
+  "sci:citation": "TUM GNI BIM Dataset, DOI 10.5281/zenodo.19722011 (CC BY 4.0)"
+ },
+ "assets": {
+  "data": {
+   "href": "https://zenodo.org/records/19722012/files/2026_BIMprojects.zip?download=1",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "file:size": 221053555
+  }
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json"
+  },
+  {
+   "rel": "self",
+   "href": "./tum-gni-bim.2026-bimprojects.json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "rel": "cite-as",
+   "href": "https://doi.org/10.5281/zenodo.19722011"
+  }
+ ],
+ "collection": "tum-gni-bim"
+}

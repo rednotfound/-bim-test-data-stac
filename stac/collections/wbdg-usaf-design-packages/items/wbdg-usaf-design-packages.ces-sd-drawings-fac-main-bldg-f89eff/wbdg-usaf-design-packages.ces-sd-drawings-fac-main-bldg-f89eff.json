@@ -1,0 +1,149 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "wbdg-usaf-design-packages.ces-sd-drawings-fac-main-bldg-f89eff",
+ "geometry": null,
+ "properties": {
+  "title": "USAF Ce Fac Main – CES_sd_drawings_fac_main_bldg",
+  "description": "PDF PDF 1.6 file from 'WBDG US Air Force design packages (AFDP)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2018-02-28T11:34:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-US-Government-Public-Domain",
+  "keywords": [
+   "Revit",
+   "USAF",
+   "pdf-drawing",
+   "public domain",
+   "real-project",
+   "sheet set"
+  ],
+  "providers": [
+   {
+    "name": "US Air Force Civil Engineer Center (AFCEC)",
+    "url": "https://www.wbdg.org/ffc/af-afcec",
+    "roles": [
+     "producer"
+    ]
+   },
+   {
+    "name": "Whole Building Design Guide (WBDG), NIBS",
+    "url": "https://www.wbdg.org",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "PDF",
+  "bim:format_family": "PDF",
+  "bim:format_version": "PDF 1.6",
+  "bim:source": "wbdg-usaf-design-packages",
+  "bim:project": "usaf-ce_fac_main",
+  "bim:building_type": "industrial",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "pdf-drawing",
+   "real-project"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://www.usa.gov/government-copyright",
+  "bim:attribution": "US Air Force Civil Engineer Center, via WBDG (wbdg.org)",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "PDF CreationDate",
+  "bim:provenance": {
+   "upstream_href": "https://www.wbdg.org/FFC/AF/AFDP/CE_FAC_MAIN/CES_sd_drawings_fac_main_bldg.pdf",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "generated",
+  "pdf:pages": 4,
+  "pdf:title": "Air Force Standard Design CES Facility Maintenance Building",
+  "pdf:creator": "Bluebeam Stapler 2017.0.20",
+  "pdf:producer": "Bluebeam Brewery 5.0",
+  "pdf:version": "PDF 1.6",
+  "pdf:page_sizes": {
+   "ANSI B landscape": 4
+  },
+  "pdf:vector_pages_ratio": 1.0,
+  "pdf:raster_pages_ratio": 1.0,
+  "pdf:text_extractable": true,
+  "pdf:language_cjk": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./wbdg-usaf-design-packages.ces-sd-drawings-fac-main-bldg-f89eff.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.usa.gov/government-copyright",
+   "title": "LicenseRef-US-Government-Public-Domain"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.wbdg.org/ffc/af-afcec/design-packages",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.af-remotely-piloted-aircraft-squadron-ops-fac-4b9959/wbdg-usaf-design-packages.af-remotely-piloted-aircraft-squadron-ops-fac-4b9959.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-ce_fac_main)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.concept-plans-fac-maint-8ddb05/wbdg-usaf-design-packages.concept-plans-fac-maint-8ddb05.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-ce_fac_main)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.squad-ops-facility-standard-design-plans-9e3bb2/wbdg-usaf-design-packages.squad-ops-facility-standard-design-plans-9e3bb2.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-ce_fac_main)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://www.wbdg.org/FFC/AF/AFDP/CE_FAC_MAIN/CES_sd_drawings_fac_main_bldg.pdf",
+   "type": "application/pdf",
+   "roles": [
+    "data"
+   ],
+   "title": "CES_sd_drawings_fac_main_bldg.pdf",
+   "file:size": 1026707,
+   "file:checksum": "1220f66c9f61af37db674123baa8343bbe953cae14a5883243b5be0590ad5c65860e"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "wbdg-usaf-design-packages"
+}

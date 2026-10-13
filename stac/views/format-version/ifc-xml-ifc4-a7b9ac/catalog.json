@@ -1,0 +1,30 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "format-version--ifc-xml-ifc4-a7b9ac",
+ "title": "format-version: IFC-XML IFC4",
+ "description": "1 items where format-version = IFC-XML IFC4. Items are shared with their source collections.",
+ "bim:dimension": "format-version",
+ "bim:value": "IFC-XML IFC4",
+ "bim:item_count": 1,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ifcopenshell-files/items/ifcopenshell-files.wall-with-opening-and-window-664c02/ifcopenshell-files.wall-with-opening-and-window-664c02.json",
+   "type": "application/geo+json",
+   "title": "Serialization sample – wall-with-opening-and-window.ifcxml"
+  }
+ ]
+}

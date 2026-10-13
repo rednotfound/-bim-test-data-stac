@@ -1,0 +1,154 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-certification-datasets.basin-tessellation-3e238c",
+ "geometry": null,
+ "properties": {
+  "title": "ISO ReferenceView example: basin-tessellation",
+  "description": "IFC-SPF IFC4 file from 'buildingSMART Certification datasets (Sample-Test-Files)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2014-12-09T00:27:55Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "CC-BY-4.0",
+  "keywords": [
+   "buildingSMART",
+   "certification",
+   "geometry",
+   "parser",
+   "simple-scene"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4",
+  "bim:source": "bsi-certification-datasets",
+  "bim:building_type": "component",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "geometry",
+   "parser"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "bim:attribution": "buildingSMART International, Certification datasets, https://github.com/buildingSMART/Certification-datasets (CC BY 4.0)",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/ISO%20Spec%20-%20ReferenceView_V1.2/basin-tessellation.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/Certification-datasets",
+   "commit": "80d976a9b193a26a8e928c3e79bff67af1de68a8",
+   "path": "IFC 4.0.2.1 (IFC 4 ADD2 TC1)/ISO Spec - ReferenceView_V1.2/basin-tessellation.ifc",
+   "browse_url": "https://github.com/buildingSMART/Certification-datasets/blob/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/ISO%20Spec%20-%20ReferenceView_V1.2/basin-tessellation.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-09-04"
+  },
+  "bim:thumbnail": "generated",
+  "ifc:file_description": [
+   "ViewDefinition [ReferenceView_V1.2]"
+  ],
+  "ifc:view_definition": "ReferenceView_V1.2",
+  "ifc:header_timestamp": "2014-12-09T00:27:55",
+  "ifc:preprocessor_version": "ggIFC - Exporter by Geometry Gym Pty Ltd",
+  "ifc:originating_system": "Geometry Gym Pty Ltd - ggIFC - 1.0.0.0",
+  "ifc:schema": "IFC4",
+  "ifc:products": 1,
+  "ifc:product_types": 1,
+  "ifc:storeys": 0,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:props": 0,
+  "ifc:qsets": 0,
+  "ifc:materials": 1,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 1,
+  "ifc:docs": 0,
+  "ifc:score": 4.9,
+  "ifc:disciplines": [
+   "mep"
+  ],
+  "ifc:element_counts": {
+   "IfcSanitaryTerminal": 1
+  },
+  "ifc:project_name": "IfcProject",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:building_names": [
+   "IfcBuilding"
+  ],
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-certification-datasets.basin-tessellation-3e238c.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "CC-BY-4.0"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/Certification-datasets",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/Certification-datasets/blob/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/ISO%20Spec%20-%20ReferenceView_V1.2/basin-tessellation.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%204.0.2.1%20%28IFC%204%20ADD2%20TC1%29/ISO%20Spec%20-%20ReferenceView_V1.2/basin-tessellation.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "basin-tessellation.ifc",
+   "file:size": 12131,
+   "file:checksum": "12207278769ec5ef35d388819d2f197519061c7f0f68dd43a733f333ddeb74578121"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "bsi-certification-datasets"
+}

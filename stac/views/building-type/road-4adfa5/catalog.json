@@ -1,0 +1,54 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--road-4adfa5",
+ "title": "building-type: road",
+ "description": "5 items where building-type = road. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "road",
+ "bim:item_count": 5,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-road-298239/bsi-certification-datasets.infra-road-298239.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Road (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-road-45da44/bsi-certification-datasets.infra-road-45da44.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Road (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-road-e742d2/bsi-certification-datasets.infra-road-e742d2.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Road (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-road-6d4002/bsi-ifc5-development.infra-road-6d4002.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Road (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/kit-ifc-examples/items/kit-ifc-examples.kit-simple-road-test-web-ifc4x3-rc2-7e468f/kit-ifc-examples.kit-simple-road-test-web-ifc4x3-rc2-7e468f.json",
+   "type": "application/geo+json",
+   "title": "KIT Simple Road (IFC4x3 RC2)"
+  }
+ ]
+}

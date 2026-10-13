@@ -1,0 +1,257 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.sgd-blueberry-merged-plumbing-2-851723",
+ "geometry": null,
+ "properties": {
+  "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Plumbing-2",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2009-04-17T11:12:20Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-sgd-blueberry-ifc-0e350a",
+  "bim:building_type": "residential",
+  "bim:country": "NO",
+  "bim:disciplines": [
+   "mep"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_Blueberry_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "SGD_Blueberry/SGD_Blueberry_Merged-Plumbing-2.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "IFC2X3"
+  ],
+  "ifc:header_timestamp": "2009-04-17T11:12:20",
+  "ifc:preprocessor_version": "DDS-IFC v2.0",
+  "ifc:originating_system": "DDS-CAD Version 6.5 Release build 17/4-2009",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 3278,
+  "ifc:product_types": 17,
+  "ifc:storeys": 4,
+  "ifc:spaces": 14,
+  "ifc:zones": 0,
+  "ifc:systems": 4,
+  "ifc:pset_names": [
+   "Beam-1",
+   "Beam-2",
+   "Beam-8800",
+   "Column-1",
+   "Column-2",
+   "DDS-CAD_Pset_WallLayer",
+   "Pset_AirTerminalTypeCommon",
+   "Pset_BeamCommon",
+   "Pset_DDS",
+   "Pset_DDS-CAD_Construction_Joist",
+   "Pset_DoorCommon",
+   "Pset_DuctFittingTypeCommon",
+   "Pset_DuctSegmentTypeCommon",
+   "Pset_FlowSegmentDuctSegment",
+   "Pset_FlowSegmentPipeSegment",
+   "Pset_FlowTerminalAirTerminal",
+   "Pset_ManufacturerTypeInformation",
+   "Pset_MemberCommon",
+   "Pset_NS3420",
+   "Pset_PipeFittingTypeCommon",
+   "Pset_PipeSegmentTypeCommon",
+   "Pset_SanitaryTerminalTypeBath",
+   "Pset_SanitaryTerminalTypeShower",
+   "Pset_SanitaryTerminalTypeSink",
+   "Pset_SanitaryTerminalTypeToiletPan",
+   "Pset_SlabCommon",
+   "Pset_SpaceCommon",
+   "Pset_WallCommon",
+   "Pset_WasteTerminalTypeGullyTrap",
+   "Pset_WindowCommon"
+  ],
+  "ifc:props": 21522,
+  "ifc:qsets": 92,
+  "ifc:materials": 209,
+  "ifc:classif_refs": 22,
+  "ifc:type_objects": 765,
+  "ifc:docs": 0,
+  "ifc:score": 24.04,
+  "ifc:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcMember": 1647,
+   "IfcBuildingElementPart": 340,
+   "IfcDistributionPort": 262,
+   "IfcPlate": 241,
+   "IfcFlowSegment": 230,
+   "IfcBeam": 194,
+   "IfcBuildingElementProxy": 123,
+   "IfcFlowFitting": 95,
+   "IfcWall": 57,
+   "IfcFlowTerminal": 30,
+   "IfcDoor": 15,
+   "IfcWindow": 14,
+   "IfcWallStandardCase": 11,
+   "IfcSlab": 9,
+   "IfcColumn": 7,
+   "IfcEnergyConversionDevice": 2,
+   "IfcFlowController": 1
+  },
+  "ifc:classification_systems": [
+   "NS3420",
+   "NS3451"
+  ],
+  "ifc:project_name": "DDS Project",
+  "ifc:length_unit": "METRE",
+  "ifc:storey_names": [
+   "0",
+   "1",
+   "2",
+   "Fundamentplan"
+  ],
+  "ifc:map_conversion": false,
+  "bim:site_location_raw": [
+   5.333333,
+   60.383333
+  ],
+  "bim:location_source": "IfcSite location is a software/test default (DDS-CAD default site: Bergen, NO); geometry left null"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.sgd-blueberry-merged-plumbing-2-851723.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-arch-1-c3dc41/duraark.sgd-blueberry-arch-1-c3dc41.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-arch-2-e21292/duraark.sgd-blueberry-arch-2-e21292.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-arch-3-4a2704/duraark.sgd-blueberry-arch-3-4a2704.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-eng-hvac-plumbing-1-d25031/duraark.sgd-blueberry-eng-hvac-plumbing-1-d25031.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-eng-hvac-plumbing-2-40a8fe/duraark.sgd-blueberry-eng-hvac-plumbing-2-40a8fe.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-eng-hvac-ventilation-e91fcc/duraark.sgd-blueberry-eng-hvac-ventilation-e91fcc.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-eng-hvac-c59679/duraark.sgd-blueberry-eng-hvac-c59679.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-merged-plumbing-1-fd02c1/duraark.sgd-blueberry-merged-plumbing-1-fd02c1.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-merged-ventilation-bb05a3/duraark.sgd-blueberry-merged-ventilation-bb05a3.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_Blueberry_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "SGD_Blueberry_Merged-Plumbing-2.ifc",
+   "file:size": 8589274,
+   "file:checksum": "122018a8481e8324c7bc115cc1368f52df213c7abe96fb498b8a1d11d985931e2287",
+   "bim:archive_member": "SGD_Blueberry/SGD_Blueberry_Merged-Plumbing-2.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 13100324,
+   "bim:archive_member_checksum": "12208a350b356baf4c4e2ff7329b511ec6581296b6cebfaea4b6a2a6553065700e61"
+  }
+ },
+ "collection": "duraark"
+}

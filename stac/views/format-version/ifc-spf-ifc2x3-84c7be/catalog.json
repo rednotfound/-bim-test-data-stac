@@ -1,0 +1,870 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "format-version--ifc-spf-ifc2x3-84c7be",
+ "title": "format-version: IFC-SPF IFC2X3",
+ "description": "141 items where format-version = IFC-SPF IFC2X3. Items are shared with their source collections.",
+ "bim:dimension": "format-version",
+ "bim:value": "IFC-SPF IFC2X3",
+ "bim:item_count": 141,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-architecture-aa0b77/bsi-certification-datasets.building-architecture-aa0b77.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Architecture (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-structural-b87cbe/bsi-certification-datasets.building-structural-b87cbe.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Structural (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-hvac-0fc5ce/bsi-certification-datasets.building-hvac-0fc5ce.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Hvac (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-landscaping-783009/bsi-certification-datasets.building-landscaping-783009.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Landscaping (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-road-298239/bsi-certification-datasets.infra-road-298239.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Road (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-bridge-2e944e/bsi-certification-datasets.infra-bridge-2e944e.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Bridge (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-rail-6e81be/bsi-certification-datasets.infra-rail-6e81be.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Rail (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-plumbing-25e23c/bsi-certification-datasets.infra-plumbing-25e23c.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Plumbing (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-electrical-3b790d/bsi-certification-datasets.infra-electrical-3b790d.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Electrical (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-landscaping-eafdd5/bsi-certification-datasets.infra-landscaping-eafdd5.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Landscaping (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/opensourcebim-testfiles/items/opensourcebim-testfiles.hitos-070308-111f44/opensourcebim-testfiles.hitos-070308-111f44.json",
+   "type": "application/geo+json",
+   "title": "HITOS Tromsø university college (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.duplex-a-20110907-a5c127/bsi-community-sample-files.duplex-a-20110907-a5c127.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex Apartment – A_20110907"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.duplex-m-20111024-rooms-and-spaces-611d98/bsi-community-sample-files.duplex-m-20111024-rooms-and-spaces-611d98.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex Apartment – M_20111024_ROOMS_AND_SPACES"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.duplex-mep-20110907-63fc38/bsi-community-sample-files.duplex-mep-20110907-63fc38.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex Apartment – MEP_20110907"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.duplex-plumbing-20121113-1f2025/bsi-community-sample-files.duplex-plumbing-20121113-1f2025.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex Apartment – Plumbing_20121113"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.duplex-electrical-20121207-8f04b5/bsi-community-sample-files.duplex-electrical-20121207-8f04b5.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex Apartment – Electrical_20121207"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.clinic-architectural-010c75/bsi-community-sample-files.clinic-architectural-010c75.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical-Dental Clinic – Architectural"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.clinic-structural-a9498a/bsi-community-sample-files.clinic-structural-a9498a.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical-Dental Clinic – Structural"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.clinic-hvac-7792db/bsi-community-sample-files.clinic-hvac-7792db.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical-Dental Clinic – HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.clinic-plumbing-0f1dbf/bsi-community-sample-files.clinic-plumbing-0f1dbf.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical-Dental Clinic – Plumbing"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.clinic-electrical-911268/bsi-community-sample-files.clinic-electrical-911268.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical-Dental Clinic – Electrical"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.ifc-schependomlaan-926953/schependomlaan.ifc-schependomlaan-926953.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan design model (Archicad, IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.week-26-26-june-ifc-schependomlaan-incl-planningsd-e16b0e/schependomlaan.week-26-26-june-ifc-schependomlaan-incl-planningsd-e16b0e.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 26 26 june IF"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.week-27-3-july-ifc-schependomlaan-incl-planningsda-d6990f/schependomlaan.week-27-3-july-ifc-schependomlaan-incl-planningsda-d6990f.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 27 3 july IFC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.week-28-10-july-ifc-schependomlaan-incl-planningsd-be77c8/schependomlaan.week-28-10-july-ifc-schependomlaan-incl-planningsd-be77c8.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 28 10 july IF"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.week-29-17-july-ifc-schependomlaan-incl-planningsd-be69b5/schependomlaan.week-29-17-july-ifc-schependomlaan-incl-planningsd-be69b5.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 29 17 july IF"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.week-30-24-july-ifc-schependomlaan-incl-planningsd-429d2d/schependomlaan.week-30-24-july-ifc-schependomlaan-incl-planningsd-429d2d.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 30 24 july IF"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.week-37-11-sept-ifc-schependomlaan-incl-planningsd-c5c142/schependomlaan.week-37-11-sept-ifc-schependomlaan-incl-planningsd-c5c142.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 37 11 sept IF"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.balkonhekken-23-9-2015-fb2376/schependomlaan.balkonhekken-23-9-2015-fb2376.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – BALKONHEKKEN 23-9-2015"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.bernts-staalconstructie-76e96d/schependomlaan.bernts-staalconstructie-76e96d.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – BERNTS-Staalconstructie"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.fek-balkonhekken-en-borstweringsleuningen-86d56b/schependomlaan.fek-balkonhekken-en-borstweringsleuningen-86d56b.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – FEK - Balkonhekken en borstweringsleuningen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.fek-franse-balkonhekken-en-doorvalbeveiliging-20e166/schependomlaan.fek-franse-balkonhekken-en-doorvalbeveiliging-20e166.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – FEK - Franse balkonhekken en doorvalbeveiliging"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.fek-traphekken-537441/schependomlaan.fek-traphekken-537441.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – FEK - Traphekken"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.geelen-breedplaat-v1-247592/schependomlaan.geelen-breedplaat-v1-247592.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – GEELEN-Breedplaat V1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.geelen-breedplaat-v2-892483/schependomlaan.geelen-breedplaat-v2-892483.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – GEELEN-Breedplaat V2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.geelen-breedplaat-v3-1a92d4/schependomlaan.geelen-breedplaat-v3-1a92d4.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – GEELEN-Breedplaat V3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.geelen-dakvloer-631e16/schependomlaan.geelen-dakvloer-631e16.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – GEELEN-Dakvloer"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.hb-nutsvoorzieningen-8a28cd/schependomlaan.hb-nutsvoorzieningen-8a28cd.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – HB_Nutsvoorzieningen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.jordahl-gevelderagers-2cd7c2/schependomlaan.jordahl-gevelderagers-2cd7c2.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – JORDAHL-Gevelderagers"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.multicom-balkons-f36436/schependomlaan.multicom-balkons-f36436.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – MULTICOM-balkons"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.multicom-banden-401455/schependomlaan.multicom-banden-401455.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – MULTICOM-banden"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.multicom-trappen-bordessen-80d414/schependomlaan.multicom-trappen-bordessen-80d414.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – MULTICOM-trappen+bordessen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.v-l-constructief-842b15/schependomlaan.v-l-constructief-842b15.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – V_L_Constructief"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.waardo-kanaalplaatvloer-28fc77/schependomlaan.waardo-kanaalplaatvloer-28fc77.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WAARDO-Kanaalplaatvloer"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.willemsen-hoogbouw-dakpannen-707aa6/schependomlaan.willemsen-hoogbouw-dakpannen-707aa6.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WILLEMSEN-Hoogbouw dakpannen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.willemsen-hoogbouw-eab4cf/schependomlaan.willemsen-hoogbouw-eab4cf.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WILLEMSEN-Hoogbouw"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.willemsen-laagbouw-3206e1/schependomlaan.willemsen-laagbouw-3206e1.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WILLEMSEN-Laagbouw"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.willemsen-laagbouw-dakpannen-fc8c41/schependomlaan.willemsen-laagbouw-dakpannen-fc8c41.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WILLEMSEN-laagbouw dakpannen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.xella-1e-verdieping-5f5852/schependomlaan.xella-1e-verdieping-5f5852.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – XELLA-1e verdieping"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.xella-2e-verdieping-114992/schependomlaan.xella-2e-verdieping-114992.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – XELLA-2e verdieping"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.xella-3e-verdieping-25d1f8/schependomlaan.xella-3e-verdieping-25d1f8.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – XELLA-3e verdieping"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.xella-begane-grond-95f64d/schependomlaan.xella-begane-grond-95f64d.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – XELLA-Begane grond"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.ytong-algemeen-ee26f0/schependomlaan.ytong-algemeen-ee26f0.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Algemeen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.ytong-kavel-01-e81df8/schependomlaan.ytong-kavel-01-e81df8.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 01"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.ytong-kavel-02-5d55f3/schependomlaan.ytong-kavel-02-5d55f3.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 02"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.ytong-kavel-03-bae9fd/schependomlaan.ytong-kavel-03-bae9fd.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 03"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.ytong-kavel-04-619fe7/schependomlaan.ytong-kavel-04-619fe7.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 04"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.ytong-kavel-05-93a5be/schependomlaan.ytong-kavel-05-93a5be.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 05"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.ytong-kavel-06-5f433c/schependomlaan.ytong-kavel-06-5f433c.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 06"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.ytong-kavel-07-25fab7/schependomlaan.ytong-kavel-07-25fab7.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 07"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.ytong-kavel-08-57bcb0/schependomlaan.ytong-kavel-08-57bcb0.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 08"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.ytong-kavel-09-3f9fa6/schependomlaan.ytong-kavel-09-3f9fa6.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 09"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.ytong-kavel-10-26a654/schependomlaan.ytong-kavel-10-26a654.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 10"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/web-ifc-tests/items/web-ifc-tests.issue-068-ark-nus-skolebygg-19b6d9/web-ifc-tests.issue-068-ark-nus-skolebygg-19b6d9.json",
+   "type": "application/geo+json",
+   "title": "Norwegian school building, architecture (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20160125trapelo-existing-trapelo-design-intent-2af74b/auckland-openifc.20160125trapelo-existing-trapelo-design-intent-2af74b.json",
+   "type": "application/geo+json",
+   "title": "Trapelo office, design intent (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20160124otc-conference-center-f56b72/auckland-openifc.20160124otc-conference-center-f56b72.json",
+   "type": "application/geo+json",
+   "title": "OTC Conference Center (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20160613office-model-cv2b-fordesign-142c7d/auckland-openifc.20160613office-model-cv2b-fordesign-142c7d.json",
+   "type": "application/geo+json",
+   "title": "Office model CV2 for design (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.advancedproject-e6d607/bim-whale-samples.advancedproject-e6d607.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – AdvancedProject (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.basichouse-595989/bim-whale-samples.basichouse-595989.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – BasicHouse (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.largebuilding-6c3acb/bim-whale-samples.largebuilding-6c3acb.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – LargeBuilding (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.manysimplewalls-717e3c/bim-whale-samples.manysimplewalls-717e3c.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – ManySimpleWalls (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.simplewall-20f2db/bim-whale-samples.simplewall-20f2db.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – SimpleWall (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.tallbuilding-1f7535/bim-whale-samples.tallbuilding-1f7535.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – TallBuilding (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.academic-autodesk-advancedsampleproject-arch-310c53/duraark.academic-autodesk-advancedsampleproject-arch-310c53.json",
+   "type": "application/geo+json",
+   "title": "Autodesk academic sample projects – Academic_Autodesk-AdvancedSampleProject_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.academic-autodesk-basicsampleproject-arch-ab5596/duraark.academic-autodesk-basicsampleproject-arch-ab5596.json",
+   "type": "application/geo+json",
+   "title": "Autodesk academic sample projects – Academic_Autodesk-BasicSampleProject_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.autodesk-research-210-king-2c788c/duraark.autodesk-research-210-king-2c788c.json",
+   "type": "application/geo+json",
+   "title": "Autodesk Research 210 King St – Autodesk-Research_210-King"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.fojab-landsarkivet-ced8bc/duraark.fojab-landsarkivet-ced8bc.json",
+   "type": "application/geo+json",
+   "title": "FOJAB Landsarkivet archive building – FOJAB_Landsarkivet"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.kit-institute-arch-66a241/duraark.kit-institute-arch-66a241.json",
+   "type": "application/geo+json",
+   "title": "KIT Institute – KIT_Institute_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.kit-smiley-west-arch-f73627/duraark.kit-smiley-west-arch-f73627.json",
+   "type": "application/geo+json",
+   "title": "KIT Smiley West – KIT_Smiley-West_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-air-c8f0f3/duraark.ltu-a-house-air-c8f0f3.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Air"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-cooling-afa549/duraark.ltu-a-house-cooling-afa549.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Cooling"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-ducting-0034bb/duraark.ltu-a-house-ducting-0034bb.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Ducting"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-heating-a133cd/duraark.ltu-a-house-heating-a133cd.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Heating"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-k-modell-1c28a0/duraark.ltu-a-house-k-modell-1c28a0.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_K-modell"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-plumbing-561157/duraark.ltu-a-house-plumbing-561157.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Plumbing"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-sanitation-883c45/duraark.ltu-a-house-sanitation-883c45.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Sanitation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-voids-583df6/duraark.ltu-a-house-voids-583df6.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_VOIDS"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-redesign-7862bb/duraark.ltu-a-house-redesign-7862bb.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_redesign"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesideac01-arch-4cb31a/duraark.nbs-lakesideac01-arch-4cb31a.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideAC01_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesideac10-arch-a2241c/duraark.nbs-lakesideac10-arch-a2241c.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideAC10_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesidervt01-arch-e8476a/duraark.nbs-lakesidervt01-arch-e8476a.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideRVT01_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesidervt10-arch-a5bab3/duraark.nbs-lakesidervt10-arch-a5bab3.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideRVT10_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesidevw00-arch-d856f9/duraark.nbs-lakesidevw00-arch-d856f9.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideVW00_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-design-38bfb6/duraark.nbu-duplex-apt-cobie-arch-design-38bfb6.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Design"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-handover-25d225/duraark.nbu-duplex-apt-cobie-arch-handover-25d225.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Handover"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-productinstall-aa7ad1/duraark.nbu-duplex-apt-cobie-arch-productinstall-aa7ad1.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-ProductInstall"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-productselect-0b280e/duraark.nbu-duplex-apt-cobie-arch-productselect-0b280e.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-ProductSelect"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-programming-8f2068/duraark.nbu-duplex-apt-cobie-arch-programming-8f2068.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Programming"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-arch-optimized-7d2f52/duraark.nbu-duplex-apt-arch-optimized-7d2f52.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Arch-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-arch-2a541a/duraark.nbu-duplex-apt-arch-2a541a.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-hvac-d0351f/duraark.nbu-duplex-apt-eng-hvac-d0351f.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-1-1f89f8/duraark.nbu-duplex-apt-eng-mep-1-1f89f8.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-2-d556be/duraark.nbu-duplex-apt-eng-mep-2-d556be.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-optimized-2b49f8/duraark.nbu-duplex-apt-eng-mep-optimized-2b49f8.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-3d6c63/duraark.nbu-duplex-apt-eng-mep-3d6c63.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-arch-optimized-1cdc6b/duraark.nbu-medicalclinic-arch-optimized-1cdc6b.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Arch-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-arch-533287/duraark.nbu-medicalclinic-arch-533287.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-con-optimized-6e159f/duraark.nbu-medicalclinic-eng-con-optimized-6e159f.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-CON-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-con-34598f/duraark.nbu-medicalclinic-eng-con-34598f.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-CON"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-ele-844e46/duraark.nbu-medicalclinic-eng-ele-844e46.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-ELE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-hvac-1a8cd0/duraark.nbu-medicalclinic-eng-hvac-1a8cd0.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-mep-optimized-a77f60/duraark.nbu-medicalclinic-eng-mep-optimized-a77f60.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-MEP-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-mep-9b2176/duraark.nbu-medicalclinic-eng-mep-9b2176.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-MEP"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bard-merged-dcfffa/duraark.sgd-bard-merged-dcfffa.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg BARD – SGD_BARD_Merged"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bodo-arch-3-6d6e71/duraark.sgd-bodo-arch-3-6d6e71.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Arch-3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-arch-1-c3dc41/duraark.sgd-blueberry-arch-1-c3dc41.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-arch-2-e21292/duraark.sgd-blueberry-arch-2-e21292.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-arch-3-4a2704/duraark.sgd-blueberry-arch-3-4a2704.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-plumbing-1-d25031/duraark.sgd-blueberry-eng-hvac-plumbing-1-d25031.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Plumbing-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-plumbing-2-40a8fe/duraark.sgd-blueberry-eng-hvac-plumbing-2-40a8fe.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Plumbing-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-ventilation-e91fcc/duraark.sgd-blueberry-eng-hvac-ventilation-e91fcc.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-c59679/duraark.sgd-blueberry-eng-hvac-c59679.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-merged-plumbing-1-fd02c1/duraark.sgd-blueberry-merged-plumbing-1-fd02c1.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Plumbing-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-merged-plumbing-2-851723/duraark.sgd-blueberry-merged-plumbing-2-851723.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Plumbing-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-merged-ventilation-bb05a3/duraark.sgd-blueberry-merged-ventilation-bb05a3.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Ventilation_"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-duplex-eng-hvac-plumbing-fa9beb/duraark.sgd-duplex-eng-hvac-plumbing-fa9beb.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Duplex – SGD_Duplex_Eng-HVAC-Plumbing"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-duplex-eng-hvac-ventilation-7aff8a/duraark.sgd-duplex-eng-hvac-ventilation-7aff8a.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Duplex – SGD_Duplex_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-hitos-eng-ele-b918e6/duraark.sgd-hitos-eng-ele-b918e6.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg HiTOS – SGD_HiTOS_Eng-ELE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-hitos-eng-hvac-38ea51/duraark.sgd-hitos-eng-hvac-38ea51.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg HiTOS – SGD_HiTOS_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-asm000-activated-assembly-present-6cb774/bsi-ifc-validation-rules.pass-asm000-activated-assembly-present-6cb774.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ASM – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-blt000-ifc2x3-building-element-present-a0478f/bsi-ifc-validation-rules.pass-blt000-ifc2x3-building-element-present-a0478f.json",
+   "type": "application/geo+json",
+   "title": "Validation rule BLT – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ifc101-ifc2x3-567496/bsi-ifc-validation-rules.pass-ifc101-ifc2x3-567496.json",
+   "type": "application/geo+json",
+   "title": "Validation rule IFC – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-mpd001-single-mapped-item-c2375f/bsi-ifc-validation-rules.pass-mpd001-single-mapped-item-c2375f.json",
+   "type": "application/geo+json",
+   "title": "Validation rule MPD – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-mpd001-scenario01-two-mapped-items-different-a0829e/bsi-ifc-validation-rules.fail-mpd001-scenario01-two-mapped-items-different-a0829e.json",
+   "type": "application/geo+json",
+   "title": "Validation rule MPD – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-ojp001-scenario01-wrong-ifclocalplacement-lin-3597fc/bsi-ifc-validation-rules.fail-ojp001-scenario01-wrong-ifclocalplacement-lin-3597fc.json",
+   "type": "application/geo+json",
+   "title": "Validation rule OJP – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-pjs001-scenario01-degree-ifc2x3-6c192d/bsi-ifc-validation-rules.fail-pjs001-scenario01-degree-ifc2x3-6c192d.json",
+   "type": "application/geo+json",
+   "title": "Validation rule PJS – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-pse001-ifc2x3-on-occurence-electric-actuator-07b196/bsi-ifc-validation-rules.pass-pse001-ifc2x3-on-occurence-electric-actuator-07b196.json",
+   "type": "application/geo+json",
+   "title": "Validation rule PSE – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-pse001-ifc2x3-on-occurence-electric-actuator-70e8c1/bsi-ifc-validation-rules.fail-pse001-ifc2x3-on-occurence-electric-actuator-70e8c1.json",
+   "type": "application/geo+json",
+   "title": "Validation rule PSE – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-qty000-activated-quantities-and-psets-3c24fb/bsi-ifc-validation-rules.pass-qty000-activated-quantities-and-psets-3c24fb.json",
+   "type": "application/geo+json",
+   "title": "Validation rule QTY – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-sps001-0-sites-1-buildings-variant-0-76e58d/bsi-ifc-validation-rules.pass-sps001-0-sites-1-buildings-variant-0-76e58d.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SPS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-sps001-scenario01-2-sites-0-buildings-variant-939295/bsi-ifc-validation-rules.fail-sps001-scenario01-2-sites-0-buildings-variant-939295.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SPS – fail"
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "auckland-openifc.20160125otc-conference-center-ifc4-e9a554",
+ "geometry": null,
+ "properties": {
+  "title": "OTC Conference Center (IFC4)",
+  "description": "IFC-SPF IFC4 file from 'Open IFC Model Repository (University of Auckland)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2016-01-24T17:43:58Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "data-rich",
+   "performance",
+   "repository"
+  ],
+  "providers": [
+   {
+    "name": "University of Auckland, School of Computer Science",
+    "url": "https://openifcmodel.cs.auckland.ac.nz/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4",
+  "bim:source": "auckland-openifc",
+  "bim:building_type": "conference",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:use_cases": [
+   "data-rich",
+   "performance"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://openifcmodel.cs.auckland.ac.nz/",
+  "bim:attribution": "Open IFC Model Repository, University of Auckland",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://openifcmodel.cs.auckland.ac.nz/api/download/20160125OTC-Conference%20Center%20-%20IFC4.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView_V2.0, QuantityTakeOffAddOnView]"
+  ],
+  "ifc:view_definition": "CoordinationView_V2.0, QuantityTakeOffAddOnView",
+  "ifc:header_timestamp": "2016-01-24T17:43:58",
+  "ifc:preprocessor_version": "The EXPRESS Data Manager Version 5.02.0100.07 : 28 Aug 2013",
+  "ifc:originating_system": "20150702_1515(x64) - Exporter 15.5.0.0 - Alternate UI 15.5.0.0",
+  "ifc:schema": "IFC4",
+  "ifc:products": 9455,
+  "ifc:product_types": 26,
+  "ifc:storeys": 12,
+  "ifc:spaces": 92,
+  "ifc:zones": 1,
+  "ifc:systems": 102,
+  "ifc:pset_names": [
+   "Pset_BuildingCommon",
+   "Pset_BuildingElementProxyCommon",
+   "Pset_BuildingStoreyCommon",
+   "Pset_ColumnCommon",
+   "Pset_CoveringCommon",
+   "Pset_CurtainWallCommon",
+   "Pset_DoorCommon",
+   "Pset_LightFixtureTypeCommon",
+   "Pset_ManufacturerTypeInformation",
+   "Pset_MemberCommon",
+   "Pset_PlateCommon",
+   "Pset_RailingCommon",
+   "Pset_RoofCommon",
+   "Pset_SlabCommon",
+   "Pset_SpaceCommon",
+   "Pset_StairCommon",
+   "Pset_StairFlightCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon",
+   "Pset_ZoneCommon"
+  ],
+  "ifc:props": 13373,
+  "ifc:qsets": 999,
+  "ifc:materials": 60,
+  "ifc:classif_refs": 2818,
+  "ifc:type_objects": 639,
+  "ifc:docs": 0,
+  "ifc:score": 24.51,
+  "ifc:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcDistributionPort": 3368,
+   "IfcPlate": 1402,
+   "IfcMember": 1245,
+   "IfcFurniture": 608,
+   "IfcBuildingElementProxy": 512,
+   "IfcPipeSegment": 355,
+   "IfcWallStandardCase": 348,
+   "IfcPipeFitting": 319,
+   "IfcDuctSegment": 303,
+   "IfcDuctFitting": 265,
+   "IfcLightFixture": 191,
+   "IfcDoor": 136,
+   "IfcCurtainWall": 62,
+   "IfcRailing": 60,
+   "IfcColumn": 52,
+   "IfcSlab": 47,
+   "IfcFireSuppressionTerminal": 47,
+   "IfcCovering": 36,
+   "IfcStairFlight": 33,
+   "IfcWindow": 31,
+   "IfcStair": 23,
+   "IfcRoof": 5,
+   "IfcWall": 3,
+   "IfcTransformer": 2,
+   "IfcValve": 1
+  },
+  "ifc:classification_systems": [
+   "Uniformat"
+  ],
+  "ifc:project_name": "ADSK CONF 2",
+  "ifc:length_unit": "FOOT",
+  "ifc:storey_names": [
+   "B2  BASEMENT",
+   "B1 BASEMENT",
+   "B1 MEZZANINE",
+   "1ST FLOOR- ARCH",
+   "2ND FLOOR",
+   "3RD FLOOR",
+   "4TH FLOOR",
+   "5TH FLOOR",
+   "5TH FLOOR EXHIBITION",
+   "6TH FLOOR",
+   "7TH FLOOR",
+   "8 ROOF"
+  ],
+  "ifc:map_conversion": false,
+  "bim:site_location_raw": [
+   -71.0603,
+   42.3583
+  ],
+  "bim:location_source": "IfcSite location is a software/test default (Autodesk Revit default site: Boston, MA); geometry left null"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./auckland-openifc.20160125otc-conference-center-ifc4-e9a554.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://openifcmodel.cs.auckland.ac.nz/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://openifcmodel.cs.auckland.ac.nz/",
+   "title": "Upstream dataset page"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://openifcmodel.cs.auckland.ac.nz/api/download/20160125OTC-Conference%20Center%20-%20IFC4.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "20160125OTC-Conference Center - IFC4.ifc",
+   "file:size": 71700417,
+   "file:checksum": "122017885d887f919e7f1bc781d94bd1449e60adee1dfadf78a418965ba016a25c28"
+  }
+ },
+ "collection": "auckland-openifc"
+}

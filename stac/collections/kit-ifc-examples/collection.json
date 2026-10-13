@@ -1,0 +1,138 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [],
+ "id": "kit-ifc-examples",
+ "title": "KIT IFC Examples (FZK-Haus, Institute, Smiley West, Simple Road)",
+ "description": "Classic reference models by the Institute for Automation and Applied Informatics (IAI), Karlsruhe Institute of Technology.",
+ "license": "LicenseRef-KIT-unrestricted",
+ "keywords": [
+  "KIT",
+  "FZK-Haus",
+  "reference model"
+ ],
+ "providers": [
+  {
+   "name": "Karlsruhe Institute of Technology (KIT), IAI",
+   "url": "https://www.ifcwiki.org/index.php/KIT_IFC_Examples",
+   "roles": [
+    "producer",
+    "licensor"
+   ]
+  },
+  {
+   "name": "STEP Tools Inc. (mirror)",
+   "url": "https://www.steptools.com/docs/stpfiles/ifc/",
+   "roles": [
+    "host"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     8.436539,
+     49.100435,
+     8.716667,
+     49.15
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2016-12-21T17:54:06Z",
+     "2019-10-22T12:33:12Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "IFC-SPF"
+  ],
+  "bim:format_version": [
+   "IFC4",
+   "IFC4X3_RC2"
+  ],
+  "bim:building_type": [
+   "office",
+   "residential",
+   "road"
+  ],
+  "bim:country": [
+   "DE"
+  ],
+  "bim:use_cases": [
+   "legacy-schema",
+   "parser",
+   "reference-model"
+  ],
+  "bim:disciplines": [
+   "architecture",
+   "structure"
+  ],
+  "bim:license_tier": [
+   "open"
+  ]
+ },
+ "bim:license_tier": "open",
+ "bim:license_quote": "These examples are made by the Institute for Applied Computer Science (IAI) at the Karlsruhe Institute of Technology (KIT), and are for unrestricted use. If you use these examples for publications, please provide the following source: Institute for Automation and Applied Informatics (IAI) / Karlsruhe Institute of Technology (KIT)",
+ "bim:attribution": "Institute for Automation and Applied Informatics (IAI) / Karlsruhe Institute of Technology (KIT)",
+ "bim:origin": {
+  "kind": "url",
+  "base": "https://downloads.steptools.com/docs/stpfiles/ifc/"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 3,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.ifcwiki.org/index.php/KIT_IFC_Examples",
+   "title": "LicenseRef-KIT-unrestricted"
+  },
+  {
+   "rel": "about",
+   "href": "https://www.ifcwiki.org/index.php/KIT_IFC_Examples",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "item",
+   "href": "items/kit-ifc-examples.ac20-fzk-haus-10b1a2/kit-ifc-examples.ac20-fzk-haus-10b1a2.json",
+   "type": "application/geo+json",
+   "title": "KIT FZK-Haus (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "items/kit-ifc-examples.ac20-institute-var-2-a17161/kit-ifc-examples.ac20-institute-var-2-a17161.json",
+   "type": "application/geo+json",
+   "title": "KIT Institute Var-2 office (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "items/kit-ifc-examples.kit-simple-road-test-web-ifc4x3-rc2-7e468f/kit-ifc-examples.kit-simple-road-test-web-ifc4x3-rc2-7e468f.json",
+   "type": "application/geo+json",
+   "title": "KIT Simple Road (IFC4x3 RC2)"
+  }
+ ]
+}

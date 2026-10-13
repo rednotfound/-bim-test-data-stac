@@ -1,0 +1,876 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "size-class--s-1mb-fa6451",
+ "title": "size-class: s(<1MB)",
+ "description": "142 items where size-class = s(<1MB). Items are shared with their source collections.",
+ "bim:dimension": "size-class",
+ "bim:value": "s(<1MB)",
+ "bim:item_count": 142,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-structural-b87cbe/bsi-certification-datasets.building-structural-b87cbe.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Structural (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-landscaping-783009/bsi-certification-datasets.building-landscaping-783009.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Landscaping (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-road-298239/bsi-certification-datasets.infra-road-298239.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Road (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-bridge-2e944e/bsi-certification-datasets.infra-bridge-2e944e.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Bridge (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-rail-6e81be/bsi-certification-datasets.infra-rail-6e81be.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Rail (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-plumbing-25e23c/bsi-certification-datasets.infra-plumbing-25e23c.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Plumbing (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-architecture-bf8212/bsi-certification-datasets.building-architecture-bf8212.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Architecture (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-structural-6abe1c/bsi-certification-datasets.building-structural-6abe1c.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Structural (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-hvac-206b48/bsi-certification-datasets.building-hvac-206b48.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Hvac (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-road-45da44/bsi-certification-datasets.infra-road-45da44.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Road (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-rail-a5535d/bsi-certification-datasets.infra-rail-a5535d.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Rail (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-plumbing-5ee028/bsi-certification-datasets.infra-plumbing-5ee028.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Plumbing (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-electrical-49d3c9/bsi-certification-datasets.infra-electrical-49d3c9.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Electrical (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-architecture-ab66d8/bsi-certification-datasets.building-architecture-ab66d8.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Architecture (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-structural-c766c0/bsi-certification-datasets.building-structural-c766c0.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Structural (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-hvac-888c7d/bsi-certification-datasets.building-hvac-888c7d.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Hvac (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-road-e742d2/bsi-certification-datasets.infra-road-e742d2.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Road (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-rail-4d1e5d/bsi-certification-datasets.infra-rail-4d1e5d.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Rail (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-plumbing-f1ed5d/bsi-certification-datasets.infra-plumbing-f1ed5d.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Plumbing (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-electrical-1685c2/bsi-certification-datasets.infra-electrical-1685c2.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Electrical (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.building-structural-27b125/bsi-ifc5-development.building-structural-27b125.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Structural (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.building-landscaping-110212/bsi-ifc5-development.building-landscaping-110212.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Landscaping (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-road-6d4002/bsi-ifc5-development.infra-road-6d4002.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Road (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-bridge-e2de1b/bsi-ifc5-development.infra-bridge-e2de1b.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Bridge (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-rail-d89af1/bsi-ifc5-development.infra-rail-d89af1.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Rail (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-plumbing-6a3471/bsi-ifc5-development.infra-plumbing-6a3471.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Plumbing (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-landscaping-9e51e8/bsi-ifc5-development.infra-landscaping-9e51e8.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Landscaping (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/kit-ifc-examples/items/kit-ifc-examples.kit-simple-road-test-web-ifc4x3-rc2-7e468f/kit-ifc-examples.kit-simple-road-test-web-ifc4x3-rc2-7e468f.json",
+   "type": "application/geo+json",
+   "title": "KIT Simple Road (IFC4x3 RC2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.2012-03-23-duplex-design-134d12/bsi-community-sample-files.2012-03-23-duplex-design-134d12.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex COBie – -Design"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.2012-03-23-duplex-handover-5004ab/bsi-community-sample-files.2012-03-23-duplex-handover-5004ab.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex COBie – -Handover"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-compleet-interne-modelkwaliteit-0b55bc/schependomlaan.root-compleet-interne-modelkwaliteit-0b55bc.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan model-quality issues (BCF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.geelen-breedplaat-v1-247592/schependomlaan.geelen-breedplaat-v1-247592.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – GEELEN-Breedplaat V1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.geelen-breedplaat-v2-892483/schependomlaan.geelen-breedplaat-v2-892483.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – GEELEN-Breedplaat V2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.geelen-breedplaat-v3-1a92d4/schependomlaan.geelen-breedplaat-v3-1a92d4.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – GEELEN-Breedplaat V3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.geelen-dakvloer-631e16/schependomlaan.geelen-dakvloer-631e16.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – GEELEN-Dakvloer"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.linden-kozijnen-4d05e6/schependomlaan.linden-kozijnen-4d05e6.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – LINDEN - Kozijnen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.multicom-balkons-f36436/schependomlaan.multicom-balkons-f36436.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – MULTICOM-balkons"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.multicom-banden-401455/schependomlaan.multicom-banden-401455.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – MULTICOM-banden"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.multicom-trappen-bordessen-80d414/schependomlaan.multicom-trappen-bordessen-80d414.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – MULTICOM-trappen+bordessen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-vebo-999a76/schependomlaan.root-vebo-999a76.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-Vebo"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-breedplaatvloeren-fd4baa/schependomlaan.root-breedplaatvloeren-fd4baa.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-breedplaatvloeren"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-kalkzandsteen-04d9e3/schependomlaan.root-kalkzandsteen-04d9e3.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-kalkzandsteen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-kapconstructie-dakkapellen-platdak-520e59/schependomlaan.root-kapconstructie-dakkapellen-platdak-520e59.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-kapconstructie_dakkapellen_platdak"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-staal-a86264/schependomlaan.root-staal-a86264.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-staal"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-bg-rio-mv-hwa-51ba71/schependomlaan.sonsbeek-bg-rio-mv-hwa-51ba71.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-BG Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-bg-water-gas-cv-f46863/schependomlaan.sonsbeek-bg-water-gas-cv-f46863.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-BG Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-dak-rio-mv-hwa-ca3873/schependomlaan.sonsbeek-dak-rio-mv-hwa-ca3873.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Dak Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-dak-sparingen-4ac796/schependomlaan.sonsbeek-dak-sparingen-4ac796.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Dak Sparingen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-dak-water-gas-cv-c252aa/schependomlaan.sonsbeek-dak-water-gas-cv-c252aa.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Dak Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-fund-rio-mv-hwa-bd7850/schependomlaan.sonsbeek-fund-rio-mv-hwa-bd7850.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Fund. Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-fund-water-gas-cv-c33aaa/schependomlaan.sonsbeek-fund-water-gas-cv-c33aaa.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Fund. Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v1-rio-mv-hwa-8a2c63/schependomlaan.sonsbeek-v1-rio-mv-hwa-8a2c63.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V1 Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v1-sparingen-a29ee9/schependomlaan.sonsbeek-v1-sparingen-a29ee9.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V1 Sparingen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v1-water-gas-cv-7ce3a4/schependomlaan.sonsbeek-v1-water-gas-cv-7ce3a4.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V1 Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v2-rio-mv-hwa-e11ef8/schependomlaan.sonsbeek-v2-rio-mv-hwa-e11ef8.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V2 Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v2-sparingen-4dc371/schependomlaan.sonsbeek-v2-sparingen-4dc371.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V2 Sparingen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v2-water-gas-cv-977c73/schependomlaan.sonsbeek-v2-water-gas-cv-977c73.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V2 Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v3-rio-mv-hwa-497f4d/schependomlaan.sonsbeek-v3-rio-mv-hwa-497f4d.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V3 Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v3-sparingen-a82584/schependomlaan.sonsbeek-v3-sparingen-a82584.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V3 Sparingen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.sonsbeek-v3-water-gas-cv-82b14c/schependomlaan.sonsbeek-v3-water-gas-cv-82b14c.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V3 Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.v-l-constructief-842b15/schependomlaan.v-l-constructief-842b15.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – V_L_Constructief"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.willemsen-laagbouw-dakpannen-fc8c41/schependomlaan.willemsen-laagbouw-dakpannen-fc8c41.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WILLEMSEN-laagbouw dakpannen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.xella-1e-verdieping-5f5852/schependomlaan.xella-1e-verdieping-5f5852.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – XELLA-1e verdieping"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.xella-2e-verdieping-114992/schependomlaan.xella-2e-verdieping-114992.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – XELLA-2e verdieping"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.xella-3e-verdieping-25d1f8/schependomlaan.xella-3e-verdieping-25d1f8.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – XELLA-3e verdieping"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.xella-begane-grond-95f64d/schependomlaan.xella-begane-grond-95f64d.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – XELLA-Begane grond"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.schependomlaan-nijmegen-18-02-2015-34fa37/schependomlaan.schependomlaan-nijmegen-18-02-2015-34fa37.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan construction planning (PDF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.manysimplewalls-717e3c/bim-whale-samples.manysimplewalls-717e3c.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – ManySimpleWalls (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.tallbuilding-1f7535/bim-whale-samples.tallbuilding-1f7535.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – TallBuilding (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tuwien-escape-routes/items/tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-g-f92578/tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-g-f92578.json",
+   "type": "application/geo+json",
+   "title": "Escape route model – JS-RealWorldEscapeRouteModel-RoutesGroupSegments-Group-IFC4X3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tuwien-escape-routes/items/tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-p-cc046a/tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-p-cc046a.json",
+   "type": "application/geo+json",
+   "title": "Escape route model – JS-RealWorldEscapeRouteModel-RoutesGroupSegments-Part-IFC4X3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tuwien-escape-routes/items/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-g-cf75d6/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-g-cf75d6.json",
+   "type": "application/geo+json",
+   "title": "Escape route model – Py-RealWorldEscapeRouteModel-RoutesGroupSegments-Group-IFC4X3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tuwien-escape-routes/items/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-g-835435/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-g-835435.json",
+   "type": "application/geo+json",
+   "title": "Escape route model – Py-RealWorldEscapeRouteModel-RoutesGroupSegments-Group"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tuwien-escape-routes/items/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-p-e827ba/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-p-e827ba.json",
+   "type": "application/geo+json",
+   "title": "Escape route model – Py-RealWorldEscapeRouteModel-RoutesGroupSegments-Part"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-design-38bfb6/duraark.nbu-duplex-apt-cobie-arch-design-38bfb6.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Design"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-handover-25d225/duraark.nbu-duplex-apt-cobie-arch-handover-25d225.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Handover"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-productinstall-aa7ad1/duraark.nbu-duplex-apt-cobie-arch-productinstall-aa7ad1.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-ProductInstall"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-productselect-0b280e/duraark.nbu-duplex-apt-cobie-arch-productselect-0b280e.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-ProductSelect"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.linear-placement-of-signal-54b95d/bsi-ifc4x-specification-models.linear-placement-of-signal-54b95d.json",
+   "type": "application/geo+json",
+   "title": "alignment-geometries-and-linear-positioning: linear-placement-of-signal"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-curved-i-shape-tessellated-4dac33/bsi-ifc4x-specification-models.beam-curved-i-shape-tessellated-4dac33.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape: beam-curved-i-shape-tessellated"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.tessellation-with-pixel-texture-0d4af3/bsi-ifc4x-specification-models.tessellation-with-pixel-texture-0d4af3.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape-with-style: tessellation-with-pixel-texture"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-als004-scenario01-wrong-representationidentif-818c3f/bsi-ifc-validation-rules.fail-als004-scenario01-wrong-representationidentif-818c3f.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ALS – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-cls000-classification-present-91afaf/bsi-ifc-validation-rules.pass-cls000-classification-present-91afaf.json",
+   "type": "application/geo+json",
+   "title": "Validation rule CLS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-lip000-linear-placement-present-2e9a76/bsi-ifc-validation-rules.pass-lip000-linear-placement-present-2e9a76.json",
+   "type": "application/geo+json",
+   "title": "Validation rule LIP – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.document-reference-internal-16df9f/bsi-bcf.document-reference-internal-16df9f.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Document reference internal"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.all-components-and-spaces-visible-eefd39/bsi-bcf.all-components-and-spaces-visible-eefd39.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – all components and spaces visible"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-r13-123ecd/libredwg-testdata.example-r13-123ecd.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing R13 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-r14-faea5c/libredwg-testdata.example-r14-faea5c.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing R14 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-r14-64535a/libredwg-testdata.example-r14-64535a.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing R14 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-2000-6e2a6c/libredwg-testdata.example-2000-6e2a6c.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2000 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-2004-bbd251/libredwg-testdata.example-2004-bbd251.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2004 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-2004-72f0ff/libredwg-testdata.example-2004-72f0ff.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2004 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-2007-e49cb1/libredwg-testdata.example-2007-e49cb1.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2007 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-2007-d18507/libredwg-testdata.example-2007-d18507.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2007 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-2010-bf8647/libredwg-testdata.example-2010-bf8647.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2010 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-2010-e9ac37/libredwg-testdata.example-2010-e9ac37.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2010 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-2013-ecac16/libredwg-testdata.example-2013-ecac16.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2013 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-2013-c7df70/libredwg-testdata.example-2013-c7df70.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2013 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-2018-05b894/libredwg-testdata.example-2018-05b894.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2018 (DWG)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-2018-c3f252/libredwg-testdata.example-2018-c3f252.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2018 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-r12-ab5801/libredwg-testdata.example-r12-ab5801.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing R12 (DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.architectural-annotation-scaling-and-multileaders-f60b0c/autodesk-acad-samples.architectural-annotation-scaling-and-multileaders-f60b0c.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – architectural_-_annotation_scaling_and_multileaders"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.architectural-example-imperial-9d270f/autodesk-acad-samples.architectural-example-imperial-9d270f.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – architectural_example-imperial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.blocks-and-tables-imperial-800cf0/autodesk-acad-samples.blocks-and-tables-imperial-800cf0.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – blocks_and_tables_-_imperial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.blocks-and-tables-metric-e5f244/autodesk-acad-samples.blocks-and-tables-metric-e5f244.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – blocks_and_tables_-_metric"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.civil-example-imperial-6cab3b/autodesk-acad-samples.civil-example-imperial-6cab3b.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – civil_example-imperial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.mechanical-example-imperial-cfc613/autodesk-acad-samples.mechanical-example-imperial-cfc613.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – mechanical_example-imperial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.tablet-bb88af/autodesk-acad-samples.tablet-bb88af.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – tablet"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.title-block-ansi-499aee/autodesk-acad-samples.title-block-ansi-499aee.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – title_block-ansi"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.title-block-arch-288c1a/autodesk-acad-samples.title-block-arch-288c1a.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – title_block-arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.title-block-iso-0218ff/autodesk-acad-samples.title-block-iso-0218ff.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – title_block-iso"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.visualization-aerial-ea0eef/autodesk-acad-samples.visualization-aerial-ea0eef.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_aerial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.visualization-conference-room-fe13a3/autodesk-acad-samples.visualization-conference-room-fe13a3.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_conference_room"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.visualization-sun-and-sky-demo-71ad93/autodesk-acad-samples.visualization-sun-and-sky-demo-71ad93.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_sun_and_sky_demo"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.cepestmanagementprototype-c5bd68/wbdg-usaf-design-packages.cepestmanagementprototype-c5bd68.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Pest – cepestmanagementprototype"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.structuralsheets-v1-0-8b0e4d/wbdg-usaf-design-packages.structuralsheets-v1-0-8b0e4d.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – StructuralSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-bim-manual-v1-0-6126ac/wbdg-usaf-design-packages.fitness-center-bim-manual-v1-0-6126ac.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center BIM Manual v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.mil-working-dog-cal-spreadsheet-june-2018-e59245/wbdg-usaf-design-packages.mil-working-dog-cal-spreadsheet-june-2018-e59245.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – mil_working_dog_cal_spreadsheet_june_2018"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.standard-design-storage-igloo-957b45/wbdg-usaf-design-packages.standard-design-storage-igloo-957b45.json",
+   "type": "application/geo+json",
+   "title": "USAF Storage Igloo – standard_design_storage_igloo"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.structuralsheets-v1-0-da37d0/wbdg-usaf-design-packages.structuralsheets-v1-0-da37d0.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – StructuralSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-1-officer-contractor-managers-48-cdd7d0/wbdg-usaf-design-packages.thule-bldg-1-officer-contractor-managers-48-cdd7d0.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Bldg_1_-_Officer_&_Contractor_Managers_48"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-2-contractor-trainees-laborers-72-c33814/wbdg-usaf-design-packages.thule-bldg-2-contractor-trainees-laborers-72-c33814.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Bldg_2_-_Contractor_Trainees_&_Laborers_72"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-e634b0/wbdg-usaf-design-packages.thule-bldg-3-enlisted-48-e634b0.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Bldg_3_-_Enlisted_48"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-4-officer-72-28fe76/wbdg-usaf-design-packages.thule-bldg-4-officer-72-28fe76.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule_Bldg_4_-_Officer_72"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.electricalsheets-v1-0-3f83bd/wbdg-usaf-design-packages.electricalsheets-v1-0-3f83bd.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – ElectricalSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.structuralsheets-v1-0-0d0ed6/wbdg-usaf-design-packages.structuralsheets-v1-0-0d0ed6.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – StructuralSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.standard-design-warehouse-dabs-fev-0ecde0/wbdg-usaf-design-packages.standard-design-warehouse-dabs-fev-0ecde0.json",
+   "type": "application/geo+json",
+   "title": "USAF Warehouse – standard_design_warehouse_dabs_fev"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.standard-design-weapons-release-system-shop-3c6433/wbdg-usaf-design-packages.standard-design-weapons-release-system-shop-3c6433.json",
+   "type": "application/geo+json",
+   "title": "USAF Wrss – standard_design_weapons_release_system_shop"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division01-adf368/wbdg-va-cad-details.vadetails-division01-adf368.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 01 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division05-bbeaed/wbdg-va-cad-details.vadetails-division05-bbeaed.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 05 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division06-ae4c89/wbdg-va-cad-details.vadetails-division06-ae4c89.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 06 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division07-e1a2ec/wbdg-va-cad-details.vadetails-division07-e1a2ec.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 07 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division12-de2b99/wbdg-va-cad-details.vadetails-division12-de2b99.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 12 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division13-92ebc2/wbdg-va-cad-details.vadetails-division13-92ebc2.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 13 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-va-cad-details/items/wbdg-va-cad-details.vadetails-division33-a61a11/wbdg-va-cad-details.vadetails-division33-a61a11.json",
+   "type": "application/geo+json",
+   "title": "VA standard details – CSI division 33 (DWG set)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.03-2-bim-r08-03-001-revit-3b4a98/blcj-bim-kakunin.03-2-bim-r08-03-001-revit-3b4a98.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 A_意匠 – 03_別紙2_BIM図面審査における入出力基準適合申告書（初版）R08_03版(001)_意匠Revit"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.s-ss7-bim-fc36ab/blcj-bim-kakunin.s-ss7-bim-fc36ab.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 S_構造 – S_構造モデル_SS7_構造計算書-結果(BIM申請サンプル)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.blcjsample-e-revit-01-ef8839/blcj-bim-kakunin.blcjsample-e-revit-01-ef8839.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 MEP_設備 – BLCJsample_E_Revit_01"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.f65166/ezjww-jww-samples.f65166.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – Ａマンション平面例"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.25d-a51d8a/ezjww-jww-samples.25d-a51d8a.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – Ａマンション25d"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.e6040a/ezjww-jww-samples.e6040a.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – 日影図"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.4b5b57/ezjww-jww-samples.4b5b57.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – 天空率表"
+  }
+ ]
+}

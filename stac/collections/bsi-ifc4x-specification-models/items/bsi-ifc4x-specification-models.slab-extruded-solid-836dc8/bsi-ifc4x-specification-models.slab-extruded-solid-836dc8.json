@@ -1,0 +1,145 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-ifc4x-specification-models.slab-extruded-solid-836dc8",
+ "geometry": null,
+ "properties": {
+  "title": "building-elements: slab-extruded-solid",
+  "description": "IFC-SPF IFC4X3_ADD2 file from 'buildingSMART IFC4.x specification models'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2016-02-04T08:47:55Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-bSI-all-rights-reserved",
+  "keywords": [
+   "IFC4X3",
+   "geometry",
+   "unit test",
+   "unit-test"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4X3_ADD2",
+  "bim:source": "bsi-ifc4x-specification-models",
+  "bim:building_type": "component",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "geometry",
+   "unit-test"
+  ],
+  "bim:license_tier": "restricted",
+  "bim:license_url": "https://github.com/buildingSMART/IFC4.x-specification-models#license",
+  "bim:attribution": "buildingSMART International, IFC4.x-specification-models",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/slab-extrusion/slab-extruded-solid.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/IFC4.x-specification-models",
+   "commit": "50e6c5c63a3586badc5dc857f5f4736675135525",
+   "path": "models/building-elements/slab-extrusion/slab-extruded-solid.ifc",
+   "browse_url": "https://github.com/buildingSMART/IFC4.x-specification-models/blob/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/slab-extrusion/slab-extruded-solid.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-08-21"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [NotAssigned]"
+  ],
+  "ifc:view_definition": "NotAssigned",
+  "ifc:header_timestamp": "2016-02-04T08:47:55",
+  "ifc:preprocessor_version": "redacted",
+  "ifc:originating_system": "redacted - redacted - 3.14159",
+  "ifc:schema": "IFC4X3_ADD2",
+  "ifc:products": 1,
+  "ifc:product_types": 1,
+  "ifc:storeys": 0,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:props": 0,
+  "ifc:qsets": 0,
+  "ifc:materials": 1,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 1,
+  "ifc:docs": 0,
+  "ifc:score": 4.9,
+  "ifc:disciplines": [
+   "architecture"
+  ],
+  "ifc:element_counts": {
+   "IfcSlab": 1
+  },
+  "ifc:project_name": "IfcProject",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:building_names": [
+   "IfcBuilding"
+  ],
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-ifc4x-specification-models.slab-extruded-solid-836dc8.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/buildingSMART/IFC4.x-specification-models#license",
+   "title": "LicenseRef-bSI-all-rights-reserved"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/IFC4.x-specification-models",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/IFC4.x-specification-models/blob/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/slab-extrusion/slab-extruded-solid.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/IFC4.x-specification-models/50e6c5c63a3586badc5dc857f5f4736675135525/models/building-elements/slab-extrusion/slab-extruded-solid.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "slab-extruded-solid.ifc",
+   "file:size": 3189,
+   "file:checksum": "12200e4b80b98d8f1576d0c997af24b9486eb638de9f8428959fb6067a3bb74a4aca"
+  }
+ },
+ "collection": "bsi-ifc4x-specification-models"
+}

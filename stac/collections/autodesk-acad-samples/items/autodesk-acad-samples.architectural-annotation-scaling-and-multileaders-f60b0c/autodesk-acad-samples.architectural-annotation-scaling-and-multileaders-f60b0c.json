@@ -1,0 +1,178 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "autodesk-acad-samples.architectural-annotation-scaling-and-multileaders-f60b0c",
+ "geometry": null,
+ "properties": {
+  "title": "AutoCAD sample – architectural_-_annotation_scaling_and_multileaders",
+  "description": "DWG AC1021 R2007 file from 'Autodesk AutoCAD sample files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-13T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-Autodesk-sample",
+  "keywords": [
+   "AutoCAD",
+   "DWG",
+   "cad-render",
+   "real-drawing"
+  ],
+  "providers": [
+   {
+    "name": "Autodesk, Inc.",
+    "url": "https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/6XGQklp3ZcBFqljLPjrnQ9.html",
+    "roles": [
+     "producer",
+     "host",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "DWG",
+  "bim:format_family": "CAD-2D",
+  "bim:format_version": "AC1021 R2007",
+  "bim:source": "autodesk-acad-samples",
+  "bim:building_type": "generic-building",
+  "bim:country": "US",
+  "bim:use_cases": [
+   "cad-render",
+   "real-drawing"
+  ],
+  "bim:license_tier": "restricted",
+  "bim:license_url": "https://www.autodesk.com/company/legal-notices-trademarks/terms-of-use",
+  "bim:attribution": "Autodesk, Inc., AutoCAD sample files",
+  "bim:size_class": "s(<1MB)",
+  "bim:datetime_source": "retrieval date",
+  "bim:provenance": {
+   "upstream_href": "https://download.autodesk.com/us/samplefiles/acad/architectural_-_annotation_scaling_and_multileaders.dwg",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "cad:version_code": "AC1021",
+  "cad:release": "R2007",
+  "cad:layers": 49,
+  "cad:blocks": 9,
+  "cad:layouts": 1,
+  "cad:modelspace_entities": 1367,
+  "cad:entity_counts": {
+   "LINE": 1178,
+   "ARC": 56,
+   "MULTILEADER": 36,
+   "LWPOLYLINE": 32,
+   "DIMENSION": 28,
+   "INSERT": 16,
+   "HATCH": 14,
+   "MTEXT": 5,
+   "CIRCLE": 2
+  },
+  "cad:units": "inch",
+  "cad:text_styles": 7,
+  "cad:extents": [
+   -53.714,
+   13.711,
+   1375.664,
+   581.78
+  ],
+  "cad:layer_names": [
+   "0",
+   "DEFPOINTS",
+   "Center",
+   "Structural_SteelBeam",
+   "LAYER131A",
+   "Struc_Section_Steel",
+   "Struc_Section_Dim",
+   "Struc_Section_Conc",
+   "LAYER11A",
+   "Struc_Section_BP",
+   "C-241-1",
+   "Struc_Section_MachineBolt",
+   "Struc_Section_Stair",
+   "Structural_Section_StAngle",
+   "LAYER131D",
+   "Layer131B",
+   "Structural_Steel_Deck",
+   "Stair_Conc.",
+   "Arch_Section_Ceiling",
+   "LAYER251A",
+   "Arch_Detail_Door",
+   "Arch_Section_Wall",
+   "Arch_Section_Handrail",
+   "Arch_Section_Insul",
+   "Arch_Section_VP",
+   "L1",
+   "Structural_Steel_Joist",
+   "Arch_Section_Truss",
+   "Struc_Plan_Deck",
+   "Mleader",
+   "Dim",
+   "PS_Viewport",
+   "PS_Annot",
+   "TS-TEXT2",
+   "TEXT",
+   "Foundation_Plan_Dim",
+   "TB_TEXT1",
+   "TB_TEXT3",
+   "TB_BORDER",
+   "TB_INFORMATION",
+   "TB_TEXT4",
+   "TB_CORNERS",
+   "Title",
+   "TB_TEXT2",
+   "Dim @ 48",
+   "Dim @ 24",
+   "Mleader @ 48",
+   "Mleader @ 24",
+   "Mleader @ 4"
+  ],
+  "cad:audit_errors": 0,
+  "cad:read_via": "LibreDWG 0.14 dwg2dxf"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./autodesk-acad-samples.architectural-annotation-scaling-and-multileaders-f60b0c.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.autodesk.com/company/legal-notices-trademarks/terms-of-use",
+   "title": "LicenseRef-Autodesk-sample"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/6XGQklp3ZcBFqljLPjrnQ9.html",
+   "title": "Upstream dataset page"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://download.autodesk.com/us/samplefiles/acad/architectural_-_annotation_scaling_and_multileaders.dwg",
+   "type": "image/vnd.dwg",
+   "roles": [
+    "data"
+   ],
+   "title": "architectural_-_annotation_scaling_and_multileaders.dwg",
+   "file:size": 188992,
+   "file:checksum": "12200e74f0aa84b1323c922345f067739c42ee26213dea010b407b87a94212271654"
+  }
+ },
+ "collection": "autodesk-acad-samples"
+}

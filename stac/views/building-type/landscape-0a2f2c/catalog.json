@@ -1,0 +1,72 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--landscape-0a2f2c",
+ "title": "building-type: landscape",
+ "description": "8 items where building-type = landscape. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "landscape",
+ "bim:item_count": 8,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-landscaping-783009/bsi-certification-datasets.building-landscaping-783009.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Landscaping (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-landscaping-eafdd5/bsi-certification-datasets.infra-landscaping-eafdd5.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Landscaping (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-landscaping-66ff70/bsi-certification-datasets.building-landscaping-66ff70.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Landscaping (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-landscaping-7597e3/bsi-certification-datasets.infra-landscaping-7597e3.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Landscaping (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-landscaping-55e371/bsi-certification-datasets.building-landscaping-55e371.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Landscaping (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-landscaping-1c9afd/bsi-certification-datasets.infra-landscaping-1c9afd.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Landscaping (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.building-landscaping-110212/bsi-ifc5-development.building-landscaping-110212.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Landscaping (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-landscaping-9e51e8/bsi-ifc5-development.infra-landscaping-9e51e8.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Landscaping (IFC5 alpha)"
+  }
+ ]
+}

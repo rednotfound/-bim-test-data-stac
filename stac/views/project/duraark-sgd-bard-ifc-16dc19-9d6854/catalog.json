@@ -1,0 +1,36 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--duraark-sgd-bard-ifc-16dc19-9d6854",
+ "title": "project: duraark-sgd-bard-ifc-16dc19",
+ "description": "2 items where project = duraark-sgd-bard-ifc-16dc19. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "duraark-sgd-bard-ifc-16dc19",
+ "bim:item_count": 2,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bard-arch-226c60/duraark.sgd-bard-arch-226c60.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg BARD – SGD_BARD_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bard-merged-dcfffa/duraark.sgd-bard-merged-dcfffa.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg BARD – SGD_BARD_Merged"
+  }
+ ]
+}

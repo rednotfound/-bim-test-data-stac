@@ -1,0 +1,231 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json",
+  "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
+ ],
+ "id": "klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-3ef1f7",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   6.083333,
+   50.775
+  ]
+ },
+ "bbox": [
+  6.083333,
+  50.775,
+  6.083333,
+  50.775
+ ],
+ "properties": {
+  "title": "Klassiqua office archetype 1970 (IFC4X3_ADD2)",
+  "description": "IFC-SPF IFC4X3_ADD2 file from 'Klassiqua office archetypes (RWTH E3D)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-07-30T12:32:13Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "CC-BY-4.0",
+  "keywords": [
+   "IFC4X3",
+   "archetype",
+   "office",
+   "schema-versions"
+  ],
+  "providers": [
+   {
+    "name": "RWTH Aachen E3D (Klassiqua)",
+    "url": "https://doi.org/10.5281/zenodo.21820756",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   },
+   {
+    "name": "BIMvoice ifcsamples (mirror)",
+    "url": "https://github.com/BIMvoice/ifcsamples",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4X3_ADD2",
+  "bim:source": "klassiqua-office-archetypes",
+  "bim:project": "klassiqua",
+  "bim:building_type": "office",
+  "bim:country": "DE",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "schema-versions",
+   "archetype"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "bim:attribution": "Klassiqua office archetypes, RWTH Aachen E3D, DOI 10.5281/zenodo.21820756 (CC BY 4.0)",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/BIMvoice/ifcsamples/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/IFC4x3/Klassiqua-Office-Archetypes/2026-07_Klassiqua_Office_Archetype_Construction_Year_1970.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/BIMvoice/ifcsamples",
+   "commit": "7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2",
+   "path": "IFC4x3/Klassiqua-Office-Archetypes/2026-07_Klassiqua_Office_Archetype_Construction_Year_1970.ifc",
+   "browse_url": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/IFC4x3/Klassiqua-Office-Archetypes/2026-07_Klassiqua_Office_Archetype_Construction_Year_1970.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-10-12"
+  },
+  "bim:thumbnail": "generated",
+  "sci:doi": "10.5281/zenodo.21820756",
+  "sci:citation": "Klassiqua office archetypes, RWTH Aachen E3D, DOI 10.5281/zenodo.21820756 (CC BY 4.0)",
+  "ifc:file_description": [
+   "ViewDefinition[ReferenceView]"
+  ],
+  "ifc:view_definition": "ReferenceView",
+  "ifc:header_timestamp": "2026-07-30T14:32:13+02:00",
+  "ifc:preprocessor_version": "IfcOpenShell 0.8.5-post1",
+  "ifc:originating_system": "Bonsai 0.8.5-post1",
+  "ifc:schema": "IFC4X3_ADD2",
+  "ifc:products": 536,
+  "ifc:product_types": 9,
+  "ifc:storeys": 4,
+  "ifc:spaces": 48,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "BBIM_Door",
+   "BBIM_Stair",
+   "BBIM_Window",
+   "EPset_Parametric",
+   "Model_LevelInformation",
+   "Pset_BuildingCommon",
+   "Pset_DoorCommon",
+   "Pset_DoorWindowGlazingType",
+   "Pset_StairFlightCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon",
+   "Qto_WallBaseQuantities"
+  ],
+  "ifc:props": 182,
+  "ifc:qsets": 4,
+  "ifc:materials": 19,
+  "ifc:classif_refs": 34,
+  "ifc:type_objects": 24,
+  "ifc:docs": 1,
+  "ifc:score": 16.12,
+  "ifc:disciplines": [
+   "architecture"
+  ],
+  "ifc:element_counts": {
+   "IfcWindow": 167,
+   "IfcFurniture": 144,
+   "IfcWall": 88,
+   "IfcCovering": 52,
+   "IfcDoor": 49,
+   "IfcCurtainWall": 16,
+   "IfcSlab": 11,
+   "IfcStairFlight": 6,
+   "IfcVirtualElement": 3,
+   "IfcGrid": 1
+  },
+  "ifc:classification_systems": [
+   "Bauteiltypen nach DIN 276+x",
+   "CCI Construction",
+   "ETIM",
+   "Klassen und Merkmale der Vorgehängten Hinterlüfteten Fassade",
+   "Raumnutzungsarten nach DIN 277-2"
+  ],
+  "ifc:project_name": "RWTH Aachen University - Klassiqua Project",
+  "ifc:length_unit": "METRE",
+  "ifc:building_names": [
+   "Office Archetype 1970"
+  ],
+  "ifc:storey_names": [
+   "00",
+   "01",
+   "02",
+   "03"
+  ],
+  "ifc:map_conversion": true,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)",
+  "bim:site_elevation": 202.0
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-3ef1f7.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "CC-BY-4.0"
+  },
+  {
+   "rel": "via",
+   "href": "https://doi.org/10.5281/zenodo.21820756",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/IFC4x3/Klassiqua-Office-Archetypes/2026-07_Klassiqua_Office_Archetype_Construction_Year_1970.ifc",
+   "title": "Upstream file (pinned commit)"
+  },
+  {
+   "rel": "cite-as",
+   "href": "https://doi.org/10.5281/zenodo.21820756"
+  },
+  {
+   "rel": "related",
+   "href": "../klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-29c5fb/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-29c5fb.json",
+   "type": "application/geo+json",
+   "title": "Same project (klassiqua)"
+  },
+  {
+   "rel": "related",
+   "href": "../klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-45214b/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-45214b.json",
+   "type": "application/geo+json",
+   "title": "Same project (klassiqua)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/BIMvoice/ifcsamples/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/IFC4x3/Klassiqua-Office-Archetypes/2026-07_Klassiqua_Office_Archetype_Construction_Year_1970.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "2026-07_Klassiqua_Office_Archetype_Construction_Year_1970.ifc",
+   "file:size": 1471699,
+   "file:checksum": "1220a5f12304d33fe5da9174c8ea9827d2f322706646b3da2766dff0ab278c65df3c"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "klassiqua-office-archetypes"
+}

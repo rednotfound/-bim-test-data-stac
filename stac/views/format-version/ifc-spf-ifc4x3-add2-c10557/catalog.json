@@ -1,0 +1,570 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "format-version--ifc-spf-ifc4x3-add2-c10557",
+ "title": "format-version: IFC-SPF IFC4X3_ADD2",
+ "description": "91 items where format-version = IFC-SPF IFC4X3_ADD2. Items are shared with their source collections.",
+ "bim:dimension": "format-version",
+ "bim:value": "IFC-SPF IFC4X3_ADD2",
+ "bim:item_count": 91,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-architecture-ab66d8/bsi-certification-datasets.building-architecture-ab66d8.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Architecture (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-structural-c766c0/bsi-certification-datasets.building-structural-c766c0.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Structural (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-hvac-888c7d/bsi-certification-datasets.building-hvac-888c7d.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Hvac (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.building-landscaping-55e371/bsi-certification-datasets.building-landscaping-55e371.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Landscaping (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-road-e742d2/bsi-certification-datasets.infra-road-e742d2.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Road (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-bridge-567b12/bsi-certification-datasets.infra-bridge-567b12.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Bridge (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-rail-4d1e5d/bsi-certification-datasets.infra-rail-4d1e5d.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Rail (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-plumbing-f1ed5d/bsi-certification-datasets.infra-plumbing-f1ed5d.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Plumbing (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-electrical-1685c2/bsi-certification-datasets.infra-electrical-1685c2.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Electrical (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-landscaping-1c9afd/bsi-certification-datasets.infra-landscaping-1c9afd.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Landscaping (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/web-ifc-tests/items/web-ifc-tests.viadotto-acerno-39f500/web-ifc-tests.viadotto-acerno-39f500.json",
+   "type": "application/geo+json",
+   "title": "Viadotto Acerno bridge (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/klassiqua-office-archetypes/items/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-3ef1f7/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-3ef1f7.json",
+   "type": "application/geo+json",
+   "title": "Klassiqua office archetype 1970 (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/klassiqua-office-archetypes/items/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-29c5fb/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-29c5fb.json",
+   "type": "application/geo+json",
+   "title": "Klassiqua office archetype 1998 (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/klassiqua-office-archetypes/items/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-45214b/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-45214b.json",
+   "type": "application/geo+json",
+   "title": "Klassiqua office archetype 2026 (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tuwien-escape-routes/items/tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-g-f92578/tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-g-f92578.json",
+   "type": "application/geo+json",
+   "title": "Escape route model – JS-RealWorldEscapeRouteModel-RoutesGroupSegments-Group-IFC4X3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tuwien-escape-routes/items/tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-p-cc046a/tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-p-cc046a.json",
+   "type": "application/geo+json",
+   "title": "Escape route model – JS-RealWorldEscapeRouteModel-RoutesGroupSegments-Part-IFC4X3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tuwien-escape-routes/items/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-g-cf75d6/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-g-cf75d6.json",
+   "type": "application/geo+json",
+   "title": "Escape route model – Py-RealWorldEscapeRouteModel-RoutesGroupSegments-Group-IFC4X3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.basin-advanced-brep-d3cd82/bsi-ifc4x-specification-models.basin-advanced-brep-d3cd82.json",
+   "type": "application/geo+json",
+   "title": "advanced-geometric-shape: basin-advanced-brep"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.basin-faceted-brep-36bcbd/bsi-ifc4x-specification-models.basin-faceted-brep-36bcbd.json",
+   "type": "application/geo+json",
+   "title": "advanced-geometric-shape: basin-faceted-brep"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.basin-tessellation-452d8c/bsi-ifc4x-specification-models.basin-tessellation-452d8c.json",
+   "type": "application/geo+json",
+   "title": "advanced-geometric-shape: basin-tessellation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.bath-csg-solid-723d7a/bsi-ifc4x-specification-models.bath-csg-solid-723d7a.json",
+   "type": "application/geo+json",
+   "title": "advanced-geometric-shape: bath-csg-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.cube-advanced-brep-0ea4a5/bsi-ifc4x-specification-models.cube-advanced-brep-0ea4a5.json",
+   "type": "application/geo+json",
+   "title": "advanced-geometric-shape: cube-advanced-brep"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.fixed-reference-swept-area-solid-995c3f/bsi-ifc4x-specification-models.fixed-reference-swept-area-solid-995c3f.json",
+   "type": "application/geo+json",
+   "title": "alignment-geometries-and-linear-positioning: fixed-reference-swept-area-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.linear-placement-of-signal-54b95d/bsi-ifc4x-specification-models.linear-placement-of-signal-54b95d.json",
+   "type": "application/geo+json",
+   "title": "alignment-geometries-and-linear-positioning: linear-placement-of-signal"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.sectioned-solid-horizontal-ed32c2/bsi-ifc4x-specification-models.sectioned-solid-horizontal-ed32c2.json",
+   "type": "application/geo+json",
+   "title": "alignment-geometries-and-linear-positioning: sectioned-solid-horizontal"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.segmented-reference-curve-db7029/bsi-ifc4x-specification-models.segmented-reference-curve-db7029.json",
+   "type": "application/geo+json",
+   "title": "alignment-geometries-and-linear-positioning: segmented-reference-curve"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.brep-model-aaec17/bsi-ifc4x-specification-models.brep-model-aaec17.json",
+   "type": "application/geo+json",
+   "title": "basic-geometric-shape: brep-model"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.csg-primitive-8e7754/bsi-ifc4x-specification-models.csg-primitive-8e7754.json",
+   "type": "application/geo+json",
+   "title": "basic-geometric-shape: csg-primitive"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.extruded-solid-de5af8/bsi-ifc4x-specification-models.extruded-solid-de5af8.json",
+   "type": "application/geo+json",
+   "title": "basic-geometric-shape: extruded-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.surface-model-2f1baa/bsi-ifc4x-specification-models.surface-model-2f1baa.json",
+   "type": "application/geo+json",
+   "title": "basic-geometric-shape: surface-model"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.triangulated-item-baf7cf/bsi-ifc4x-specification-models.triangulated-item-baf7cf.json",
+   "type": "application/geo+json",
+   "title": "basic-geometric-shape: triangulated-item"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-extruded-solid-286f01/bsi-ifc4x-specification-models.beam-extruded-solid-286f01.json",
+   "type": "application/geo+json",
+   "title": "building-elements: beam-extruded-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-parametric-cross-section-cd8cdb/bsi-ifc4x-specification-models.beam-parametric-cross-section-cd8cdb.json",
+   "type": "application/geo+json",
+   "title": "building-elements: beam-parametric-cross-section"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-revolved-solid-a255d5/bsi-ifc4x-specification-models.beam-revolved-solid-a255d5.json",
+   "type": "application/geo+json",
+   "title": "building-elements: beam-revolved-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-varying-cardinal-points-5d24e1/bsi-ifc4x-specification-models.beam-varying-cardinal-points-5d24e1.json",
+   "type": "application/geo+json",
+   "title": "building-elements: beam-varying-cardinal-points"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-varying-extrusion-paths-efee79/bsi-ifc4x-specification-models.beam-varying-extrusion-paths-efee79.json",
+   "type": "application/geo+json",
+   "title": "building-elements: beam-varying-extrusion-paths"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-varying-profiles-a6b6cb/bsi-ifc4x-specification-models.beam-varying-profiles-a6b6cb.json",
+   "type": "application/geo+json",
+   "title": "building-elements: beam-varying-profiles"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.column-extruded-solid-02360a/bsi-ifc4x-specification-models.column-extruded-solid-02360a.json",
+   "type": "application/geo+json",
+   "title": "building-elements: column-extruded-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.reinforcing-assembly-d27e4a/bsi-ifc4x-specification-models.reinforcing-assembly-d27e4a.json",
+   "type": "application/geo+json",
+   "title": "building-elements: reinforcing-assembly"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.reinforcing-stirrup-eb5c01/bsi-ifc4x-specification-models.reinforcing-stirrup-eb5c01.json",
+   "type": "application/geo+json",
+   "title": "building-elements: reinforcing-stirrup"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.slab-extruded-solid-836dc8/bsi-ifc4x-specification-models.slab-extruded-solid-836dc8.json",
+   "type": "application/geo+json",
+   "title": "building-elements: slab-extruded-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.slab-openings-fc1780/bsi-ifc4x-specification-models.slab-openings-fc1780.json",
+   "type": "application/geo+json",
+   "title": "building-elements: slab-openings"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.wall-extruded-solid-b8a177/bsi-ifc4x-specification-models.wall-extruded-solid-b8a177.json",
+   "type": "application/geo+json",
+   "title": "building-elements: wall-extruded-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.construction-scheduling-task-83a557/bsi-ifc4x-specification-models.construction-scheduling-task-83a557.json",
+   "type": "application/geo+json",
+   "title": "construction-scheduling: construction-scheduling-task"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.mapped-shape-with-multiple-items-96a212/bsi-ifc4x-specification-models.mapped-shape-with-multiple-items-96a212.json",
+   "type": "application/geo+json",
+   "title": "mapped-geometric-shape: mapped-shape-with-multiple-items"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.mapped-shape-with-transformation-a9bb5a/bsi-ifc4x-specification-models.mapped-shape-with-transformation-a9bb5a.json",
+   "type": "application/geo+json",
+   "title": "mapped-geometric-shape: mapped-shape-with-transformation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.mapped-shape-without-transformation-129148/bsi-ifc4x-specification-models.mapped-shape-without-transformation-129148.json",
+   "type": "application/geo+json",
+   "title": "mapped-geometric-shape: mapped-shape-without-transformation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.geographic-referencing-gk-a56450/bsi-ifc4x-specification-models.geographic-referencing-gk-a56450.json",
+   "type": "application/geo+json",
+   "title": "placements-and-gis-referencing: geographic-referencing-gk"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.geographic-referencing-rigid-operation-004f68/bsi-ifc4x-specification-models.geographic-referencing-rigid-operation-004f68.json",
+   "type": "application/geo+json",
+   "title": "placements-and-gis-referencing: geographic-referencing-rigid-operation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.geographic-referencing-utm-a3ef9b/bsi-ifc4x-specification-models.geographic-referencing-utm-a3ef9b.json",
+   "type": "application/geo+json",
+   "title": "placements-and-gis-referencing: geographic-referencing-utm"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.grid-placement-4f80ba/bsi-ifc4x-specification-models.grid-placement-4f80ba.json",
+   "type": "application/geo+json",
+   "title": "placements-and-gis-referencing: grid-placement"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.structural-curve-member-f6b36b/bsi-ifc4x-specification-models.structural-curve-member-f6b36b.json",
+   "type": "application/geo+json",
+   "title": "structural-analysis-model: structural-curve-member"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-curved-i-shape-tessellated-4dac33/bsi-ifc4x-specification-models.beam-curved-i-shape-tessellated-4dac33.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape: beam-curved-i-shape-tessellated"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-straight-i-shape-tessellated-1fa662/bsi-ifc4x-specification-models.beam-straight-i-shape-tessellated-1fa662.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape: beam-straight-i-shape-tessellated"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.column-straight-rectangle-tessellation-9927c1/bsi-ifc4x-specification-models.column-straight-rectangle-tessellation-9927c1.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape: column-straight-rectangle-tessellation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.polygonal-face-tessellation-44b16d/bsi-ifc4x-specification-models.polygonal-face-tessellation-44b16d.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape: polygonal-face-tessellation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.slab-tessellated-unique-vertices-bfa2c8/bsi-ifc4x-specification-models.slab-tessellated-unique-vertices-bfa2c8.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape: slab-tessellated-unique-vertices"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.tessellation-with-blob-texture-2a985e/bsi-ifc4x-specification-models.tessellation-with-blob-texture-2a985e.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape-with-style: tessellation-with-blob-texture"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.tessellation-with-image-texture-c1feea/bsi-ifc4x-specification-models.tessellation-with-image-texture-c1feea.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape-with-style: tessellation-with-image-texture"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.tessellation-with-individual-colors-156b16/bsi-ifc4x-specification-models.tessellation-with-individual-colors-156b16.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape-with-style: tessellation-with-individual-colors"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.tessellation-with-pixel-texture-0d4af3/bsi-ifc4x-specification-models.tessellation-with-pixel-texture-0d4af3.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape-with-style: tessellation-with-pixel-texture"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.curve-parameters-in-degrees-f1be2a/bsi-ifc4x-specification-models.curve-parameters-in-degrees-f1be2a.json",
+   "type": "application/geo+json",
+   "title": "trimmed-curve-parameters: curve-parameters-in-degrees"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.curve-parameters-in-radians-c52861/bsi-ifc4x-specification-models.curve-parameters-in-radians-c52861.json",
+   "type": "application/geo+json",
+   "title": "trimmed-curve-parameters: curve-parameters-in-radians"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-alb000-alignment-with-layout-01ea37/bsi-ifc-validation-rules.pass-alb000-alignment-with-layout-01ea37.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ALB – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-alb002-scenario01-invalid-decomposition-203807/bsi-ifc-validation-rules.fail-alb002-scenario01-invalid-decomposition-203807.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ALB – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-als000-alignment-geometry-3b9ae1/bsi-ifc-validation-rules.pass-als000-alignment-geometry-3b9ae1.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ALS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-als004-scenario01-wrong-representationidentif-818c3f/bsi-ifc-validation-rules.fail-als004-scenario01-wrong-representationidentif-818c3f.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ALS – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ann000-annotations-geometry-present-2be35f/bsi-ifc-validation-rules.pass-ann000-annotations-geometry-present-2be35f.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ANN – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-axg000-axis-geometry-present-bac99d/bsi-ifc-validation-rules.pass-axg000-axis-geometry-present-bac99d.json",
+   "type": "application/geo+json",
+   "title": "Validation rule AXG – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-blt001-scenario01-operation-type-single-swing-6095e8/bsi-ifc-validation-rules.fail-blt001-scenario01-operation-type-single-swing-6095e8.json",
+   "type": "application/geo+json",
+   "title": "Validation rule BLT – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-cls000-classification-present-91afaf/bsi-ifc-validation-rules.pass-cls000-classification-present-91afaf.json",
+   "type": "application/geo+json",
+   "title": "Validation rule CLS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ctx000-alignment-with-styled-material-976311/bsi-ifc-validation-rules.pass-ctx000-alignment-with-styled-material-976311.json",
+   "type": "application/geo+json",
+   "title": "Validation rule CTX – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-doc000-reference-to-project-c5dd48/bsi-ifc-validation-rules.pass-doc000-reference-to-project-c5dd48.json",
+   "type": "application/geo+json",
+   "title": "Validation rule DOC – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-gdp000-grid-placement-present-013513/bsi-ifc-validation-rules.pass-gdp000-grid-placement-present-013513.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GDP – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-grf000-correct-georeferencing-30a2fe/bsi-ifc-validation-rules.pass-grf000-correct-georeferencing-30a2fe.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GRF – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-grf001-ifcmapconversion-ifcmapconversion-non-171f55/bsi-ifc-validation-rules.fail-grf001-ifcmapconversion-ifcmapconversion-non-171f55.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GRF – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-grp000-contains-groups-099cf7/bsi-ifc-validation-rules.pass-grp000-contains-groups-099cf7.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GRP – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-grp001-scenario01-cycle-of-length-1-95d2f5/bsi-ifc-validation-rules.fail-grp001-scenario01-cycle-of-length-1-95d2f5.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GRP – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-lip000-linear-placement-present-2e9a76/bsi-ifc-validation-rules.pass-lip000-linear-placement-present-2e9a76.json",
+   "type": "application/geo+json",
+   "title": "Validation rule LIP – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-lip002-imperial-no-value-fbf860/bsi-ifc-validation-rules.fail-lip002-imperial-no-value-fbf860.json",
+   "type": "application/geo+json",
+   "title": "Validation rule LIP – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-lop000-grid-placement-f980e5/bsi-ifc-validation-rules.pass-lop000-grid-placement-f980e5.json",
+   "type": "application/geo+json",
+   "title": "Validation rule LOP – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-mat000-passing-valid-material-assigned-to-ele-317c36/bsi-ifc-validation-rules.pass-mat000-passing-valid-material-assigned-to-ele-317c36.json",
+   "type": "application/geo+json",
+   "title": "Validation rule MAT – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ojt001-scenario01-userdefined-w-object-type-b3c9fe/bsi-ifc-validation-rules.pass-ojt001-scenario01-userdefined-w-object-type-b3c9fe.json",
+   "type": "application/geo+json",
+   "title": "Validation rule OJT – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-ojt001-scenario01-userdefined-blank-object-ty-cd926e/bsi-ifc-validation-rules.fail-ojt001-scenario01-userdefined-blank-object-ty-cd926e.json",
+   "type": "application/geo+json",
+   "title": "Validation rule OJT – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-pjs000-project-present-bdd005/bsi-ifc-validation-rules.pass-pjs000-project-present-bdd005.json",
+   "type": "application/geo+json",
+   "title": "Validation rule PJS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-por000-passing-valid-port-connectivity-663a77/bsi-ifc-validation-rules.pass-por000-passing-valid-port-connectivity-663a77.json",
+   "type": "application/geo+json",
+   "title": "Validation rule POR – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-qty001-scenario01-invalid-element-quantity-na-54fbf4/bsi-ifc-validation-rules.fail-qty001-scenario01-invalid-element-quantity-na-54fbf4.json",
+   "type": "application/geo+json",
+   "title": "Validation rule QTY – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-sys001-sink-source-f87eb5/bsi-ifc-validation-rules.pass-sys001-sink-source-f87eb5.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SYS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-sys001-scenario01-sourceandsink-sink-bca668/bsi-ifc-validation-rules.fail-sys001-scenario01-sourceandsink-sink-bca668.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SYS – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ver000-owner-with-last-modify-date-7ce738/bsi-ifc-validation-rules.pass-ver000-owner-with-last-modify-date-7ce738.json",
+   "type": "application/geo+json",
+   "title": "Validation rule VER – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-vrt000-virtual-element-present-c1235d/bsi-ifc-validation-rules.pass-vrt000-virtual-element-present-c1235d.json",
+   "type": "application/geo+json",
+   "title": "Validation rule VRT – pass"
+  }
+ ]
+}

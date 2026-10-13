@@ -1,0 +1,11 @@
+Metadata in this catalog (STAC JSON files and items.parquet) written by the catalog maintainer
+is dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+This catalog does NOT contain or redistribute the indexed data files. Every data asset links to
+its upstream publisher, whose license applies (see each Collection's `license`,
+`bim:license_quote` and `bim:attribution`).
+
+Thumbnails (thumbnail.png) are derived from source data whose license permits derivatives
+(bim:license_tier = "open") and are distributed under that same source license, with the
+attribution given in the corresponding Item.

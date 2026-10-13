@@ -1,0 +1,72 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--utility-network-559bec",
+ "title": "building-type: utility-network",
+ "description": "8 items where building-type = utility-network. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "utility-network",
+ "bim:item_count": 8,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-plumbing-25e23c/bsi-certification-datasets.infra-plumbing-25e23c.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Plumbing (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-electrical-3b790d/bsi-certification-datasets.infra-electrical-3b790d.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Electrical (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-plumbing-5ee028/bsi-certification-datasets.infra-plumbing-5ee028.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Plumbing (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-electrical-49d3c9/bsi-certification-datasets.infra-electrical-49d3c9.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Electrical (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-plumbing-f1ed5d/bsi-certification-datasets.infra-plumbing-f1ed5d.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Plumbing (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-certification-datasets/items/bsi-certification-datasets.infra-electrical-1685c2/bsi-certification-datasets.infra-electrical-1685c2.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Electrical (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-plumbing-6a3471/bsi-ifc5-development.infra-plumbing-6a3471.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Plumbing (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-electrical-3581ce/bsi-ifc5-development.infra-electrical-3581ce.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Electrical (IFC5 alpha)"
+  }
+ ]
+}

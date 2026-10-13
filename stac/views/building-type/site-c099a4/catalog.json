@@ -1,0 +1,48 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--site-c099a4",
+ "title": "building-type: site",
+ "description": "4 items where building-type = site. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "site",
+ "bim:item_count": 4,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.6ca2d8/ezjww-jww-samples.6ca2d8.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – 敷地図"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.e6040a/ezjww-jww-samples.e6040a.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – 日影図"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.4b5b57/ezjww-jww-samples.4b5b57.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – 天空率表"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.d62625/ezjww-jww-samples.d62625.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – サンプル"
+  }
+ ]
+}

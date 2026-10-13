@@ -1,0 +1,130 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
+ ],
+ "id": "tum-gni-bim",
+ "title": "TUM GNI BIM Dataset",
+ "description": "224 anonymised student IFC models from TUM Georg Nemetschek Institute (208 single-discipline + 16 paired arch/structure).",
+ "license": "CC-BY-4.0",
+ "keywords": [
+  "student models",
+  "machine learning",
+  "dataset"
+ ],
+ "providers": [
+  {
+   "name": "TUM Georg Nemetschek Institute",
+   "url": "https://github.com/ZijianWang-ZW/GNI-BIM-Dataset",
+   "roles": [
+    "producer",
+    "licensor"
+   ]
+  },
+  {
+   "name": "Zenodo",
+   "url": "https://zenodo.org/records/19722012",
+   "roles": [
+    "host"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     -180,
+     -90,
+     180,
+     90
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2026-04-24T00:00:00Z",
+     "2026-04-24T00:00:00Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "ZIP"
+  ],
+  "bim:building_type": [
+   "mixed"
+  ],
+  "bim:country": [
+   "DE"
+  ],
+  "bim:use_cases": [
+   "dataset",
+   "machine-learning",
+   "multi-discipline"
+  ],
+  "bim:license_tier": [
+   "open"
+  ]
+ },
+ "bim:license_tier": "open",
+ "bim:license_quote": "The contents of this dataset are licensed under the Creative Commons Attribution 4.0 International Public License (CC BY 4.0).",
+ "bim:attribution": "TUM GNI BIM Dataset, DOI 10.5281/zenodo.19722011 (CC BY 4.0)",
+ "bim:origin": {
+  "kind": "url",
+  "base": "https://zenodo.org/records/19722012/files/"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 2,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "sci:doi": "10.5281/zenodo.19722011",
+ "sci:citation": "TUM GNI BIM Dataset, DOI 10.5281/zenodo.19722011 (CC BY 4.0)",
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "CC-BY-4.0"
+  },
+  {
+   "rel": "about",
+   "href": "https://github.com/ZijianWang-ZW/GNI-BIM-Dataset",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "cite-as",
+   "href": "https://doi.org/10.5281/zenodo.19722011"
+  },
+  {
+   "rel": "item",
+   "href": "items/tum-gni-bim.2025-bimfundamentals/tum-gni-bim.2025-bimfundamentals.json",
+   "type": "application/geo+json",
+   "title": "TUM GNI BIM Fundamentals – 208 student IFC models (zip)"
+  },
+  {
+   "rel": "item",
+   "href": "items/tum-gni-bim.2026-bimprojects/tum-gni-bim.2026-bimprojects.json",
+   "type": "application/geo+json",
+   "title": "TUM GNI BIM Projects – 16 IFC (paired arch/structure, zip)"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--usaf-fighter-hangar-b35255",
+ "title": "project: usaf-fighter-hangar",
+ "description": "3 items where project = usaf-fighter-hangar. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "usaf-fighter-hangar",
+ "bim:item_count": 3,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-46b7dd/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-46b7dd.json",
+   "type": "application/geo+json",
+   "title": "USAF Fighter-Hangar – DynamicPrototypes-FighterHangarAMU"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-4e4dd6/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-4e4dd6.json",
+   "type": "application/geo+json",
+   "title": "USAF Fighter-Hangar – DynamicPrototypes-FighterHangarAMU"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.sd-drawings-fight-hangar-e9e397/wbdg-usaf-design-packages.sd-drawings-fight-hangar-e9e397.json",
+   "type": "application/geo+json",
+   "title": "USAF Fighter-Hangar – sd_drawings_fight_hangar"
+  }
+ ]
+}

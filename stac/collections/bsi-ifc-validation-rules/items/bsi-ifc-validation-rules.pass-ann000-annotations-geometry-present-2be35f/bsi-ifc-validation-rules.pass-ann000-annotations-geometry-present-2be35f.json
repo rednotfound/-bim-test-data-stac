@@ -1,0 +1,147 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-ifc-validation-rules.pass-ann000-annotations-geometry-present-2be35f",
+ "geometry": null,
+ "properties": {
+  "title": "Validation rule ANN – pass",
+  "description": "IFC-SPF IFC4X3_ADD2 file from 'buildingSMART ifc-gherkin-rules test files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2023-08-21T16:55:48Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "MIT",
+  "keywords": [
+   "gherkin",
+   "invalid",
+   "rules",
+   "validation",
+   "validation-pass"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4X3_ADD2",
+  "bim:source": "bsi-ifc-validation-rules",
+  "bim:building_type": "component",
+  "bim:use_cases": [
+   "validation",
+   "validation-pass"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+  "bim:attribution": "buildingSMART International, ifc-gherkin-rules (MIT)",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/ANN/ann000/pass-ann000-annotations_geometry_present.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "commit": "893f8275049b8960c3ce0c7379b4b57aefeaa8f9",
+   "path": "test/files/ANN/ann000/pass-ann000-annotations_geometry_present.ifc",
+   "browse_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/ANN/ann000/pass-ann000-annotations_geometry_present.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-07-29"
+  },
+  "bim:thumbnail": "generated",
+  "bim:validation_rule": "ANN",
+  "bim:validation_expected": "pass",
+  "ifc:file_description": [
+   "ViewDefinition [Alignment-basedView]"
+  ],
+  "ifc:view_definition": "Alignment-basedView",
+  "ifc:header_timestamp": "2023-08-21T16:55:48",
+  "ifc:originating_system": "ACCA usBIM.infra - ACCA_IFC.dll - v500",
+  "ifc:schema": "IFC4X3_ADD2",
+  "ifc:products": 3,
+  "ifc:product_types": 1,
+  "ifc:storeys": 0,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:props": 0,
+  "ifc:qsets": 0,
+  "ifc:materials": 1,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 0,
+  "ifc:docs": 0,
+  "ifc:score": 2.4,
+  "ifc:element_counts": {
+   "IfcAnnotation": 3,
+   "IfcBuildingElementProxy": 3
+  },
+  "ifc:project_name": "gZimVh",
+  "ifc:length_unit": "METRE",
+  "ifc:map_conversion": true
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-ifc-validation-rules.pass-ann000-annotations-geometry-present-2be35f.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+   "title": "MIT"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/ANN/ann000/pass-ann000-annotations_geometry_present.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/ANN/ann000/pass-ann000-annotations_geometry_present.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "pass-ann000-annotations_geometry_present.ifc",
+   "file:size": 5873,
+   "file:checksum": "1220da45120b3255dd37e28dc5312943e557135ffbc82a6ad47fa01afa6ea317865a"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "bsi-ifc-validation-rules"
+}

@@ -1,0 +1,36 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--duraark-academic-autodesk-ifc-94e957-e91a5e",
+ "title": "project: duraark-academic-autodesk-ifc-94e957",
+ "description": "2 items where project = duraark-academic-autodesk-ifc-94e957. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "duraark-academic-autodesk-ifc-94e957",
+ "bim:item_count": 2,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.academic-autodesk-advancedsampleproject-arch-310c53/duraark.academic-autodesk-advancedsampleproject-arch-310c53.json",
+   "type": "application/geo+json",
+   "title": "Autodesk academic sample projects – Academic_Autodesk-AdvancedSampleProject_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.academic-autodesk-basicsampleproject-arch-ab5596/duraark.academic-autodesk-basicsampleproject-arch-ab5596.json",
+   "type": "application/geo+json",
+   "title": "Autodesk academic sample projects – Academic_Autodesk-BasicSampleProject_Arch"
+  }
+ ]
+}

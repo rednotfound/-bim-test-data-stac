@@ -1,0 +1,167 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-ifc-validation-rules.pass-gdp000-grid-placement-present-013513",
+ "geometry": null,
+ "properties": {
+  "title": "Validation rule GDP – pass",
+  "description": "IFC-SPF IFC4X3_ADD2 file from 'buildingSMART ifc-gherkin-rules test files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2022-09-16T10:35:07Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "MIT",
+  "keywords": [
+   "gherkin",
+   "invalid",
+   "rules",
+   "validation",
+   "validation-pass"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4X3_ADD2",
+  "bim:source": "bsi-ifc-validation-rules",
+  "bim:building_type": "component",
+  "bim:disciplines": [
+   "structure"
+  ],
+  "bim:use_cases": [
+   "validation",
+   "validation-pass"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+  "bim:attribution": "buildingSMART International, ifc-gherkin-rules (MIT)",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/GDP/gdp000/pass-gdp000-grid_placement_present.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "commit": "893f8275049b8960c3ce0c7379b4b57aefeaa8f9",
+   "path": "test/files/GDP/gdp000/pass-gdp000-grid_placement_present.ifc",
+   "browse_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/GDP/gdp000/pass-gdp000-grid_placement_present.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-07-29"
+  },
+  "bim:thumbnail": "generated",
+  "bim:validation_rule": "GDP",
+  "bim:validation_expected": "pass",
+  "ifc:file_description": [
+   "ViewDefinition[Alignment-basedView]"
+  ],
+  "ifc:view_definition": "Alignment-basedView",
+  "ifc:header_timestamp": "2022-09-16T10:35:07",
+  "ifc:preprocessor_version": "MyToolboxName Version 1.0",
+  "ifc:originating_system": "Acme Inc. - TNT BIM 2025 - 25.1.0.0",
+  "ifc:schema": "IFC4X3_ADD2",
+  "ifc:products": 37,
+  "ifc:product_types": 3,
+  "ifc:storeys": 1,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:props": 0,
+  "ifc:qsets": 0,
+  "ifc:materials": 1,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 0,
+  "ifc:docs": 0,
+  "ifc:score": 4.81,
+  "ifc:disciplines": [
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcColumn": 25,
+   "IfcBeam": 10,
+   "IfcAlignment": 2,
+   "IfcGrid": 1
+  },
+  "ifc:project_name": "Default Project",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:building_names": [
+   "Default Building"
+  ],
+  "ifc:storey_names": [
+   "Ground Floor"
+  ],
+  "ifc:map_conversion": false,
+  "bim:site_location_raw": [
+   54.416667,
+   24.466667
+  ],
+  "bim:location_source": "IfcSite location is a software/test default (synthetic location in buildingSMART validation test files); geometry left null"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-ifc-validation-rules.pass-gdp000-grid-placement-present-013513.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+   "title": "MIT"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/GDP/gdp000/pass-gdp000-grid_placement_present.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/GDP/gdp000/pass-gdp000-grid_placement_present.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "pass-gdp000-grid_placement_present.ifc",
+   "file:size": 31000,
+   "file:checksum": "1220e8d39b3b4bad0635b9714f84304a368a491daeb0b95b2b868bde030543d593ef"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "bsi-ifc-validation-rules"
+}

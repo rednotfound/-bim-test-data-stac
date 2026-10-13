@@ -1,0 +1,36 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--usaf-perm-party-enlisted-dorm-9fcb9a",
+ "title": "project: usaf-perm_party_enlisted_dorm",
+ "description": "2 items where project = usaf-perm_party_enlisted_dorm. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "usaf-perm_party_enlisted_dorm",
+ "bim:item_count": 2,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.dorm-sd-drawings-jun-2019-4966db/wbdg-usaf-design-packages.dorm-sd-drawings-jun-2019-4966db.json",
+   "type": "application/geo+json",
+   "title": "USAF Perm Party Enlisted Dorm – Dorm_SD_Drawings_jun_2019"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.perm-party-enlisted-dorm-dg-jun-2019-ce57a7/wbdg-usaf-design-packages.perm-party-enlisted-dorm-dg-jun-2019-ce57a7.json",
+   "type": "application/geo+json",
+   "title": "USAF Perm Party Enlisted Dorm – perm_party_enlisted_dorm_DG_jun_2019"
+  }
+ ]
+}

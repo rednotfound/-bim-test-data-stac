@@ -1,0 +1,76 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "views",
+ "title": "Views (multi-dimensional index)",
+ "description": "Alternative navigation: the same items grouped by format, version, discipline, building type, country, test use case, license tier, project and size.",
+ "links": [
+  {
+   "rel": "root",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "child",
+   "href": "format/catalog.json",
+   "title": "By file format"
+  },
+  {
+   "rel": "child",
+   "href": "format-family/catalog.json",
+   "title": "By format family (IFC / CAD-2D / PDF / BIM-native / ...)"
+  },
+  {
+   "rel": "child",
+   "href": "format-version/catalog.json",
+   "title": "By format version (IFC schema, DWG release, Revit version, ...)"
+  },
+  {
+   "rel": "child",
+   "href": "discipline/catalog.json",
+   "title": "By discipline"
+  },
+  {
+   "rel": "child",
+   "href": "building-type/catalog.json",
+   "title": "By building / asset type"
+  },
+  {
+   "rel": "child",
+   "href": "country/catalog.json",
+   "title": "By country (ISO 3166-1 alpha-2)"
+  },
+  {
+   "rel": "child",
+   "href": "use-case/catalog.json",
+   "title": "By test use case"
+  },
+  {
+   "rel": "child",
+   "href": "license-tier/catalog.json",
+   "title": "By license tier (open / open-nd / unclear / restricted)"
+  },
+  {
+   "rel": "child",
+   "href": "project/catalog.json",
+   "title": "By project (multi-file sets)"
+  },
+  {
+   "rel": "child",
+   "href": "size-class/catalog.json",
+   "title": "By file size class"
+  },
+  {
+   "rel": "child",
+   "href": "has-thumbnail/catalog.json",
+   "title": "By thumbnail availability"
+  }
+ ]
+}

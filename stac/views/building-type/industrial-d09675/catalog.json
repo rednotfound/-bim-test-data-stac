@@ -1,0 +1,108 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--industrial-d09675",
+ "title": "building-type: industrial",
+ "description": "14 items where building-type = industrial. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "industrial",
+ "bim:item_count": 14,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.mechanical-example-imperial-cfc613/autodesk-acad-samples.mechanical-example-imperial-cfc613.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – mechanical_example-imperial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ces-sd-drawings-eod-bldg-0f86df/wbdg-usaf-design-packages.ces-sd-drawings-eod-bldg-0f86df.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Explosive – CES_sd_drawings_eod_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afdp-ce-explosive-concept-plans-b19506/wbdg-usaf-design-packages.afdp-ce-explosive-concept-plans-b19506.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Explosive – afdp_ce_explosive_concept_plans"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ces-sd-drawings-fac-main-bldg-f89eff/wbdg-usaf-design-packages.ces-sd-drawings-fac-main-bldg-f89eff.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Fac Main – CES_sd_drawings_fac_main_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.af-remotely-piloted-aircraft-squadron-ops-fac-4b9959/wbdg-usaf-design-packages.af-remotely-piloted-aircraft-squadron-ops-fac-4b9959.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Fac Main – af_remotely_piloted_aircraft_squadron_ops_fac"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.concept-plans-fac-maint-8ddb05/wbdg-usaf-design-packages.concept-plans-fac-maint-8ddb05.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Fac Main – concept_plans_fac_maint"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.squad-ops-facility-standard-design-plans-9e3bb2/wbdg-usaf-design-packages.squad-ops-facility-standard-design-plans-9e3bb2.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Fac Main – squad_ops_facility_standard_design_plans"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ces-sd-drawings-pest-bldg-13f725/wbdg-usaf-design-packages.ces-sd-drawings-pest-bldg-13f725.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Pest – CES_sd_drawings_pest_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.cepestmanagementprototype-c5bd68/wbdg-usaf-design-packages.cepestmanagementprototype-c5bd68.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Pest – cepestmanagementprototype"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ces-sd-drawings-warehouse-bldg-16d47f/wbdg-usaf-design-packages.ces-sd-drawings-warehouse-bldg-16d47f.json",
+   "type": "application/geo+json",
+   "title": "USAF Shops-Warehouse – CES_sd_drawings_warehouse_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.concept-plans-shops-warehouse-49dba7/wbdg-usaf-design-packages.concept-plans-shops-warehouse-49dba7.json",
+   "type": "application/geo+json",
+   "title": "USAF Shops-Warehouse – concept_plans_shops_warehouse"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.standard-design-storage-igloo-957b45/wbdg-usaf-design-packages.standard-design-storage-igloo-957b45.json",
+   "type": "application/geo+json",
+   "title": "USAF Storage Igloo – standard_design_storage_igloo"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.standard-design-warehouse-dabs-fev-0ecde0/wbdg-usaf-design-packages.standard-design-warehouse-dabs-fev-0ecde0.json",
+   "type": "application/geo+json",
+   "title": "USAF Warehouse – standard_design_warehouse_dabs_fev"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.standard-design-weapons-release-system-shop-3c6433/wbdg-usaf-design-packages.standard-design-weapons-release-system-shop-3c6433.json",
+   "type": "application/geo+json",
+   "title": "USAF Wrss – standard_design_weapons_release_system_shop"
+  }
+ ]
+}

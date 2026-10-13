@@ -1,0 +1,187 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.kit-smiley-west-arch-f73627",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   13.4,
+   52.516667
+  ]
+ },
+ "bbox": [
+  13.4,
+  52.516667,
+  13.4,
+  52.516667
+ ],
+ "properties": {
+  "title": "KIT Smiley West – KIT_Smiley-West_Arch",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2007-07-05T11:27:12Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-kit-smiley-west-ifc-4d601b",
+  "bim:building_type": "residential",
+  "bim:country": "DE",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/KIT_Smiley-West_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "KIT_Smiley-West/KIT_Smiley-West_Arch.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ArchiCAD 11.00 Release 1 generated IFC file.",
+   "Build Number of the Ifc 2x3 interface: 63049 (14-06-2007)\n"
+  ],
+  "ifc:header_timestamp": "2007-07-05T11:27:12",
+  "ifc:preprocessor_version": "PreProc - EDM 4.5.0033",
+  "ifc:originating_system": "Windows System",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 427,
+  "ifc:product_types": 10,
+  "ifc:storeys": 5,
+  "ifc:spaces": 70,
+  "ifc:zones": 5,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Pset_BuildingCommon",
+   "Pset_BuildingStoreyCommon",
+   "Pset_ColumnCommon",
+   "Pset_DoorCommon",
+   "Pset_ProjectCommon",
+   "Pset_RailingCommon",
+   "Pset_SiteCommon",
+   "Pset_SlabCommon",
+   "Pset_SpaceCommon",
+   "Pset_SpaceThermalRequirements",
+   "Pset_StairCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon"
+  ],
+  "ifc:props": 1655,
+  "ifc:qsets": 282,
+  "ifc:materials": 8,
+  "ifc:classif_refs": 2,
+  "ifc:type_objects": 126,
+  "ifc:docs": 0,
+  "ifc:score": 21.4,
+  "ifc:disciplines": [
+   "architecture",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcWallStandardCase": 135,
+   "IfcDoor": 85,
+   "IfcRailing": 60,
+   "IfcSlab": 60,
+   "IfcWindow": 40,
+   "IfcStair": 15,
+   "IfcVirtualElement": 15,
+   "IfcColumn": 10,
+   "IfcWall": 6,
+   "IfcBeam": 1
+  },
+  "ifc:project_name": "Project-Smiley-West",
+  "ifc:length_unit": "METRE",
+  "ifc:building_names": [
+   "Gebaeude-Smiley-West"
+  ],
+  "ifc:storey_names": [
+   "KG",
+   "EG",
+   "1.OG",
+   "2.OG",
+   "Dach"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.kit-smiley-west-arch-f73627.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/KIT_Smiley-West_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "KIT_Smiley-West_Arch.ifc",
+   "file:size": 612512,
+   "file:checksum": "1220808e793b8094e17314d1c95dbad286f0217f5e3690df8425cc9d1687118ebf53",
+   "bim:archive_member": "KIT_Smiley-West/KIT_Smiley-West_Arch.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 3371711,
+   "bim:archive_member_checksum": "1220a97ea1023e86b8fcd988db8099ceae42aa72037755687897e6786f60997777aa"
+  }
+ },
+ "collection": "duraark"
+}

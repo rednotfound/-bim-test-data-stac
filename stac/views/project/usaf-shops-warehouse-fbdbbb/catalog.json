@@ -1,0 +1,36 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--usaf-shops-warehouse-fbdbbb",
+ "title": "project: usaf-shops-warehouse",
+ "description": "2 items where project = usaf-shops-warehouse. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "usaf-shops-warehouse",
+ "bim:item_count": 2,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ces-sd-drawings-warehouse-bldg-16d47f/wbdg-usaf-design-packages.ces-sd-drawings-warehouse-bldg-16d47f.json",
+   "type": "application/geo+json",
+   "title": "USAF Shops-Warehouse – CES_sd_drawings_warehouse_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.concept-plans-shops-warehouse-49dba7/wbdg-usaf-design-packages.concept-plans-shops-warehouse-49dba7.json",
+   "type": "application/geo+json",
+   "title": "USAF Shops-Warehouse – concept_plans_shops_warehouse"
+  }
+ ]
+}

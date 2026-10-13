@@ -1,0 +1,78 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--duraark-ltu-a-house-2014-09-25-ifc-05915-6dba38",
+ "title": "project: duraark-ltu-a-house-2014-09-25-ifc-05915d",
+ "description": "9 items where project = duraark-ltu-a-house-2014-09-25-ifc-05915d. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "duraark-ltu-a-house-2014-09-25-ifc-05915d",
+ "bim:item_count": 9,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-air-c8f0f3/duraark.ltu-a-house-air-c8f0f3.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Air"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-cooling-afa549/duraark.ltu-a-house-cooling-afa549.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Cooling"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-ducting-0034bb/duraark.ltu-a-house-ducting-0034bb.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Ducting"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-heating-a133cd/duraark.ltu-a-house-heating-a133cd.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Heating"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-k-modell-1c28a0/duraark.ltu-a-house-k-modell-1c28a0.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_K-modell"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-plumbing-561157/duraark.ltu-a-house-plumbing-561157.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Plumbing"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-sanitation-883c45/duraark.ltu-a-house-sanitation-883c45.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Sanitation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-voids-583df6/duraark.ltu-a-house-voids-583df6.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_VOIDS"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-redesign-7862bb/duraark.ltu-a-house-redesign-7862bb.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_redesign"
+  }
+ ]
+}

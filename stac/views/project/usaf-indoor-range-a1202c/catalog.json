@@ -1,0 +1,48 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--usaf-indoor-range-a1202c",
+ "title": "project: usaf-indoor-range",
+ "description": "4 items where project = usaf-indoor-range. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "usaf-indoor-range",
+ "bim:item_count": 4,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.indoorsmallarmsfiringrangemodel-111714-bd810e/wbdg-usaf-design-packages.indoorsmallarmsfiringrangemodel-111714-bd810e.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – IndoorSmallArmsFiringRangeModel_111714"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.indoorsmallarmsrangedrawings-ba9623/wbdg-usaf-design-packages.indoorsmallarmsrangedrawings-ba9623.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – IndoorSmallArmsRangeDrawings"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.indoor-small-arms-range-drawings-2018-c6dc10/wbdg-usaf-design-packages.indoor-small-arms-range-drawings-2018-c6dc10.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – Indoor_Small_Arms_Range_Drawings_2018"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.standard-design-indoor-small-arms-firing-range-gui-4c90ab/wbdg-usaf-design-packages.standard-design-indoor-small-arms-firing-range-gui-4c90ab.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – standard_design_indoor_small_arms_firing_range_guide_2018"
+  }
+ ]
+}

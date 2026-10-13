@@ -1,0 +1,60 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "use-case--dummy-data-b3ff6b",
+ "title": "use-case: dummy-data",
+ "description": "6 items where use-case = dummy-data. Items are shared with their source collections.",
+ "bim:dimension": "use-case",
+ "bim:value": "dummy-data",
+ "bim:item_count": 6,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.advancedproject-e6d607/bim-whale-samples.advancedproject-e6d607.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – AdvancedProject (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.basichouse-595989/bim-whale-samples.basichouse-595989.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – BasicHouse (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.largebuilding-6c3acb/bim-whale-samples.largebuilding-6c3acb.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – LargeBuilding (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.manysimplewalls-717e3c/bim-whale-samples.manysimplewalls-717e3c.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – ManySimpleWalls (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.simplewall-20f2db/bim-whale-samples.simplewall-20f2db.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – SimpleWall (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bim-whale-samples/items/bim-whale-samples.tallbuilding-1f7535/bim-whale-samples.tallbuilding-1f7535.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – TallBuilding (IFC2X3)"
+  }
+ ]
+}

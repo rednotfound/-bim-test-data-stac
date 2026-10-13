@@ -1,0 +1,193 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "wbdg-usaf-design-packages.structural-vq-model-v1-0-29062c",
+ "geometry": null,
+ "properties": {
+  "title": "USAF Visiting Quarters – Structural VQ - Model v1.0",
+  "description": "RVT Revit 2011 file from 'WBDG US Air Force design packages (AFDP)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-13T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-US-Government-Public-Domain",
+  "keywords": [
+   "Revit",
+   "USAF",
+   "public domain",
+   "real-project",
+   "revit-native",
+   "sheet set"
+  ],
+  "providers": [
+   {
+    "name": "US Air Force Civil Engineer Center (AFCEC)",
+    "url": "https://www.wbdg.org/ffc/af-afcec",
+    "roles": [
+     "producer"
+    ]
+   },
+   {
+    "name": "Whole Building Design Guide (WBDG), NIBS",
+    "url": "https://www.wbdg.org",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "RVT",
+  "bim:format_family": "BIM-native",
+  "bim:format_version": "Revit 2011",
+  "bim:source": "wbdg-usaf-design-packages",
+  "bim:project": "usaf-visiting_quarters",
+  "bim:building_type": "lodging",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "structure"
+  ],
+  "bim:use_cases": [
+   "revit-native",
+   "real-project"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://www.usa.gov/government-copyright",
+  "bim:attribution": "US Air Force Civil Engineer Center, via WBDG (wbdg.org)",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "retrieval date",
+  "bim:provenance": {
+   "upstream_href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/Structural%20VQ%20-%20Model%20v1.0.rvt",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "not applicable",
+  "rvt:build": "20100903_2115(x64)",
+  "rvt:revit_version": "2011",
+  "rvt:revit_version_estimated_from_build": true,
+  "rvt:worksharing": "Central"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./wbdg-usaf-design-packages.structural-vq-model-v1-0-29062c.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.usa.gov/government-copyright",
+   "title": "LicenseRef-US-Government-Public-Domain"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.wbdg.org/ffc/af-afcec/design-packages",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.architectural-vq-model-v1-0-ff310c/wbdg-usaf-design-packages.architectural-vq-model-v1-0-ff310c.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-visiting_quarters)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.architecturalsheets-v1-0-1d47a7/wbdg-usaf-design-packages.architecturalsheets-v1-0-1d47a7.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-visiting_quarters)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.e-specs-database-v1-0-1440ef/wbdg-usaf-design-packages.e-specs-database-v1-0-1440ef.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-visiting_quarters)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.electrical-vq-model-v1-0-ff7d45/wbdg-usaf-design-packages.electrical-vq-model-v1-0-ff7d45.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-visiting_quarters)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.electricalsheets-v1-0-3f83bd/wbdg-usaf-design-packages.electricalsheets-v1-0-3f83bd.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-visiting_quarters)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.fireprotectionsheets-v1-0-c038d0/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-c038d0.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-visiting_quarters)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.mechanical-vq-model-v1-0-0d48da/wbdg-usaf-design-packages.mechanical-vq-model-v1-0-0d48da.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-visiting_quarters)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.mechanicalsheets-v1-0-6fb8df/wbdg-usaf-design-packages.mechanicalsheets-v1-0-6fb8df.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-visiting_quarters)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.pdf-version-of-all-sheets-v1-0-5cea64/wbdg-usaf-design-packages.pdf-version-of-all-sheets-v1-0-5cea64.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-visiting_quarters)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.plumbing-vq-model-v1-0-e4ca9b/wbdg-usaf-design-packages.plumbing-vq-model-v1-0-e4ca9b.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-visiting_quarters)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.plumbingsheets-v1-0-2c0b7c/wbdg-usaf-design-packages.plumbingsheets-v1-0-2c0b7c.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-visiting_quarters)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.structuralsheets-v1-0-0d0ed6/wbdg-usaf-design-packages.structuralsheets-v1-0-0d0ed6.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-visiting_quarters)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.visitors-quarters-bim-manual-v1-0-d81ef1/wbdg-usaf-design-packages.visitors-quarters-bim-manual-v1-0-d81ef1.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-visiting_quarters)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/Structural%20VQ%20-%20Model%20v1.0.rvt",
+   "type": "application/octet-stream",
+   "roles": [
+    "data"
+   ],
+   "title": "Structural VQ - Model v1.0.rvt",
+   "file:size": 2134016,
+   "file:checksum": "12200c18ccc4d550547e9a99c9f1655dd3d4fcb0dd3e9374b950ea18b2316e6c5275"
+  }
+ },
+ "collection": "wbdg-usaf-design-packages"
+}

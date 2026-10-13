@@ -1,0 +1,102 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "format-version--ifc-spf-ifc2x2-final-99d331",
+ "title": "format-version: IFC-SPF IFC2X2_FINAL",
+ "description": "13 items where format-version = IFC-SPF IFC2X2_FINAL. Items are shared with their source collections.",
+ "bim:dimension": "format-version",
+ "bim:value": "IFC-SPF IFC2X2_FINAL",
+ "bim:item_count": 13,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bard-arch-226c60/duraark.sgd-bard-arch-226c60.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg BARD – SGD_BARD_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bodo-arch-1-069842/duraark.sgd-bodo-arch-1-069842.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Arch-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bodo-arch-2-b2fb79/duraark.sgd-bodo-arch-2-b2fb79.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Arch-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bodo-eng-hvac-plumbing-754023/duraark.sgd-bodo-eng-hvac-plumbing-754023.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Eng-HVAC-Plumbing"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bodo-eng-hvac-ventilation-4f8e07/duraark.sgd-bodo-eng-hvac-ventilation-4f8e07.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-hitos-arch-0b5720/duraark.sgd-hitos-arch-0b5720.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg HiTOS – SGD_HiTOS_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-arch-1-96c32c/duraark.sgd-munkerud-arch-1-96c32c.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Arch-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-arch-2-8de680/duraark.sgd-munkerud-arch-2-8de680.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Arch-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-arch-3-e03ec0/duraark.sgd-munkerud-arch-3-e03ec0.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Arch-3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-eng-ele-075788/duraark.sgd-munkerud-eng-ele-075788.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Eng-ELE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-eng-hvac-sanitary-c31506/duraark.sgd-munkerud-eng-hvac-sanitary-c31506.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Eng-HVAC-Sanitary"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-eng-hvac-ventilation-ed8922/duraark.sgd-munkerud-eng-hvac-ventilation-ed8922.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-merged-09f087/duraark.sgd-munkerud-merged-09f087.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Merged"
+  }
+ ]
+}

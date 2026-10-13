@@ -1,0 +1,116 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-ids.ids-wooden-windows-f1749a",
+ "geometry": null,
+ "properties": {
+  "title": "IDS example – IDS_wooden-windows",
+  "description": "IDS IDS 1.0 file from 'buildingSMART IDS examples'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-09-25T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "CC-BY-ND-4.0",
+  "keywords": [
+   "IDS",
+   "future-standards",
+   "ids",
+   "model checking",
+   "requirements"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IDS",
+  "bim:format_family": "openBIM-exchange",
+  "bim:format_version": "IDS 1.0",
+  "bim:source": "bsi-ids",
+  "bim:use_cases": [
+   "ids",
+   "future-standards"
+  ],
+  "bim:license_tier": "open-nd",
+  "bim:license_url": "https://creativecommons.org/licenses/by-nd/4.0/",
+  "bim:attribution": "buildingSMART International, IDS (CC BY-ND 4.0)",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "upstream repository commit date",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/IDS/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_wooden-windows.ids",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/IDS",
+   "commit": "870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3",
+   "path": "Documentation/Examples/IDS_wooden-windows.ids",
+   "browse_url": "https://github.com/buildingSMART/IDS/blob/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_wooden-windows.ids",
+   "git_lfs": false,
+   "commit_date": "2026-09-25"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ids:namespace": "http://standards.buildingsmart.org/IDS",
+  "ids:specifications": 6,
+  "ids:ifc_versions": [
+   "IFC2X3"
+  ],
+  "ids:title": "Wooden Windows",
+  "ids:date": "2022-02-08"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-ids.ids-wooden-windows-f1749a.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by-nd/4.0/",
+   "title": "CC-BY-ND-4.0"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/IDS",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/IDS/blob/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_wooden-windows.ids",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/IDS/870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3/Documentation/Examples/IDS_wooden-windows.ids",
+   "type": "application/xml",
+   "roles": [
+    "data"
+   ],
+   "title": "IDS_wooden-windows.ids",
+   "file:size": 13132,
+   "file:checksum": "12208a0485bfb2cdf504b9bac88345e6ce2f5c55e10334fdd98af236038a5bb99bb0"
+  }
+ },
+ "collection": "bsi-ids"
+}

@@ -1,0 +1,291 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "view-project",
+ "title": "By project (multi-file sets)",
+ "description": "Items grouped by project.",
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "child",
+   "href": "blcj-s1000-5e742f/catalog.json",
+   "title": "blcj-s1000 (6)"
+  },
+  {
+   "rel": "child",
+   "href": "bsi-simple-scene-a2fd42/catalog.json",
+   "title": "bsi-simple-scene (40)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-academic-autodesk-ifc-94e957-e91a5e/catalog.json",
+   "title": "duraark-academic-autodesk-ifc-94e957 (2)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-autodesk-210-king-ifc-a9c615-f3e1a0/catalog.json",
+   "title": "duraark-autodesk-210-king-ifc-a9c615 (1)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-fojab-landsarkivet-ifc-e29c4a-c0ad3c/catalog.json",
+   "title": "duraark-fojab-landsarkivet-ifc-e29c4a (1)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-kit-institute-ifc-3269bd-f4ffc3/catalog.json",
+   "title": "duraark-kit-institute-ifc-3269bd (1)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-kit-smiley-west-ifc-4d601b-001bf4/catalog.json",
+   "title": "duraark-kit-smiley-west-ifc-4d601b (1)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-ltu-a-house-2014-09-25-ifc-05915-6dba38/catalog.json",
+   "title": "duraark-ltu-a-house-2014-09-25-ifc-05915d (9)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-nbs-lakeside-ifc-4e0964-b2970c/catalog.json",
+   "title": "duraark-nbs-lakeside-ifc-4e0964 (5)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-nbu-duplex-ifc-7cb23d-e88500/catalog.json",
+   "title": "duraark-nbu-duplex-ifc-7cb23d (12)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-nbu-medicalclinic-ifc-8b1454-c2c1b0/catalog.json",
+   "title": "duraark-nbu-medicalclinic-ifc-8b1454 (8)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-sgd-bard-ifc-16dc19-9d6854/catalog.json",
+   "title": "duraark-sgd-bard-ifc-16dc19 (2)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-sgd-blueberry-ifc-0e350a-cecf8c/catalog.json",
+   "title": "duraark-sgd-blueberry-ifc-0e350a (10)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-sgd-bodo-ifc-1e16ec-554602/catalog.json",
+   "title": "duraark-sgd-bodo-ifc-1e16ec (5)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-sgd-duplex-ifc-5c6343-1d46d3/catalog.json",
+   "title": "duraark-sgd-duplex-ifc-5c6343 (2)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-sgd-hitos-ifc-83bfb6-4e9510/catalog.json",
+   "title": "duraark-sgd-hitos-ifc-83bfb6 (3)"
+  },
+  {
+   "rel": "child",
+   "href": "duraark-sgd-munkerud-ifc-90d199-17e3ea/catalog.json",
+   "title": "duraark-sgd-munkerud-ifc-90d199 (7)"
+  },
+  {
+   "rel": "child",
+   "href": "ifc5-hero-model-72c2ad/catalog.json",
+   "title": "ifc5-hero-model (2)"
+  },
+  {
+   "rel": "child",
+   "href": "jwcad-samples-23be83/catalog.json",
+   "title": "jwcad-samples (8)"
+  },
+  {
+   "rel": "child",
+   "href": "klassiqua-e10ac2/catalog.json",
+   "title": "klassiqua (3)"
+  },
+  {
+   "rel": "child",
+   "href": "libredwg-versions-591ac5/catalog.json",
+   "title": "libredwg-versions (22)"
+  },
+  {
+   "rel": "child",
+   "href": "nibs-clinic-90a1ab/catalog.json",
+   "title": "nibs-clinic (7)"
+  },
+  {
+   "rel": "child",
+   "href": "nibs-duplex-7189a8/catalog.json",
+   "title": "nibs-duplex (7)"
+  },
+  {
+   "rel": "child",
+   "href": "schependomlaan-907384/catalog.json",
+   "title": "schependomlaan (74)"
+  },
+  {
+   "rel": "child",
+   "href": "tuwien-escape-routes-d9d2cd/catalog.json",
+   "title": "tuwien-escape-routes (5)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-asos-dg-851674/catalog.json",
+   "title": "usaf-asos_dg (1)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-ce-admin-3642c6/catalog.json",
+   "title": "usaf-ce_admin (3)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-ce-explosive-30f76c/catalog.json",
+   "title": "usaf-ce_explosive (2)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-ce-fac-main-7c0baa/catalog.json",
+   "title": "usaf-ce_fac_main (4)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-ce-pest-8c0aef/catalog.json",
+   "title": "usaf-ce_pest (2)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-confinement-98a6f4/catalog.json",
+   "title": "usaf-confinement (2)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-enlisted-dorm-cb7cc8/catalog.json",
+   "title": "usaf-enlisted_dorm (15)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-entry-control-f1393c/catalog.json",
+   "title": "usaf-entry_control (2)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-fighter-hangar-b35255/catalog.json",
+   "title": "usaf-fighter-hangar (3)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-fire-station-62eb6d/catalog.json",
+   "title": "usaf-fire_station (3)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-fitness-center-b9e2f1/catalog.json",
+   "title": "usaf-fitness_center (8)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-indoor-range-a1202c/catalog.json",
+   "title": "usaf-indoor-range (4)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-kennel-704446/catalog.json",
+   "title": "usaf-kennel (7)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-laccch-4a9e13/catalog.json",
+   "title": "usaf-laccch (4)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-laft-b92a71/catalog.json",
+   "title": "usaf-laft (2)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-laftc-2de5e5/catalog.json",
+   "title": "usaf-laftc (2)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-lagmh-4790b8/catalog.json",
+   "title": "usaf-lagmh (5)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-laofs-977837/catalog.json",
+   "title": "usaf-laofs (2)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-perm-party-enlisted-dorm-9fcb9a/catalog.json",
+   "title": "usaf-perm_party_enlisted_dorm (2)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-sfo-a5421c/catalog.json",
+   "title": "usaf-sfo (3)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-shops-warehouse-fbdbbb/catalog.json",
+   "title": "usaf-shops-warehouse (2)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-storage-igloo-4ae147/catalog.json",
+   "title": "usaf-storage_igloo (1)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-template-217b1f/catalog.json",
+   "title": "usaf-template (1)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-thule-dorm-eed959/catalog.json",
+   "title": "usaf-thule_dorm (22)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-visiting-quarters-a86228/catalog.json",
+   "title": "usaf-visiting_quarters (14)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-warehouse-e66b90/catalog.json",
+   "title": "usaf-warehouse (1)"
+  },
+  {
+   "rel": "child",
+   "href": "usaf-wrss-e2024b/catalog.json",
+   "title": "usaf-wrss (1)"
+  },
+  {
+   "rel": "child",
+   "href": "va-cad-details-3a8e5c/catalog.json",
+   "title": "va-cad-details (18)"
+  },
+  {
+   "rel": "child",
+   "href": "yousheng-revit-ifc4-534f37/catalog.json",
+   "title": "yousheng-revit-ifc4 (2)"
+  }
+ ]
+}

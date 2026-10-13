@@ -1,0 +1,214 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.sgd-blueberry-arch-2-e21292",
+ "geometry": null,
+ "properties": {
+  "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-2",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2009-08-12T11:19:09Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-sgd-blueberry-ifc-0e350a",
+  "bim:building_type": "residential",
+  "bim:country": "NO",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_Blueberry_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "SGD_Blueberry/SGD_Blueberry_Arch-2.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "IFC2X3"
+  ],
+  "ifc:header_timestamp": "2009-08-12T11:19:09",
+  "ifc:preprocessor_version": "DDS-IFC v2.0",
+  "ifc:originating_system": "DDS-CAD Architect Version 6.5 Release build 12/8-2009",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 278,
+  "ifc:product_types": 7,
+  "ifc:storeys": 3,
+  "ifc:spaces": 15,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Column-2",
+   "PsetProxyDDS-CAD_Architect",
+   "Pset_BeamCommon",
+   "Pset_DoorCommon",
+   "Pset_SlabCommon",
+   "Pset_SpaceCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon"
+  ],
+  "ifc:props": 194,
+  "ifc:qsets": 201,
+  "ifc:materials": 46,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 57,
+  "ifc:docs": 0,
+  "ifc:score": 17.27,
+  "ifc:disciplines": [
+   "architecture",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcBuildingElementProxy": 118,
+   "IfcWallStandardCase": 89,
+   "IfcSlab": 28,
+   "IfcDoor": 15,
+   "IfcWindow": 14,
+   "IfcColumn": 8,
+   "IfcBeam": 6
+  },
+  "ifc:project_name": "DDS Project",
+  "ifc:length_unit": "METRE",
+  "ifc:storey_names": [
+   "2",
+   "1",
+   "0"
+  ],
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.sgd-blueberry-arch-2-e21292.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-arch-1-c3dc41/duraark.sgd-blueberry-arch-1-c3dc41.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-arch-3-4a2704/duraark.sgd-blueberry-arch-3-4a2704.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-eng-hvac-plumbing-1-d25031/duraark.sgd-blueberry-eng-hvac-plumbing-1-d25031.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-eng-hvac-plumbing-2-40a8fe/duraark.sgd-blueberry-eng-hvac-plumbing-2-40a8fe.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-eng-hvac-ventilation-e91fcc/duraark.sgd-blueberry-eng-hvac-ventilation-e91fcc.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-eng-hvac-c59679/duraark.sgd-blueberry-eng-hvac-c59679.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-merged-plumbing-1-fd02c1/duraark.sgd-blueberry-merged-plumbing-1-fd02c1.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-merged-plumbing-2-851723/duraark.sgd-blueberry-merged-plumbing-2-851723.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-blueberry-merged-ventilation-bb05a3/duraark.sgd-blueberry-merged-ventilation-bb05a3.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-blueberry-ifc-0e350a)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_Blueberry_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "SGD_Blueberry_Arch-2.ifc",
+   "file:size": 8589274,
+   "file:checksum": "122018a8481e8324c7bc115cc1368f52df213c7abe96fb498b8a1d11d985931e2287",
+   "bim:archive_member": "SGD_Blueberry/SGD_Blueberry_Arch-2.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 5742946,
+   "bim:archive_member_checksum": "1220b793acf811f8f444c5296cd79c53f81bddb9fe6d8d4fccb7c3e34c7933344442"
+  }
+ },
+ "collection": "duraark"
+}

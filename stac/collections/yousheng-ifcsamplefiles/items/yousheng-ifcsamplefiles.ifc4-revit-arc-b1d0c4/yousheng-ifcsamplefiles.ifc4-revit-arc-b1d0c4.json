@@ -1,0 +1,227 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "yousheng-ifcsamplefiles.ifc4-revit-arc-b1d0c4",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -71.0335,
+   42.213
+  ]
+ },
+ "bbox": [
+  -71.0335,
+  42.213,
+  -71.0335,
+  42.213
+ ],
+ "properties": {
+  "title": "Revit sample project – architecture (IFC4)",
+  "description": "IFC-SPF IFC4 file from 'youshengCode IfcSampleFiles'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2021-03-02T22:49:04Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "MEP",
+   "Revit export",
+   "data-rich",
+   "multi-discipline"
+  ],
+  "providers": [
+   {
+    "name": "youshengCode",
+    "url": "https://github.com/youshengCode/IfcSampleFiles",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4",
+  "bim:source": "yousheng-ifcsamplefiles",
+  "bim:project": "yousheng-revit-ifc4",
+  "bim:building_type": "office",
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:use_cases": [
+   "data-rich",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://github.com/youshengCode/IfcSampleFiles",
+  "bim:attribution": "youshengCode/IfcSampleFiles",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/youshengCode/IfcSampleFiles/7e6927982d7e57b29409bb631ef93d6770ef0665/Ifc4_Revit_ARC.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/youshengCode/IfcSampleFiles",
+   "commit": "7e6927982d7e57b29409bb631ef93d6770ef0665",
+   "path": "Ifc4_Revit_ARC.ifc",
+   "browse_url": "https://github.com/youshengCode/IfcSampleFiles/blob/7e6927982d7e57b29409bb631ef93d6770ef0665/Ifc4_Revit_ARC.ifc",
+   "git_lfs": false,
+   "commit_date": "2021-08-24"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [ReferenceView_V1.2]"
+  ],
+  "ifc:view_definition": "ReferenceView_V1.2",
+  "ifc:header_timestamp": "2021-03-02T22:49:04",
+  "ifc:preprocessor_version": "The EXPRESS Data Manager Version 5.02.0100.07 : 28 Aug 2013",
+  "ifc:originating_system": "21.0.0.383 - Exporter 21.0.0.383 - Alternate UI 21.0.0.383",
+  "ifc:schema": "IFC4",
+  "ifc:products": 514,
+  "ifc:product_types": 19,
+  "ifc:storeys": 6,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 1,
+  "ifc:pset_names": [
+   "Pset_BuildingCommon",
+   "Pset_BuildingElementProxyCommon",
+   "Pset_BuildingStoreyCommon",
+   "Pset_BuildingSystemCommon",
+   "Pset_ColumnCommon",
+   "Pset_CoveringCommon",
+   "Pset_CurtainWallCommon",
+   "Pset_DoorCommon",
+   "Pset_ElectricalDeviceCommon",
+   "Pset_EnvironmentalImpactIndicators",
+   "Pset_FurnitureTypeCommon",
+   "Pset_LightFixtureTypeCommon",
+   "Pset_ManufacturerTypeInformation",
+   "Pset_MemberCommon",
+   "Pset_OpeningElementCommon",
+   "Pset_PlateCommon",
+   "Pset_RailingCommon",
+   "Pset_ReinforcementBarPitchOfColumn",
+   "Pset_ReinforcementBarPitchOfSlab",
+   "Pset_ReinforcementBarPitchOfWall",
+   "Pset_RoofCommon",
+   "Pset_SiteCommon",
+   "Pset_SlabCommon",
+   "Pset_StairCommon",
+   "Pset_StairFlightCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon"
+  ],
+  "ifc:props": 2614,
+  "ifc:qsets": 311,
+  "ifc:materials": 107,
+  "ifc:classif_refs": 15,
+  "ifc:type_objects": 215,
+  "ifc:docs": 0,
+  "ifc:score": 22.47,
+  "ifc:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcMember": 144,
+   "IfcBuildingElementProxy": 66,
+   "IfcDistributionPort": 60,
+   "IfcWall": 47,
+   "IfcPlate": 44,
+   "IfcSlab": 35,
+   "IfcFurniture": 32,
+   "IfcWindow": 17,
+   "IfcDoor": 16,
+   "IfcRailing": 10,
+   "IfcLightFixture": 10,
+   "IfcCurtainWall": 9,
+   "IfcFlowTerminal": 9,
+   "IfcColumn": 3,
+   "IfcStair": 3,
+   "IfcSystemFurnitureElement": 3,
+   "IfcCovering": 2,
+   "IfcRoof": 2,
+   "IfcStairFlight": 2
+  },
+  "ifc:classification_systems": [
+   "Uniformat"
+  ],
+  "ifc:project_name": "001-00",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:building_names": [
+   "Samuel Macalister sample house design"
+  ],
+  "ifc:storey_names": [
+   "Foundation",
+   "Level 1 Living Rm.",
+   "Level 1",
+   "Ceiling",
+   "Level 2",
+   "Roof Line"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)",
+  "bim:site_elevation": 0.0
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./yousheng-ifcsamplefiles.ifc4-revit-arc-b1d0c4.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/youshengCode/IfcSampleFiles",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/youshengCode/IfcSampleFiles",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/youshengCode/IfcSampleFiles/blob/7e6927982d7e57b29409bb631ef93d6770ef0665/Ifc4_Revit_ARC.ifc",
+   "title": "Upstream file (pinned commit)"
+  },
+  {
+   "rel": "related",
+   "href": "../yousheng-ifcsamplefiles.ifc4-revit-mep-aed5a4/yousheng-ifcsamplefiles.ifc4-revit-mep-aed5a4.json",
+   "type": "application/geo+json",
+   "title": "Same project (yousheng-revit-ifc4)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/youshengCode/IfcSampleFiles/7e6927982d7e57b29409bb631ef93d6770ef0665/Ifc4_Revit_ARC.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "Ifc4_Revit_ARC.ifc",
+   "file:size": 13646137,
+   "file:checksum": "1220c4dd3612f126a0ca5a57f0e75d28f3e5da62751def85a452d849883c2892b518"
+  }
+ },
+ "collection": "yousheng-ifcsamplefiles"
+}

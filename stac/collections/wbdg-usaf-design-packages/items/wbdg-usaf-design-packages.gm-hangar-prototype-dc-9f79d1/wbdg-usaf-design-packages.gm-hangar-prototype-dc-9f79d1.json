@@ -1,0 +1,137 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "wbdg-usaf-design-packages.gm-hangar-prototype-dc-9f79d1",
+ "geometry": null,
+ "properties": {
+  "title": "USAF Lagmh – GM_Hangar_Prototype_DC",
+  "description": "RVT Revit 2014 file from 'WBDG US Air Force design packages (AFDP)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-13T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-US-Government-Public-Domain",
+  "keywords": [
+   "Revit",
+   "USAF",
+   "public domain",
+   "real-project",
+   "revit-native",
+   "sheet set"
+  ],
+  "providers": [
+   {
+    "name": "US Air Force Civil Engineer Center (AFCEC)",
+    "url": "https://www.wbdg.org/ffc/af-afcec",
+    "roles": [
+     "producer"
+    ]
+   },
+   {
+    "name": "Whole Building Design Guide (WBDG), NIBS",
+    "url": "https://www.wbdg.org",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "RVT",
+  "bim:format_family": "BIM-native",
+  "bim:format_version": "Revit 2014",
+  "bim:source": "wbdg-usaf-design-packages",
+  "bim:project": "usaf-lagmh",
+  "bim:building_type": "aviation",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "revit-native",
+   "real-project"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://www.usa.gov/government-copyright",
+  "bim:attribution": "US Air Force Civil Engineer Center, via WBDG (wbdg.org)",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "retrieval date",
+  "bim:provenance": {
+   "upstream_href": "https://www.wbdg.org/FFC/AF/AFDP/LAGMH/GM_Hangar_Prototype_DC.rvt",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "not applicable",
+  "rvt:build": "20130308_1515(x64)",
+  "rvt:revit_version": "2014"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./wbdg-usaf-design-packages.gm-hangar-prototype-dc-9f79d1.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.usa.gov/government-copyright",
+   "title": "LicenseRef-US-Government-Public-Domain"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.wbdg.org/ffc/af-afcec/design-packages",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.gm-hangarprgmingworksheet-16c205/wbdg-usaf-design-packages.gm-hangarprgmingworksheet-16c205.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-lagmh)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.gm-hangar-dc-9a3200/wbdg-usaf-design-packages.gm-hangar-dc-9a3200.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-lagmh)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.gm-hangar-prototype-dc-ea5bea/wbdg-usaf-design-packages.gm-hangar-prototype-dc-ea5bea.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-lagmh)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.milconsust-leed09hpsb-gm-pe-2c7d7a/wbdg-usaf-design-packages.milconsust-leed09hpsb-gm-pe-2c7d7a.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-lagmh)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://www.wbdg.org/FFC/AF/AFDP/LAGMH/GM_Hangar_Prototype_DC.rvt",
+   "type": "application/octet-stream",
+   "roles": [
+    "data"
+   ],
+   "title": "GM_Hangar_Prototype_DC.rvt",
+   "file:size": 69427200,
+   "file:checksum": "1220837689d61d2ff7f22847ab8a820a0684954479b14000d7d77179eaf7d8e77b25"
+  }
+ },
+ "collection": "wbdg-usaf-design-packages"
+}

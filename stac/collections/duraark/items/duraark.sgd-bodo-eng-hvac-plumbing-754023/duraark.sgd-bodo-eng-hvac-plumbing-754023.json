@@ -1,0 +1,141 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.sgd-bodo-eng-hvac-plumbing-754023",
+ "geometry": null,
+ "properties": {
+  "title": "Statsbygg Bodø – SGD_BODO_Eng-HVAC-Plumbing",
+  "description": "IFC-SPF IFC2X2_FINAL file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2005-04-01T14:30:13Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X2_FINAL",
+  "bim:source": "duraark",
+  "bim:project": "duraark-sgd-bodo-ifc-1e16ec",
+  "bim:building_type": "public",
+  "bim:country": "NO",
+  "bim:disciplines": [
+   "mep"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_BODO_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "SGD_BODO/SGD_BODO_Eng-HVAC-Plumbing.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "IFC2X2_FINAL"
+  ],
+  "ifc:header_timestamp": "2005-04-01T14:30:13",
+  "ifc:preprocessor_version": "Building Services Partner Version 6.35 Prerel build 1/4-2005",
+  "ifc:originating_system": "DDS",
+  "ifc:schema": "IFC2X2_FINAL",
+  "ifc:parse_error": "SchemaError: Unsupported schema: IFC2X2_FINAL"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.sgd-bodo-eng-hvac-plumbing-754023.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-bodo-arch-1-069842/duraark.sgd-bodo-arch-1-069842.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-bodo-ifc-1e16ec)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-bodo-arch-2-b2fb79/duraark.sgd-bodo-arch-2-b2fb79.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-bodo-ifc-1e16ec)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-bodo-arch-3-6d6e71/duraark.sgd-bodo-arch-3-6d6e71.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-bodo-ifc-1e16ec)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-bodo-eng-hvac-ventilation-4f8e07/duraark.sgd-bodo-eng-hvac-ventilation-4f8e07.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-bodo-ifc-1e16ec)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_BODO_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "SGD_BODO_Eng-HVAC-Plumbing.ifc",
+   "file:size": 32617382,
+   "file:checksum": "12200df365be41a41d45bc7f9e5a0552e72526a3c73ade8271554275416a57a0130a",
+   "bim:archive_member": "SGD_BODO/SGD_BODO_Eng-HVAC-Plumbing.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 72822965,
+   "bim:archive_member_checksum": "12209e938f3a3af462b990eb19df4c14b8ee9362b75829e9577cb2a7cb7fb4b03704"
+  }
+ },
+ "collection": "duraark"
+}

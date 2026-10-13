@@ -1,0 +1,84 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--education-24e745",
+ "title": "building-type: education",
+ "description": "10 items where building-type = education. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "education",
+ "bim:item_count": 10,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/opensourcebim-testfiles/items/opensourcebim-testfiles.hitos-070308-111f44/opensourcebim-testfiles.hitos-070308-111f44.json",
+   "type": "application/geo+json",
+   "title": "HITOS Tromsø university college (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/web-ifc-tests/items/web-ifc-tests.issue-068-ark-nus-skolebygg-19b6d9/web-ifc-tests.issue-068-ark-nus-skolebygg-19b6d9.json",
+   "type": "application/geo+json",
+   "title": "Norwegian school building, architecture (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tuwien-escape-routes/items/tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-g-f92578/tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-g-f92578.json",
+   "type": "application/geo+json",
+   "title": "Escape route model – JS-RealWorldEscapeRouteModel-RoutesGroupSegments-Group-IFC4X3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tuwien-escape-routes/items/tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-p-cc046a/tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-p-cc046a.json",
+   "type": "application/geo+json",
+   "title": "Escape route model – JS-RealWorldEscapeRouteModel-RoutesGroupSegments-Part-IFC4X3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tuwien-escape-routes/items/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-g-cf75d6/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-g-cf75d6.json",
+   "type": "application/geo+json",
+   "title": "Escape route model – Py-RealWorldEscapeRouteModel-RoutesGroupSegments-Group-IFC4X3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tuwien-escape-routes/items/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-g-835435/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-g-835435.json",
+   "type": "application/geo+json",
+   "title": "Escape route model – Py-RealWorldEscapeRouteModel-RoutesGroupSegments-Group"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tuwien-escape-routes/items/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-p-e827ba/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-p-e827ba.json",
+   "type": "application/geo+json",
+   "title": "Escape route model – Py-RealWorldEscapeRouteModel-RoutesGroupSegments-Part"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-hitos-arch-0b5720/duraark.sgd-hitos-arch-0b5720.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg HiTOS – SGD_HiTOS_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-hitos-eng-ele-b918e6/duraark.sgd-hitos-eng-ele-b918e6.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg HiTOS – SGD_HiTOS_Eng-ELE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-hitos-eng-hvac-38ea51/duraark.sgd-hitos-eng-hvac-38ea51.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg HiTOS – SGD_HiTOS_Eng-HVAC"
+  }
+ ]
+}

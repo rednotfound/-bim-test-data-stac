@@ -1,0 +1,282 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "use-case--future-standards-8757cf",
+ "title": "use-case: future-standards",
+ "description": "43 items where use-case = future-standards. Items are shared with their source collections.",
+ "bim:dimension": "use-case",
+ "bim:value": "future-standards",
+ "bim:item_count": 43,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.building-architecture-9ab00e/bsi-ifc5-development.building-architecture-9ab00e.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Architecture (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.building-structural-27b125/bsi-ifc5-development.building-structural-27b125.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Structural (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.building-hvac-fe66a0/bsi-ifc5-development.building-hvac-fe66a0.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Hvac (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.building-landscaping-110212/bsi-ifc5-development.building-landscaping-110212.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Landscaping (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-road-6d4002/bsi-ifc5-development.infra-road-6d4002.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Road (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-bridge-e2de1b/bsi-ifc5-development.infra-bridge-e2de1b.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Bridge (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-rail-d89af1/bsi-ifc5-development.infra-rail-d89af1.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Rail (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-plumbing-6a3471/bsi-ifc5-development.infra-plumbing-6a3471.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Plumbing (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-electrical-3581ce/bsi-ifc5-development.infra-electrical-3581ce.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Electrical (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-landscaping-9e51e8/bsi-ifc5-development.infra-landscaping-9e51e8.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Landscaping (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.ifc-hero-model-2b48de/bsi-ifc5-development.ifc-hero-model-2b48de.json",
+   "type": "application/geo+json",
+   "title": "IFC Hero Model (IFC4 twin)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.ifc-hero-model-77b929/bsi-ifc5-development.ifc-hero-model-77b929.json",
+   "type": "application/geo+json",
+   "title": "IFC Hero Model (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-aedes-example-76fd4c/bsi-ids.ids-aedes-example-76fd4c.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_Aedes_example"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-arcdox-cf440c/bsi-ids.ids-arcdox-cf440c.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_ArcDox"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-simplebim-examples-a151cf/bsi-ids.ids-simplebim-examples-a151cf.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_SimpleBIM_examples"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-structuralsafety-b6f98c/bsi-ids.ids-structuralsafety-b6f98c.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_StructuralSafety"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-aachen-example-c18c5f/bsi-ids.ids-aachen-example-c18c5f.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_aachen_example"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-demo-bim-basis-ils-39bfa0/bsi-ids.ids-demo-bim-basis-ils-39bfa0.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_demo_BIM-basis-ILS"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-oma-input-76bba7/bsi-ids.ids-oma-input-76bba7.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_oma_input"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-oma-output-08d2e4/bsi-ids.ids-oma-output-08d2e4.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_oma_output"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-random-example-b1a0fc/bsi-ids.ids-random-example-b1a0fc.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_random_example"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-ucms-prefab-pipes-ifc2x3-08982b/bsi-ids.ids-ucms-prefab-pipes-ifc2x3-08982b.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_ucms_prefab_pipes_IFC2x3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-ucms-prefab-pipes-ifc4-3-855ead/bsi-ids.ids-ucms-prefab-pipes-ifc4-3-855ead.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_ucms_prefab_pipes_IFC4.3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-wooden-windows-f1749a/bsi-ids.ids-wooden-windows-f1749a.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_wooden-windows"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.document-reference-external-0d61d0/bsi-bcf.document-reference-external-0d61d0.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – document reference external"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.document-reference-internal-16df9f/bsi-bcf.document-reference-internal-16df9f.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Document reference internal"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.duedate-937610/bsi-bcf.duedate-937610.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – DueDate"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.labels-3fe541/bsi-bcf.labels-3fe541.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Labels"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.milestone-780ae1/bsi-bcf.milestone-780ae1.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Milestone"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.minimum-information-76da9e/bsi-bcf.minimum-information-76da9e.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Minimum information"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.related-topics-with-both-topics-in-the-same-file-8bf1ef/bsi-bcf.related-topics-with-both-topics-in-the-same-file-8bf1ef.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Related topics with both topics in the same file"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.user-assignment-a6d928/bsi-bcf.user-assignment-a6d928.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – User assignment"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.all-parts-of-curtain-walls-visible-546f74/bsi-bcf.all-parts-of-curtain-walls-visible-546f74.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – all parts of curtain walls visible"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.all-parts-except-one-visible-9403c9/bsi-bcf.all-parts-except-one-visible-9403c9.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – all parts except one visible"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.component-selection-a61c3f/bsi-bcf.component-selection-a61c3f.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – component selection"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.one-part-of-decomposed-object-visible-a21511/bsi-bcf.one-part-of-decomposed-object-visible-a21511.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – one part of decomposed object visible"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.orthogonal-camera-49b9b8/bsi-bcf.orthogonal-camera-49b9b8.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – orthogonal camera"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.perspective-camera-4c04f8/bsi-bcf.perspective-camera-4c04f8.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – perspective camera"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.single-invisible-wall-aa5817/bsi-bcf.single-invisible-wall-aa5817.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – single invisible wall"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.single-visible-space-c97a37/bsi-bcf.single-visible-space-c97a37.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – single visible space"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.single-visible-wall-396f72/bsi-bcf.single-visible-wall-396f72.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – single visible wall"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.topics-with-different-models-visible-e3ec5d/bsi-bcf.topics-with-different-models-visible-e3ec5d.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Topics with different models visible"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.all-components-and-spaces-visible-eefd39/bsi-bcf.all-components-and-spaces-visible-eefd39.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – all components and spaces visible"
+  }
+ ]
+}

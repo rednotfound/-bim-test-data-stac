@@ -1,0 +1,36 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "use-case--jp-public-works-36fcf5",
+ "title": "use-case: jp-public-works",
+ "description": "2 items where use-case = jp-public-works. Items are shared with their source collections.",
+ "bim:dimension": "use-case",
+ "bim:value": "jp-public-works",
+ "bim:item_count": 2,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/sxf-samples/items/sxf-samples.sample-0e832a/sxf-samples.sample-0e832a.json",
+   "type": "application/geo+json",
+   "title": "SXF(SFC) survey drawing sample"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/sxf-samples/items/sxf-samples.reference-t002-e924c1/sxf-samples.reference-t002-e924c1.json",
+   "type": "application/geo+json",
+   "title": "SXF(SFC) civil reference drawing T002"
+  }
+ ]
+}

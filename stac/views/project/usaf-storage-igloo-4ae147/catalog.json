@@ -1,0 +1,30 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--usaf-storage-igloo-4ae147",
+ "title": "project: usaf-storage_igloo",
+ "description": "1 items where project = usaf-storage_igloo. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "usaf-storage_igloo",
+ "bim:item_count": 1,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.standard-design-storage-igloo-957b45/wbdg-usaf-design-packages.standard-design-storage-igloo-957b45.json",
+   "type": "application/geo+json",
+   "title": "USAF Storage Igloo – standard_design_storage_igloo"
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "ifcopenshell-files.wallinstance-ifc4add2-ifcspf-format-3d6482",
+ "geometry": null,
+ "properties": {
+  "title": "Serialization sample – WallInstance_IFC4Add2_ifcspf_format.ifczip",
+  "description": "IFC-ZIP IFC4 file from 'IfcOpenShell public test files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2019-06-05T07:56:53Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "ifcXML",
+   "ifcZIP",
+   "serialization"
+  ],
+  "providers": [
+   {
+    "name": "IfcOpenShell",
+    "url": "https://ifcopenshell.org",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-ZIP",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4",
+  "bim:source": "ifcopenshell-files",
+  "bim:building_type": "component",
+  "bim:use_cases": [
+   "serialization"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://github.com/IfcOpenShell/files",
+  "bim:attribution": "IfcOpenShell/files, https://github.com/IfcOpenShell/files",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/IfcOpenShell/files/9fc2267d7f1ff35284c5b0fc28cc97bff7ace8e7/WallInstance_IFC4Add2_ifcspf_format.ifczip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/IfcOpenShell/files",
+   "commit": "9fc2267d7f1ff35284c5b0fc28cc97bff7ace8e7",
+   "path": "WallInstance_IFC4Add2_ifcspf_format.ifczip",
+   "browse_url": "https://github.com/IfcOpenShell/files/blob/9fc2267d7f1ff35284c5b0fc28cc97bff7ace8e7/WallInstance_IFC4Add2_ifcspf_format.ifczip",
+   "git_lfs": false,
+   "commit_date": "2026-06-04"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:zip_member": "WallInstance_IFC4Add2.ifc",
+  "ifc:file_description": [
+   "ViewDefinition [ReferenceView_V1.0]"
+  ],
+  "ifc:view_definition": "ReferenceView_V1.0",
+  "ifc:header_timestamp": "2019-06-05T07:56:53",
+  "ifc:preprocessor_version": "The EXPRESS Data Manager Version 5.02.0100.07 : 28 Aug 2013",
+  "ifc:originating_system": "20180328_1600(x64) - Exporter 19.0.1.1 - Alternate UI 19.0.1.1",
+  "ifc:schema": "IFC4"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./ifcopenshell-files.wallinstance-ifc4add2-ifcspf-format-3d6482.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/IfcOpenShell/files",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/IfcOpenShell/files",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/IfcOpenShell/files/blob/9fc2267d7f1ff35284c5b0fc28cc97bff7ace8e7/WallInstance_IFC4Add2_ifcspf_format.ifczip",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/IfcOpenShell/files/9fc2267d7f1ff35284c5b0fc28cc97bff7ace8e7/WallInstance_IFC4Add2_ifcspf_format.ifczip",
+   "type": "application/zip",
+   "roles": [
+    "data"
+   ],
+   "title": "WallInstance_IFC4Add2_ifcspf_format.ifczip",
+   "file:size": 7570,
+   "file:checksum": "12201251f70ebcc8187d5dae52dee6ac372c11f3de95e1d7965a6f77e1c8ee337c03"
+  }
+ },
+ "collection": "ifcopenshell-files"
+}

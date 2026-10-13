@@ -1,0 +1,196 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "opensourcebim-testfiles.hitos-070308-111f44",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   18.833333,
+   69.666667
+  ]
+ },
+ "bbox": [
+  18.833333,
+  69.666667,
+  18.833333,
+  69.666667
+ ],
+ "properties": {
+  "title": "HITOS Tromsø university college (IFC2X3)",
+  "description": "IFC-SPF IFC2X3 file from 'opensourceBIM TestFiles (BIMserver test set)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2006-03-31T16:51:19Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "BIMserver",
+   "legacy schema",
+   "performance",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "opensourceBIM",
+    "url": "https://github.com/opensourceBIM",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "opensourcebim-testfiles",
+  "bim:building_type": "education",
+  "bim:country": "NO",
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:use_cases": [
+   "performance",
+   "real-project"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://github.com/opensourceBIM/TestFiles",
+  "bim:attribution": "opensourceBIM/TestFiles",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/opensourceBIM/TestFiles/2fdf94854a7fba814a17604ed65f543f125cd265/TestData/data/HITOS_070308.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/opensourceBIM/TestFiles",
+   "commit": "2fdf94854a7fba814a17604ed65f543f125cd265",
+   "path": "TestData/data/HITOS_070308.ifc",
+   "browse_url": "https://github.com/opensourceBIM/TestFiles/blob/2fdf94854a7fba814a17604ed65f543f125cd265/TestData/data/HITOS_070308.ifc",
+   "git_lfs": false,
+   "commit_date": "2023-03-06"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "IFC Engine Kernal version 1.10 beta release x generated IFC file."
+  ],
+  "ifc:header_timestamp": "2006-03-31T16:51:19",
+  "ifc:preprocessor_version": "test",
+  "ifc:originating_system": "Windows System",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 2174,
+  "ifc:product_types": 15,
+  "ifc:storeys": 7,
+  "ifc:spaces": 243,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Graphisoft AC110 BEAM",
+   "Graphisoft AC110 COLUMN",
+   "Graphisoft AC110 DOOR",
+   "Graphisoft AC110 OBJECT",
+   "Graphisoft AC110 ROOF",
+   "Graphisoft AC110 SLAB",
+   "Graphisoft AC110 SPACE",
+   "Graphisoft AC110 WALL",
+   "Graphisoft AC110 WINDOW"
+  ],
+  "ifc:props": 2971,
+  "ifc:qsets": 4610,
+  "ifc:materials": 27,
+  "ifc:classif_refs": 13,
+  "ifc:type_objects": 444,
+  "ifc:docs": 0,
+  "ifc:score": 22.84,
+  "ifc:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcAnnotation": 9203,
+   "IfcWallStandardCase": 845,
+   "IfcSlab": 363,
+   "IfcWindow": 226,
+   "IfcColumn": 208,
+   "IfcDoor": 198,
+   "IfcVirtualElement": 95,
+   "IfcBeam": 86,
+   "IfcFlowTerminal": 69,
+   "IfcBuildingElementProxy": 31,
+   "IfcFurnishingElement": 23,
+   "IfcStair": 14,
+   "IfcRailing": 6,
+   "IfcWall": 4,
+   "IfcRamp": 3,
+   "IfcTransportElement": 3
+  },
+  "ifc:project_name": "Default Project",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:building_names": [
+   "Default Building"
+  ],
+  "ifc:storey_names": [
+   "fundamentetasje",
+   "kjeller",
+   "u.etg",
+   "1.etg",
+   "2.etg",
+   "3.etg",
+   "takplan"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./opensourcebim-testfiles.hitos-070308-111f44.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/opensourceBIM/TestFiles",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/opensourceBIM/TestFiles",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/opensourceBIM/TestFiles/blob/2fdf94854a7fba814a17604ed65f543f125cd265/TestData/data/HITOS_070308.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/opensourceBIM/TestFiles/2fdf94854a7fba814a17604ed65f543f125cd265/TestData/data/HITOS_070308.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "HITOS_070308.ifc",
+   "file:size": 64095402,
+   "file:checksum": "1220fe339277c7390b4a99d327846e34239e4d853371fac6951e46503ba8faaa2dcf"
+  }
+ },
+ "collection": "opensourcebim-testfiles"
+}

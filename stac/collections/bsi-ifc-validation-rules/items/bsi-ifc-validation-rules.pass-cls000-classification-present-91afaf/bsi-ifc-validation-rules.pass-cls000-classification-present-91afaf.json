@@ -1,0 +1,153 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-ifc-validation-rules.pass-cls000-classification-present-91afaf",
+ "geometry": null,
+ "properties": {
+  "title": "Validation rule CLS – pass",
+  "description": "IFC-SPF IFC4X3_ADD2 file from 'buildingSMART ifc-gherkin-rules test files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2024-03-25T21:51:20Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "MIT",
+  "keywords": [
+   "gherkin",
+   "invalid",
+   "rules",
+   "validation",
+   "validation-pass"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4X3_ADD2",
+  "bim:source": "bsi-ifc-validation-rules",
+  "bim:building_type": "component",
+  "bim:use_cases": [
+   "validation",
+   "validation-pass"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+  "bim:attribution": "buildingSMART International, ifc-gherkin-rules (MIT)",
+  "bim:size_class": "s(<1MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/CLS/cls000/pass-cls000-classification_present.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "commit": "893f8275049b8960c3ce0c7379b4b57aefeaa8f9",
+   "path": "test/files/CLS/cls000/pass-cls000-classification_present.ifc",
+   "browse_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/CLS/cls000/pass-cls000-classification_present.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-07-29"
+  },
+  "bim:thumbnail": "not generated: RuntimeError: no geometry",
+  "bim:validation_rule": "CLS",
+  "bim:validation_expected": "pass",
+  "ifc:file_description": [
+   "ViewDefinition [ReferenceView]"
+  ],
+  "ifc:view_definition": "ReferenceView",
+  "ifc:header_timestamp": "2024-03-25T21:51:20",
+  "ifc:preprocessor_version": "GeometryGymIFCcore v0.2.13.0 by Geometry Gym Pty Ltd built 2023-02-23T01:21:04",
+  "ifc:originating_system": "Civil 3D 2023 - IfcInfra Plugin - v13.5.35.0",
+  "ifc:schema": "IFC4X3_ADD2",
+  "ifc:products": 284,
+  "ifc:product_types": 5,
+  "ifc:storeys": 0,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "C3D_Attributes",
+   "Imported LandXML File [AeccDbAlignment]",
+   "LandXML Attributes [AeccDbAlignment]",
+   "Pset_Stationing"
+  ],
+  "ifc:props": 267,
+  "ifc:qsets": 0,
+  "ifc:materials": 0,
+  "ifc:classif_refs": 3,
+  "ifc:type_objects": 0,
+  "ifc:docs": 0,
+  "ifc:score": 5.66,
+  "ifc:element_counts": {
+   "IfcAlignmentSegment": 228,
+   "IfcAlignmentHorizontal": 14,
+   "IfcAlignmentVertical": 14,
+   "IfcAlignment": 14,
+   "IfcReferent": 14,
+   "IfcAnnotation": 1
+  },
+  "ifc:classification_systems": [
+   "Civil 3D"
+  ],
+  "ifc:project_name": "Unknown",
+  "ifc:length_unit": "FOOT",
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-ifc-validation-rules.pass-cls000-classification-present-91afaf.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+   "title": "MIT"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/CLS/cls000/pass-cls000-classification_present.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/CLS/cls000/pass-cls000-classification_present.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "pass-cls000-classification_present.ifc",
+   "file:size": 176221,
+   "file:checksum": "1220336f9df2be3ab2671b79676b5dc14265f96c98cadb07c9cd9a7d4e786d1ad5b8"
+  }
+ },
+ "collection": "bsi-ifc-validation-rules"
+}

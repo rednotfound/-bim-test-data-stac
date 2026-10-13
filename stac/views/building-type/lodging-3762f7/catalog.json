@@ -1,0 +1,108 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--lodging-3762f7",
+ "title": "building-type: lodging",
+ "description": "14 items where building-type = lodging. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "lodging",
+ "bim:item_count": 14,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.architectural-vq-model-v1-0-ff310c/wbdg-usaf-design-packages.architectural-vq-model-v1-0-ff310c.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Architectural VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.architecturalsheets-v1-0-1d47a7/wbdg-usaf-design-packages.architecturalsheets-v1-0-1d47a7.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – ArchitecturalSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.e-specs-database-v1-0-1440ef/wbdg-usaf-design-packages.e-specs-database-v1-0-1440ef.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – E-Specs Database v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.electrical-vq-model-v1-0-ff7d45/wbdg-usaf-design-packages.electrical-vq-model-v1-0-ff7d45.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Electrical VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.electricalsheets-v1-0-3f83bd/wbdg-usaf-design-packages.electricalsheets-v1-0-3f83bd.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – ElectricalSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-c038d0/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-c038d0.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – FireProtectionSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.mechanical-vq-model-v1-0-0d48da/wbdg-usaf-design-packages.mechanical-vq-model-v1-0-0d48da.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Mechanical VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.mechanicalsheets-v1-0-6fb8df/wbdg-usaf-design-packages.mechanicalsheets-v1-0-6fb8df.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – MechanicalSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.pdf-version-of-all-sheets-v1-0-5cea64/wbdg-usaf-design-packages.pdf-version-of-all-sheets-v1-0-5cea64.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – PDF Version of all Sheets v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.plumbing-vq-model-v1-0-e4ca9b/wbdg-usaf-design-packages.plumbing-vq-model-v1-0-e4ca9b.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Plumbing VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.plumbingsheets-v1-0-2c0b7c/wbdg-usaf-design-packages.plumbingsheets-v1-0-2c0b7c.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – PlumbingSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.structural-vq-model-v1-0-29062c/wbdg-usaf-design-packages.structural-vq-model-v1-0-29062c.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Structural VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.structuralsheets-v1-0-0d0ed6/wbdg-usaf-design-packages.structuralsheets-v1-0-0d0ed6.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – StructuralSheets_v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.visitors-quarters-bim-manual-v1-0-d81ef1/wbdg-usaf-design-packages.visitors-quarters-bim-manual-v1-0-d81ef1.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Visitors Quarters BIM Manual v1.0"
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json",
+  "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
+ ],
+ "id": "tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-p-cc046a",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   16.43293,
+   48.239356
+  ]
+ },
+ "bbox": [
+  16.43293,
+  48.239356,
+  16.43293,
+  48.239356
+ ],
+ "properties": {
+  "title": "Escape route model – JS-RealWorldEscapeRouteModel-RoutesGroupSegments-Part-IFC4X3",
+  "description": "IFC-SPF IFC4X3_ADD2 file from 'TU Wien real-world escape route models'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-13T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "CC-BY-4.0",
+  "keywords": [
+   "IFC4X3",
+   "escape route",
+   "safety",
+   "schema-versions"
+  ],
+  "providers": [
+   {
+    "name": "TU Wien",
+    "url": "https://researchdata.tuwien.ac.at/records/n0mcf-ghs19",
+    "roles": [
+     "producer",
+     "host",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4X3_ADD2",
+  "bim:source": "tuwien-escape-routes",
+  "bim:project": "tuwien-escape-routes",
+  "bim:building_type": "education",
+  "bim:country": "AT",
+  "bim:use_cases": [
+   "schema-versions",
+   "safety"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "bim:attribution": "TU Wien Research Data, Real-World Escape Route Models (CC BY 4.0)",
+  "bim:size_class": "s(<1MB)",
+  "bim:datetime_source": "retrieval date",
+  "bim:provenance": {
+   "upstream_href": "https://researchdata.tuwien.ac.at/api/records/n0mcf-ghs19/files/JS-RealWorldEscapeRouteModel-RoutesGroupSegments-Part-IFC4X3.ifc/content",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "generated",
+  "sci:doi": "10.48436/n0mcf-ghs19",
+  "sci:citation": "TU Wien Research Data, Real-World Escape Route Models (CC BY 4.0)",
+  "ifc:file_description": [
+   "no description"
+  ],
+  "ifc:preprocessor_version": "web-ifc-export",
+  "ifc:schema": "IFC4X3_ADD2",
+  "ifc:products": 134,
+  "ifc:product_types": 2,
+  "ifc:storeys": 7,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "ZDB_EscapeRouteData",
+   "ZDB_EscapeRouteSegmentData"
+  ],
+  "ifc:props": 158,
+  "ifc:qsets": 122,
+  "ifc:materials": 0,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 0,
+  "ifc:docs": 0,
+  "ifc:score": 7.48,
+  "ifc:element_counts": {
+   "IfcBuildingElementPart": 122,
+   "IfcBuildingElementProxy": 12
+  },
+  "ifc:project_name": "Project",
+  "ifc:length_unit": "METRE",
+  "ifc:building_names": [
+   "Building"
+  ],
+  "ifc:storey_names": [
+   "UG2",
+   "EG",
+   "OG1",
+   "DA",
+   "UG1",
+   "DG2",
+   "DG1"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)",
+  "bim:site_elevation": 159.13
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-p-cc046a.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "CC-BY-4.0"
+  },
+  {
+   "rel": "via",
+   "href": "https://researchdata.tuwien.ac.at/records/n0mcf-ghs19",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "cite-as",
+   "href": "https://doi.org/10.48436/n0mcf-ghs19"
+  },
+  {
+   "rel": "related",
+   "href": "../tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-g-f92578/tuwien-escape-routes.js-realworldescaperoutemodel-routesgroupsegments-g-f92578.json",
+   "type": "application/geo+json",
+   "title": "Same project (tuwien-escape-routes)"
+  },
+  {
+   "rel": "related",
+   "href": "../tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-g-cf75d6/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-g-cf75d6.json",
+   "type": "application/geo+json",
+   "title": "Same project (tuwien-escape-routes)"
+  },
+  {
+   "rel": "related",
+   "href": "../tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-g-835435/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-g-835435.json",
+   "type": "application/geo+json",
+   "title": "Same project (tuwien-escape-routes)"
+  },
+  {
+   "rel": "related",
+   "href": "../tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-p-e827ba/tuwien-escape-routes.py-realworldescaperoutemodel-routesgroupsegments-p-e827ba.json",
+   "type": "application/geo+json",
+   "title": "Same project (tuwien-escape-routes)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://researchdata.tuwien.ac.at/api/records/n0mcf-ghs19/files/JS-RealWorldEscapeRouteModel-RoutesGroupSegments-Part-IFC4X3.ifc/content",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "JS-RealWorldEscapeRouteModel-RoutesGroupSegments-Part-IFC4X3.ifc",
+   "file:size": 174898,
+   "file:checksum": "1220a4bca2832a55e82d38bfaa6afba2737c4e2e68662cb7eed8d90c309711e99754"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "tuwien-escape-routes"
+}

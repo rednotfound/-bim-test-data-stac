@@ -1,0 +1,54 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "use-case--multi-vendor-b763ea",
+ "title": "use-case: multi-vendor",
+ "description": "5 items where use-case = multi-vendor. Items are shared with their source collections.",
+ "bim:dimension": "use-case",
+ "bim:value": "multi-vendor",
+ "bim:item_count": 5,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesideac01-arch-4cb31a/duraark.nbs-lakesideac01-arch-4cb31a.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideAC01_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesideac10-arch-a2241c/duraark.nbs-lakesideac10-arch-a2241c.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideAC10_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesidervt01-arch-e8476a/duraark.nbs-lakesidervt01-arch-e8476a.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideRVT01_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesidervt10-arch-a5bab3/duraark.nbs-lakesidervt10-arch-a5bab3.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideRVT10_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesidevw00-arch-d856f9/duraark.nbs-lakesidevw00-arch-d856f9.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideVW00_Arch"
+  }
+ ]
+}

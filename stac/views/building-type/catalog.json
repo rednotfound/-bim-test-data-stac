@@ -1,0 +1,161 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "view-building-type",
+ "title": "By building / asset type",
+ "description": "Items grouped by building-type.",
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "child",
+   "href": "aviation-fe4198/catalog.json",
+   "title": "aviation (19)"
+  },
+  {
+   "rel": "child",
+   "href": "bridge-2fa198/catalog.json",
+   "title": "bridge (5)"
+  },
+  {
+   "rel": "child",
+   "href": "civil-d66149/catalog.json",
+   "title": "civil (3)"
+  },
+  {
+   "rel": "child",
+   "href": "component-335c4c/catalog.json",
+   "title": "component (108)"
+  },
+  {
+   "rel": "child",
+   "href": "conference-089f69/catalog.json",
+   "title": "conference (2)"
+  },
+  {
+   "rel": "child",
+   "href": "dormitory-2cb025/catalog.json",
+   "title": "dormitory (39)"
+  },
+  {
+   "rel": "child",
+   "href": "education-24e745/catalog.json",
+   "title": "education (10)"
+  },
+  {
+   "rel": "child",
+   "href": "generic-building-f81069/catalog.json",
+   "title": "generic-building (36)"
+  },
+  {
+   "rel": "child",
+   "href": "healthcare-1e8f51/catalog.json",
+   "title": "healthcare (33)"
+  },
+  {
+   "rel": "child",
+   "href": "hospitality-6831cb/catalog.json",
+   "title": "hospitality (5)"
+  },
+  {
+   "rel": "child",
+   "href": "industrial-d09675/catalog.json",
+   "title": "industrial (14)"
+  },
+  {
+   "rel": "child",
+   "href": "justice-050d85/catalog.json",
+   "title": "justice (2)"
+  },
+  {
+   "rel": "child",
+   "href": "landscape-0a2f2c/catalog.json",
+   "title": "landscape (8)"
+  },
+  {
+   "rel": "child",
+   "href": "lodging-3762f7/catalog.json",
+   "title": "lodging (14)"
+  },
+  {
+   "rel": "child",
+   "href": "mixed-b746d7/catalog.json",
+   "title": "mixed (2)"
+  },
+  {
+   "rel": "child",
+   "href": "office-e64274/catalog.json",
+   "title": "office (25)"
+  },
+  {
+   "rel": "child",
+   "href": "other-d0941e/catalog.json",
+   "title": "other (7)"
+  },
+  {
+   "rel": "child",
+   "href": "public-61c9b2/catalog.json",
+   "title": "public (8)"
+  },
+  {
+   "rel": "child",
+   "href": "public-safety-ea438b/catalog.json",
+   "title": "public-safety (3)"
+  },
+  {
+   "rel": "child",
+   "href": "railway-cb0dff/catalog.json",
+   "title": "railway (4)"
+  },
+  {
+   "rel": "child",
+   "href": "residential-ae373e/catalog.json",
+   "title": "residential (129)"
+  },
+  {
+   "rel": "child",
+   "href": "retail-46bb7e/catalog.json",
+   "title": "retail (1)"
+  },
+  {
+   "rel": "child",
+   "href": "road-4adfa5/catalog.json",
+   "title": "road (5)"
+  },
+  {
+   "rel": "child",
+   "href": "security-8eec7b/catalog.json",
+   "title": "security (2)"
+  },
+  {
+   "rel": "child",
+   "href": "site-c099a4/catalog.json",
+   "title": "site (4)"
+  },
+  {
+   "rel": "child",
+   "href": "sports-150a8a/catalog.json",
+   "title": "sports (12)"
+  },
+  {
+   "rel": "child",
+   "href": "template-3226ec/catalog.json",
+   "title": "template (1)"
+  },
+  {
+   "rel": "child",
+   "href": "utility-network-559bec/catalog.json",
+   "title": "utility-network (8)"
+  }
+ ]
+}

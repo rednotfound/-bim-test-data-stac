@@ -1,0 +1,117 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "kit-ifc-examples.kit-simple-road-test-web-ifc4x3-rc2-7e468f",
+ "geometry": null,
+ "properties": {
+  "title": "KIT Simple Road (IFC4x3 RC2)",
+  "description": "IFC-SPF IFC4X3_RC2 file from 'KIT IFC Examples (FZK-Haus, Institute, Smiley West, Simple Road)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2019-10-22T12:33:12Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-KIT-unrestricted",
+  "keywords": [
+   "FZK-Haus",
+   "KIT",
+   "legacy-schema",
+   "parser",
+   "reference model",
+   "reference-model"
+  ],
+  "providers": [
+   {
+    "name": "Karlsruhe Institute of Technology (KIT), IAI",
+    "url": "https://www.ifcwiki.org/index.php/KIT_IFC_Examples",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   },
+   {
+    "name": "STEP Tools Inc. (mirror)",
+    "url": "https://www.steptools.com/docs/stpfiles/ifc/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4X3_RC2",
+  "bim:source": "kit-ifc-examples",
+  "bim:building_type": "road",
+  "bim:country": "DE",
+  "bim:use_cases": [
+   "parser",
+   "reference-model",
+   "legacy-schema"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://www.ifcwiki.org/index.php/KIT_IFC_Examples",
+  "bim:attribution": "Institute for Automation and Applied Informatics (IAI) / Karlsruhe Institute of Technology (KIT)",
+  "bim:size_class": "s(<1MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://downloads.steptools.com/docs/stpfiles/ifc/KIT-Simple-Road-Test-Web-IFC4x3_RC2.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "not generated: ifcopenshell.SchemaError: Unsupported schema: IFC4X3_RC2",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView]"
+  ],
+  "ifc:view_definition": "CoordinationView",
+  "ifc:header_timestamp": "2019-10-22T12:33:12",
+  "ifc:preprocessor_version": "SketchUp Pro 2015",
+  "ifc:schema": "IFC4X3_RC2",
+  "ifc:parse_error": "SchemaError: Unsupported schema: IFC4X3_RC2"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./kit-ifc-examples.kit-simple-road-test-web-ifc4x3-rc2-7e468f.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.ifcwiki.org/index.php/KIT_IFC_Examples",
+   "title": "LicenseRef-KIT-unrestricted"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.ifcwiki.org/index.php/KIT_IFC_Examples",
+   "title": "Upstream dataset page"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://downloads.steptools.com/docs/stpfiles/ifc/KIT-Simple-Road-Test-Web-IFC4x3_RC2.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "KIT-Simple-Road-Test-Web-IFC4x3_RC2.ifc",
+   "file:size": 388157,
+   "file:checksum": "1220bf285110d47d69834ad529c172f4f7fdde772b75a1c339e03a1e609ce01d1a3c"
+  }
+ },
+ "collection": "kit-ifc-examples"
+}

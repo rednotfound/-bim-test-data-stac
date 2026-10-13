@@ -1,0 +1,96 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--duraark-nbu-duplex-ifc-7cb23d-e88500",
+ "title": "project: duraark-nbu-duplex-ifc-7cb23d",
+ "description": "12 items where project = duraark-nbu-duplex-ifc-7cb23d. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "duraark-nbu-duplex-ifc-7cb23d",
+ "bim:item_count": 12,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-design-38bfb6/duraark.nbu-duplex-apt-cobie-arch-design-38bfb6.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Design"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-handover-25d225/duraark.nbu-duplex-apt-cobie-arch-handover-25d225.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Handover"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-productinstall-aa7ad1/duraark.nbu-duplex-apt-cobie-arch-productinstall-aa7ad1.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-ProductInstall"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-productselect-0b280e/duraark.nbu-duplex-apt-cobie-arch-productselect-0b280e.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-ProductSelect"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-programming-8f2068/duraark.nbu-duplex-apt-cobie-arch-programming-8f2068.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Programming"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-arch-optimized-7d2f52/duraark.nbu-duplex-apt-arch-optimized-7d2f52.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Arch-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-arch-2a541a/duraark.nbu-duplex-apt-arch-2a541a.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-hvac-d0351f/duraark.nbu-duplex-apt-eng-hvac-d0351f.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-1-1f89f8/duraark.nbu-duplex-apt-eng-mep-1-1f89f8.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-2-d556be/duraark.nbu-duplex-apt-eng-mep-2-d556be.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-optimized-2b49f8/duraark.nbu-duplex-apt-eng-mep-optimized-2b49f8.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-3d6c63/duraark.nbu-duplex-apt-eng-mep-3d6c63.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP"
+  }
+ ]
+}

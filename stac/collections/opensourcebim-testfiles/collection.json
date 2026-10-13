@@ -1,0 +1,126 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [],
+ "id": "opensourcebim-testfiles",
+ "title": "opensourceBIM TestFiles (BIMserver test set)",
+ "description": "BIMserver regression set incl. HITOS (Tromsø) and legacy IFC2X_FINAL KIT models.",
+ "license": "LicenseRef-unspecified",
+ "keywords": [
+  "legacy schema",
+  "BIMserver"
+ ],
+ "providers": [
+  {
+   "name": "opensourceBIM",
+   "url": "https://github.com/opensourceBIM",
+   "roles": [
+    "host"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     18.833333,
+     69.666667,
+     18.833333,
+     69.666667
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2005-06-03T10:34:17Z",
+     "2006-03-31T16:51:19Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "IFC-SPF"
+  ],
+  "bim:format_version": [
+   "IFC2X3",
+   "IFC2X_FINAL"
+  ],
+  "bim:building_type": [
+   "education",
+   "residential"
+  ],
+  "bim:country": [
+   "DE",
+   "NO"
+  ],
+  "bim:use_cases": [
+   "legacy-schema",
+   "performance",
+   "real-project"
+  ],
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:license_tier": [
+   "unclear"
+  ]
+ },
+ "bim:license_tier": "unclear",
+ "bim:license_quote": "No license stated.",
+ "bim:attribution": "opensourceBIM/TestFiles",
+ "bim:origin": {
+  "kind": "git",
+  "repo": "opensourceBIM/TestFiles",
+  "commit": "2fdf94854a7fba814a17604ed65f543f125cd265",
+  "commit_date": "2023-03-06"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 2,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/opensourceBIM/TestFiles",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "about",
+   "href": "https://github.com/opensourceBIM/TestFiles",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "item",
+   "href": "items/opensourcebim-testfiles.allplan-smiley-west-9d5f65/opensourcebim-testfiles.allplan-smiley-west-9d5f65.json",
+   "type": "application/geo+json",
+   "title": "KIT Smiley West (IFC2X_FINAL, Allplan)"
+  },
+  {
+   "rel": "item",
+   "href": "items/opensourcebim-testfiles.hitos-070308-111f44/opensourcebim-testfiles.hitos-070308-111f44.json",
+   "type": "application/geo+json",
+   "title": "HITOS Tromsø university college (IFC2X3)"
+  }
+ ]
+}

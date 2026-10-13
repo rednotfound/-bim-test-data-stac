@@ -1,0 +1,281 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "ezjww-jww-samples.196ce1",
+ "geometry": null,
+ "properties": {
+  "title": "Jw_cad sample – 木造平面例",
+  "description": "JWW JWW v600 file from 'Jw_cad (JWW) sample drawings via ezjww'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-13T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "JWW",
+   "Japan",
+   "Jw_cad",
+   "cad-render",
+   "jp-cad",
+   "天空率",
+   "日影図"
+  ],
+  "providers": [
+   {
+    "name": "monozukuri-ai/ezjww",
+    "url": "https://github.com/monozukuri-ai/ezjww",
+    "roles": [
+     "host"
+    ]
+   },
+   {
+    "name": "Jw_cad (original sample drawings)",
+    "url": "https://www.jwcad.net/",
+    "roles": [
+     "producer"
+    ]
+   }
+  ],
+  "bim:format": "JWW",
+  "bim:format_family": "CAD-2D",
+  "bim:format_version": "JWW v600",
+  "bim:source": "ezjww-jww-samples",
+  "bim:project": "jwcad-samples",
+  "bim:building_type": "residential",
+  "bim:country": "JP",
+  "bim:use_cases": [
+   "jp-cad",
+   "cad-render"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://github.com/monozukuri-ai/ezjww",
+  "bim:attribution": "Jw_cad sample drawings, via monozukuri-ai/ezjww",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "upstream repository commit date",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/monozukuri-ai/ezjww/0965e059e9ece2c341d1a845815ae68fb9fbd703/jww_samples/%E6%9C%A8%E9%80%A0%E5%B9%B3%E9%9D%A2%E4%BE%8B.jww",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/monozukuri-ai/ezjww",
+   "commit": "0965e059e9ece2c341d1a845815ae68fb9fbd703",
+   "path": "jww_samples/木造平面例.jww",
+   "browse_url": "https://github.com/monozukuri-ai/ezjww/blob/0965e059e9ece2c341d1a845815ae68fb9fbd703/jww_samples/%E6%9C%A8%E9%80%A0%E5%B9%B3%E9%9D%A2%E4%BE%8B.jww",
+   "git_lfs": false,
+   "commit_date": "2026-10-13"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "cad:version_code": 600,
+  "cad:jww_stats": {
+   "entity_count": 780,
+   "type_count": 5,
+   "layer_count": 1,
+   "color_count": 4,
+   "by_type": {
+    "ARC": 14,
+    "CIRCLE": 3,
+    "ELLIPSE": 3,
+    "LINE": 751,
+    "TEXT": 9
+   },
+   "by_layer": {
+    "0-0": 780
+   },
+   "by_color": {
+    "7": 571,
+    "52": 30,
+    "92": 3,
+    "132": 176
+   }
+  },
+  "cad:layers": 258,
+  "cad:blocks": 0,
+  "cad:layouts": 1,
+  "cad:modelspace_entities": 780,
+  "cad:entity_counts": {
+   "LINE": 751,
+   "ARC": 14,
+   "TEXT": 9,
+   "CIRCLE": 3,
+   "ELLIPSE": 3
+  },
+  "cad:text_styles": 1,
+  "cad:layer_names": [
+   "0",
+   "0-0",
+   "0-1",
+   "0-2",
+   "0-3",
+   "0-4",
+   "0-5",
+   "0-6",
+   "0-7",
+   "0-8",
+   "0-9",
+   "0-A",
+   "0-B",
+   "0-C",
+   "0-D",
+   "0-E",
+   "0-F",
+   "1-0",
+   "1-1",
+   "1-2",
+   "1-3",
+   "1-4",
+   "1-5",
+   "1-6",
+   "1-7",
+   "1-8",
+   "1-9",
+   "1-A",
+   "1-B",
+   "1-C",
+   "1-D",
+   "1-E",
+   "1-F",
+   "2-0",
+   "2-1",
+   "2-2",
+   "2-3",
+   "2-4",
+   "2-5",
+   "2-6",
+   "2-7",
+   "2-8",
+   "2-9",
+   "2-A",
+   "2-B",
+   "2-C",
+   "2-D",
+   "2-E",
+   "2-F",
+   "3-0",
+   "3-1",
+   "3-2",
+   "3-3",
+   "3-4",
+   "3-5",
+   "3-6",
+   "3-7",
+   "3-8",
+   "3-9",
+   "3-A",
+   "3-B",
+   "3-C",
+   "3-D",
+   "3-E",
+   "3-F",
+   "4-0",
+   "4-1",
+   "4-2",
+   "4-3",
+   "4-4",
+   "4-5",
+   "4-6",
+   "4-7",
+   "4-8",
+   "4-9",
+   "4-A",
+   "4-B",
+   "4-C",
+   "4-D",
+   "4-E"
+  ],
+  "cad:units": "millimeter (paper)",
+  "cad:read_via": "ezjww"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./ezjww-jww-samples.196ce1.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/monozukuri-ai/ezjww",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/monozukuri-ai/ezjww",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/monozukuri-ai/ezjww/blob/0965e059e9ece2c341d1a845815ae68fb9fbd703/jww_samples/%E6%9C%A8%E9%80%A0%E5%B9%B3%E9%9D%A2%E4%BE%8B.jww",
+   "title": "Upstream file (pinned commit)"
+  },
+  {
+   "rel": "related",
+   "href": "../ezjww-jww-samples.f65166/ezjww-jww-samples.f65166.json",
+   "type": "application/geo+json",
+   "title": "Same project (jwcad-samples)"
+  },
+  {
+   "rel": "related",
+   "href": "../ezjww-jww-samples.63dfb0/ezjww-jww-samples.63dfb0.json",
+   "type": "application/geo+json",
+   "title": "Same project (jwcad-samples)"
+  },
+  {
+   "rel": "related",
+   "href": "../ezjww-jww-samples.25d-a51d8a/ezjww-jww-samples.25d-a51d8a.json",
+   "type": "application/geo+json",
+   "title": "Same project (jwcad-samples)"
+  },
+  {
+   "rel": "related",
+   "href": "../ezjww-jww-samples.6ca2d8/ezjww-jww-samples.6ca2d8.json",
+   "type": "application/geo+json",
+   "title": "Same project (jwcad-samples)"
+  },
+  {
+   "rel": "related",
+   "href": "../ezjww-jww-samples.e6040a/ezjww-jww-samples.e6040a.json",
+   "type": "application/geo+json",
+   "title": "Same project (jwcad-samples)"
+  },
+  {
+   "rel": "related",
+   "href": "../ezjww-jww-samples.4b5b57/ezjww-jww-samples.4b5b57.json",
+   "type": "application/geo+json",
+   "title": "Same project (jwcad-samples)"
+  },
+  {
+   "rel": "related",
+   "href": "../ezjww-jww-samples.d62625/ezjww-jww-samples.d62625.json",
+   "type": "application/geo+json",
+   "title": "Same project (jwcad-samples)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/monozukuri-ai/ezjww/0965e059e9ece2c341d1a845815ae68fb9fbd703/jww_samples/%E6%9C%A8%E9%80%A0%E5%B9%B3%E9%9D%A2%E4%BE%8B.jww",
+   "type": "application/octet-stream",
+   "roles": [
+    "data"
+   ],
+   "title": "木造平面例.jww",
+   "file:size": 53814,
+   "file:checksum": "122058afae3a813453f50e50560b20832d4b7b5c5d0ba3ec5802dd7d90228e207479"
+  }
+ },
+ "collection": "ezjww-jww-samples"
+}

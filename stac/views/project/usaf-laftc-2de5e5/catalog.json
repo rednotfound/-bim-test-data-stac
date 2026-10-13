@@ -1,0 +1,36 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--usaf-laftc-2de5e5",
+ "title": "project: usaf-laftc",
+ "description": "2 items where project = usaf-laftc. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "usaf-laftc",
+ "bim:item_count": 2,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ftc-definitivedesignanalysis-bfd870/wbdg-usaf-design-packages.ftc-definitivedesignanalysis-bfd870.json",
+   "type": "application/geo+json",
+   "title": "USAF Laftc – FTC_DefinitiveDesignAnalysis"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ftc-definitivedesigndrawings-d2dc7b/wbdg-usaf-design-packages.ftc-definitivedesigndrawings-d2dc7b.json",
+   "type": "application/geo+json",
+   "title": "USAF Laftc – FTC_DefinitiveDesignDrawings"
+  }
+ ]
+}

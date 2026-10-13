@@ -1,0 +1,245 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-community-sample-files.clinic-hvac-7792db",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -71.033,
+   42.213
+  ]
+ },
+ "bbox": [
+  -71.033,
+  42.213,
+  -71.033,
+  42.213
+ ],
+ "properties": {
+  "title": "NIBS Medical-Dental Clinic – HVAC",
+  "description": "IFC-SPF IFC2X3 file from 'buildingSMART Community Sample Test Files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2012-03-29T16:47:43Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "CC-BY-4.0",
+  "keywords": [
+   "COBie",
+   "NIBS",
+   "cobie",
+   "coordination view",
+   "multi-discipline",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART community",
+    "url": "https://github.com/buildingsmart-community",
+    "roles": [
+     "host"
+    ]
+   },
+   {
+    "name": "US National Institute of Building Sciences (NIBS) / US Army ERDC-CERL",
+    "url": "https://www.nibs.org",
+    "roles": [
+     "producer"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "bsi-community-sample-files",
+  "bim:project": "nibs-clinic",
+  "bim:building_type": "healthcare",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "mep"
+  ],
+  "bim:use_cases": [
+   "multi-discipline",
+   "cobie",
+   "real-project"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "bim:attribution": "BSI (2020) \"Duplex Apartment / Medical-Dental Test Files\", buildingSMART International, https://github.com/buildingsmart-community/Community-Sample-Test-Files (CC BY 4.0)",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/Clinic_HVAC.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingsmart-community/Community-Sample-Test-Files",
+   "commit": "7ddf57a201f88a0c213d5322b02ed15e94a60a40",
+   "path": "IFC 2.3.0.1 (IFC 2x3)/Medical-Dental Clinic/Clinic_HVAC.ifc",
+   "browse_url": "https://github.com/buildingsmart-community/Community-Sample-Test-Files/blob/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/Clinic_HVAC.ifc",
+   "git_lfs": true,
+   "commit_date": "2024-11-06"
+  },
+  "bim:thumbnail": "generated",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView]"
+  ],
+  "ifc:view_definition": "CoordinationView",
+  "ifc:header_timestamp": "2012-03-29T16:47:43",
+  "ifc:preprocessor_version": "Autodesk Revit MEP 2013",
+  "ifc:originating_system": "20120224_1515 (Solibri IFC Optimizer)",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 11094,
+  "ifc:product_types": 7,
+  "ifc:storeys": 4,
+  "ifc:spaces": 263,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Constraints",
+   "Construction",
+   "Dimensions",
+   "Electrical",
+   "Electrical - Loads",
+   "Energy Analysis",
+   "Fittings",
+   "Graphics",
+   "Identity Data",
+   "Insulation",
+   "Lining",
+   "Mechanical",
+   "Mechanical - Flow",
+   "Other",
+   "Phasing",
+   "Pset_BuildingCommon",
+   "Pset_SpaceCommon"
+  ],
+  "ifc:props": 113487,
+  "ifc:qsets": 260,
+  "ifc:materials": 0,
+  "ifc:classif_refs": 5,
+  "ifc:type_objects": 825,
+  "ifc:docs": 0,
+  "ifc:score": 17.71,
+  "ifc:disciplines": [
+   "mep"
+  ],
+  "ifc:element_counts": {
+   "IfcDistributionPort": 7390,
+   "IfcFlowFitting": 1590,
+   "IfcFlowSegment": 1548,
+   "IfcFlowTerminal": 440,
+   "IfcFlowController": 115,
+   "IfcFlowMovingDevice": 8,
+   "IfcEnergyConversionDevice": 3
+  },
+  "ifc:classification_systems": [
+   "UniFormat"
+  ],
+  "ifc:project_name": "123456789",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:storey_names": [
+   "Roof - Mech",
+   "First Floor",
+   "Second Floor",
+   "TOF Footing"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)",
+  "bim:site_elevation": -0.0
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-community-sample-files.clinic-hvac-7792db.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "CC-BY-4.0"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingsmart-community/Community-Sample-Test-Files",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingsmart-community/Community-Sample-Test-Files/blob/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/Clinic_HVAC.ifc",
+   "title": "Upstream file (pinned commit)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.clinic-architectural-010c75/bsi-community-sample-files.clinic-architectural-010c75.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-clinic)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.clinic-structural-a9498a/bsi-community-sample-files.clinic-structural-a9498a.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-clinic)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.clinic-plumbing-0f1dbf/bsi-community-sample-files.clinic-plumbing-0f1dbf.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-clinic)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.clinic-electrical-911268/bsi-community-sample-files.clinic-electrical-911268.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-clinic)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.2013-10-09-clinic-design-v14-working-01-544ea1/bsi-community-sample-files.2013-10-09-clinic-design-v14-working-01-544ea1.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-clinic)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.2013-10-09-clinic-handover-v14-4855bd/bsi-community-sample-files.2013-10-09-clinic-handover-v14-4855bd.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-clinic)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://media.githubusercontent.com/media/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/Clinic_HVAC.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "Clinic_HVAC.ifc",
+   "file:size": 26914597,
+   "file:checksum": "122039c88a79f48fbe56da86afb0fb3ebd188f8930df3df7dbfbd9ecaa535aaeab9b"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "bsi-community-sample-files"
+}

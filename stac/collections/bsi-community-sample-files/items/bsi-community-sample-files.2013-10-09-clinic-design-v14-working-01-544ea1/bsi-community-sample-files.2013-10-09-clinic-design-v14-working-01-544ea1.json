@@ -1,0 +1,176 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-community-sample-files.2013-10-09-clinic-design-v14-working-01-544ea1",
+ "geometry": null,
+ "properties": {
+  "title": "NIBS Clinic COBie – Design-v14-WORKING-01",
+  "description": "XLSX COBie 2.4 file from 'buildingSMART Community Sample Test Files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2024-11-06T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "CC-BY-4.0",
+  "keywords": [
+   "COBie",
+   "NIBS",
+   "cobie",
+   "coordination view",
+   "multi-discipline"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART community",
+    "url": "https://github.com/buildingsmart-community",
+    "roles": [
+     "host"
+    ]
+   },
+   {
+    "name": "US National Institute of Building Sciences (NIBS) / US Army ERDC-CERL",
+    "url": "https://www.nibs.org",
+    "roles": [
+     "producer"
+    ]
+   }
+  ],
+  "bim:format": "XLSX",
+  "bim:format_family": "COBie",
+  "bim:format_version": "COBie 2.4",
+  "bim:source": "bsi-community-sample-files",
+  "bim:project": "nibs-clinic",
+  "bim:building_type": "healthcare",
+  "bim:country": "US",
+  "bim:use_cases": [
+   "cobie"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "bim:attribution": "BSI (2020) \"Duplex Apartment / Medical-Dental Test Files\", buildingSMART International, https://github.com/buildingsmart-community/Community-Sample-Test-Files (CC BY 4.0)",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "upstream repository commit date",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/2013-10-09-Clinic-Design-v14-WORKING-01.xlsx",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingsmart-community/Community-Sample-Test-Files",
+   "commit": "7ddf57a201f88a0c213d5322b02ed15e94a60a40",
+   "path": "IFC 2.3.0.1 (IFC 2x3)/Medical-Dental Clinic/2013-10-09-Clinic-Design-v14-WORKING-01.xlsx",
+   "browse_url": "https://github.com/buildingsmart-community/Community-Sample-Test-Files/blob/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/2013-10-09-Clinic-Design-v14-WORKING-01.xlsx",
+   "git_lfs": false,
+   "commit_date": "2024-11-06"
+  },
+  "bim:thumbnail": "not applicable",
+  "xlsx:sheets": [
+   "Instruction",
+   "Contact",
+   "Facility",
+   "Floor",
+   "Space",
+   "Zone",
+   "Type",
+   "Component",
+   "System",
+   "Assembly",
+   "Connection",
+   "Spare",
+   "Resource",
+   "Job",
+   "Impact",
+   "Document",
+   "Attribute",
+   "Coordinate",
+   "Issue",
+   "PickLists"
+  ],
+  "xlsx:cobie": true
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-community-sample-files.2013-10-09-clinic-design-v14-working-01-544ea1.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "CC-BY-4.0"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingsmart-community/Community-Sample-Test-Files",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingsmart-community/Community-Sample-Test-Files/blob/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/2013-10-09-Clinic-Design-v14-WORKING-01.xlsx",
+   "title": "Upstream file (pinned commit)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.clinic-architectural-010c75/bsi-community-sample-files.clinic-architectural-010c75.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-clinic)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.clinic-structural-a9498a/bsi-community-sample-files.clinic-structural-a9498a.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-clinic)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.clinic-hvac-7792db/bsi-community-sample-files.clinic-hvac-7792db.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-clinic)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.clinic-plumbing-0f1dbf/bsi-community-sample-files.clinic-plumbing-0f1dbf.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-clinic)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.clinic-electrical-911268/bsi-community-sample-files.clinic-electrical-911268.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-clinic)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.2013-10-09-clinic-handover-v14-4855bd/bsi-community-sample-files.2013-10-09-clinic-handover-v14-4855bd.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-clinic)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Medical-Dental%20Clinic/2013-10-09-Clinic-Design-v14-WORKING-01.xlsx",
+   "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+   "roles": [
+    "data"
+   ],
+   "title": "2013-10-09-Clinic-Design-v14-WORKING-01.xlsx",
+   "file:size": 1418464,
+   "file:checksum": "1220ceef8f581a5244fe4de66ab9f1c89e5706f6c57868eeccd4f942f92e429fe5f1"
+  }
+ },
+ "collection": "bsi-community-sample-files"
+}

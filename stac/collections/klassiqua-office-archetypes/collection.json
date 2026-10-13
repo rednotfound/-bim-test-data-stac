@@ -1,0 +1,143 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
+ ],
+ "id": "klassiqua-office-archetypes",
+ "title": "Klassiqua office archetypes (RWTH E3D)",
+ "description": "IFC4X3_ADD2 office archetypes for construction years 1970/1998/2026.",
+ "license": "CC-BY-4.0",
+ "keywords": [
+  "IFC4X3",
+  "archetype",
+  "office"
+ ],
+ "providers": [
+  {
+   "name": "RWTH Aachen E3D (Klassiqua)",
+   "url": "https://doi.org/10.5281/zenodo.21820756",
+   "roles": [
+    "producer",
+    "licensor"
+   ]
+  },
+  {
+   "name": "BIMvoice ifcsamples (mirror)",
+   "url": "https://github.com/BIMvoice/ifcsamples",
+   "roles": [
+    "host"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     6.083333,
+     50.775,
+     6.083333,
+     50.775
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2026-07-27T13:45:29Z",
+     "2026-07-30T13:40:32Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "IFC-SPF"
+  ],
+  "bim:format_version": [
+   "IFC4X3_ADD2"
+  ],
+  "bim:building_type": [
+   "office"
+  ],
+  "bim:country": [
+   "DE"
+  ],
+  "bim:use_cases": [
+   "archetype",
+   "schema-versions"
+  ],
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:license_tier": [
+   "open"
+  ]
+ },
+ "bim:license_tier": "open",
+ "bim:license_quote": "Licence: CC BY 4.0",
+ "bim:attribution": "Klassiqua office archetypes, RWTH Aachen E3D, DOI 10.5281/zenodo.21820756 (CC BY 4.0)",
+ "bim:origin": {
+  "kind": "git",
+  "repo": "BIMvoice/ifcsamples",
+  "commit": "7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2",
+  "commit_date": "2026-10-12"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 3,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "sci:doi": "10.5281/zenodo.21820756",
+ "sci:citation": "Klassiqua office archetypes, RWTH Aachen E3D, DOI 10.5281/zenodo.21820756 (CC BY 4.0)",
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "CC-BY-4.0"
+  },
+  {
+   "rel": "about",
+   "href": "https://doi.org/10.5281/zenodo.21820756",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "cite-as",
+   "href": "https://doi.org/10.5281/zenodo.21820756"
+  },
+  {
+   "rel": "item",
+   "href": "items/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-3ef1f7/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-3ef1f7.json",
+   "type": "application/geo+json",
+   "title": "Klassiqua office archetype 1970 (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "items/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-29c5fb/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-29c5fb.json",
+   "type": "application/geo+json",
+   "title": "Klassiqua office archetype 1998 (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "items/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-45214b/klassiqua-office-archetypes.2026-07-klassiqua-office-archetype-construction-ye-45214b.json",
+   "type": "application/geo+json",
+   "title": "Klassiqua office archetype 2026 (IFC4X3_ADD2)"
+  }
+ ]
+}

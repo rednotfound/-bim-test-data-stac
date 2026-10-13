@@ -1,0 +1,279 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "libredwg-testdata.entities-2d-54bc54",
+ "geometry": null,
+ "properties": {
+  "title": "LibreDWG R11 entities-2d.dwg",
+  "description": "DWG AC1009 R11/R12 file from 'GNU LibreDWG test data'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-12T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+   "DWG",
+   "DXF",
+   "cad-versions",
+   "legacy-format",
+   "versions"
+  ],
+  "providers": [
+   {
+    "name": "GNU LibreDWG",
+    "url": "https://www.gnu.org/software/libredwg/",
+    "roles": [
+     "producer",
+     "host",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "DWG",
+  "bim:format_family": "CAD-2D",
+  "bim:format_version": "AC1009 R11/R12",
+  "bim:source": "libredwg-testdata",
+  "bim:project": "libredwg-versions",
+  "bim:use_cases": [
+   "cad-versions",
+   "legacy-format"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+  "bim:attribution": "GNU LibreDWG test-data (GPL-3.0-or-later)",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "upstream repository commit date",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/r11/entities-2d.dwg",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/LibreDWG/libredwg",
+   "commit": "ee49c38f085407a1e0215c1f527f560ea24f0588",
+   "path": "test/test-data/r11/entities-2d.dwg",
+   "browse_url": "https://github.com/LibreDWG/libredwg/blob/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/r11/entities-2d.dwg",
+   "git_lfs": false,
+   "commit_date": "2026-10-12"
+  },
+  "bim:thumbnail": "generated",
+  "cad:version_code": "AC1009",
+  "cad:release": "R11/R12",
+  "cad:layers": 2,
+  "cad:blocks": 2,
+  "cad:layouts": 1,
+  "cad:modelspace_entities": 13,
+  "cad:entity_counts": {
+   "INSERT": 2,
+   "POINT": 1,
+   "LINE": 1,
+   "ARC": 1,
+   "CIRCLE": 1,
+   "TEXT": 1,
+   "TRACE": 1,
+   "SHAPE": 1,
+   "SOLID": 1,
+   "ATTDEF": 1,
+   "POLYLINE": 1,
+   "DIMENSION": 1
+  },
+  "cad:units": "unitless",
+  "cad:text_styles": 1,
+  "cad:extents": [
+   0.86,
+   0.0,
+   9.433,
+   9.127
+  ],
+  "cad:layer_names": [
+   "0",
+   "DEFPOINTS"
+  ],
+  "cad:audit_errors": 0,
+  "cad:read_via": "LibreDWG 0.14 dwg2dxf"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./libredwg-testdata.entities-2d-54bc54.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.gnu.org/licenses/gpl-3.0.html",
+   "title": "GPL-3.0-or-later"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/LibreDWG/libredwg",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/LibreDWG/libredwg/blob/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/r11/entities-2d.dwg",
+   "title": "Upstream file (pinned commit)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.entities-93fd2e/libredwg-testdata.entities-93fd2e.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.entities-c2ac69/libredwg-testdata.entities-c2ac69.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.entities-3d-84ab2f/libredwg-testdata.entities-3d-84ab2f.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-r13-123ecd/libredwg-testdata.example-r13-123ecd.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-r13-793c51/libredwg-testdata.example-r13-793c51.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-r14-faea5c/libredwg-testdata.example-r14-faea5c.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-r14-64535a/libredwg-testdata.example-r14-64535a.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-2000-6e2a6c/libredwg-testdata.example-2000-6e2a6c.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-2000-174106/libredwg-testdata.example-2000-174106.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-2004-bbd251/libredwg-testdata.example-2004-bbd251.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-2004-72f0ff/libredwg-testdata.example-2004-72f0ff.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-2007-e49cb1/libredwg-testdata.example-2007-e49cb1.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-2007-d18507/libredwg-testdata.example-2007-d18507.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-2010-bf8647/libredwg-testdata.example-2010-bf8647.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-2010-e9ac37/libredwg-testdata.example-2010-e9ac37.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-2013-ecac16/libredwg-testdata.example-2013-ecac16.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-2013-c7df70/libredwg-testdata.example-2013-c7df70.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-2018-05b894/libredwg-testdata.example-2018-05b894.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-2018-c3f252/libredwg-testdata.example-2018-c3f252.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-r12-ab5801/libredwg-testdata.example-r12-ab5801.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  },
+  {
+   "rel": "related",
+   "href": "../libredwg-testdata.example-2018-c623f2/libredwg-testdata.example-2018-c623f2.json",
+   "type": "application/geo+json",
+   "title": "Same project (libredwg-versions)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/LibreDWG/libredwg/ee49c38f085407a1e0215c1f527f560ea24f0588/test/test-data/r11/entities-2d.dwg",
+   "type": "image/vnd.dwg",
+   "roles": [
+    "data"
+   ],
+   "title": "entities-2d.dwg",
+   "file:size": 5416,
+   "file:checksum": "1220f9b372579812de9867961f12a842898c27a7dff763a71f41ea10335964b877d4"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "libredwg-testdata"
+}

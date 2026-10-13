@@ -1,0 +1,165 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [],
+ "id": "ezjww-jww-samples",
+ "title": "Jw_cad (JWW) sample drawings via ezjww",
+ "description": "Typical Japanese Jw_cad drawings: wooden-house plan, apartment plan/elevation/2.5D, site plan, shadow diagram (日影図), sky-factor table (天空率表).",
+ "license": "LicenseRef-unspecified",
+ "keywords": [
+  "Japan",
+  "Jw_cad",
+  "JWW",
+  "日影図",
+  "天空率"
+ ],
+ "providers": [
+  {
+   "name": "monozukuri-ai/ezjww",
+   "url": "https://github.com/monozukuri-ai/ezjww",
+   "roles": [
+    "host"
+   ]
+  },
+  {
+   "name": "Jw_cad (original sample drawings)",
+   "url": "https://www.jwcad.net/",
+   "roles": [
+    "producer"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     -180,
+     -90,
+     180,
+     90
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2026-10-13T00:00:00Z",
+     "2026-10-13T00:00:00Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "JWW"
+  ],
+  "bim:format_version": [
+   "JWW v600"
+  ],
+  "bim:building_type": [
+   "residential",
+   "site"
+  ],
+  "bim:country": [
+   "JP"
+  ],
+  "bim:use_cases": [
+   "cad-render",
+   "jp-building-regulation",
+   "jp-cad"
+  ],
+  "bim:license_tier": [
+   "unclear"
+  ]
+ },
+ "bim:license_tier": "unclear",
+ "bim:license_quote": "Repository code is MIT; the sample drawings appear to originate from the Jw_cad distribution, whose terms do not grant redistribution.",
+ "bim:attribution": "Jw_cad sample drawings, via monozukuri-ai/ezjww",
+ "bim:origin": {
+  "kind": "git",
+  "repo": "monozukuri-ai/ezjww",
+  "commit": "0965e059e9ece2c341d1a845815ae68fb9fbd703",
+  "commit_date": "2026-10-13"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 8,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/monozukuri-ai/ezjww",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "about",
+   "href": "https://github.com/monozukuri-ai/ezjww",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "item",
+   "href": "items/ezjww-jww-samples.196ce1/ezjww-jww-samples.196ce1.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – 木造平面例"
+  },
+  {
+   "rel": "item",
+   "href": "items/ezjww-jww-samples.f65166/ezjww-jww-samples.f65166.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – Ａマンション平面例"
+  },
+  {
+   "rel": "item",
+   "href": "items/ezjww-jww-samples.63dfb0/ezjww-jww-samples.63dfb0.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – Ａマンション立面例"
+  },
+  {
+   "rel": "item",
+   "href": "items/ezjww-jww-samples.25d-a51d8a/ezjww-jww-samples.25d-a51d8a.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – Ａマンション25d"
+  },
+  {
+   "rel": "item",
+   "href": "items/ezjww-jww-samples.6ca2d8/ezjww-jww-samples.6ca2d8.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – 敷地図"
+  },
+  {
+   "rel": "item",
+   "href": "items/ezjww-jww-samples.e6040a/ezjww-jww-samples.e6040a.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – 日影図"
+  },
+  {
+   "rel": "item",
+   "href": "items/ezjww-jww-samples.4b5b57/ezjww-jww-samples.4b5b57.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – 天空率表"
+  },
+  {
+   "rel": "item",
+   "href": "items/ezjww-jww-samples.d62625/ezjww-jww-samples.d62625.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – サンプル"
+  }
+ ]
+}

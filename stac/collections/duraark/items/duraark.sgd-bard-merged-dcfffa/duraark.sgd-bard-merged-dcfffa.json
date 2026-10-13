@@ -1,0 +1,189 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.sgd-bard-merged-dcfffa",
+ "geometry": null,
+ "properties": {
+  "title": "Statsbygg BARD – SGD_BARD_Merged",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2007-03-06T15:06:41Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-sgd-bard-ifc-16dc19",
+  "bim:building_type": "public",
+  "bim:country": "NO",
+  "bim:disciplines": [
+   "architecture",
+   "mep"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_BARD_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "SGD_BARD/SGD_BARD_Merged.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "IFC2X3"
+  ],
+  "ifc:header_timestamp": "2007-03-06T15:06:41",
+  "ifc:preprocessor_version": "DDS-IFC v2.0",
+  "ifc:originating_system": "DDS-CAD Version 6.40 5/2-2007 11:08",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 13428,
+  "ifc:product_types": 14,
+  "ifc:storeys": 5,
+  "ifc:spaces": 99,
+  "ifc:zones": 0,
+  "ifc:systems": 4,
+  "ifc:pset_names": [
+   "Pset_AirTerminalTypeCommon",
+   "Pset_DoorCommon",
+   "Pset_DuctFittingTypeCommon",
+   "Pset_DuctSegmentTypeCommon",
+   "Pset_DuctSilencerTypeCommon",
+   "Pset_FlowMeterTypeCommon",
+   "Pset_FlowSegmentDuctSegment",
+   "Pset_FlowSegmentPipeSegment",
+   "Pset_FlowTerminalAirTerminal",
+   "Pset_NS3420",
+   "Pset_PipeFittingTypeCommon",
+   "Pset_PipeSegmentTypeCommon",
+   "Pset_PumpTypeCommon",
+   "Pset_SanitaryTerminalTypeSink",
+   "Pset_SanitaryTerminalTypeToiletPan",
+   "Pset_SanitaryTerminalTypeUrinal",
+   "Pset_SpaceHeaterTypeCommon",
+   "Pset_TankTypeCommon",
+   "Pset_WallCommon",
+   "Pset_WasteTerminalTypeGullyTrap",
+   "Pset_WindowCommon"
+  ],
+  "ifc:props": 3760,
+  "ifc:qsets": 618,
+  "ifc:materials": 114,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 662,
+  "ifc:docs": 0,
+  "ifc:score": 20.17,
+  "ifc:disciplines": [
+   "architecture",
+   "mep"
+  ],
+  "ifc:element_counts": {
+   "IfcDistributionPort": 5494,
+   "IfcFlowSegment": 3960,
+   "IfcFlowFitting": 2423,
+   "IfcWallStandardCase": 406,
+   "IfcFlowTerminal": 332,
+   "IfcFlowController": 292,
+   "IfcEnergyConversionDevice": 158,
+   "IfcWindow": 118,
+   "IfcSlab": 111,
+   "IfcDoor": 106,
+   "IfcFlowTreatmentDevice": 18,
+   "IfcFlowMovingDevice": 6,
+   "IfcBuildingElementProxy": 3,
+   "IfcFlowStorageDevice": 1
+  },
+  "ifc:project_name": "DDS Project",
+  "ifc:length_unit": "METRE",
+  "ifc:storey_names": [
+   "Ledning i grunn",
+   "1.etasje romdefinisjon",
+   "2.etasje",
+   "3.etasje",
+   "4.etasje"
+  ],
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.sgd-bard-merged-dcfffa.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-bard-arch-226c60/duraark.sgd-bard-arch-226c60.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-bard-ifc-16dc19)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_BARD_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "SGD_BARD_Merged.ifc",
+   "file:size": 6677093,
+   "file:checksum": "1220b092d98b828b534efdd9065c3e69f12c2a374825cd4e88504dec06f749c17f12",
+   "bim:archive_member": "SGD_BARD/SGD_BARD_Merged.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 43754084,
+   "bim:archive_member_checksum": "1220e74c84c18b89275754f5c49d17767425556fd6f4c8a7200e044e495dc165c140"
+  }
+ },
+ "collection": "duraark"
+}

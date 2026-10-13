@@ -1,0 +1,259 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.autodesk-research-210-king-2c788c",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -71.033,
+   42.213
+  ]
+ },
+ "bbox": [
+  -71.033,
+  42.213,
+  -71.033,
+  42.213
+ ],
+ "properties": {
+  "title": "Autodesk Research 210 King St – Autodesk-Research_210-King",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2011-12-15T16:39:26Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-autodesk-210-king-ifc-a9c615",
+  "bim:building_type": "office",
+  "bim:country": "CA",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "xl(>=100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/03_IFC_E57/Autodesk_210-King_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "Autodesk-Research_210-King.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "Bimserver.org 1.0 generated IFC file"
+  ],
+  "ifc:header_timestamp": "2011-12-15T16:39:26",
+  "ifc:preprocessor_version": "Bimserver.org 1.0",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 22568,
+  "ifc:product_types": 26,
+  "ifc:storeys": 39,
+  "ifc:spaces": 261,
+  "ifc:zones": 11,
+  "ifc:systems": 44,
+  "ifc:pset_names": [
+   "Analytical Properties",
+   "Constraints",
+   "Construction",
+   "Dimensions",
+   "Electrical",
+   "Electrical - Circuiting",
+   "Electrical - Loads",
+   "Fittings",
+   "Graphics",
+   "Handrail 1",
+   "Handrail 2",
+   "Horizontal Grid Pattern",
+   "Identity Data",
+   "Insulation",
+   "Lining",
+   "Materials and Finishes",
+   "Mechanical",
+   "Mechanical - Flow",
+   "Other",
+   "Phasing",
+   "Plumbing",
+   "Pset_BeamCommon",
+   "Pset_BuildingCommon",
+   "Pset_BuildingElementProxyCommon",
+   "Pset_ColumnCommon",
+   "Pset_CoveringCommon",
+   "Pset_CurtainWallCommon",
+   "Pset_DoorCommon",
+   "Pset_RailingCommon",
+   "Pset_RampCommon",
+   "Pset_RoofCommon",
+   "Pset_SlabCommon",
+   "Pset_SpaceCommon",
+   "Pset_StairCommon",
+   "Pset_StairFlightCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon",
+   "Risers",
+   "Slab Shape Edit",
+   "Stringers",
+   "Structural",
+   "Text",
+   "Top Rail",
+   "Treads",
+   "Vertical Grid Pattern"
+  ],
+  "ifc:props": 258039,
+  "ifc:qsets": 261,
+  "ifc:materials": 113,
+  "ifc:classif_refs": 1153,
+  "ifc:type_objects": 1170,
+  "ifc:docs": 0,
+  "ifc:score": 25.68,
+  "ifc:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcDistributionPort": 9824,
+   "IfcFlowSegment": 2261,
+   "IfcFlowFitting": 2028,
+   "IfcFlowTerminal": 1592,
+   "IfcWallStandardCase": 1581,
+   "IfcBeam": 1342,
+   "IfcMember": 1037,
+   "IfcWindow": 432,
+   "IfcDistributionControlElement": 383,
+   "IfcPlate": 375,
+   "IfcDoor": 288,
+   "IfcColumn": 277,
+   "IfcFurnishingElement": 243,
+   "IfcFlowController": 224,
+   "IfcBuildingElementProxy": 216,
+   "IfcCovering": 216,
+   "IfcRailing": 105,
+   "IfcCurtainWall": 44,
+   "IfcSlab": 43,
+   "IfcStair": 34,
+   "IfcRoof": 8,
+   "IfcFlowMovingDevice": 5,
+   "IfcWall": 3,
+   "IfcEnergyConversionDevice": 3,
+   "IfcAnnotation": 2
+  },
+  "ifc:classification_systems": [
+   "UniFormat"
+  ],
+  "ifc:project_name": "Project Number",
+  "ifc:length_unit": "FOOT",
+  "ifc:storey_names": [
+   "BLDG 1- BASEMENT FLR. FIN.",
+   "All-Ground Level",
+   "BLDG 4- LEVEL 1 FLR. FIN.",
+   "T.O. Landing01",
+   "BLDG 1,2,3- LEVEL 1 FLR. FIN.",
+   "Level 4",
+   "T.O. Landing03",
+   "T.O. Prapet BLDG. 1,2,8",
+   "BLDG 4- LEVEL 2 FLR. FIN.",
+   "Level 1",
+   "BLDG 1,2,3- LEVEL 2 FLR. FIN.",
+   "Level 2",
+   "BLDG. 1,2,3- LEVEL 3 FLR. FIN.",
+   "BLDG 4- LEVEL 3 FLR. FIN.",
+   "BLDG. 1,2,3- LEVEL 4 FLR. FIN.",
+   "T.O. ROOF BLDG 4",
+   "BLDG 4- LEVEL 4 FLR. FIN.",
+   "T.O. Landing05",
+   "BLDG. 1,2,3- LEVEL 5 FLR. FIN.",
+   "Upper Deck Landing",
+   "BLDG. 1,2,3- LEVEL 6 FLR. FIN.",
+   "T.O. ROOF BLDG. 1,2,3",
+   "BLDG 1,2,3- LEVEL 2 FLR. FIN.",
+   "BLDG 4- LEVEL 4 FLR. FIN.",
+   "BLDG 1,2,3- LEVEL 3 FLR. FIN.",
+   "T.O. ROOF BLDG 4",
+   "BLDG 1,2,3- LEVEL 4 FLR. FIN.",
+   "BLDG 1,2,3- LEVEL 5 FLR. FIN.",
+   "T.O. Landing05",
+   "BLDG 1,2,3- LEVEL 6 FLR. FIN."
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)",
+  "bim:site_elevation": -0.0
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.autodesk-research-210-king-2c788c.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/03_IFC_E57/Autodesk_210-King_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "Autodesk-Research_210-King.ifc",
+   "file:size": 26730937,
+   "file:checksum": "122028290045d5fd5328b1d27bb116b7921431eb994496f3cacd1273dec58af7968a",
+   "bim:archive_member": "Autodesk-Research_210-King.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 155148490,
+   "bim:archive_member_checksum": "1220efabf93d9719bfcddf33f0535b3f30415072c920a724c3eab7531a071dc0fc1d"
+  }
+ },
+ "collection": "duraark"
+}

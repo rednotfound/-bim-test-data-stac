@@ -1,0 +1,173 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [],
+ "id": "bsi-ids",
+ "title": "buildingSMART IDS examples",
+ "description": "Information Delivery Specification (IDS 1.0) example files.",
+ "license": "CC-BY-ND-4.0",
+ "keywords": [
+  "IDS",
+  "requirements",
+  "model checking"
+ ],
+ "providers": [
+  {
+   "name": "buildingSMART International",
+   "url": "https://www.buildingsmart.org",
+   "roles": [
+    "producer",
+    "licensor"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     -180,
+     -90,
+     180,
+     90
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2026-09-25T00:00:00Z",
+     "2026-09-25T00:00:00Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "IDS"
+  ],
+  "bim:format_version": [
+   "IDS 1.0"
+  ],
+  "bim:use_cases": [
+   "future-standards",
+   "ids"
+  ],
+  "bim:license_tier": [
+   "open-nd"
+  ]
+ },
+ "bim:license_tier": "open-nd",
+ "bim:license_quote": "(c) buildingSMART International Ltd. This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License.",
+ "bim:attribution": "buildingSMART International, IDS (CC BY-ND 4.0)",
+ "bim:origin": {
+  "kind": "git",
+  "repo": "buildingSMART/IDS",
+  "commit": "870f9c4e6e8f414e737b4d84ca1aa9b46fc6c8f3",
+  "commit_date": "2026-09-25"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 12,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by-nd/4.0/",
+   "title": "CC-BY-ND-4.0"
+  },
+  {
+   "rel": "about",
+   "href": "https://github.com/buildingSMART/IDS",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ids.ids-aedes-example-76fd4c/bsi-ids.ids-aedes-example-76fd4c.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_Aedes_example"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ids.ids-arcdox-cf440c/bsi-ids.ids-arcdox-cf440c.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_ArcDox"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ids.ids-simplebim-examples-a151cf/bsi-ids.ids-simplebim-examples-a151cf.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_SimpleBIM_examples"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ids.ids-structuralsafety-b6f98c/bsi-ids.ids-structuralsafety-b6f98c.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_StructuralSafety"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ids.ids-aachen-example-c18c5f/bsi-ids.ids-aachen-example-c18c5f.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_aachen_example"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ids.ids-demo-bim-basis-ils-39bfa0/bsi-ids.ids-demo-bim-basis-ils-39bfa0.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_demo_BIM-basis-ILS"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ids.ids-oma-input-76bba7/bsi-ids.ids-oma-input-76bba7.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_oma_input"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ids.ids-oma-output-08d2e4/bsi-ids.ids-oma-output-08d2e4.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_oma_output"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ids.ids-random-example-b1a0fc/bsi-ids.ids-random-example-b1a0fc.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_random_example"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ids.ids-ucms-prefab-pipes-ifc2x3-08982b/bsi-ids.ids-ucms-prefab-pipes-ifc2x3-08982b.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_ucms_prefab_pipes_IFC2x3"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ids.ids-ucms-prefab-pipes-ifc4-3-855ead/bsi-ids.ids-ucms-prefab-pipes-ifc4-3-855ead.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_ucms_prefab_pipes_IFC4.3"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ids.ids-wooden-windows-f1749a/bsi-ids.ids-wooden-windows-f1749a.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_wooden-windows"
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "auckland-openifc.20160125trapelo-existing-trapelo-design-intent-2af74b",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -71.252697,
+   42.408013
+  ]
+ },
+ "bbox": [
+  -71.252697,
+  42.408013,
+  -71.252697,
+  42.408013
+ ],
+ "properties": {
+  "title": "Trapelo office, design intent (IFC2X3)",
+  "description": "IFC-SPF IFC2X3 file from 'Open IFC Model Repository (University of Auckland)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2015-08-08T23:20:39Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "data-rich",
+   "repository",
+   "schema-versions"
+  ],
+  "providers": [
+   {
+    "name": "University of Auckland, School of Computer Science",
+    "url": "https://openifcmodel.cs.auckland.ac.nz/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "auckland-openifc",
+  "bim:building_type": "office",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:use_cases": [
+   "data-rich",
+   "schema-versions"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://openifcmodel.cs.auckland.ac.nz/",
+  "bim:attribution": "Open IFC Model Repository, University of Auckland",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://openifcmodel.cs.auckland.ac.nz/api/download/20160125Trapelo%20-%20Existing-Trapelo_Design_Intent.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView_V2.0, QuantityTakeOffAddOnView]"
+  ],
+  "ifc:view_definition": "CoordinationView_V2.0, QuantityTakeOffAddOnView",
+  "ifc:header_timestamp": "2015-08-08T23:20:39",
+  "ifc:preprocessor_version": "The EXPRESS Data Manager Version 5.02.0100.07 : 28 Aug 2013",
+  "ifc:originating_system": "20150702_1515(x64) - Exporter 15.3.0.0 - Alternate UI 15.3.0.0",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 3377,
+  "ifc:product_types": 17,
+  "ifc:storeys": 5,
+  "ifc:spaces": 139,
+  "ifc:zones": 2,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Pset_BeamCommon",
+   "Pset_BuildingCommon",
+   "Pset_BuildingElementProxyCommon",
+   "Pset_BuildingStoreyCommon",
+   "Pset_ColumnCommon",
+   "Pset_CoveringCommon",
+   "Pset_CurtainWallCommon",
+   "Pset_DistributionFlowElementCommon",
+   "Pset_DoorCommon",
+   "Pset_LightFixtureTypeCommon",
+   "Pset_ManufacturerTypeInformation",
+   "Pset_MemberCommon",
+   "Pset_PlateCommon",
+   "Pset_RailingCommon",
+   "Pset_RoofCommon",
+   "Pset_SlabCommon",
+   "Pset_SpaceCommon",
+   "Pset_StairCommon",
+   "Pset_StairFlightCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon",
+   "Pset_ZoneCommon"
+  ],
+  "ifc:props": 7885,
+  "ifc:qsets": 1778,
+  "ifc:materials": 94,
+  "ifc:classif_refs": 3163,
+  "ifc:type_objects": 367,
+  "ifc:docs": 0,
+  "ifc:score": 24.52,
+  "ifc:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcFurnishingElement": 1295,
+   "IfcWallStandardCase": 522,
+   "IfcBeam": 512,
+   "IfcPlate": 230,
+   "IfcMember": 218,
+   "IfcDoor": 122,
+   "IfcColumn": 84,
+   "IfcFlowTerminal": 81,
+   "IfcCurtainWall": 76,
+   "IfcBuildingElementProxy": 69,
+   "IfcWindow": 68,
+   "IfcSlab": 60,
+   "IfcStairFlight": 12,
+   "IfcCovering": 11,
+   "IfcRailing": 10,
+   "IfcStair": 6,
+   "IfcRoof": 1
+  },
+  "ifc:classification_systems": [
+   "Uniformat"
+  ],
+  "ifc:project_name": "08-162",
+  "ifc:length_unit": "FOOT",
+  "ifc:storey_names": [
+   "BASEMENT LEVEL",
+   "FLOOR 1",
+   "FLOOR 2",
+   "FLOOR 3",
+   "T.O. STEEL"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)",
+  "bim:site_elevation": 0.0
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./auckland-openifc.20160125trapelo-existing-trapelo-design-intent-2af74b.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://openifcmodel.cs.auckland.ac.nz/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://openifcmodel.cs.auckland.ac.nz/",
+   "title": "Upstream dataset page"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://openifcmodel.cs.auckland.ac.nz/api/download/20160125Trapelo%20-%20Existing-Trapelo_Design_Intent.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "20160125Trapelo - Existing-Trapelo_Design_Intent.ifc",
+   "file:size": 22402887,
+   "file:checksum": "1220022e955f08166720be5e7d2f618031368c4b876d431d86531418c2b1922df780"
+  }
+ },
+ "collection": "auckland-openifc"
+}

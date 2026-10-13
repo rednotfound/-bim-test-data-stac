@@ -1,0 +1,144 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "format--bcf-d3bb69",
+ "title": "format: BCF",
+ "description": "20 items where format = BCF. Items are shared with their source collections.",
+ "bim:dimension": "format",
+ "bim:value": "BCF",
+ "bim:item_count": 20,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-compleet-interne-modelkwaliteit-0b55bc/schependomlaan.root-compleet-interne-modelkwaliteit-0b55bc.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan model-quality issues (BCF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.document-reference-external-0d61d0/bsi-bcf.document-reference-external-0d61d0.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – document reference external"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.document-reference-internal-16df9f/bsi-bcf.document-reference-internal-16df9f.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Document reference internal"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.duedate-937610/bsi-bcf.duedate-937610.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – DueDate"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.labels-3fe541/bsi-bcf.labels-3fe541.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Labels"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.milestone-780ae1/bsi-bcf.milestone-780ae1.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Milestone"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.minimum-information-76da9e/bsi-bcf.minimum-information-76da9e.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Minimum information"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.related-topics-with-both-topics-in-the-same-file-8bf1ef/bsi-bcf.related-topics-with-both-topics-in-the-same-file-8bf1ef.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Related topics with both topics in the same file"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.user-assignment-a6d928/bsi-bcf.user-assignment-a6d928.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – User assignment"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.all-parts-of-curtain-walls-visible-546f74/bsi-bcf.all-parts-of-curtain-walls-visible-546f74.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – all parts of curtain walls visible"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.all-parts-except-one-visible-9403c9/bsi-bcf.all-parts-except-one-visible-9403c9.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – all parts except one visible"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.component-selection-a61c3f/bsi-bcf.component-selection-a61c3f.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – component selection"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.one-part-of-decomposed-object-visible-a21511/bsi-bcf.one-part-of-decomposed-object-visible-a21511.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – one part of decomposed object visible"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.orthogonal-camera-49b9b8/bsi-bcf.orthogonal-camera-49b9b8.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – orthogonal camera"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.perspective-camera-4c04f8/bsi-bcf.perspective-camera-4c04f8.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – perspective camera"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.single-invisible-wall-aa5817/bsi-bcf.single-invisible-wall-aa5817.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – single invisible wall"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.single-visible-space-c97a37/bsi-bcf.single-visible-space-c97a37.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – single visible space"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.single-visible-wall-396f72/bsi-bcf.single-visible-wall-396f72.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – single visible wall"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.topics-with-different-models-visible-e3ec5d/bsi-bcf.topics-with-different-models-visible-e3ec5d.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Topics with different models visible"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.all-components-and-spaces-visible-eefd39/bsi-bcf.all-components-and-spaces-visible-eefd39.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – all components and spaces visible"
+  }
+ ]
+}

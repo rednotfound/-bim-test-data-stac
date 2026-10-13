@@ -1,0 +1,191 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [],
+ "id": "bsi-ifc5-development",
+ "title": "buildingSMART IFC5-development examples (IFC5 alpha)",
+ "description": "IFC5 alpha (.ifcx, JSON) examples, including the PCERT Simple-Scene and the IFC Hero Model with its IFC4 twin.",
+ "license": "LicenseRef-bSI-no-derivatives",
+ "keywords": [
+  "IFC5",
+  "ifcx",
+  "alpha",
+  "future"
+ ],
+ "providers": [
+  {
+   "name": "buildingSMART International",
+   "url": "https://www.buildingsmart.org",
+   "roles": [
+    "producer",
+    "licensor"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     -180,
+     -90,
+     180,
+     90
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2025-08-06T11:11:18Z",
+     "2026-09-08T00:00:00Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "IFC-SPF",
+   "IFCX"
+  ],
+  "bim:format_version": [
+   "IFC4",
+   "IFC5-alpha"
+  ],
+  "bim:building_type": [
+   "bridge",
+   "generic-building",
+   "landscape",
+   "railway",
+   "road",
+   "utility-network"
+  ],
+  "bim:use_cases": [
+   "future-standards",
+   "schema-versions"
+  ],
+  "bim:disciplines": [
+   "architecture",
+   "infrastructure",
+   "mep",
+   "site",
+   "structure"
+  ],
+  "bim:license_tier": [
+   "restricted"
+  ]
+ },
+ "bim:license_tier": "restricted",
+ "bim:license_quote": "No LICENSE file. README: 'Do not create derivatives of these examples, but please actively contribute with PRs and opening issues.'",
+ "bim:attribution": "buildingSMART International, IFC5-development, https://github.com/buildingSMART/IFC5-development",
+ "bim:origin": {
+  "kind": "git",
+  "repo": "buildingSMART/IFC5-development",
+  "commit": "1a63082ada967c683cfacee2005f8f749c8e1b79",
+  "commit_date": "2026-09-08"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 12,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/buildingSMART/IFC5-development#readme",
+   "title": "LicenseRef-bSI-no-derivatives"
+  },
+  {
+   "rel": "about",
+   "href": "https://github.com/buildingSMART/IFC5-development",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ifc5-development.building-architecture-9ab00e/bsi-ifc5-development.building-architecture-9ab00e.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Architecture (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ifc5-development.building-structural-27b125/bsi-ifc5-development.building-structural-27b125.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Structural (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ifc5-development.building-hvac-fe66a0/bsi-ifc5-development.building-hvac-fe66a0.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Hvac (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ifc5-development.building-landscaping-110212/bsi-ifc5-development.building-landscaping-110212.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Landscaping (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ifc5-development.infra-road-6d4002/bsi-ifc5-development.infra-road-6d4002.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Road (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ifc5-development.infra-bridge-e2de1b/bsi-ifc5-development.infra-bridge-e2de1b.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Bridge (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ifc5-development.infra-rail-d89af1/bsi-ifc5-development.infra-rail-d89af1.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Rail (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ifc5-development.infra-plumbing-6a3471/bsi-ifc5-development.infra-plumbing-6a3471.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Plumbing (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ifc5-development.infra-electrical-3581ce/bsi-ifc5-development.infra-electrical-3581ce.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Electrical (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ifc5-development.infra-landscaping-9e51e8/bsi-ifc5-development.infra-landscaping-9e51e8.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Landscaping (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ifc5-development.ifc-hero-model-2b48de/bsi-ifc5-development.ifc-hero-model-2b48de.json",
+   "type": "application/geo+json",
+   "title": "IFC Hero Model (IFC4 twin)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bsi-ifc5-development.ifc-hero-model-77b929/bsi-ifc5-development.ifc-hero-model-77b929.json",
+   "type": "application/geo+json",
+   "title": "IFC Hero Model (IFC5 alpha)"
+  }
+ ]
+}

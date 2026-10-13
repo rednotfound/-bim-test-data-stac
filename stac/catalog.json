@@ -1,0 +1,195 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "bim-test-data",
+ "title": "BIM test data catalog (IFC / CAD / PDF)",
+ "description": "Index of openly downloadable BIM test data: IFC (IFC2X3 to IFC5 alpha), DWG/DXF (R9 to R2018), PDF drawing sets, Revit, Japanese Jw_cad/SXF and BIM drawing-review samples. Every asset links to its upstream source; provenance, license and attribution are recorded per collection and per item.",
+ "bim:generated": "2026-10-13T11:42:08Z",
+ "bim:item_count": 562,
+ "links": [
+  {
+   "rel": "root",
+   "href": "./catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "child",
+   "href": "collections/auckland-openifc/collection.json",
+   "type": "application/json",
+   "title": "Open IFC Model Repository (University of Auckland)"
+  },
+  {
+   "rel": "child",
+   "href": "collections/autodesk-acad-samples/collection.json",
+   "type": "application/json",
+   "title": "Autodesk AutoCAD sample files"
+  },
+  {
+   "rel": "child",
+   "href": "collections/bim-whale-samples/collection.json",
+   "type": "application/json",
+   "title": "BIM Whale IFC samples"
+  },
+  {
+   "rel": "child",
+   "href": "collections/blcj-bim-kakunin/collection.json",
+   "type": "application/json",
+   "title": "BLCJ BIM図面審査サンプルモデル (S造1000㎡事務所)"
+  },
+  {
+   "rel": "child",
+   "href": "collections/bsi-bcf/collection.json",
+   "type": "application/json",
+   "title": "buildingSMART BCF-XML test cases"
+  },
+  {
+   "rel": "child",
+   "href": "collections/bsi-certification-datasets/collection.json",
+   "type": "application/json",
+   "title": "buildingSMART Certification datasets (Sample-Test-Files)"
+  },
+  {
+   "rel": "child",
+   "href": "collections/bsi-community-sample-files/collection.json",
+   "type": "application/json",
+   "title": "buildingSMART Community Sample Test Files"
+  },
+  {
+   "rel": "child",
+   "href": "collections/bsi-ids/collection.json",
+   "type": "application/json",
+   "title": "buildingSMART IDS examples"
+  },
+  {
+   "rel": "child",
+   "href": "collections/bsi-ifc-validation-rules/collection.json",
+   "type": "application/json",
+   "title": "buildingSMART ifc-gherkin-rules test files"
+  },
+  {
+   "rel": "child",
+   "href": "collections/bsi-ifc4x-specification-models/collection.json",
+   "type": "application/json",
+   "title": "buildingSMART IFC4.x specification models"
+  },
+  {
+   "rel": "child",
+   "href": "collections/bsi-ifc5-development/collection.json",
+   "type": "application/json",
+   "title": "buildingSMART IFC5-development examples (IFC5 alpha)"
+  },
+  {
+   "rel": "child",
+   "href": "collections/duraark/collection.json",
+   "type": "application/json",
+   "title": "DURAARK building datasets (TIB Hannover)"
+  },
+  {
+   "rel": "child",
+   "href": "collections/ezjww-jww-samples/collection.json",
+   "type": "application/json",
+   "title": "Jw_cad (JWW) sample drawings via ezjww"
+  },
+  {
+   "rel": "child",
+   "href": "collections/ifcopenshell-files/collection.json",
+   "type": "application/json",
+   "title": "IfcOpenShell public test files"
+  },
+  {
+   "rel": "child",
+   "href": "collections/kit-ifc-examples/collection.json",
+   "type": "application/json",
+   "title": "KIT IFC Examples (FZK-Haus, Institute, Smiley West, Simple Road)"
+  },
+  {
+   "rel": "child",
+   "href": "collections/klassiqua-office-archetypes/collection.json",
+   "type": "application/json",
+   "title": "Klassiqua office archetypes (RWTH E3D)"
+  },
+  {
+   "rel": "child",
+   "href": "collections/libredwg-testdata/collection.json",
+   "type": "application/json",
+   "title": "GNU LibreDWG test data"
+  },
+  {
+   "rel": "child",
+   "href": "collections/opensourcebim-testfiles/collection.json",
+   "type": "application/json",
+   "title": "opensourceBIM TestFiles (BIMserver test set)"
+  },
+  {
+   "rel": "child",
+   "href": "collections/schependomlaan/collection.json",
+   "type": "application/json",
+   "title": "Schependomlaan dataset (Nijmegen, NL)"
+  },
+  {
+   "rel": "child",
+   "href": "collections/sxf-samples/collection.json",
+   "type": "application/json",
+   "title": "SXF (SFC) sample drawings"
+  },
+  {
+   "rel": "child",
+   "href": "collections/tum-gni-bim/collection.json",
+   "type": "application/json",
+   "title": "TUM GNI BIM Dataset"
+  },
+  {
+   "rel": "child",
+   "href": "collections/tuwien-escape-routes/collection.json",
+   "type": "application/json",
+   "title": "TU Wien real-world escape route models"
+  },
+  {
+   "rel": "child",
+   "href": "collections/wbdg-usaf-design-packages/collection.json",
+   "type": "application/json",
+   "title": "WBDG US Air Force design packages (AFDP)"
+  },
+  {
+   "rel": "child",
+   "href": "collections/wbdg-va-cad-details/collection.json",
+   "type": "application/json",
+   "title": "WBDG VA standard CAD details"
+  },
+  {
+   "rel": "child",
+   "href": "collections/web-ifc-tests/collection.json",
+   "type": "application/json",
+   "title": "That Open Company web-ifc public test models"
+  },
+  {
+   "rel": "child",
+   "href": "collections/yousheng-ifcsamplefiles/collection.json",
+   "type": "application/json",
+   "title": "youshengCode IfcSampleFiles"
+  },
+  {
+   "rel": "child",
+   "href": "./views/catalog.json",
+   "type": "application/json",
+   "title": "Views (multi-dimensional index)"
+  },
+  {
+   "rel": "describedby",
+   "href": "./README.md",
+   "type": "text/markdown",
+   "title": "Field reference and usage"
+  },
+  {
+   "rel": "alternate",
+   "href": "./items.parquet",
+   "type": "application/vnd.apache.parquet",
+   "title": "Flat item table (DuckDB/pandas)"
+  }
+ ]
+}

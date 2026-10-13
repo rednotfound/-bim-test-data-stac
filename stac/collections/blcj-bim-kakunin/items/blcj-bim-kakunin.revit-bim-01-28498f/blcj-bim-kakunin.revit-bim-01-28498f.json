@@ -1,0 +1,153 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "blcj-bim-kakunin.revit-bim-01-28498f",
+ "geometry": null,
+ "properties": {
+  "title": "BLCJ S造1000㎡事務所 A_意匠 – Revit_BIM申請サンプルモデル_01",
+  "description": "PDF PDF 1.7 file from 'BLCJ BIM図面審査サンプルモデル (S造1000㎡事務所)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-03-26T18:13:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-BLCJ-no-redistribution",
+  "keywords": [
+   "BIM図面審査",
+   "BIM確認申請",
+   "Japan",
+   "jp-bim-drawing-review",
+   "pdf-drawing",
+   "確認申請図"
+  ],
+  "providers": [
+   {
+    "name": "BIMライブラリ技術研究組合 (BLCJ) / 建築設計三会",
+    "url": "https://blcj.or.jp/archive_index/samplemodel/",
+    "roles": [
+     "producer",
+     "host",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "PDF",
+  "bim:format_family": "PDF",
+  "bim:format_version": "PDF 1.7",
+  "bim:source": "blcj-bim-kakunin",
+  "bim:project": "blcj-s1000",
+  "bim:building_type": "office",
+  "bim:country": "JP",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "jp-bim-drawing-review",
+   "pdf-drawing"
+  ],
+  "bim:license_tier": "restricted",
+  "bim:license_url": "https://blcj.or.jp/archive_index/samplemodel/",
+  "bim:attribution": "BIMライブラリ技術研究組合 (BLCJ), BIM図面審査サンプルモデル",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "PDF CreationDate",
+  "bim:provenance": {
+   "upstream_href": "https://blcj.or.jp/wp/wp-content/uploads/2026/04/BLCJ_S1000_A_Revit1.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "BLCJ_S1000_A_Revit1/Revit_BIM申請サンプルモデル_01.pdf"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "pdf:pages": 15,
+  "pdf:creator": "CubePDF",
+  "pdf:producer": "iText® Core 8.0.3 (AGPL version) ©2000-2024 Apryse Group NV",
+  "pdf:version": "PDF 1.7",
+  "pdf:page_sizes": {
+   "A3 landscape": 15
+  },
+  "pdf:vector_pages_ratio": 0.87,
+  "pdf:raster_pages_ratio": 0.07,
+  "pdf:text_extractable": true,
+  "pdf:language_cjk": true
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./blcj-bim-kakunin.revit-bim-01-28498f.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://blcj.or.jp/archive_index/samplemodel/",
+   "title": "LicenseRef-BLCJ-no-redistribution"
+  },
+  {
+   "rel": "via",
+   "href": "https://blcj.or.jp/archive_index/samplemodel/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../blcj-bim-kakunin.03-2-bim-r08-03-001-revit-3b4a98/blcj-bim-kakunin.03-2-bim-r08-03-001-revit-3b4a98.json",
+   "type": "application/geo+json",
+   "title": "Same project (blcj-s1000)"
+  },
+  {
+   "rel": "related",
+   "href": "../blcj-bim-kakunin.s-260319-d1180c/blcj-bim-kakunin.s-260319-d1180c.json",
+   "type": "application/geo+json",
+   "title": "Same project (blcj-s1000)"
+  },
+  {
+   "rel": "related",
+   "href": "../blcj-bim-kakunin.s-ss7-bim-fc36ab/blcj-bim-kakunin.s-ss7-bim-fc36ab.json",
+   "type": "application/geo+json",
+   "title": "Same project (blcj-s1000)"
+  },
+  {
+   "rel": "related",
+   "href": "../blcj-bim-kakunin.blcjsample-e-revit-01-ef8839/blcj-bim-kakunin.blcjsample-e-revit-01-ef8839.json",
+   "type": "application/geo+json",
+   "title": "Same project (blcj-s1000)"
+  },
+  {
+   "rel": "related",
+   "href": "../blcj-bim-kakunin.blcjsample-m-revit-01-7e672c/blcj-bim-kakunin.blcjsample-m-revit-01-7e672c.json",
+   "type": "application/geo+json",
+   "title": "Same project (blcj-s1000)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://blcj.or.jp/wp/wp-content/uploads/2026/04/BLCJ_S1000_A_Revit1.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "Revit_BIM申請サンプルモデル_01.pdf",
+   "file:size": 60281681,
+   "file:checksum": "122064208507bf9167958ffb37c95692563b18534a76a004c93e5046fa9a36a2a30e",
+   "bim:archive_member": "BLCJ_S1000_A_Revit1/Revit_BIM申請サンプルモデル_01.pdf",
+   "bim:archive_member_type": "application/pdf",
+   "bim:archive_member_size": 1756922,
+   "bim:archive_member_checksum": "122005af7a51ff65f4a42be64409e33891cdf68092f224c433117d62fa6d601b2d18"
+  }
+ },
+ "collection": "blcj-bim-kakunin"
+}

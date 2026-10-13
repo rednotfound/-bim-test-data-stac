@@ -1,0 +1,228 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "use-case--validation-pass-0cb31a",
+ "title": "use-case: validation-pass",
+ "description": "34 items where use-case = validation-pass. Items are shared with their source collections.",
+ "bim:dimension": "use-case",
+ "bim:value": "validation-pass",
+ "bim:item_count": 34,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-alb000-alignment-with-layout-01ea37/bsi-ifc-validation-rules.pass-alb000-alignment-with-layout-01ea37.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ALB – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-als000-alignment-geometry-3b9ae1/bsi-ifc-validation-rules.pass-als000-alignment-geometry-3b9ae1.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ALS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ann000-annotations-geometry-present-2be35f/bsi-ifc-validation-rules.pass-ann000-annotations-geometry-present-2be35f.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ANN – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-asm000-activated-assembly-present-6cb774/bsi-ifc-validation-rules.pass-asm000-activated-assembly-present-6cb774.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ASM – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-axg000-axis-geometry-present-bac99d/bsi-ifc-validation-rules.pass-axg000-axis-geometry-present-bac99d.json",
+   "type": "application/geo+json",
+   "title": "Validation rule AXG – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-bbx000-ifc4-bounding-box-present-ed6c05/bsi-ifc-validation-rules.pass-bbx000-ifc4-bounding-box-present-ed6c05.json",
+   "type": "application/geo+json",
+   "title": "Validation rule BBX – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-blt000-ifc2x3-building-element-present-a0478f/bsi-ifc-validation-rules.pass-blt000-ifc2x3-building-element-present-a0478f.json",
+   "type": "application/geo+json",
+   "title": "Validation rule BLT – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-brp001-parallel-concave-faceinnerbound-444167/bsi-ifc-validation-rules.pass-brp001-parallel-concave-faceinnerbound-444167.json",
+   "type": "application/geo+json",
+   "title": "Validation rule BRP – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-cls000-classification-present-91afaf/bsi-ifc-validation-rules.pass-cls000-classification-present-91afaf.json",
+   "type": "application/geo+json",
+   "title": "Validation rule CLS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ctx000-alignment-with-styled-material-976311/bsi-ifc-validation-rules.pass-ctx000-alignment-with-styled-material-976311.json",
+   "type": "application/geo+json",
+   "title": "Validation rule CTX – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-doc000-reference-to-project-c5dd48/bsi-ifc-validation-rules.pass-doc000-reference-to-project-c5dd48.json",
+   "type": "application/geo+json",
+   "title": "Validation rule DOC – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-gdp000-grid-placement-present-013513/bsi-ifc-validation-rules.pass-gdp000-grid-placement-present-013513.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GDP – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-gem001-beam-straight-i-shape-tessellated-704774/bsi-ifc-validation-rules.pass-gem001-beam-straight-i-shape-tessellated-704774.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GEM – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-grf000-correct-georeferencing-30a2fe/bsi-ifc-validation-rules.pass-grf000-correct-georeferencing-30a2fe.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GRF – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-grp000-contains-groups-099cf7/bsi-ifc-validation-rules.pass-grp000-contains-groups-099cf7.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GRP – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ifc101-ifc2x3-567496/bsi-ifc-validation-rules.pass-ifc101-ifc2x3-567496.json",
+   "type": "application/geo+json",
+   "title": "Validation rule IFC – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-lay000-correct-layer-assignment-2120a1/bsi-ifc-validation-rules.pass-lay000-correct-layer-assignment-2120a1.json",
+   "type": "application/geo+json",
+   "title": "Validation rule LAY – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-lip000-linear-placement-present-2e9a76/bsi-ifc-validation-rules.pass-lip000-linear-placement-present-2e9a76.json",
+   "type": "application/geo+json",
+   "title": "Validation rule LIP – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-lop000-grid-placement-f980e5/bsi-ifc-validation-rules.pass-lop000-grid-placement-f980e5.json",
+   "type": "application/geo+json",
+   "title": "Validation rule LOP – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-mat000-passing-valid-material-assigned-to-ele-317c36/bsi-ifc-validation-rules.pass-mat000-passing-valid-material-assigned-to-ele-317c36.json",
+   "type": "application/geo+json",
+   "title": "Validation rule MAT – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-mpd001-single-mapped-item-c2375f/bsi-ifc-validation-rules.pass-mpd001-single-mapped-item-c2375f.json",
+   "type": "application/geo+json",
+   "title": "Validation rule MPD – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ojp000-object-placement-present-53bc3d/bsi-ifc-validation-rules.pass-ojp000-object-placement-present-53bc3d.json",
+   "type": "application/geo+json",
+   "title": "Validation rule OJP – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ojt001-scenario01-userdefined-w-object-type-b3c9fe/bsi-ifc-validation-rules.pass-ojt001-scenario01-userdefined-w-object-type-b3c9fe.json",
+   "type": "application/geo+json",
+   "title": "Validation rule OJT – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-pjs000-project-present-bdd005/bsi-ifc-validation-rules.pass-pjs000-project-present-bdd005.json",
+   "type": "application/geo+json",
+   "title": "Validation rule PJS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-por000-passing-valid-port-connectivity-663a77/bsi-ifc-validation-rules.pass-por000-passing-valid-port-connectivity-663a77.json",
+   "type": "application/geo+json",
+   "title": "Validation rule POR – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-pse001-ifc2x3-on-occurence-electric-actuator-07b196/bsi-ifc-validation-rules.pass-pse001-ifc2x3-on-occurence-electric-actuator-07b196.json",
+   "type": "application/geo+json",
+   "title": "Validation rule PSE – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-qty000-activated-quantities-and-psets-3c24fb/bsi-ifc-validation-rules.pass-qty000-activated-quantities-and-psets-3c24fb.json",
+   "type": "application/geo+json",
+   "title": "Validation rule QTY – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-spa000-activated-space-present-03a949/bsi-ifc-validation-rules.pass-spa000-activated-space-present-03a949.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SPA – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-sps001-0-sites-1-buildings-variant-0-76e58d/bsi-ifc-validation-rules.pass-sps001-0-sites-1-buildings-variant-0-76e58d.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SPS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-swe001-ifcarbitraryclosedprofiledef-non-inter-3c9817/bsi-ifc-validation-rules.pass-swe001-ifcarbitraryclosedprofiledef-non-inter-3c9817.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SWE – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-sys001-sink-source-f87eb5/bsi-ifc-validation-rules.pass-sys001-sink-source-f87eb5.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SYS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-tas001-polygonalfaceset-parallel-concave-f9a33a/bsi-ifc-validation-rules.pass-tas001-polygonalfaceset-parallel-concave-f9a33a.json",
+   "type": "application/geo+json",
+   "title": "Validation rule TAS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ver000-owner-with-last-modify-date-7ce738/bsi-ifc-validation-rules.pass-ver000-owner-with-last-modify-date-7ce738.json",
+   "type": "application/geo+json",
+   "title": "Validation rule VER – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-vrt000-virtual-element-present-c1235d/bsi-ifc-validation-rules.pass-vrt000-virtual-element-present-c1235d.json",
+   "type": "application/geo+json",
+   "title": "Validation rule VRT – pass"
+  }
+ ]
+}

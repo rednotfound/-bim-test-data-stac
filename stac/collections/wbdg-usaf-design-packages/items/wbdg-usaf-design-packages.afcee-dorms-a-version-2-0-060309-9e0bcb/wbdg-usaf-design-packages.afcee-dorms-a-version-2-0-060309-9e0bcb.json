@@ -1,0 +1,199 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "wbdg-usaf-design-packages.afcee-dorms-a-version-2-0-060309-9e0bcb",
+ "geometry": null,
+ "properties": {
+  "title": "USAF Enlisted Dorm – AFCEE-DORMS-A-VERSION 2.0-060309",
+  "description": "RVT Revit 2009 file from 'WBDG US Air Force design packages (AFDP)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-13T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-US-Government-Public-Domain",
+  "keywords": [
+   "Revit",
+   "USAF",
+   "public domain",
+   "real-project",
+   "revit-native",
+   "sheet set"
+  ],
+  "providers": [
+   {
+    "name": "US Air Force Civil Engineer Center (AFCEC)",
+    "url": "https://www.wbdg.org/ffc/af-afcec",
+    "roles": [
+     "producer"
+    ]
+   },
+   {
+    "name": "Whole Building Design Guide (WBDG), NIBS",
+    "url": "https://www.wbdg.org",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "RVT",
+  "bim:format_family": "BIM-native",
+  "bim:format_version": "Revit 2009",
+  "bim:source": "wbdg-usaf-design-packages",
+  "bim:project": "usaf-enlisted_dorm",
+  "bim:building_type": "dormitory",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "revit-native",
+   "real-project"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://www.usa.gov/government-copyright",
+  "bim:attribution": "US Air Force Civil Engineer Center, via WBDG (wbdg.org)",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "retrieval date",
+  "bim:provenance": {
+   "upstream_href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE-DORMS-A-VERSION%202.0-060309.rvt",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "not applicable",
+  "rvt:build": "20081118_1045",
+  "rvt:revit_version": "2009",
+  "rvt:revit_version_estimated_from_build": true,
+  "rvt:worksharing": "Central"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./wbdg-usaf-design-packages.afcee-dorms-a-version-2-0-060309-9e0bcb.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.usa.gov/government-copyright",
+   "title": "LicenseRef-US-Government-Public-Domain"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.wbdg.org/ffc/af-afcec/design-packages",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.afcee-dynamic-dorm-prototypes-111709-dad8c1/wbdg-usaf-design-packages.afcee-dynamic-dorm-prototypes-111709-dad8c1.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-enlisted_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.afcee-dorms-all-version-2-1-321e5d/wbdg-usaf-design-packages.afcee-dorms-all-version-2-1-321e5d.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-enlisted_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.afcee-dorms-e-version-2-0-060309-d80bfe/wbdg-usaf-design-packages.afcee-dorms-e-version-2-0-060309-d80bfe.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-enlisted_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.afcee-dorms-f-version-2-0-060309-36f02f/wbdg-usaf-design-packages.afcee-dorms-f-version-2-0-060309-36f02f.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-enlisted_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.afcee-dorms-m-version-2-0-060309-b4dad5/wbdg-usaf-design-packages.afcee-dorms-m-version-2-0-060309-b4dad5.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-enlisted_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.afcee-dorms-p-version-2-0-060309-77de9b/wbdg-usaf-design-packages.afcee-dorms-p-version-2-0-060309-77de9b.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-enlisted_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.architecturesheets-v1-0-94d065/wbdg-usaf-design-packages.architecturesheets-v1-0-94d065.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-enlisted_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.electrical-sheets-v1-0-5a4a11/wbdg-usaf-design-packages.electrical-sheets-v1-0-5a4a11.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-enlisted_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.fireprotectionsheets-v1-0-f57a5b/wbdg-usaf-design-packages.fireprotectionsheets-v1-0-f57a5b.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-enlisted_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.mechanicalsheets-v1-0-f68e34/wbdg-usaf-design-packages.mechanicalsheets-v1-0-f68e34.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-enlisted_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.plumbingsheets-v1-0-553698/wbdg-usaf-design-packages.plumbingsheets-v1-0-553698.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-enlisted_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.structuralsheets-v1-0-8b0e4d/wbdg-usaf-design-packages.structuralsheets-v1-0-8b0e4d.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-enlisted_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.v2-1-afcee-dynamic-prototype-bim-manual-051109-f81120/wbdg-usaf-design-packages.v2-1-afcee-dynamic-prototype-bim-manual-051109-f81120.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-enlisted_dorm)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.v2-2-specifications-061509-rev-0bf234/wbdg-usaf-design-packages.v2-2-specifications-061509-rev-0bf234.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-enlisted_dorm)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE-DORMS-A-VERSION%202.0-060309.rvt",
+   "type": "application/octet-stream",
+   "roles": [
+    "data"
+   ],
+   "title": "AFCEE-DORMS-A-VERSION 2.0-060309.rvt",
+   "file:size": 14331904,
+   "file:checksum": "1220d154276bb487f3f29b129e43faf744b1710be021e01ce6db9ec4817a2b7d37e5"
+  }
+ },
+ "collection": "wbdg-usaf-design-packages"
+}

@@ -1,0 +1,42 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--public-safety-ea438b",
+ "title": "building-type: public-safety",
+ "description": "3 items where building-type = public-safety. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "public-safety",
+ "bim:item_count": 3,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fire-station-prototype-central-89a143/wbdg-usaf-design-packages.fire-station-prototype-central-89a143.json",
+   "type": "application/geo+json",
+   "title": "USAF Fire Station – FIRE_STATION_PROTOTYPE_CENTRAL"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fs-proto-hq-606dbb/wbdg-usaf-design-packages.fs-proto-hq-606dbb.json",
+   "type": "application/geo+json",
+   "title": "USAF Fire Station – fs_proto_hq"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fs-proto-sat-0057e4/wbdg-usaf-design-packages.fs-proto-sat-0057e4.json",
+   "type": "application/geo+json",
+   "title": "USAF Fire Station – fs_proto_sat"
+  }
+ ]
+}

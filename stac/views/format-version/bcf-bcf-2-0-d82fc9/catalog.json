@@ -1,0 +1,30 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "format-version--bcf-bcf-2-0-d82fc9",
+ "title": "format-version: BCF BCF 2.0",
+ "description": "1 items where format-version = BCF BCF 2.0. Items are shared with their source collections.",
+ "bim:dimension": "format-version",
+ "bim:value": "BCF BCF 2.0",
+ "bim:item_count": 1,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-compleet-interne-modelkwaliteit-0b55bc/schependomlaan.root-compleet-interne-modelkwaliteit-0b55bc.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan model-quality issues (BCF)"
+  }
+ ]
+}

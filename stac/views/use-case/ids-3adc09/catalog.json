@@ -1,0 +1,96 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "use-case--ids-3adc09",
+ "title": "use-case: ids",
+ "description": "12 items where use-case = ids. Items are shared with their source collections.",
+ "bim:dimension": "use-case",
+ "bim:value": "ids",
+ "bim:item_count": 12,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-aedes-example-76fd4c/bsi-ids.ids-aedes-example-76fd4c.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_Aedes_example"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-arcdox-cf440c/bsi-ids.ids-arcdox-cf440c.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_ArcDox"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-simplebim-examples-a151cf/bsi-ids.ids-simplebim-examples-a151cf.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_SimpleBIM_examples"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-structuralsafety-b6f98c/bsi-ids.ids-structuralsafety-b6f98c.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_StructuralSafety"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-aachen-example-c18c5f/bsi-ids.ids-aachen-example-c18c5f.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_aachen_example"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-demo-bim-basis-ils-39bfa0/bsi-ids.ids-demo-bim-basis-ils-39bfa0.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_demo_BIM-basis-ILS"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-oma-input-76bba7/bsi-ids.ids-oma-input-76bba7.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_oma_input"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-oma-output-08d2e4/bsi-ids.ids-oma-output-08d2e4.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_oma_output"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-random-example-b1a0fc/bsi-ids.ids-random-example-b1a0fc.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_random_example"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-ucms-prefab-pipes-ifc2x3-08982b/bsi-ids.ids-ucms-prefab-pipes-ifc2x3-08982b.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_ucms_prefab_pipes_IFC2x3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-ucms-prefab-pipes-ifc4-3-855ead/bsi-ids.ids-ucms-prefab-pipes-ifc4-3-855ead.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_ucms_prefab_pipes_IFC4.3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-wooden-windows-f1749a/bsi-ids.ids-wooden-windows-f1749a.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_wooden-windows"
+  }
+ ]
+}

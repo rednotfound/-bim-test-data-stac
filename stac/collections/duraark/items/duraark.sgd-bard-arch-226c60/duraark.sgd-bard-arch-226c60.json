@@ -1,0 +1,123 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.sgd-bard-arch-226c60",
+ "geometry": null,
+ "properties": {
+  "title": "Statsbygg BARD – SGD_BARD_Arch",
+  "description": "IFC-SPF IFC2X2_FINAL file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2007-03-29T08:35:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X2_FINAL",
+  "bim:source": "duraark",
+  "bim:project": "duraark-sgd-bard-ifc-16dc19",
+  "bim:building_type": "public",
+  "bim:country": "NO",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_BARD_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "SGD_BARD/SGD_BARD_Arch.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "BSPro generated Ifc-file."
+  ],
+  "ifc:header_timestamp": "2007-03-29T08:35:00",
+  "ifc:preprocessor_version": "MS-Windows",
+  "ifc:originating_system": "BSPro",
+  "ifc:schema": "IFC2X2_FINAL",
+  "ifc:parse_error": "SchemaError: Unsupported schema: IFC2X2_FINAL"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.sgd-bard-arch-226c60.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-bard-merged-dcfffa/duraark.sgd-bard-merged-dcfffa.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-bard-ifc-16dc19)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_BARD_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "SGD_BARD_Arch.ifc",
+   "file:size": 6677093,
+   "file:checksum": "1220b092d98b828b534efdd9065c3e69f12c2a374825cd4e88504dec06f749c17f12",
+   "bim:archive_member": "SGD_BARD/SGD_BARD_Arch.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 11540510,
+   "bim:archive_member_checksum": "1220747b80958b53ea5cc78aa087c7817a529daf00fd7e4276b19178aa25692c9019"
+  }
+ },
+ "collection": "duraark"
+}

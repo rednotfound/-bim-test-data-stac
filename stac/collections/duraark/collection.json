@@ -1,0 +1,535 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [],
+ "id": "duraark",
+ "title": "DURAARK building datasets (TIB Hannover)",
+ "description": "IFC (and E57 point cloud) datasets collected by the EU FP7 DURAARK project, hosted by TIB.",
+ "license": "LicenseRef-unspecified",
+ "keywords": [
+  "real project",
+  "point cloud",
+  "multi-vendor"
+ ],
+ "providers": [
+  {
+   "name": "DURAARK project / TIB Hannover",
+   "url": "https://duraark.github.io/website/",
+   "roles": [
+    "host"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     -71.461,
+     42.213,
+     18.05,
+     67.333333
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2003-09-29T17:57:46Z",
+     "2026-10-13T00:00:00Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "IFC-SPF"
+  ],
+  "bim:format_version": [
+   "IFC2X2_FINAL",
+   "IFC2X3"
+  ],
+  "bim:building_type": [
+   "education",
+   "healthcare",
+   "hospitality",
+   "office",
+   "public",
+   "residential"
+  ],
+  "bim:country": [
+   "CA",
+   "DE",
+   "GB",
+   "NO",
+   "SE",
+   "US"
+  ],
+  "bim:use_cases": [
+   "multi-discipline",
+   "multi-vendor",
+   "real-project"
+  ],
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:license_tier": [
+   "unclear"
+  ]
+ },
+ "bim:license_tier": "unclear",
+ "bim:license_quote": "License varies per dataset; not stated per file.",
+ "bim:attribution": "DURAARK datasets, TIB Hannover",
+ "bim:origin": {
+  "kind": "url",
+  "base": "https://tib.eu/data/duraark/BuildingData/"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 69,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "about",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.academic-autodesk-advancedsampleproject-arch-310c53/duraark.academic-autodesk-advancedsampleproject-arch-310c53.json",
+   "type": "application/geo+json",
+   "title": "Autodesk academic sample projects – Academic_Autodesk-AdvancedSampleProject_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.academic-autodesk-basicsampleproject-arch-ab5596/duraark.academic-autodesk-basicsampleproject-arch-ab5596.json",
+   "type": "application/geo+json",
+   "title": "Autodesk academic sample projects – Academic_Autodesk-BasicSampleProject_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.autodesk-research-210-king-2c788c/duraark.autodesk-research-210-king-2c788c.json",
+   "type": "application/geo+json",
+   "title": "Autodesk Research 210 King St – Autodesk-Research_210-King"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.fojab-landsarkivet-ced8bc/duraark.fojab-landsarkivet-ced8bc.json",
+   "type": "application/geo+json",
+   "title": "FOJAB Landsarkivet archive building – FOJAB_Landsarkivet"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.kit-institute-arch-66a241/duraark.kit-institute-arch-66a241.json",
+   "type": "application/geo+json",
+   "title": "KIT Institute – KIT_Institute_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.kit-smiley-west-arch-f73627/duraark.kit-smiley-west-arch-f73627.json",
+   "type": "application/geo+json",
+   "title": "KIT Smiley West – KIT_Smiley-West_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.ltu-a-house-air-c8f0f3/duraark.ltu-a-house-air-c8f0f3.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Air"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.ltu-a-house-cooling-afa549/duraark.ltu-a-house-cooling-afa549.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Cooling"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.ltu-a-house-ducting-0034bb/duraark.ltu-a-house-ducting-0034bb.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Ducting"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.ltu-a-house-heating-a133cd/duraark.ltu-a-house-heating-a133cd.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Heating"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.ltu-a-house-k-modell-1c28a0/duraark.ltu-a-house-k-modell-1c28a0.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_K-modell"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.ltu-a-house-plumbing-561157/duraark.ltu-a-house-plumbing-561157.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Plumbing"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.ltu-a-house-sanitation-883c45/duraark.ltu-a-house-sanitation-883c45.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Sanitation"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.ltu-a-house-voids-583df6/duraark.ltu-a-house-voids-583df6.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_VOIDS"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.ltu-a-house-redesign-7862bb/duraark.ltu-a-house-redesign-7862bb.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_redesign"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbs-lakesideac01-arch-4cb31a/duraark.nbs-lakesideac01-arch-4cb31a.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideAC01_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbs-lakesideac10-arch-a2241c/duraark.nbs-lakesideac10-arch-a2241c.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideAC10_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbs-lakesidervt01-arch-e8476a/duraark.nbs-lakesidervt01-arch-e8476a.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideRVT01_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbs-lakesidervt10-arch-a5bab3/duraark.nbs-lakesidervt10-arch-a5bab3.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideRVT10_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbs-lakesidevw00-arch-d856f9/duraark.nbs-lakesidevw00-arch-d856f9.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideVW00_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-duplex-apt-cobie-arch-design-38bfb6/duraark.nbu-duplex-apt-cobie-arch-design-38bfb6.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Design"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-duplex-apt-cobie-arch-handover-25d225/duraark.nbu-duplex-apt-cobie-arch-handover-25d225.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Handover"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-duplex-apt-cobie-arch-productinstall-aa7ad1/duraark.nbu-duplex-apt-cobie-arch-productinstall-aa7ad1.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-ProductInstall"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-duplex-apt-cobie-arch-productselect-0b280e/duraark.nbu-duplex-apt-cobie-arch-productselect-0b280e.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-ProductSelect"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-duplex-apt-cobie-arch-programming-8f2068/duraark.nbu-duplex-apt-cobie-arch-programming-8f2068.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Programming"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-duplex-apt-arch-optimized-7d2f52/duraark.nbu-duplex-apt-arch-optimized-7d2f52.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Arch-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-duplex-apt-arch-2a541a/duraark.nbu-duplex-apt-arch-2a541a.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-duplex-apt-eng-hvac-d0351f/duraark.nbu-duplex-apt-eng-hvac-d0351f.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-duplex-apt-eng-mep-1-1f89f8/duraark.nbu-duplex-apt-eng-mep-1-1f89f8.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-1"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-duplex-apt-eng-mep-2-d556be/duraark.nbu-duplex-apt-eng-mep-2-d556be.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-2"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-duplex-apt-eng-mep-optimized-2b49f8/duraark.nbu-duplex-apt-eng-mep-optimized-2b49f8.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-duplex-apt-eng-mep-3d6c63/duraark.nbu-duplex-apt-eng-mep-3d6c63.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-medicalclinic-arch-optimized-1cdc6b/duraark.nbu-medicalclinic-arch-optimized-1cdc6b.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Arch-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-medicalclinic-arch-533287/duraark.nbu-medicalclinic-arch-533287.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-medicalclinic-eng-con-optimized-6e159f/duraark.nbu-medicalclinic-eng-con-optimized-6e159f.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-CON-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-medicalclinic-eng-con-34598f/duraark.nbu-medicalclinic-eng-con-34598f.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-CON"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-medicalclinic-eng-ele-844e46/duraark.nbu-medicalclinic-eng-ele-844e46.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-ELE"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-medicalclinic-eng-hvac-1a8cd0/duraark.nbu-medicalclinic-eng-hvac-1a8cd0.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-medicalclinic-eng-mep-optimized-a77f60/duraark.nbu-medicalclinic-eng-mep-optimized-a77f60.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-MEP-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.nbu-medicalclinic-eng-mep-9b2176/duraark.nbu-medicalclinic-eng-mep-9b2176.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-MEP"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-bard-arch-226c60/duraark.sgd-bard-arch-226c60.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg BARD – SGD_BARD_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-bard-merged-dcfffa/duraark.sgd-bard-merged-dcfffa.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg BARD – SGD_BARD_Merged"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-bodo-arch-1-069842/duraark.sgd-bodo-arch-1-069842.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Arch-1"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-bodo-arch-2-b2fb79/duraark.sgd-bodo-arch-2-b2fb79.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Arch-2"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-bodo-arch-3-6d6e71/duraark.sgd-bodo-arch-3-6d6e71.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Arch-3"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-bodo-eng-hvac-plumbing-754023/duraark.sgd-bodo-eng-hvac-plumbing-754023.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Eng-HVAC-Plumbing"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-bodo-eng-hvac-ventilation-4f8e07/duraark.sgd-bodo-eng-hvac-ventilation-4f8e07.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-blueberry-arch-1-c3dc41/duraark.sgd-blueberry-arch-1-c3dc41.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-1"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-blueberry-arch-2-e21292/duraark.sgd-blueberry-arch-2-e21292.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-2"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-blueberry-arch-3-4a2704/duraark.sgd-blueberry-arch-3-4a2704.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-3"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-blueberry-eng-hvac-plumbing-1-d25031/duraark.sgd-blueberry-eng-hvac-plumbing-1-d25031.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Plumbing-1"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-blueberry-eng-hvac-plumbing-2-40a8fe/duraark.sgd-blueberry-eng-hvac-plumbing-2-40a8fe.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Plumbing-2"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-blueberry-eng-hvac-ventilation-e91fcc/duraark.sgd-blueberry-eng-hvac-ventilation-e91fcc.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-blueberry-eng-hvac-c59679/duraark.sgd-blueberry-eng-hvac-c59679.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-blueberry-merged-plumbing-1-fd02c1/duraark.sgd-blueberry-merged-plumbing-1-fd02c1.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Plumbing-1"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-blueberry-merged-plumbing-2-851723/duraark.sgd-blueberry-merged-plumbing-2-851723.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Plumbing-2"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-blueberry-merged-ventilation-bb05a3/duraark.sgd-blueberry-merged-ventilation-bb05a3.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Ventilation_"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-duplex-eng-hvac-plumbing-fa9beb/duraark.sgd-duplex-eng-hvac-plumbing-fa9beb.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Duplex – SGD_Duplex_Eng-HVAC-Plumbing"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-duplex-eng-hvac-ventilation-7aff8a/duraark.sgd-duplex-eng-hvac-ventilation-7aff8a.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Duplex – SGD_Duplex_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-hitos-arch-0b5720/duraark.sgd-hitos-arch-0b5720.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg HiTOS – SGD_HiTOS_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-hitos-eng-ele-b918e6/duraark.sgd-hitos-eng-ele-b918e6.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg HiTOS – SGD_HiTOS_Eng-ELE"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-hitos-eng-hvac-38ea51/duraark.sgd-hitos-eng-hvac-38ea51.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg HiTOS – SGD_HiTOS_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-munkerud-arch-1-96c32c/duraark.sgd-munkerud-arch-1-96c32c.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Arch-1"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-munkerud-arch-2-8de680/duraark.sgd-munkerud-arch-2-8de680.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Arch-2"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-munkerud-arch-3-e03ec0/duraark.sgd-munkerud-arch-3-e03ec0.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Arch-3"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-munkerud-eng-ele-075788/duraark.sgd-munkerud-eng-ele-075788.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Eng-ELE"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-munkerud-eng-hvac-sanitary-c31506/duraark.sgd-munkerud-eng-hvac-sanitary-c31506.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Eng-HVAC-Sanitary"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-munkerud-eng-hvac-ventilation-ed8922/duraark.sgd-munkerud-eng-hvac-ventilation-ed8922.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "items/duraark.sgd-munkerud-merged-09f087/duraark.sgd-munkerud-merged-09f087.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Merged"
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.nbs-lakesidevw00-arch-d856f9",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -71.258072,
+   42.414864
+  ]
+ },
+ "bbox": [
+  -71.258072,
+  42.414864,
+  -71.258072,
+  42.414864
+ ],
+ "properties": {
+  "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideVW00_Arch",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2012-08-17T07:26:59Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-nbs-lakeside-ifc-4e0964",
+  "bim:building_type": "hospitality",
+  "bim:country": "GB",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-vendor"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBS_Lakeside_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "NBS_Lakeside/NBS_LakesideVW00_Arch.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView]"
+  ],
+  "ifc:view_definition": "CoordinationView",
+  "ifc:header_timestamp": "2012-08-17T07:26:59",
+  "ifc:preprocessor_version": "Autodesk Revit Architecture 2012 - 1.0",
+  "ifc:originating_system": "20110916_2132(x64)",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 4875,
+  "ifc:product_types": 18,
+  "ifc:storeys": 8,
+  "ifc:spaces": 21,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "PSet_Revit_Constraints",
+   "PSet_Revit_Construction",
+   "PSet_Revit_Data",
+   "PSet_Revit_Dimensions",
+   "PSet_Revit_Electrical - Loads",
+   "PSet_Revit_Fire Protection",
+   "PSet_Revit_General",
+   "PSet_Revit_Graphics",
+   "PSet_Revit_Grid 1 Pattern",
+   "PSet_Revit_Grid 2 Pattern",
+   "PSet_Revit_Horizontal Grid Pattern",
+   "PSet_Revit_Identity Data",
+   "PSet_Revit_Materials and Finishes",
+   "PSet_Revit_Mechanical",
+   "PSet_Revit_Other",
+   "PSet_Revit_Phasing",
+   "PSet_Revit_Profile",
+   "PSet_Revit_Structural",
+   "PSet_Revit_Structural Analysis",
+   "PSet_Revit_Text",
+   "PSet_Revit_Type_Constraints",
+   "PSet_Revit_Type_Construction",
+   "PSet_Revit_Type_Dimensions",
+   "PSet_Revit_Type_Graphics",
+   "PSet_Revit_Type_Grid 1 Mullions",
+   "PSet_Revit_Type_Grid 1 Pattern",
+   "PSet_Revit_Type_Grid 2 Pattern",
+   "PSet_Revit_Type_Horizontal Grid Pattern",
+   "PSet_Revit_Type_Horizontal Mullions",
+   "PSet_Revit_Type_Identity Data",
+   "PSet_Revit_Type_Materials and Finishes",
+   "PSet_Revit_Type_Other",
+   "PSet_Revit_Type_Plumbing",
+   "PSet_Revit_Type_Risers",
+   "PSet_Revit_Type_Stringers",
+   "PSet_Revit_Type_Structural",
+   "PSet_Revit_Type_Structural Analysis",
+   "PSet_Revit_Type_Treads",
+   "PSet_Revit_Type_Vertical Grid Pattern",
+   "PSet_Revit_Type_Vertical Mullions",
+   "PSet_Revit_Type_Visibility",
+   "PSet_Revit_Vertical Grid Pattern",
+   "PSet_Revit_Visibility",
+   "Pset_BuildingCommon",
+   "Pset_BuildingElementProxyCommon",
+   "Pset_ColumnCommon",
+   "Pset_CoveringCommon",
+   "Pset_CurtainWallCommon",
+   "Pset_DoorCommon",
+   "Pset_RailingCommon",
+   "Pset_RoofCommon",
+   "Pset_SlabCommon",
+   "Pset_SpaceCommon",
+   "Pset_StairCommon",
+   "Pset_StairFlightCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon"
+  ],
+  "ifc:props": 50753,
+  "ifc:qsets": 42,
+  "ifc:materials": 49,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 610,
+  "ifc:docs": 0,
+  "ifc:score": 22.08,
+  "ifc:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcMember": 2056,
+   "IfcPlate": 1167,
+   "IfcBeam": 769,
+   "IfcFurnishingElement": 201,
+   "IfcBuildingElementProxy": 176,
+   "IfcColumn": 141,
+   "IfcCurtainWall": 97,
+   "IfcWallStandardCase": 96,
+   "IfcWindow": 51,
+   "IfcDoor": 40,
+   "IfcSlab": 25,
+   "IfcCovering": 22,
+   "IfcRailing": 14,
+   "IfcRoof": 9,
+   "IfcFlowTerminal": 6,
+   "IfcStair": 2,
+   "IfcStairFlight": 2,
+   "IfcWall": 1
+  },
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:storey_names": [
+   "GROUND FLOOR",
+   "LOWER ROOF - SLAB LEVEL",
+   "ROOF OVER MAIN BEAMS",
+   "TOP OF ROOF",
+   "HIGH TIDE",
+   "DMD REF LEVEL",
+   "DECK BEAMS",
+   "TOS"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)",
+  "bim:site_elevation": -0.0
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.nbs-lakesidevw00-arch-d856f9.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbs-lakesideac01-arch-4cb31a/duraark.nbs-lakesideac01-arch-4cb31a.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbs-lakeside-ifc-4e0964)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbs-lakesideac10-arch-a2241c/duraark.nbs-lakesideac10-arch-a2241c.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbs-lakeside-ifc-4e0964)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbs-lakesidervt01-arch-e8476a/duraark.nbs-lakesidervt01-arch-e8476a.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbs-lakeside-ifc-4e0964)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbs-lakesidervt10-arch-a5bab3/duraark.nbs-lakesidervt10-arch-a5bab3.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbs-lakeside-ifc-4e0964)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBS_Lakeside_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "NBS_LakesideVW00_Arch.ifc",
+   "file:size": 29348700,
+   "file:checksum": "1220fa10e6fdb4b62e4b0a1e36684c4f1910f1bb477c38df5a64db6c9a465e5701c6",
+   "bim:archive_member": "NBS_Lakeside/NBS_LakesideVW00_Arch.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 38195351,
+   "bim:archive_member_checksum": "1220deb796155a35f59d287b34b350132530591f51aefb9290b207c77be6e9b955a5"
+  }
+ },
+ "collection": "duraark"
+}

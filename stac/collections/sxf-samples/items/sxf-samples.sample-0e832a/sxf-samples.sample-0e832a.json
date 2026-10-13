@@ -1,0 +1,140 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "sxf-samples.sample-0e832a",
+ "geometry": null,
+ "properties": {
+  "title": "SXF(SFC) survey drawing sample",
+  "description": "SXF SXF SFC file from 'SXF (SFC) sample drawings'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-13T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "other",
+  "keywords": [
+   "Japan",
+   "SFC",
+   "SXF",
+   "jp-cad",
+   "jp-public-works",
+   "電子納品"
+  ],
+  "providers": [
+   {
+    "name": "iku190t/ais-survey-tool (AGPL-3.0)",
+    "url": "https://github.com/iku190t/ais-survey-tool",
+    "roles": [
+     "host"
+    ]
+   },
+   {
+    "name": "allfestaboss/doboku-bench (MIT)",
+    "url": "https://github.com/allfestaboss/doboku-bench",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "SXF",
+  "bim:format_family": "CAD-2D",
+  "bim:format_version": "SXF SFC",
+  "bim:source": "sxf-samples",
+  "bim:building_type": "civil",
+  "bim:country": "JP",
+  "bim:use_cases": [
+   "jp-cad",
+   "jp-public-works"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://github.com/iku190t/ais-survey-tool/blob/main/LICENSE",
+  "bim:attribution": "iku190t/ais-survey-tool (AGPL-3.0); allfestaboss/doboku-bench (MIT)",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "retrieval date",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/iku190t/ais-survey-tool/ac516c6c7a068eae2680fbfeb27455fa09a3dcd6/sample.sfc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/iku190t/ais-survey-tool",
+   "commit": "ac516c6c7a068eae2680fbfeb27455fa09a3dcd6",
+   "path": "sample.sfc",
+   "browse_url": "https://github.com/iku190t/ais-survey-tool/blob/ac516c6c7a068eae2680fbfeb27455fa09a3dcd6/sample.sfc",
+   "git_lfs": false
+  },
+  "bim:thumbnail": "not applicable",
+  "cad:sxf_flavour": "SFC",
+  "cad:entity_counts": {
+   "line_feature": 1603,
+   "polyline_feature": 1001,
+   "circle_feature": 844,
+   "text_string_feature": 400,
+   "arc_feature": 356,
+   "spline_feature": 259,
+   "sfig_org_feature": 152,
+   "sfig_locate_feature": 152,
+   "point_marker_feature": 149,
+   "layer_feature": 11,
+   "pre_defined_colour_feature": 3,
+   "width_feature": 3,
+   "pre_defined_font_feature": 2,
+   "user_defined_font_feature": 1,
+   "text_font_feature": 1,
+   "composite_curve_org_feature": 1,
+   "externally_defined_hatch_feature": 1,
+   "drawing_sheet_feature": 1
+  },
+  "cad:modelspace_entities": 4940,
+  "cad:sxf_schema": "ASSOCIATIVE_DRAUGHTING"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./sxf-samples.sample-0e832a.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/iku190t/ais-survey-tool/blob/main/LICENSE",
+   "title": "AGPL-3.0-only AND MIT"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/allfestaboss/doboku-bench",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/iku190t/ais-survey-tool/blob/ac516c6c7a068eae2680fbfeb27455fa09a3dcd6/sample.sfc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/iku190t/ais-survey-tool/ac516c6c7a068eae2680fbfeb27455fa09a3dcd6/sample.sfc",
+   "type": "text/plain",
+   "roles": [
+    "data"
+   ],
+   "title": "sample.sfc",
+   "file:size": 1159865,
+   "file:checksum": "12209f85d7cfca76f0291cd8b8190438d55ec1209d141e4a37318b43efdf93cdfb2e"
+  }
+ },
+ "collection": "sxf-samples"
+}

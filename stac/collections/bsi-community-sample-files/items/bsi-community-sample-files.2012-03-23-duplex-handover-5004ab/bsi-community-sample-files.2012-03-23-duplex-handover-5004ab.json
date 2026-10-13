@@ -1,0 +1,176 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-community-sample-files.2012-03-23-duplex-handover-5004ab",
+ "geometry": null,
+ "properties": {
+  "title": "NIBS Duplex COBie – -Handover",
+  "description": "XLSX COBie 2.4 file from 'buildingSMART Community Sample Test Files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2024-11-06T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "CC-BY-4.0",
+  "keywords": [
+   "COBie",
+   "NIBS",
+   "cobie",
+   "coordination view",
+   "multi-discipline"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART community",
+    "url": "https://github.com/buildingsmart-community",
+    "roles": [
+     "host"
+    ]
+   },
+   {
+    "name": "US National Institute of Building Sciences (NIBS) / US Army ERDC-CERL",
+    "url": "https://www.nibs.org",
+    "roles": [
+     "producer"
+    ]
+   }
+  ],
+  "bim:format": "XLSX",
+  "bim:format_family": "COBie",
+  "bim:format_version": "COBie 2.4",
+  "bim:source": "bsi-community-sample-files",
+  "bim:project": "nibs-duplex",
+  "bim:building_type": "residential",
+  "bim:country": "US",
+  "bim:use_cases": [
+   "cobie"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "bim:attribution": "BSI (2020) \"Duplex Apartment / Medical-Dental Test Files\", buildingSMART International, https://github.com/buildingsmart-community/Community-Sample-Test-Files (CC BY 4.0)",
+  "bim:size_class": "s(<1MB)",
+  "bim:datetime_source": "upstream repository commit date",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/2012-03-23-Duplex-Handover.xlsx",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingsmart-community/Community-Sample-Test-Files",
+   "commit": "7ddf57a201f88a0c213d5322b02ed15e94a60a40",
+   "path": "IFC 2.3.0.1 (IFC 2x3)/Duplex Apartment/2012-03-23-Duplex-Handover.xlsx",
+   "browse_url": "https://github.com/buildingsmart-community/Community-Sample-Test-Files/blob/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/2012-03-23-Duplex-Handover.xlsx",
+   "git_lfs": false,
+   "commit_date": "2024-11-06"
+  },
+  "bim:thumbnail": "not applicable",
+  "xlsx:sheets": [
+   "Instruction",
+   "Contact",
+   "Facility",
+   "Floor",
+   "Space",
+   "Zone",
+   "Type",
+   "Component",
+   "System",
+   "Assembly",
+   "Spare",
+   "Resource",
+   "Job",
+   "Impact",
+   "Document",
+   "Attribute",
+   "Coordinate",
+   "Connection",
+   "Issue",
+   "PickLists"
+  ],
+  "xlsx:cobie": true
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-community-sample-files.2012-03-23-duplex-handover-5004ab.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "CC-BY-4.0"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingsmart-community/Community-Sample-Test-Files",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingsmart-community/Community-Sample-Test-Files/blob/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/2012-03-23-Duplex-Handover.xlsx",
+   "title": "Upstream file (pinned commit)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.duplex-a-20110907-a5c127/bsi-community-sample-files.duplex-a-20110907-a5c127.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-duplex)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.duplex-m-20111024-rooms-and-spaces-611d98/bsi-community-sample-files.duplex-m-20111024-rooms-and-spaces-611d98.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-duplex)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.duplex-mep-20110907-63fc38/bsi-community-sample-files.duplex-mep-20110907-63fc38.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-duplex)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.duplex-plumbing-20121113-1f2025/bsi-community-sample-files.duplex-plumbing-20121113-1f2025.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-duplex)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.duplex-electrical-20121207-8f04b5/bsi-community-sample-files.duplex-electrical-20121207-8f04b5.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-duplex)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-community-sample-files.2012-03-23-duplex-design-134d12/bsi-community-sample-files.2012-03-23-duplex-design-134d12.json",
+   "type": "application/geo+json",
+   "title": "Same project (nibs-duplex)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingsmart-community/Community-Sample-Test-Files/7ddf57a201f88a0c213d5322b02ed15e94a60a40/IFC%202.3.0.1%20%28IFC%202x3%29/Duplex%20Apartment/2012-03-23-Duplex-Handover.xlsx",
+   "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+   "roles": [
+    "data"
+   ],
+   "title": "2012-03-23-Duplex-Handover.xlsx",
+   "file:size": 233186,
+   "file:checksum": "122026cdaf0bbf34b67f0f68c78de5bc3c1c3a285df97223c2704c9175b1936fdd4a"
+  }
+ },
+ "collection": "bsi-community-sample-files"
+}

@@ -1,0 +1,42 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--usaf-ce-admin-3642c6",
+ "title": "project: usaf-ce_admin",
+ "description": "3 items where project = usaf-ce_admin. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "usaf-ce_admin",
+ "bim:item_count": 3,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ces-sd-drawings-admin-bldg-2dbd7a/wbdg-usaf-design-packages.ces-sd-drawings-admin-bldg-2dbd7a.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Admin – CES_SD_drawings_admin_bldg"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ce-admin-building-dcb9a0/wbdg-usaf-design-packages.ce-admin-building-dcb9a0.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Admin – ce_admin_building"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ces-admin-building-f306b8/wbdg-usaf-design-packages.ces-admin-building-f306b8.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Admin – ces__admin_building"
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [],
+ "id": "bim-whale-samples",
+ "title": "BIM Whale IFC samples",
+ "description": "Dummy IFC2X3 projects (basic house, advanced project) with rich property data.",
+ "license": "MIT",
+ "keywords": [
+  "dummy data",
+  "properties"
+ ],
+ "providers": [
+  {
+   "name": "André Wisén (bim-whale)",
+   "url": "https://github.com/andrewisen/bim-whale-ifc-samples",
+   "roles": [
+    "producer",
+    "licensor"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     18.065,
+     59.332,
+     18.08655,
+     59.357529
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2020-10-28T18:06:27Z",
+     "2020-11-30T11:37:46Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "IFC-SPF"
+  ],
+  "bim:format_version": [
+   "IFC2X3"
+  ],
+  "bim:building_type": [
+   "generic-building"
+  ],
+  "bim:use_cases": [
+   "dummy-data",
+   "performance"
+  ],
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:license_tier": [
+   "open"
+  ]
+ },
+ "bim:license_tier": "open",
+ "bim:license_quote": "MIT License. README: 'These samples contain dummy data ... Feel free to use these files however you like :)'",
+ "bim:attribution": "andrewisen/bim-whale-ifc-samples (MIT)",
+ "bim:origin": {
+  "kind": "git",
+  "repo": "andrewisen/bim-whale-ifc-samples",
+  "commit": "595fa90e3af7120d004fcb37a79d8657f1d1c9c2",
+  "commit_date": "2020-11-30"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 6,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/andrewisen/bim-whale-ifc-samples/blob/main/LICENSE",
+   "title": "MIT"
+  },
+  {
+   "rel": "about",
+   "href": "https://github.com/andrewisen/bim-whale-ifc-samples",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "item",
+   "href": "items/bim-whale-samples.advancedproject-e6d607/bim-whale-samples.advancedproject-e6d607.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – AdvancedProject (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bim-whale-samples.basichouse-595989/bim-whale-samples.basichouse-595989.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – BasicHouse (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bim-whale-samples.largebuilding-6c3acb/bim-whale-samples.largebuilding-6c3acb.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – LargeBuilding (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bim-whale-samples.manysimplewalls-717e3c/bim-whale-samples.manysimplewalls-717e3c.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – ManySimpleWalls (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bim-whale-samples.simplewall-20f2db/bim-whale-samples.simplewall-20f2db.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – SimpleWall (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "items/bim-whale-samples.tallbuilding-1f7535/bim-whale-samples.tallbuilding-1f7535.json",
+   "type": "application/geo+json",
+   "title": "BIM Whale – TallBuilding (IFC2X3)"
+  }
+ ]
+}

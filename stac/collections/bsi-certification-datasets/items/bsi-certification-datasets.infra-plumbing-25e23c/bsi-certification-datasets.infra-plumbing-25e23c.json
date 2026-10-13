@@ -1,0 +1,396 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-certification-datasets.infra-plumbing-25e23c",
+ "geometry": null,
+ "properties": {
+  "title": "Simple-Scene Infra-Plumbing (IFC2X3)",
+  "description": "IFC-SPF IFC2X3 file from 'buildingSMART Certification datasets (Sample-Test-Files)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-06-23T11:53:15Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "CC-BY-4.0",
+  "keywords": [
+   "buildingSMART",
+   "certification",
+   "parser",
+   "schema-versions",
+   "simple-scene"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "bsi-certification-datasets",
+  "bim:project": "bsi-simple-scene",
+  "bim:building_type": "utility-network",
+  "bim:disciplines": [
+   "infrastructure",
+   "mep"
+  ],
+  "bim:use_cases": [
+   "schema-versions",
+   "parser",
+   "certification"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "bim:attribution": "buildingSMART International, Certification datasets, https://github.com/buildingSMART/Certification-datasets (CC BY 4.0)",
+  "bim:size_class": "s(<1MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%202.3.0.1%20%28IFC%202x3%20TC1%29/Simple-Scene/Infra-Plumbing.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/Certification-datasets",
+   "commit": "80d976a9b193a26a8e928c3e79bff67af1de68a8",
+   "path": "IFC 2.3.0.1 (IFC 2x3 TC1)/Simple-Scene/Infra-Plumbing.ifc",
+   "browse_url": "https://github.com/buildingSMART/Certification-datasets/blob/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%202.3.0.1%20%28IFC%202x3%20TC1%29/Simple-Scene/Infra-Plumbing.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-09-04"
+  },
+  "bim:thumbnail": "generated",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView_V2.0]"
+  ],
+  "ifc:view_definition": "CoordinationView_V2.0",
+  "ifc:header_timestamp": "2026-06-23T11:53:15",
+  "ifc:preprocessor_version": "Sketchup-IFC-manager 5.6.0 / SketchUp 2026 (26.2.242)",
+  "ifc:originating_system": "BIM_Tools - Sketchup_IFC_manager - 5.6.0",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 29,
+  "ifc:product_types": 4,
+  "ifc:storeys": 0,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 1,
+  "ifc:props": 0,
+  "ifc:qsets": 0,
+  "ifc:materials": 3,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 3,
+  "ifc:docs": 0,
+  "ifc:score": 7.1,
+  "ifc:disciplines": [
+   "mep"
+  ],
+  "ifc:element_counts": {
+   "IfcFlowSegment": 24,
+   "IfcDistributionChamberElement": 2,
+   "IfcElementAssembly": 2,
+   "IfcBuildingElementProxy": 1
+  },
+  "ifc:project_name": "ifc silly sample scene - project",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:building_names": [
+   "road river bridge",
+   "rail bridge",
+   "rail bridge"
+  ],
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-certification-datasets.infra-plumbing-25e23c.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "CC-BY-4.0"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/Certification-datasets",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/Certification-datasets/blob/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%202.3.0.1%20%28IFC%202x3%20TC1%29/Simple-Scene/Infra-Plumbing.ifc",
+   "title": "Upstream file (pinned commit)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.building-architecture-aa0b77/bsi-certification-datasets.building-architecture-aa0b77.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.building-structural-b87cbe/bsi-certification-datasets.building-structural-b87cbe.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.building-hvac-0fc5ce/bsi-certification-datasets.building-hvac-0fc5ce.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.building-landscaping-783009/bsi-certification-datasets.building-landscaping-783009.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-road-298239/bsi-certification-datasets.infra-road-298239.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-bridge-2e944e/bsi-certification-datasets.infra-bridge-2e944e.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-rail-6e81be/bsi-certification-datasets.infra-rail-6e81be.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-electrical-3b790d/bsi-certification-datasets.infra-electrical-3b790d.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-landscaping-eafdd5/bsi-certification-datasets.infra-landscaping-eafdd5.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.building-architecture-bf8212/bsi-certification-datasets.building-architecture-bf8212.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.building-structural-6abe1c/bsi-certification-datasets.building-structural-6abe1c.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.building-hvac-206b48/bsi-certification-datasets.building-hvac-206b48.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.building-landscaping-66ff70/bsi-certification-datasets.building-landscaping-66ff70.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-road-45da44/bsi-certification-datasets.infra-road-45da44.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-bridge-6dec50/bsi-certification-datasets.infra-bridge-6dec50.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-rail-a5535d/bsi-certification-datasets.infra-rail-a5535d.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-plumbing-5ee028/bsi-certification-datasets.infra-plumbing-5ee028.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-electrical-49d3c9/bsi-certification-datasets.infra-electrical-49d3c9.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-landscaping-7597e3/bsi-certification-datasets.infra-landscaping-7597e3.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.building-architecture-ab66d8/bsi-certification-datasets.building-architecture-ab66d8.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.building-structural-c766c0/bsi-certification-datasets.building-structural-c766c0.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.building-hvac-888c7d/bsi-certification-datasets.building-hvac-888c7d.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.building-landscaping-55e371/bsi-certification-datasets.building-landscaping-55e371.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-road-e742d2/bsi-certification-datasets.infra-road-e742d2.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-bridge-567b12/bsi-certification-datasets.infra-bridge-567b12.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-rail-4d1e5d/bsi-certification-datasets.infra-rail-4d1e5d.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-plumbing-f1ed5d/bsi-certification-datasets.infra-plumbing-f1ed5d.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-electrical-1685c2/bsi-certification-datasets.infra-electrical-1685c2.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-certification-datasets.infra-landscaping-1c9afd/bsi-certification-datasets.infra-landscaping-1c9afd.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../../../bsi-ifc5-development/items/bsi-ifc5-development.building-architecture-9ab00e/bsi-ifc5-development.building-architecture-9ab00e.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../../../bsi-ifc5-development/items/bsi-ifc5-development.building-structural-27b125/bsi-ifc5-development.building-structural-27b125.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../../../bsi-ifc5-development/items/bsi-ifc5-development.building-hvac-fe66a0/bsi-ifc5-development.building-hvac-fe66a0.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../../../bsi-ifc5-development/items/bsi-ifc5-development.building-landscaping-110212/bsi-ifc5-development.building-landscaping-110212.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../../../bsi-ifc5-development/items/bsi-ifc5-development.infra-road-6d4002/bsi-ifc5-development.infra-road-6d4002.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../../../bsi-ifc5-development/items/bsi-ifc5-development.infra-bridge-e2de1b/bsi-ifc5-development.infra-bridge-e2de1b.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../../../bsi-ifc5-development/items/bsi-ifc5-development.infra-rail-d89af1/bsi-ifc5-development.infra-rail-d89af1.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../../../bsi-ifc5-development/items/bsi-ifc5-development.infra-plumbing-6a3471/bsi-ifc5-development.infra-plumbing-6a3471.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../../../bsi-ifc5-development/items/bsi-ifc5-development.infra-electrical-3581ce/bsi-ifc5-development.infra-electrical-3581ce.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  },
+  {
+   "rel": "related",
+   "href": "../../../bsi-ifc5-development/items/bsi-ifc5-development.infra-landscaping-9e51e8/bsi-ifc5-development.infra-landscaping-9e51e8.json",
+   "type": "application/geo+json",
+   "title": "Same project (bsi-simple-scene)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/Certification-datasets/80d976a9b193a26a8e928c3e79bff67af1de68a8/IFC%202.3.0.1%20%28IFC%202x3%20TC1%29/Simple-Scene/Infra-Plumbing.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "Infra-Plumbing.ifc",
+   "file:size": 187456,
+   "file:checksum": "12201724daf0cf0ca43797f44e2cdcd18d273c432afc6b411012cc9c1d382408d149"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "bsi-certification-datasets"
+}

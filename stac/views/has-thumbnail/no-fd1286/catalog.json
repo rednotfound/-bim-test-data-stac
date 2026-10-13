@@ -1,0 +1,1800 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "has-thumbnail--no-fd1286",
+ "title": "has-thumbnail: no",
+ "description": "296 items where has-thumbnail = no. Items are shared with their source collections.",
+ "bim:dimension": "has-thumbnail",
+ "bim:value": "no",
+ "bim:item_count": 296,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.building-architecture-9ab00e/bsi-ifc5-development.building-architecture-9ab00e.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Architecture (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.building-structural-27b125/bsi-ifc5-development.building-structural-27b125.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Structural (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.building-hvac-fe66a0/bsi-ifc5-development.building-hvac-fe66a0.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Hvac (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.building-landscaping-110212/bsi-ifc5-development.building-landscaping-110212.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Building-Landscaping (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-road-6d4002/bsi-ifc5-development.infra-road-6d4002.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Road (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-bridge-e2de1b/bsi-ifc5-development.infra-bridge-e2de1b.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Bridge (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-rail-d89af1/bsi-ifc5-development.infra-rail-d89af1.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Rail (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-plumbing-6a3471/bsi-ifc5-development.infra-plumbing-6a3471.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Plumbing (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-electrical-3581ce/bsi-ifc5-development.infra-electrical-3581ce.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Electrical (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.infra-landscaping-9e51e8/bsi-ifc5-development.infra-landscaping-9e51e8.json",
+   "type": "application/geo+json",
+   "title": "Simple-Scene Infra-Landscaping (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.ifc-hero-model-2b48de/bsi-ifc5-development.ifc-hero-model-2b48de.json",
+   "type": "application/geo+json",
+   "title": "IFC Hero Model (IFC4 twin)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc5-development/items/bsi-ifc5-development.ifc-hero-model-77b929/bsi-ifc5-development.ifc-hero-model-77b929.json",
+   "type": "application/geo+json",
+   "title": "IFC Hero Model (IFC5 alpha)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/kit-ifc-examples/items/kit-ifc-examples.kit-simple-road-test-web-ifc4x3-rc2-7e468f/kit-ifc-examples.kit-simple-road-test-web-ifc4x3-rc2-7e468f.json",
+   "type": "application/geo+json",
+   "title": "KIT Simple Road (IFC4x3 RC2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/opensourcebim-testfiles/items/opensourcebim-testfiles.allplan-smiley-west-9d5f65/opensourcebim-testfiles.allplan-smiley-west-9d5f65.json",
+   "type": "application/geo+json",
+   "title": "KIT Smiley West (IFC2X_FINAL, Allplan)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/opensourcebim-testfiles/items/opensourcebim-testfiles.hitos-070308-111f44/opensourcebim-testfiles.hitos-070308-111f44.json",
+   "type": "application/geo+json",
+   "title": "HITOS Tromsø university college (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.2012-03-23-duplex-design-134d12/bsi-community-sample-files.2012-03-23-duplex-design-134d12.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex COBie – -Design"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.2012-03-23-duplex-handover-5004ab/bsi-community-sample-files.2012-03-23-duplex-handover-5004ab.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex COBie – -Handover"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.2013-10-09-clinic-design-v14-working-01-544ea1/bsi-community-sample-files.2013-10-09-clinic-design-v14-working-01-544ea1.json",
+   "type": "application/geo+json",
+   "title": "NIBS Clinic COBie – Design-v14-WORKING-01"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-community-sample-files/items/bsi-community-sample-files.2013-10-09-clinic-handover-v14-4855bd/bsi-community-sample-files.2013-10-09-clinic-handover-v14-4855bd.json",
+   "type": "application/geo+json",
+   "title": "NIBS Clinic COBie – Handover-v14"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-compleet-interne-modelkwaliteit-0b55bc/schependomlaan.root-compleet-interne-modelkwaliteit-0b55bc.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan model-quality issues (BCF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.linden-kozijnen-4d05e6/schependomlaan.linden-kozijnen-4d05e6.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – LINDEN - Kozijnen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-compleet-f0161c/schependomlaan.root-compleet-f0161c.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-Compleet"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-vebo-999a76/schependomlaan.root-vebo-999a76.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-Vebo"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-breedplaatvloeren-fd4baa/schependomlaan.root-breedplaatvloeren-fd4baa.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-breedplaatvloeren"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-houten-kozijnen-3ab8e2/schependomlaan.root-houten-kozijnen-3ab8e2.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-houten kozijnen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-kalkzandsteen-04d9e3/schependomlaan.root-kalkzandsteen-04d9e3.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-kalkzandsteen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-kanaalplaatvloer-c989c4/schependomlaan.root-kanaalplaatvloer-c989c4.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-kanaalplaatvloer"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-kapconstructie-dakkapellen-platdak-520e59/schependomlaan.root-kapconstructie-dakkapellen-platdak-520e59.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-kapconstructie_dakkapellen_platdak"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-lateien-en-geveldragers-763b4f/schependomlaan.root-lateien-en-geveldragers-763b4f.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-lateien_en_geveldragers"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-prefab-balkons-010df7/schependomlaan.root-prefab-balkons-010df7.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-prefab_balkons"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-prefab-trappen-0f3834/schependomlaan.root-prefab-trappen-0f3834.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-prefab_trappen"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-prefab-vloer-lifttop-3bad53/schependomlaan.root-prefab-vloer-lifttop-3bad53.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-prefab_vloer_lifttop"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-staal-a86264/schependomlaan.root-staal-a86264.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-staal"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.root-traphekken-ae1742/schependomlaan.root-traphekken-ae1742.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-traphekken"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/web-ifc-tests/items/web-ifc-tests.issue-068-ark-nus-skolebygg-19b6d9/web-ifc-tests.issue-068-ark-nus-skolebygg-19b6d9.json",
+   "type": "application/geo+json",
+   "title": "Norwegian school building, architecture (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/web-ifc-tests/items/web-ifc-tests.issue-159-kleine-wohnung-r22-c3eb57/web-ifc-tests.issue-159-kleine-wohnung-r22-c3eb57.json",
+   "type": "application/geo+json",
+   "title": "Small apartment (Archicad, IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/web-ifc-tests/items/web-ifc-tests.viadotto-acerno-39f500/web-ifc-tests.viadotto-acerno-39f500.json",
+   "type": "application/geo+json",
+   "title": "Viadotto Acerno bridge (IFC4X3_ADD2)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/yousheng-ifcsamplefiles/items/yousheng-ifcsamplefiles.ifc4-revit-arc-b1d0c4/yousheng-ifcsamplefiles.ifc4-revit-arc-b1d0c4.json",
+   "type": "application/geo+json",
+   "title": "Revit sample project – architecture (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/yousheng-ifcsamplefiles/items/yousheng-ifcsamplefiles.ifc4-revit-mep-aed5a4/yousheng-ifcsamplefiles.ifc4-revit-mep-aed5a4.json",
+   "type": "application/geo+json",
+   "title": "Revit sample project – MEP (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20160125trapelo-design-intent-089e6d/auckland-openifc.20160125trapelo-design-intent-089e6d.json",
+   "type": "application/geo+json",
+   "title": "Trapelo office, design intent (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20160125trapelo-existing-trapelo-design-intent-2af74b/auckland-openifc.20160125trapelo-existing-trapelo-design-intent-2af74b.json",
+   "type": "application/geo+json",
+   "title": "Trapelo office, design intent (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20160125otc-conference-center-ifc4-e9a554/auckland-openifc.20160125otc-conference-center-ifc4-e9a554.json",
+   "type": "application/geo+json",
+   "title": "OTC Conference Center (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20160124otc-conference-center-f56b72/auckland-openifc.20160124otc-conference-center-f56b72.json",
+   "type": "application/geo+json",
+   "title": "OTC Conference Center (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20210215ifc4-rv-convenience-store-renga-4-5-092f11/auckland-openifc.20210215ifc4-rv-convenience-store-renga-4-5-092f11.json",
+   "type": "application/geo+json",
+   "title": "Convenience store (Renga, IFC4 Reference View)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20160613office-model-cv2b-fordesign-142c7d/auckland-openifc.20160613office-model-cv2b-fordesign-142c7d.json",
+   "type": "application/geo+json",
+   "title": "Office model CV2 for design (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.academic-autodesk-advancedsampleproject-arch-310c53/duraark.academic-autodesk-advancedsampleproject-arch-310c53.json",
+   "type": "application/geo+json",
+   "title": "Autodesk academic sample projects – Academic_Autodesk-AdvancedSampleProject_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.academic-autodesk-basicsampleproject-arch-ab5596/duraark.academic-autodesk-basicsampleproject-arch-ab5596.json",
+   "type": "application/geo+json",
+   "title": "Autodesk academic sample projects – Academic_Autodesk-BasicSampleProject_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.autodesk-research-210-king-2c788c/duraark.autodesk-research-210-king-2c788c.json",
+   "type": "application/geo+json",
+   "title": "Autodesk Research 210 King St – Autodesk-Research_210-King"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.fojab-landsarkivet-ced8bc/duraark.fojab-landsarkivet-ced8bc.json",
+   "type": "application/geo+json",
+   "title": "FOJAB Landsarkivet archive building – FOJAB_Landsarkivet"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.kit-institute-arch-66a241/duraark.kit-institute-arch-66a241.json",
+   "type": "application/geo+json",
+   "title": "KIT Institute – KIT_Institute_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.kit-smiley-west-arch-f73627/duraark.kit-smiley-west-arch-f73627.json",
+   "type": "application/geo+json",
+   "title": "KIT Smiley West – KIT_Smiley-West_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-air-c8f0f3/duraark.ltu-a-house-air-c8f0f3.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Air"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-cooling-afa549/duraark.ltu-a-house-cooling-afa549.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Cooling"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-ducting-0034bb/duraark.ltu-a-house-ducting-0034bb.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Ducting"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-heating-a133cd/duraark.ltu-a-house-heating-a133cd.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Heating"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-k-modell-1c28a0/duraark.ltu-a-house-k-modell-1c28a0.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_K-modell"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-plumbing-561157/duraark.ltu-a-house-plumbing-561157.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Plumbing"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-sanitation-883c45/duraark.ltu-a-house-sanitation-883c45.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_Sanitation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-voids-583df6/duraark.ltu-a-house-voids-583df6.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_VOIDS"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.ltu-a-house-redesign-7862bb/duraark.ltu-a-house-redesign-7862bb.json",
+   "type": "application/geo+json",
+   "title": "LTU A-House – LTU_A-House_redesign"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesideac01-arch-4cb31a/duraark.nbs-lakesideac01-arch-4cb31a.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideAC01_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesideac10-arch-a2241c/duraark.nbs-lakesideac10-arch-a2241c.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideAC10_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesidervt01-arch-e8476a/duraark.nbs-lakesidervt01-arch-e8476a.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideRVT01_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesidervt10-arch-a5bab3/duraark.nbs-lakesidervt10-arch-a5bab3.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideRVT10_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbs-lakesidevw00-arch-d856f9/duraark.nbs-lakesidevw00-arch-d856f9.json",
+   "type": "application/geo+json",
+   "title": "NBS Lakeside (multi-vendor exports) – NBS_LakesideVW00_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-design-38bfb6/duraark.nbu-duplex-apt-cobie-arch-design-38bfb6.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Design"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-handover-25d225/duraark.nbu-duplex-apt-cobie-arch-handover-25d225.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Handover"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-productinstall-aa7ad1/duraark.nbu-duplex-apt-cobie-arch-productinstall-aa7ad1.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-ProductInstall"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-productselect-0b280e/duraark.nbu-duplex-apt-cobie-arch-productselect-0b280e.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-ProductSelect"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-cobie-arch-programming-8f2068/duraark.nbu-duplex-apt-cobie-arch-programming-8f2068.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Programming"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-arch-optimized-7d2f52/duraark.nbu-duplex-apt-arch-optimized-7d2f52.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Arch-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-arch-2a541a/duraark.nbu-duplex-apt-arch-2a541a.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-hvac-d0351f/duraark.nbu-duplex-apt-eng-hvac-d0351f.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-1-1f89f8/duraark.nbu-duplex-apt-eng-mep-1-1f89f8.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-2-d556be/duraark.nbu-duplex-apt-eng-mep-2-d556be.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-optimized-2b49f8/duraark.nbu-duplex-apt-eng-mep-optimized-2b49f8.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-duplex-apt-eng-mep-3d6c63/duraark.nbu-duplex-apt-eng-mep-3d6c63.json",
+   "type": "application/geo+json",
+   "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-arch-optimized-1cdc6b/duraark.nbu-medicalclinic-arch-optimized-1cdc6b.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Arch-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-arch-533287/duraark.nbu-medicalclinic-arch-533287.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-con-optimized-6e159f/duraark.nbu-medicalclinic-eng-con-optimized-6e159f.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-CON-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-con-34598f/duraark.nbu-medicalclinic-eng-con-34598f.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-CON"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-ele-844e46/duraark.nbu-medicalclinic-eng-ele-844e46.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-ELE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-hvac-1a8cd0/duraark.nbu-medicalclinic-eng-hvac-1a8cd0.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-mep-optimized-a77f60/duraark.nbu-medicalclinic-eng-mep-optimized-a77f60.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-MEP-Optimized"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.nbu-medicalclinic-eng-mep-9b2176/duraark.nbu-medicalclinic-eng-mep-9b2176.json",
+   "type": "application/geo+json",
+   "title": "NIBS Medical Clinic (DURAARK) – NBU_MedicalClinic_Eng-MEP"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bard-arch-226c60/duraark.sgd-bard-arch-226c60.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg BARD – SGD_BARD_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bard-merged-dcfffa/duraark.sgd-bard-merged-dcfffa.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg BARD – SGD_BARD_Merged"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bodo-arch-1-069842/duraark.sgd-bodo-arch-1-069842.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Arch-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bodo-arch-2-b2fb79/duraark.sgd-bodo-arch-2-b2fb79.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Arch-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bodo-arch-3-6d6e71/duraark.sgd-bodo-arch-3-6d6e71.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Arch-3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bodo-eng-hvac-plumbing-754023/duraark.sgd-bodo-eng-hvac-plumbing-754023.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Eng-HVAC-Plumbing"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-bodo-eng-hvac-ventilation-4f8e07/duraark.sgd-bodo-eng-hvac-ventilation-4f8e07.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Bodø – SGD_BODO_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-arch-1-c3dc41/duraark.sgd-blueberry-arch-1-c3dc41.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-arch-2-e21292/duraark.sgd-blueberry-arch-2-e21292.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-arch-3-4a2704/duraark.sgd-blueberry-arch-3-4a2704.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Arch-3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-plumbing-1-d25031/duraark.sgd-blueberry-eng-hvac-plumbing-1-d25031.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Plumbing-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-plumbing-2-40a8fe/duraark.sgd-blueberry-eng-hvac-plumbing-2-40a8fe.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Plumbing-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-ventilation-e91fcc/duraark.sgd-blueberry-eng-hvac-ventilation-e91fcc.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-eng-hvac-c59679/duraark.sgd-blueberry-eng-hvac-c59679.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-merged-plumbing-1-fd02c1/duraark.sgd-blueberry-merged-plumbing-1-fd02c1.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Plumbing-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-merged-plumbing-2-851723/duraark.sgd-blueberry-merged-plumbing-2-851723.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Plumbing-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-blueberry-merged-ventilation-bb05a3/duraark.sgd-blueberry-merged-ventilation-bb05a3.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Blueberry – SGD_Blueberry_Merged-Ventilation_"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-duplex-eng-hvac-plumbing-fa9beb/duraark.sgd-duplex-eng-hvac-plumbing-fa9beb.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Duplex – SGD_Duplex_Eng-HVAC-Plumbing"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-duplex-eng-hvac-ventilation-7aff8a/duraark.sgd-duplex-eng-hvac-ventilation-7aff8a.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg Duplex – SGD_Duplex_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-hitos-arch-0b5720/duraark.sgd-hitos-arch-0b5720.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg HiTOS – SGD_HiTOS_Arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-hitos-eng-ele-b918e6/duraark.sgd-hitos-eng-ele-b918e6.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg HiTOS – SGD_HiTOS_Eng-ELE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-hitos-eng-hvac-38ea51/duraark.sgd-hitos-eng-hvac-38ea51.json",
+   "type": "application/geo+json",
+   "title": "Statsbygg HiTOS – SGD_HiTOS_Eng-HVAC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-arch-1-96c32c/duraark.sgd-munkerud-arch-1-96c32c.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Arch-1"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-arch-2-8de680/duraark.sgd-munkerud-arch-2-8de680.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Arch-2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-arch-3-e03ec0/duraark.sgd-munkerud-arch-3-e03ec0.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Arch-3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-eng-ele-075788/duraark.sgd-munkerud-eng-ele-075788.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Eng-ELE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-eng-hvac-sanitary-c31506/duraark.sgd-munkerud-eng-hvac-sanitary-c31506.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Eng-HVAC-Sanitary"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-eng-hvac-ventilation-ed8922/duraark.sgd-munkerud-eng-hvac-ventilation-ed8922.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Eng-HVAC-Ventilation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/duraark/items/duraark.sgd-munkerud-merged-09f087/duraark.sgd-munkerud-merged-09f087.json",
+   "type": "application/geo+json",
+   "title": "Selvaag Munkerud house – SGD_Munkerud_Merged"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.basin-advanced-brep-d3cd82/bsi-ifc4x-specification-models.basin-advanced-brep-d3cd82.json",
+   "type": "application/geo+json",
+   "title": "advanced-geometric-shape: basin-advanced-brep"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.basin-faceted-brep-36bcbd/bsi-ifc4x-specification-models.basin-faceted-brep-36bcbd.json",
+   "type": "application/geo+json",
+   "title": "advanced-geometric-shape: basin-faceted-brep"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.basin-tessellation-452d8c/bsi-ifc4x-specification-models.basin-tessellation-452d8c.json",
+   "type": "application/geo+json",
+   "title": "advanced-geometric-shape: basin-tessellation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.bath-csg-solid-723d7a/bsi-ifc4x-specification-models.bath-csg-solid-723d7a.json",
+   "type": "application/geo+json",
+   "title": "advanced-geometric-shape: bath-csg-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.cube-advanced-brep-0ea4a5/bsi-ifc4x-specification-models.cube-advanced-brep-0ea4a5.json",
+   "type": "application/geo+json",
+   "title": "advanced-geometric-shape: cube-advanced-brep"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.fixed-reference-swept-area-solid-995c3f/bsi-ifc4x-specification-models.fixed-reference-swept-area-solid-995c3f.json",
+   "type": "application/geo+json",
+   "title": "alignment-geometries-and-linear-positioning: fixed-reference-swept-area-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.linear-placement-of-signal-54b95d/bsi-ifc4x-specification-models.linear-placement-of-signal-54b95d.json",
+   "type": "application/geo+json",
+   "title": "alignment-geometries-and-linear-positioning: linear-placement-of-signal"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.sectioned-solid-horizontal-ed32c2/bsi-ifc4x-specification-models.sectioned-solid-horizontal-ed32c2.json",
+   "type": "application/geo+json",
+   "title": "alignment-geometries-and-linear-positioning: sectioned-solid-horizontal"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.segmented-reference-curve-db7029/bsi-ifc4x-specification-models.segmented-reference-curve-db7029.json",
+   "type": "application/geo+json",
+   "title": "alignment-geometries-and-linear-positioning: segmented-reference-curve"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.brep-model-aaec17/bsi-ifc4x-specification-models.brep-model-aaec17.json",
+   "type": "application/geo+json",
+   "title": "basic-geometric-shape: brep-model"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.csg-primitive-8e7754/bsi-ifc4x-specification-models.csg-primitive-8e7754.json",
+   "type": "application/geo+json",
+   "title": "basic-geometric-shape: csg-primitive"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.extruded-solid-de5af8/bsi-ifc4x-specification-models.extruded-solid-de5af8.json",
+   "type": "application/geo+json",
+   "title": "basic-geometric-shape: extruded-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.surface-model-2f1baa/bsi-ifc4x-specification-models.surface-model-2f1baa.json",
+   "type": "application/geo+json",
+   "title": "basic-geometric-shape: surface-model"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.triangulated-item-baf7cf/bsi-ifc4x-specification-models.triangulated-item-baf7cf.json",
+   "type": "application/geo+json",
+   "title": "basic-geometric-shape: triangulated-item"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-extruded-solid-286f01/bsi-ifc4x-specification-models.beam-extruded-solid-286f01.json",
+   "type": "application/geo+json",
+   "title": "building-elements: beam-extruded-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-parametric-cross-section-cd8cdb/bsi-ifc4x-specification-models.beam-parametric-cross-section-cd8cdb.json",
+   "type": "application/geo+json",
+   "title": "building-elements: beam-parametric-cross-section"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-revolved-solid-a255d5/bsi-ifc4x-specification-models.beam-revolved-solid-a255d5.json",
+   "type": "application/geo+json",
+   "title": "building-elements: beam-revolved-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-varying-cardinal-points-5d24e1/bsi-ifc4x-specification-models.beam-varying-cardinal-points-5d24e1.json",
+   "type": "application/geo+json",
+   "title": "building-elements: beam-varying-cardinal-points"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-varying-extrusion-paths-efee79/bsi-ifc4x-specification-models.beam-varying-extrusion-paths-efee79.json",
+   "type": "application/geo+json",
+   "title": "building-elements: beam-varying-extrusion-paths"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-varying-profiles-a6b6cb/bsi-ifc4x-specification-models.beam-varying-profiles-a6b6cb.json",
+   "type": "application/geo+json",
+   "title": "building-elements: beam-varying-profiles"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.column-extruded-solid-02360a/bsi-ifc4x-specification-models.column-extruded-solid-02360a.json",
+   "type": "application/geo+json",
+   "title": "building-elements: column-extruded-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.reinforcing-assembly-d27e4a/bsi-ifc4x-specification-models.reinforcing-assembly-d27e4a.json",
+   "type": "application/geo+json",
+   "title": "building-elements: reinforcing-assembly"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.reinforcing-stirrup-eb5c01/bsi-ifc4x-specification-models.reinforcing-stirrup-eb5c01.json",
+   "type": "application/geo+json",
+   "title": "building-elements: reinforcing-stirrup"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.slab-extruded-solid-836dc8/bsi-ifc4x-specification-models.slab-extruded-solid-836dc8.json",
+   "type": "application/geo+json",
+   "title": "building-elements: slab-extruded-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.slab-openings-fc1780/bsi-ifc4x-specification-models.slab-openings-fc1780.json",
+   "type": "application/geo+json",
+   "title": "building-elements: slab-openings"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.wall-extruded-solid-b8a177/bsi-ifc4x-specification-models.wall-extruded-solid-b8a177.json",
+   "type": "application/geo+json",
+   "title": "building-elements: wall-extruded-solid"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.construction-scheduling-task-83a557/bsi-ifc4x-specification-models.construction-scheduling-task-83a557.json",
+   "type": "application/geo+json",
+   "title": "construction-scheduling: construction-scheduling-task"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.mapped-shape-with-multiple-items-96a212/bsi-ifc4x-specification-models.mapped-shape-with-multiple-items-96a212.json",
+   "type": "application/geo+json",
+   "title": "mapped-geometric-shape: mapped-shape-with-multiple-items"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.mapped-shape-with-transformation-a9bb5a/bsi-ifc4x-specification-models.mapped-shape-with-transformation-a9bb5a.json",
+   "type": "application/geo+json",
+   "title": "mapped-geometric-shape: mapped-shape-with-transformation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.mapped-shape-without-transformation-129148/bsi-ifc4x-specification-models.mapped-shape-without-transformation-129148.json",
+   "type": "application/geo+json",
+   "title": "mapped-geometric-shape: mapped-shape-without-transformation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.geographic-referencing-gk-a56450/bsi-ifc4x-specification-models.geographic-referencing-gk-a56450.json",
+   "type": "application/geo+json",
+   "title": "placements-and-gis-referencing: geographic-referencing-gk"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.geographic-referencing-rigid-operation-004f68/bsi-ifc4x-specification-models.geographic-referencing-rigid-operation-004f68.json",
+   "type": "application/geo+json",
+   "title": "placements-and-gis-referencing: geographic-referencing-rigid-operation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.geographic-referencing-utm-a3ef9b/bsi-ifc4x-specification-models.geographic-referencing-utm-a3ef9b.json",
+   "type": "application/geo+json",
+   "title": "placements-and-gis-referencing: geographic-referencing-utm"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.grid-placement-4f80ba/bsi-ifc4x-specification-models.grid-placement-4f80ba.json",
+   "type": "application/geo+json",
+   "title": "placements-and-gis-referencing: grid-placement"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.structural-curve-member-f6b36b/bsi-ifc4x-specification-models.structural-curve-member-f6b36b.json",
+   "type": "application/geo+json",
+   "title": "structural-analysis-model: structural-curve-member"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-curved-i-shape-tessellated-4dac33/bsi-ifc4x-specification-models.beam-curved-i-shape-tessellated-4dac33.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape: beam-curved-i-shape-tessellated"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.beam-straight-i-shape-tessellated-1fa662/bsi-ifc4x-specification-models.beam-straight-i-shape-tessellated-1fa662.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape: beam-straight-i-shape-tessellated"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.column-straight-rectangle-tessellation-9927c1/bsi-ifc4x-specification-models.column-straight-rectangle-tessellation-9927c1.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape: column-straight-rectangle-tessellation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.polygonal-face-tessellation-44b16d/bsi-ifc4x-specification-models.polygonal-face-tessellation-44b16d.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape: polygonal-face-tessellation"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.slab-tessellated-unique-vertices-bfa2c8/bsi-ifc4x-specification-models.slab-tessellated-unique-vertices-bfa2c8.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape: slab-tessellated-unique-vertices"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.tessellation-with-blob-texture-2a985e/bsi-ifc4x-specification-models.tessellation-with-blob-texture-2a985e.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape-with-style: tessellation-with-blob-texture"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.tessellation-with-image-texture-c1feea/bsi-ifc4x-specification-models.tessellation-with-image-texture-c1feea.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape-with-style: tessellation-with-image-texture"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.tessellation-with-individual-colors-156b16/bsi-ifc4x-specification-models.tessellation-with-individual-colors-156b16.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape-with-style: tessellation-with-individual-colors"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.tessellation-with-pixel-texture-0d4af3/bsi-ifc4x-specification-models.tessellation-with-pixel-texture-0d4af3.json",
+   "type": "application/geo+json",
+   "title": "tessellated-shape-with-style: tessellation-with-pixel-texture"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.curve-parameters-in-degrees-f1be2a/bsi-ifc4x-specification-models.curve-parameters-in-degrees-f1be2a.json",
+   "type": "application/geo+json",
+   "title": "trimmed-curve-parameters: curve-parameters-in-degrees"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc4x-specification-models/items/bsi-ifc4x-specification-models.curve-parameters-in-radians-c52861/bsi-ifc4x-specification-models.curve-parameters-in-radians-c52861.json",
+   "type": "application/geo+json",
+   "title": "trimmed-curve-parameters: curve-parameters-in-radians"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-alb000-alignment-with-layout-01ea37/bsi-ifc-validation-rules.pass-alb000-alignment-with-layout-01ea37.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ALB – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-alb002-scenario01-invalid-decomposition-203807/bsi-ifc-validation-rules.fail-alb002-scenario01-invalid-decomposition-203807.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ALB – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-als000-alignment-geometry-3b9ae1/bsi-ifc-validation-rules.pass-als000-alignment-geometry-3b9ae1.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ALS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-asm000-activated-assembly-present-6cb774/bsi-ifc-validation-rules.pass-asm000-activated-assembly-present-6cb774.json",
+   "type": "application/geo+json",
+   "title": "Validation rule ASM – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-blt000-ifc2x3-building-element-present-a0478f/bsi-ifc-validation-rules.pass-blt000-ifc2x3-building-element-present-a0478f.json",
+   "type": "application/geo+json",
+   "title": "Validation rule BLT – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-blt001-scenario01-operation-type-single-swing-6095e8/bsi-ifc-validation-rules.fail-blt001-scenario01-operation-type-single-swing-6095e8.json",
+   "type": "application/geo+json",
+   "title": "Validation rule BLT – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-cls000-classification-present-91afaf/bsi-ifc-validation-rules.pass-cls000-classification-present-91afaf.json",
+   "type": "application/geo+json",
+   "title": "Validation rule CLS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ctx000-alignment-with-styled-material-976311/bsi-ifc-validation-rules.pass-ctx000-alignment-with-styled-material-976311.json",
+   "type": "application/geo+json",
+   "title": "Validation rule CTX – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-doc000-reference-to-project-c5dd48/bsi-ifc-validation-rules.pass-doc000-reference-to-project-c5dd48.json",
+   "type": "application/geo+json",
+   "title": "Validation rule DOC – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-grf001-ifcmapconversion-ifcmapconversion-non-171f55/bsi-ifc-validation-rules.fail-grf001-ifcmapconversion-ifcmapconversion-non-171f55.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GRF – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-grp000-contains-groups-099cf7/bsi-ifc-validation-rules.pass-grp000-contains-groups-099cf7.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GRP – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-grp001-scenario01-cycle-of-length-1-95d2f5/bsi-ifc-validation-rules.fail-grp001-scenario01-cycle-of-length-1-95d2f5.json",
+   "type": "application/geo+json",
+   "title": "Validation rule GRP – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ifc101-ifc2x3-567496/bsi-ifc-validation-rules.pass-ifc101-ifc2x3-567496.json",
+   "type": "application/geo+json",
+   "title": "Validation rule IFC – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-ifc101-ifc4x3-069c3b/bsi-ifc-validation-rules.fail-ifc101-ifc4x3-069c3b.json",
+   "type": "application/geo+json",
+   "title": "Validation rule IFC – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-lip000-linear-placement-present-2e9a76/bsi-ifc-validation-rules.pass-lip000-linear-placement-present-2e9a76.json",
+   "type": "application/geo+json",
+   "title": "Validation rule LIP – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-lip002-imperial-no-value-fbf860/bsi-ifc-validation-rules.fail-lip002-imperial-no-value-fbf860.json",
+   "type": "application/geo+json",
+   "title": "Validation rule LIP – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-mat000-passing-valid-material-assigned-to-ele-317c36/bsi-ifc-validation-rules.pass-mat000-passing-valid-material-assigned-to-ele-317c36.json",
+   "type": "application/geo+json",
+   "title": "Validation rule MAT – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-mpd001-single-mapped-item-c2375f/bsi-ifc-validation-rules.pass-mpd001-single-mapped-item-c2375f.json",
+   "type": "application/geo+json",
+   "title": "Validation rule MPD – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-mpd001-scenario01-two-mapped-items-different-a0829e/bsi-ifc-validation-rules.fail-mpd001-scenario01-two-mapped-items-different-a0829e.json",
+   "type": "application/geo+json",
+   "title": "Validation rule MPD – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ojp000-object-placement-present-53bc3d/bsi-ifc-validation-rules.pass-ojp000-object-placement-present-53bc3d.json",
+   "type": "application/geo+json",
+   "title": "Validation rule OJP – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-ojp001-scenario01-wrong-ifclocalplacement-lin-3597fc/bsi-ifc-validation-rules.fail-ojp001-scenario01-wrong-ifclocalplacement-lin-3597fc.json",
+   "type": "application/geo+json",
+   "title": "Validation rule OJP – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-pjs000-project-present-bdd005/bsi-ifc-validation-rules.pass-pjs000-project-present-bdd005.json",
+   "type": "application/geo+json",
+   "title": "Validation rule PJS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-pjs001-scenario01-degree-ifc2x3-6c192d/bsi-ifc-validation-rules.fail-pjs001-scenario01-degree-ifc2x3-6c192d.json",
+   "type": "application/geo+json",
+   "title": "Validation rule PJS – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-por000-passing-valid-port-connectivity-663a77/bsi-ifc-validation-rules.pass-por000-passing-valid-port-connectivity-663a77.json",
+   "type": "application/geo+json",
+   "title": "Validation rule POR – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-pse001-ifc2x3-on-occurence-electric-actuator-07b196/bsi-ifc-validation-rules.pass-pse001-ifc2x3-on-occurence-electric-actuator-07b196.json",
+   "type": "application/geo+json",
+   "title": "Validation rule PSE – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-pse001-ifc2x3-on-occurence-electric-actuator-70e8c1/bsi-ifc-validation-rules.fail-pse001-ifc2x3-on-occurence-electric-actuator-70e8c1.json",
+   "type": "application/geo+json",
+   "title": "Validation rule PSE – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-qty000-activated-quantities-and-psets-3c24fb/bsi-ifc-validation-rules.pass-qty000-activated-quantities-and-psets-3c24fb.json",
+   "type": "application/geo+json",
+   "title": "Validation rule QTY – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-spa000-activated-space-present-03a949/bsi-ifc-validation-rules.pass-spa000-activated-space-present-03a949.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SPA – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-sps001-0-sites-1-buildings-variant-0-76e58d/bsi-ifc-validation-rules.pass-sps001-0-sites-1-buildings-variant-0-76e58d.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SPS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-sps001-scenario01-2-sites-0-buildings-variant-939295/bsi-ifc-validation-rules.fail-sps001-scenario01-2-sites-0-buildings-variant-939295.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SPS – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-sys001-sink-source-f87eb5/bsi-ifc-validation-rules.pass-sys001-sink-source-f87eb5.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SYS – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.fail-sys001-scenario01-sourceandsink-sink-bca668/bsi-ifc-validation-rules.fail-sys001-scenario01-sourceandsink-sink-bca668.json",
+   "type": "application/geo+json",
+   "title": "Validation rule SYS – fail"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-ver000-owner-with-last-modify-date-7ce738/bsi-ifc-validation-rules.pass-ver000-owner-with-last-modify-date-7ce738.json",
+   "type": "application/geo+json",
+   "title": "Validation rule VER – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ifc-validation-rules/items/bsi-ifc-validation-rules.pass-vrt000-virtual-element-present-c1235d/bsi-ifc-validation-rules.pass-vrt000-virtual-element-present-c1235d.json",
+   "type": "application/geo+json",
+   "title": "Validation rule VRT – pass"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-aedes-example-76fd4c/bsi-ids.ids-aedes-example-76fd4c.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_Aedes_example"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-arcdox-cf440c/bsi-ids.ids-arcdox-cf440c.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_ArcDox"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-simplebim-examples-a151cf/bsi-ids.ids-simplebim-examples-a151cf.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_SimpleBIM_examples"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-structuralsafety-b6f98c/bsi-ids.ids-structuralsafety-b6f98c.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_StructuralSafety"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-aachen-example-c18c5f/bsi-ids.ids-aachen-example-c18c5f.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_aachen_example"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-demo-bim-basis-ils-39bfa0/bsi-ids.ids-demo-bim-basis-ils-39bfa0.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_demo_BIM-basis-ILS"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-oma-input-76bba7/bsi-ids.ids-oma-input-76bba7.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_oma_input"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-oma-output-08d2e4/bsi-ids.ids-oma-output-08d2e4.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_oma_output"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-random-example-b1a0fc/bsi-ids.ids-random-example-b1a0fc.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_random_example"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-ucms-prefab-pipes-ifc2x3-08982b/bsi-ids.ids-ucms-prefab-pipes-ifc2x3-08982b.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_ucms_prefab_pipes_IFC2x3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-ucms-prefab-pipes-ifc4-3-855ead/bsi-ids.ids-ucms-prefab-pipes-ifc4-3-855ead.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_ucms_prefab_pipes_IFC4.3"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-ids/items/bsi-ids.ids-wooden-windows-f1749a/bsi-ids.ids-wooden-windows-f1749a.json",
+   "type": "application/geo+json",
+   "title": "IDS example – IDS_wooden-windows"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.document-reference-external-0d61d0/bsi-bcf.document-reference-external-0d61d0.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – document reference external"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.document-reference-internal-16df9f/bsi-bcf.document-reference-internal-16df9f.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Document reference internal"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.duedate-937610/bsi-bcf.duedate-937610.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – DueDate"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.labels-3fe541/bsi-bcf.labels-3fe541.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Labels"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.milestone-780ae1/bsi-bcf.milestone-780ae1.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Milestone"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.minimum-information-76da9e/bsi-bcf.minimum-information-76da9e.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Minimum information"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.related-topics-with-both-topics-in-the-same-file-8bf1ef/bsi-bcf.related-topics-with-both-topics-in-the-same-file-8bf1ef.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Related topics with both topics in the same file"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.user-assignment-a6d928/bsi-bcf.user-assignment-a6d928.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – User assignment"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.all-parts-of-curtain-walls-visible-546f74/bsi-bcf.all-parts-of-curtain-walls-visible-546f74.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – all parts of curtain walls visible"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.all-parts-except-one-visible-9403c9/bsi-bcf.all-parts-except-one-visible-9403c9.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – all parts except one visible"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.component-selection-a61c3f/bsi-bcf.component-selection-a61c3f.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – component selection"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.one-part-of-decomposed-object-visible-a21511/bsi-bcf.one-part-of-decomposed-object-visible-a21511.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – one part of decomposed object visible"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.orthogonal-camera-49b9b8/bsi-bcf.orthogonal-camera-49b9b8.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – orthogonal camera"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.perspective-camera-4c04f8/bsi-bcf.perspective-camera-4c04f8.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – perspective camera"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.single-invisible-wall-aa5817/bsi-bcf.single-invisible-wall-aa5817.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – single invisible wall"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.single-visible-space-c97a37/bsi-bcf.single-visible-space-c97a37.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – single visible space"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.single-visible-wall-396f72/bsi-bcf.single-visible-wall-396f72.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – single visible wall"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.topics-with-different-models-visible-e3ec5d/bsi-bcf.topics-with-different-models-visible-e3ec5d.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – Topics with different models visible"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/bsi-bcf/items/bsi-bcf.all-components-and-spaces-visible-eefd39/bsi-bcf.all-components-and-spaces-visible-eefd39.json",
+   "type": "application/geo+json",
+   "title": "BCF 3.0 test – all components and spaces visible"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ifcopenshell-files/items/ifcopenshell-files.wall-with-opening-and-window-664c02/ifcopenshell-files.wall-with-opening-and-window-664c02.json",
+   "type": "application/geo+json",
+   "title": "Serialization sample – wall-with-opening-and-window.ifcxml"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ifcopenshell-files/items/ifcopenshell-files.wall-with-opening-and-window-ifcxml-format-91bbb3/ifcopenshell-files.wall-with-opening-and-window-ifcxml-format-91bbb3.json",
+   "type": "application/geo+json",
+   "title": "Serialization sample – wall-with-opening-and-window_ifcxml_format.ifczip"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ifcopenshell-files/items/ifcopenshell-files.wallinstance-ifc4add2-ifcspf-format-3d6482/ifcopenshell-files.wallinstance-ifc4add2-ifcspf-format-3d6482.json",
+   "type": "application/geo+json",
+   "title": "Serialization sample – WallInstance_IFC4Add2_ifcspf_format.ifczip"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.entities-93fd2e/libredwg-testdata.entities-93fd2e.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG R9 entities.dwg"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.entities-c2ac69/libredwg-testdata.entities-c2ac69.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG R10 entities.dwg"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/libredwg-testdata/items/libredwg-testdata.example-2018-c623f2/libredwg-testdata.example-2018-c623f2.json",
+   "type": "application/geo+json",
+   "title": "LibreDWG example drawing 2018 (binary DXF)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.architectural-annotation-scaling-and-multileaders-f60b0c/autodesk-acad-samples.architectural-annotation-scaling-and-multileaders-f60b0c.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – architectural_-_annotation_scaling_and_multileaders"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.architectural-example-imperial-9d270f/autodesk-acad-samples.architectural-example-imperial-9d270f.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – architectural_example-imperial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.blocks-and-tables-imperial-800cf0/autodesk-acad-samples.blocks-and-tables-imperial-800cf0.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – blocks_and_tables_-_imperial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.blocks-and-tables-metric-e5f244/autodesk-acad-samples.blocks-and-tables-metric-e5f244.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – blocks_and_tables_-_metric"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.civil-example-imperial-6cab3b/autodesk-acad-samples.civil-example-imperial-6cab3b.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – civil_example-imperial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.colorwh-ecfb1c/autodesk-acad-samples.colorwh-ecfb1c.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – colorwh"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.lineweights-cd661a/autodesk-acad-samples.lineweights-cd661a.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – lineweights"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.mechanical-example-imperial-cfc613/autodesk-acad-samples.mechanical-example-imperial-cfc613.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – mechanical_example-imperial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.plot-screening-and-fill-patterns-e87500/autodesk-acad-samples.plot-screening-and-fill-patterns-e87500.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – plot_screening_and_fill_patterns"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.tablet-bb88af/autodesk-acad-samples.tablet-bb88af.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – tablet"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.title-block-ansi-499aee/autodesk-acad-samples.title-block-ansi-499aee.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – title_block-ansi"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.title-block-arch-288c1a/autodesk-acad-samples.title-block-arch-288c1a.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – title_block-arch"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.title-block-iso-0218ff/autodesk-acad-samples.title-block-iso-0218ff.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – title_block-iso"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.truetype-2264fd/autodesk-acad-samples.truetype-2264fd.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – truetype"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.visualization-aerial-ea0eef/autodesk-acad-samples.visualization-aerial-ea0eef.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_aerial"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.visualization-condominium-with-skylight-8cea38/autodesk-acad-samples.visualization-condominium-with-skylight-8cea38.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_condominium_with_skylight"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.visualization-conference-room-fe13a3/autodesk-acad-samples.visualization-conference-room-fe13a3.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_conference_room"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/autodesk-acad-samples/items/autodesk-acad-samples.visualization-sun-and-sky-demo-71ad93/autodesk-acad-samples.visualization-sun-and-sky-demo-71ad93.json",
+   "type": "application/geo+json",
+   "title": "AutoCAD sample – visualization_-_sun_and_sky_demo"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.usaf-sfile-template-2011-a5c7cb/wbdg-usaf-design-packages.usaf-sfile-template-2011-a5c7cb.json",
+   "type": "application/geo+json",
+   "title": "USAF Template – usaf_sfile_template_2011"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.ces-admin-building-f306b8/wbdg-usaf-design-packages.ces-admin-building-f306b8.json",
+   "type": "application/geo+json",
+   "title": "USAF Ce Admin – ces__admin_building"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fdwd5022-dpconfinement-revit2013-arch-central-d7da7c/wbdg-usaf-design-packages.fdwd5022-dpconfinement-revit2013-arch-central-d7da7c.json",
+   "type": "application/geo+json",
+   "title": "USAF Confinement – FDWD5022_DPConfinement_Revit2013_Arch_Central"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afcee-dorms-a-version-2-0-060309-9e0bcb/wbdg-usaf-design-packages.afcee-dorms-a-version-2-0-060309-9e0bcb.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-A-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afcee-dorms-e-version-2-0-060309-d80bfe/wbdg-usaf-design-packages.afcee-dorms-e-version-2-0-060309-d80bfe.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-E-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afcee-dorms-f-version-2-0-060309-36f02f/wbdg-usaf-design-packages.afcee-dorms-f-version-2-0-060309-36f02f.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-F-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afcee-dorms-m-version-2-0-060309-b4dad5/wbdg-usaf-design-packages.afcee-dorms-m-version-2-0-060309-b4dad5.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-M-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.afcee-dorms-p-version-2-0-060309-77de9b/wbdg-usaf-design-packages.afcee-dorms-p-version-2-0-060309-77de9b.json",
+   "type": "application/geo+json",
+   "title": "USAF Enlisted Dorm – AFCEE-DORMS-P-VERSION 2.0-060309"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.20141117-entrycontrolfacility-iacp-model-8b028c/wbdg-usaf-design-packages.20141117-entrycontrolfacility-iacp-model-8b028c.json",
+   "type": "application/geo+json",
+   "title": "USAF Entry Control – 20141117_EntryControlFacility-IACP_Model"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-4e4dd6/wbdg-usaf-design-packages.dynamicprototypes-fighterhangaramu-4e4dd6.json",
+   "type": "application/geo+json",
+   "title": "USAF Fighter-Hangar – DynamicPrototypes-FighterHangarAMU"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fire-station-prototype-central-89a143/wbdg-usaf-design-packages.fire-station-prototype-central-89a143.json",
+   "type": "application/geo+json",
+   "title": "USAF Fire Station – FIRE_STATION_PROTOTYPE_CENTRAL"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-large-c35ba3/wbdg-usaf-design-packages.fitness-center-large-c35ba3.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center_LARGE"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-medium2-be1cd5/wbdg-usaf-design-packages.fitness-center-medium2-be1cd5.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center_MEDIUM2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.fitness-center-mega2-daf977/wbdg-usaf-design-packages.fitness-center-mega2-daf977.json",
+   "type": "application/geo+json",
+   "title": "USAF Fitness Center – Fitness Center_MEGA2"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.indoorsmallarmsfiringrangemodel-111714-bd810e/wbdg-usaf-design-packages.indoorsmallarmsfiringrangemodel-111714-bd810e.json",
+   "type": "application/geo+json",
+   "title": "USAF Indoor-Range – IndoorSmallArmsFiringRangeModel_111714"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.military-working-dog-kennel-prototype-arch2013-cen-2431e7/wbdg-usaf-design-packages.military-working-dog-kennel-prototype-arch2013-cen-2431e7.json",
+   "type": "application/geo+json",
+   "title": "USAF Kennel – Military_Working_Dog_Kennel_Prototype_ARCH2013_Central"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.gm-hangar-prototype-dc-9f79d1/wbdg-usaf-design-packages.gm-hangar-prototype-dc-9f79d1.json",
+   "type": "application/geo+json",
+   "title": "USAF Lagmh – GM_Hangar_Prototype_DC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.sfo-prototypes-a-c02aa2/wbdg-usaf-design-packages.sfo-prototypes-a-c02aa2.json",
+   "type": "application/geo+json",
+   "title": "USAF Sfo – SFO Prototypes - A"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-a-detached-20100201-d4eed7/wbdg-usaf-design-packages.thule-a-detached-20100201-d4eed7.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-A-DETACHED 20100201"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-e-detacted-20100205-1589aa/wbdg-usaf-design-packages.thule-e-detacted-20100205-1589aa.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-E-DETACTED-20100205"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-m-detach-2010-02-03-62a8d8/wbdg-usaf-design-packages.thule-m-detach-2010-02-03-62a8d8.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-M-DETACH-2010-02-03"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-p-detached-20100203-79010a/wbdg-usaf-design-packages.thule-p-detached-20100203-79010a.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-P-DETACHED-20100203"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-s-detached-20100201-fdc423/wbdg-usaf-design-packages.thule-s-detached-20100201-fdc423.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – THULE-S-DETACHED-20100201"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.thule-bldg-4-officer-72-549a9a/wbdg-usaf-design-packages.thule-bldg-4-officer-72-549a9a.json",
+   "type": "application/geo+json",
+   "title": "USAF Thule Dorm – Thule Bldg 4 - Officer 72"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.architectural-vq-model-v1-0-ff310c/wbdg-usaf-design-packages.architectural-vq-model-v1-0-ff310c.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Architectural VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.electrical-vq-model-v1-0-ff7d45/wbdg-usaf-design-packages.electrical-vq-model-v1-0-ff7d45.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Electrical VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.mechanical-vq-model-v1-0-0d48da/wbdg-usaf-design-packages.mechanical-vq-model-v1-0-0d48da.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Mechanical VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.plumbing-vq-model-v1-0-e4ca9b/wbdg-usaf-design-packages.plumbing-vq-model-v1-0-e4ca9b.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Plumbing VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.structural-vq-model-v1-0-29062c/wbdg-usaf-design-packages.structural-vq-model-v1-0-29062c.json",
+   "type": "application/geo+json",
+   "title": "USAF Visiting Quarters – Structural VQ - Model v1.0"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.03-2-bim-r08-03-001-revit-3b4a98/blcj-bim-kakunin.03-2-bim-r08-03-001-revit-3b4a98.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 A_意匠 – 03_別紙2_BIM図面審査における入出力基準適合申告書（初版）R08_03版(001)_意匠Revit"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.revit-bim-01-28498f/blcj-bim-kakunin.revit-bim-01-28498f.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 A_意匠 – Revit_BIM申請サンプルモデル_01"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.s-260319-d1180c/blcj-bim-kakunin.s-260319-d1180c.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 S_構造 – S_構造モデル_260319修正分"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.s-ss7-bim-fc36ab/blcj-bim-kakunin.s-ss7-bim-fc36ab.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 S_構造 – S_構造モデル_SS7_構造計算書-結果(BIM申請サンプル)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.blcjsample-e-revit-01-ef8839/blcj-bim-kakunin.blcjsample-e-revit-01-ef8839.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 MEP_設備 – BLCJsample_E_Revit_01"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/blcj-bim-kakunin/items/blcj-bim-kakunin.blcjsample-m-revit-01-7e672c/blcj-bim-kakunin.blcjsample-m-revit-01-7e672c.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 MEP_設備 – BLCJsample_M_Revit_01"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.196ce1/ezjww-jww-samples.196ce1.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – 木造平面例"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.f65166/ezjww-jww-samples.f65166.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – Ａマンション平面例"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.63dfb0/ezjww-jww-samples.63dfb0.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – Ａマンション立面例"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.25d-a51d8a/ezjww-jww-samples.25d-a51d8a.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – Ａマンション25d"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.6ca2d8/ezjww-jww-samples.6ca2d8.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – 敷地図"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.e6040a/ezjww-jww-samples.e6040a.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – 日影図"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.4b5b57/ezjww-jww-samples.4b5b57.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – 天空率表"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ezjww-jww-samples/items/ezjww-jww-samples.d62625/ezjww-jww-samples.d62625.json",
+   "type": "application/geo+json",
+   "title": "Jw_cad sample – サンプル"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/sxf-samples/items/sxf-samples.sample-0e832a/sxf-samples.sample-0e832a.json",
+   "type": "application/geo+json",
+   "title": "SXF(SFC) survey drawing sample"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/sxf-samples/items/sxf-samples.reference-t002-e924c1/sxf-samples.reference-t002-e924c1.json",
+   "type": "application/geo+json",
+   "title": "SXF(SFC) civil reference drawing T002"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tum-gni-bim/items/tum-gni-bim.2025-bimfundamentals/tum-gni-bim.2025-bimfundamentals.json",
+   "type": "application/geo+json",
+   "title": "TUM GNI BIM Fundamentals – 208 student IFC models (zip)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tum-gni-bim/items/tum-gni-bim.2026-bimprojects/tum-gni-bim.2026-bimprojects.json",
+   "type": "application/geo+json",
+   "title": "TUM GNI BIM Projects – 16 IFC (paired arch/structure, zip)"
+  }
+ ]
+}

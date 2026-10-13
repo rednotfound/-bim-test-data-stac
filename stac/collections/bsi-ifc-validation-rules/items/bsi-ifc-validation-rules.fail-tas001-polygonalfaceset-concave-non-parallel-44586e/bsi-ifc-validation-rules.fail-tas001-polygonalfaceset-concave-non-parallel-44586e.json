@@ -1,0 +1,148 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-ifc-validation-rules.fail-tas001-polygonalfaceset-concave-non-parallel-44586e",
+ "geometry": null,
+ "properties": {
+  "title": "Validation rule TAS – fail",
+  "description": "IFC-SPF IFC4 file from 'buildingSMART ifc-gherkin-rules test files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2024-10-08T20:16:01Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "MIT",
+  "keywords": [
+   "gherkin",
+   "invalid",
+   "rules",
+   "validation",
+   "validation-fail"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4",
+  "bim:source": "bsi-ifc-validation-rules",
+  "bim:building_type": "component",
+  "bim:use_cases": [
+   "validation",
+   "validation-fail"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+  "bim:attribution": "buildingSMART International, ifc-gherkin-rules (MIT)",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/TAS/tas001/fail-tas001-PolygonalFaceSet_concave_non_parallel_crossing.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "commit": "893f8275049b8960c3ce0c7379b4b57aefeaa8f9",
+   "path": "test/files/TAS/tas001/fail-tas001-PolygonalFaceSet_concave_non_parallel_crossing.ifc",
+   "browse_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/TAS/tas001/fail-tas001-PolygonalFaceSet_concave_non_parallel_crossing.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-07-29"
+  },
+  "bim:thumbnail": "generated",
+  "bim:validation_rule": "TAS",
+  "bim:validation_expected": "fail",
+  "ifc:file_description": [
+   "ViewDefinition [ReferenceView_V1.2]"
+  ],
+  "ifc:view_definition": "ReferenceView_V1.2",
+  "ifc:header_timestamp": "2024-10-08T20:16:01",
+  "ifc:schema": "IFC4",
+  "ifc:products": 1,
+  "ifc:product_types": 1,
+  "ifc:storeys": 0,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:props": 0,
+  "ifc:qsets": 0,
+  "ifc:materials": 0,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 0,
+  "ifc:docs": 0,
+  "ifc:score": 0.9,
+  "ifc:originating_system": "IfcOpenShell contributors - IfcOpenShell - v0.7.11+d51fa2c5f",
+  "ifc:element_counts": {
+   "IfcBuildingElementProxy": 1
+  },
+  "ifc:length_unit": "METRE",
+  "ifc:building_names": [
+   "MyBuilding"
+  ],
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-ifc-validation-rules.fail-tas001-polygonalfaceset-concave-non-parallel-44586e.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+   "title": "MIT"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/TAS/tas001/fail-tas001-PolygonalFaceSet_concave_non_parallel_crossing.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/TAS/tas001/fail-tas001-PolygonalFaceSet_concave_non_parallel_crossing.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "fail-tas001-PolygonalFaceSet_concave_non_parallel_crossing.ifc",
+   "file:size": 2844,
+   "file:checksum": "12209f1ebc60f20653b70d867499b8631a0b115cdc4e4afffe8b51c4aaea83d53fed"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "bsi-ifc-validation-rules"
+}

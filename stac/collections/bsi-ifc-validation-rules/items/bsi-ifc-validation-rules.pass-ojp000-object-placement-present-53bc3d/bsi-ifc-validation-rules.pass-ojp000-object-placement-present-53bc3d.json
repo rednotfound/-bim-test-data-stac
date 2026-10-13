@@ -1,0 +1,144 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-ifc-validation-rules.pass-ojp000-object-placement-present-53bc3d",
+ "geometry": null,
+ "properties": {
+  "title": "Validation rule OJP – pass",
+  "description": "IFC-SPF IFC4 file from 'buildingSMART ifc-gherkin-rules test files'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2011-11-11T21:50:39Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "MIT",
+  "keywords": [
+   "gherkin",
+   "invalid",
+   "rules",
+   "validation",
+   "validation-pass"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4",
+  "bim:source": "bsi-ifc-validation-rules",
+  "bim:building_type": "component",
+  "bim:use_cases": [
+   "validation",
+   "validation-pass"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+  "bim:attribution": "buildingSMART International, ifc-gherkin-rules (MIT)",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/OJP/ojp000/pass-ojp000-object_placement_present.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "commit": "893f8275049b8960c3ce0c7379b4b57aefeaa8f9",
+   "path": "test/files/OJP/ojp000/pass-ojp000-object_placement_present.ifc",
+   "browse_url": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/OJP/ojp000/pass-ojp000-object_placement_present.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-07-29"
+  },
+  "bim:thumbnail": "not generated: RuntimeError: no geometry",
+  "bim:validation_rule": "OJP",
+  "bim:validation_expected": "pass",
+  "ifc:file_description": [
+   "ViewDefinition [ReferenceView_V1.2]"
+  ],
+  "ifc:view_definition": "ReferenceView_V1.2",
+  "ifc:header_timestamp": "2011-11-11T21:50:39",
+  "ifc:schema": "IFC4",
+  "ifc:products": 1,
+  "ifc:product_types": 1,
+  "ifc:storeys": 0,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Pset_AirTerminalTypeCommon",
+   "Pset_DistributionPortCommon",
+   "Pset_DistributionPortTypeAirConditioning",
+   "Pset_ManufacturerTypeInformation"
+  ],
+  "ifc:props": 44,
+  "ifc:qsets": 0,
+  "ifc:materials": 0,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 1,
+  "ifc:docs": 0,
+  "ifc:score": 5.78,
+  "ifc:originating_system": "Unknown - Constructivity - v0.9.1",
+  "ifc:element_counts": {
+   "IfcDistributionPort": 1
+  },
+  "ifc:project_name": "HVAC Product Type Library Example",
+  "ifc:length_unit": "INCH",
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-ifc-validation-rules.pass-ojp000-object-placement-present-53bc3d.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/main/LICENSE",
+   "title": "MIT"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/ifc-gherkin-rules/blob/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/OJP/ojp000/pass-ojp000-object_placement_present.ifc",
+   "title": "Upstream file (pinned commit)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/ifc-gherkin-rules/893f8275049b8960c3ce0c7379b4b57aefeaa8f9/test/files/OJP/ojp000/pass-ojp000-object_placement_present.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "pass-ojp000-object_placement_present.ifc",
+   "file:size": 22612,
+   "file:checksum": "12207d5b6366fbe38ab77b21775b5a170a737883ad8e58bfe543360749b801f0001b"
+  }
+ },
+ "collection": "bsi-ifc-validation-rules"
+}

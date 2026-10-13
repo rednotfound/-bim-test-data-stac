@@ -1,0 +1,246 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.nbu-duplex-apt-eng-mep-2-d556be",
+ "geometry": null,
+ "properties": {
+  "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt_Eng-MEP-2",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2011-10-24T08:49:50Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-nbu-duplex-ifc-7cb23d",
+  "bim:building_type": "residential",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "mep"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBU_Duplex_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "NBU_Duplex/NBU_Duplex-Apt_Eng-MEP-2.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView]"
+  ],
+  "ifc:view_definition": "CoordinationView",
+  "ifc:header_timestamp": "2011-10-24T08:49:50",
+  "ifc:preprocessor_version": "Autodesk Revit MEP 2011 - 1.0",
+  "ifc:originating_system": "20100903_2115(x64)",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 487,
+  "ifc:product_types": 5,
+  "ifc:storeys": 3,
+  "ifc:spaces": 37,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "PSet_Revit_Constraints",
+   "PSet_Revit_Dimensions",
+   "PSet_Revit_Electrical - Lighting",
+   "PSet_Revit_Electrical - Loads",
+   "PSet_Revit_Energy Analysis",
+   "PSet_Revit_Graphics",
+   "PSet_Revit_Identity Data",
+   "PSet_Revit_Mechanical",
+   "PSet_Revit_Mechanical - Airflow",
+   "PSet_Revit_Mechanical - Loads",
+   "PSet_Revit_Other",
+   "PSet_Revit_Phasing",
+   "PSet_Revit_Type_Constraints",
+   "PSet_Revit_Type_Construction",
+   "PSet_Revit_Type_Dimensions",
+   "PSet_Revit_Type_Electrical",
+   "PSet_Revit_Type_Electrical - Loads",
+   "PSet_Revit_Type_Fitting",
+   "PSet_Revit_Type_Graphics",
+   "PSet_Revit_Type_Identity Data",
+   "PSet_Revit_Type_Mechanical",
+   "PSet_Revit_Type_Mechanical - Loads",
+   "PSet_Revit_Type_Other",
+   "Pset_BuildingCommon",
+   "Pset_SpaceCommon"
+  ],
+  "ifc:props": 15718,
+  "ifc:qsets": 37,
+  "ifc:materials": 0,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 55,
+  "ifc:docs": 0,
+  "ifc:score": 16.03,
+  "ifc:disciplines": [
+   "mep"
+  ],
+  "ifc:element_counts": {
+   "IfcFlowSegment": 246,
+   "IfcFlowFitting": 207,
+   "IfcEnergyConversionDevice": 22,
+   "IfcFlowController": 8,
+   "IfcFlowMovingDevice": 4
+  },
+  "ifc:project_name": "0001",
+  "ifc:length_unit": "METRE",
+  "ifc:storey_names": [
+   "Level 1",
+   "Level 2",
+   "Roof"
+  ],
+  "ifc:map_conversion": false,
+  "bim:site_location_raw": [
+   -87.629799,
+   41.878113
+  ],
+  "bim:location_source": "IfcSite location is a software/test default (Autodesk Revit MEP default site: Chicago, IL); geometry left null"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.nbu-duplex-apt-eng-mep-2-d556be.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-cobie-arch-design-38bfb6/duraark.nbu-duplex-apt-cobie-arch-design-38bfb6.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-cobie-arch-handover-25d225/duraark.nbu-duplex-apt-cobie-arch-handover-25d225.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-cobie-arch-productinstall-aa7ad1/duraark.nbu-duplex-apt-cobie-arch-productinstall-aa7ad1.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-cobie-arch-productselect-0b280e/duraark.nbu-duplex-apt-cobie-arch-productselect-0b280e.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-cobie-arch-programming-8f2068/duraark.nbu-duplex-apt-cobie-arch-programming-8f2068.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-arch-optimized-7d2f52/duraark.nbu-duplex-apt-arch-optimized-7d2f52.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-arch-2a541a/duraark.nbu-duplex-apt-arch-2a541a.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-eng-hvac-d0351f/duraark.nbu-duplex-apt-eng-hvac-d0351f.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-eng-mep-1-1f89f8/duraark.nbu-duplex-apt-eng-mep-1-1f89f8.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-eng-mep-optimized-2b49f8/duraark.nbu-duplex-apt-eng-mep-optimized-2b49f8.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-eng-mep-3d6c63/duraark.nbu-duplex-apt-eng-mep-3d6c63.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBU_Duplex_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "NBU_Duplex-Apt_Eng-MEP-2.ifc",
+   "file:size": 13543482,
+   "file:checksum": "122068b023edcf23e7461df2bf0f02b377b1fa87b37065ed38cf212adfbe558165b2",
+   "bim:archive_member": "NBU_Duplex/NBU_Duplex-Apt_Eng-MEP-2.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 8937108,
+   "bim:archive_member_checksum": "1220b0b4ecc22b5115a648e936f65fd9a686ced7ad96606affad2605734f6db9983f"
+  }
+ },
+ "collection": "duraark"
+}

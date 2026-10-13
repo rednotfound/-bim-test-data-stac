@@ -1,0 +1,36 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "project--yousheng-revit-ifc4-534f37",
+ "title": "project: yousheng-revit-ifc4",
+ "description": "2 items where project = yousheng-revit-ifc4. Items are shared with their source collections.",
+ "bim:dimension": "project",
+ "bim:value": "yousheng-revit-ifc4",
+ "bim:item_count": 2,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/yousheng-ifcsamplefiles/items/yousheng-ifcsamplefiles.ifc4-revit-arc-b1d0c4/yousheng-ifcsamplefiles.ifc4-revit-arc-b1d0c4.json",
+   "type": "application/geo+json",
+   "title": "Revit sample project – architecture (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/yousheng-ifcsamplefiles/items/yousheng-ifcsamplefiles.ifc4-revit-mep-aed5a4/yousheng-ifcsamplefiles.ifc4-revit-mep-aed5a4.json",
+   "type": "application/geo+json",
+   "title": "Revit sample project – MEP (IFC4)"
+  }
+ ]
+}

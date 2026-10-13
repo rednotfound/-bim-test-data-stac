@@ -1,0 +1,167 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "wbdg-usaf-design-packages.20130328-military-working-dog-kennel-prototype-dra-e8ecab",
+ "geometry": null,
+ "properties": {
+  "title": "USAF Kennel – 20130328_Military_Working_Dog_Kennel_Prototype_Drawings",
+  "description": "PDF PDF 1.6 file from 'WBDG US Air Force design packages (AFDP)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2013-03-20T15:31:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-US-Government-Public-Domain",
+  "keywords": [
+   "Revit",
+   "USAF",
+   "pdf-drawing",
+   "public domain",
+   "real-project",
+   "sheet set"
+  ],
+  "providers": [
+   {
+    "name": "US Air Force Civil Engineer Center (AFCEC)",
+    "url": "https://www.wbdg.org/ffc/af-afcec",
+    "roles": [
+     "producer"
+    ]
+   },
+   {
+    "name": "Whole Building Design Guide (WBDG), NIBS",
+    "url": "https://www.wbdg.org",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "PDF",
+  "bim:format_family": "PDF",
+  "bim:format_version": "PDF 1.6",
+  "bim:source": "wbdg-usaf-design-packages",
+  "bim:project": "usaf-kennel",
+  "bim:building_type": "other",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "pdf-drawing",
+   "real-project"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://www.usa.gov/government-copyright",
+  "bim:attribution": "US Air Force Civil Engineer Center, via WBDG (wbdg.org)",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "PDF CreationDate",
+  "bim:provenance": {
+   "upstream_href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/20130328_Military_Working_Dog_Kennel_Prototype_Drawings.pdf",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "generated",
+  "pdf:pages": 11,
+  "pdf:title": "Dynamic Prototype for Military Working Dog Kennel",
+  "pdf:creator": "PScript5.dll Version 5.2.2",
+  "pdf:producer": "Acrobat Distiller 10.1.5 (Windows)",
+  "pdf:version": "PDF 1.6",
+  "pdf:page_sizes": {
+   "ARCH D landscape": 11
+  },
+  "pdf:vector_pages_ratio": 1.0,
+  "pdf:raster_pages_ratio": 0.73,
+  "pdf:text_extractable": true,
+  "pdf:language_cjk": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./wbdg-usaf-design-packages.20130328-military-working-dog-kennel-prototype-dra-e8ecab.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.usa.gov/government-copyright",
+   "title": "LicenseRef-US-Government-Public-Domain"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.wbdg.org/ffc/af-afcec/design-packages",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.20130328-bim-manual-afcec-bim-prototype-mwd-kennel-ab0050/wbdg-usaf-design-packages.20130328-bim-manual-afcec-bim-prototype-mwd-kennel-ab0050.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-kennel)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.military-working-dog-kennel-program-de654e/wbdg-usaf-design-packages.military-working-dog-kennel-program-de654e.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-kennel)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.military-working-dog-kennel-prototype-arch2013-cen-2431e7/wbdg-usaf-design-packages.military-working-dog-kennel-prototype-arch2013-cen-2431e7.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-kennel)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.drawings-mil-work-dog-june-2018-6fc7a2/wbdg-usaf-design-packages.drawings-mil-work-dog-june-2018-6fc7a2.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-kennel)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.mil-working-dog-cal-spreadsheet-june-2018-e59245/wbdg-usaf-design-packages.mil-working-dog-cal-spreadsheet-june-2018-e59245.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-kennel)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.standard-design-mil-working-dog-july-2018-5a751e/wbdg-usaf-design-packages.standard-design-mil-working-dog-july-2018-5a751e.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-kennel)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/20130328_Military_Working_Dog_Kennel_Prototype_Drawings.pdf",
+   "type": "application/pdf",
+   "roles": [
+    "data"
+   ],
+   "title": "20130328_Military_Working_Dog_Kennel_Prototype_Drawings.pdf",
+   "file:size": 7273588,
+   "file:checksum": "1220a84483a867954ff5bbaaf8d1162b151288ef95183378ac5d3333b4cff875491d"
+  },
+  "thumbnail": {
+   "href": "./thumbnail.png",
+   "type": "image/png",
+   "roles": [
+    "thumbnail"
+   ],
+   "title": "Preview (derived; same license as the source data)"
+  }
+ },
+ "collection": "wbdg-usaf-design-packages"
+}

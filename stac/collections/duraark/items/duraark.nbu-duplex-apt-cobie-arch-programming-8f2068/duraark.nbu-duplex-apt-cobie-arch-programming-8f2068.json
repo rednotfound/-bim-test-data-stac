@@ -1,0 +1,207 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.nbu-duplex-apt-cobie-arch-programming-8f2068",
+ "geometry": null,
+ "properties": {
+  "title": "NIBS Duplex (DURAARK) – NBU_Duplex-Apt-COBie_Arch-Programming",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2012-03-26T07:45:57Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-nbu-duplex-ifc-7cb23d",
+  "bim:building_type": "residential",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "xs(<100KB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBU_Duplex_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "NBU_Duplex/NBU_Duplex-Apt-COBie_Arch-Programming.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:header_timestamp": "2012-03-26T07:45:57",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 0,
+  "ifc:product_types": 0,
+  "ifc:storeys": 4,
+  "ifc:spaces": 22,
+  "ifc:zones": 2,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "PSet_Revit_Dimensions",
+   "Pset_Floor_COBie",
+   "Pset_SpaceCommon"
+  ],
+  "ifc:props": 90,
+  "ifc:qsets": 22,
+  "ifc:materials": 0,
+  "ifc:classif_refs": 13,
+  "ifc:type_objects": 0,
+  "ifc:docs": 0,
+  "ifc:score": 12.5,
+  "ifc:project_name": "1",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:building_names": [
+   "DuplexApartment"
+  ],
+  "ifc:storey_names": [
+   "Level 1",
+   "Level 2",
+   "Roof",
+   "T/FDN"
+  ],
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.nbu-duplex-apt-cobie-arch-programming-8f2068.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-cobie-arch-design-38bfb6/duraark.nbu-duplex-apt-cobie-arch-design-38bfb6.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-cobie-arch-handover-25d225/duraark.nbu-duplex-apt-cobie-arch-handover-25d225.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-cobie-arch-productinstall-aa7ad1/duraark.nbu-duplex-apt-cobie-arch-productinstall-aa7ad1.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-cobie-arch-productselect-0b280e/duraark.nbu-duplex-apt-cobie-arch-productselect-0b280e.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-arch-optimized-7d2f52/duraark.nbu-duplex-apt-arch-optimized-7d2f52.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-arch-2a541a/duraark.nbu-duplex-apt-arch-2a541a.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-eng-hvac-d0351f/duraark.nbu-duplex-apt-eng-hvac-d0351f.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-eng-mep-1-1f89f8/duraark.nbu-duplex-apt-eng-mep-1-1f89f8.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-eng-mep-2-d556be/duraark.nbu-duplex-apt-eng-mep-2-d556be.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-eng-mep-optimized-2b49f8/duraark.nbu-duplex-apt-eng-mep-optimized-2b49f8.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.nbu-duplex-apt-eng-mep-3d6c63/duraark.nbu-duplex-apt-eng-mep-3d6c63.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-nbu-duplex-ifc-7cb23d)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/NBU_Duplex_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "NBU_Duplex-Apt-COBie_Arch-Programming.ifc",
+   "file:size": 13543482,
+   "file:checksum": "122068b023edcf23e7461df2bf0f02b377b1fa87b37065ed38cf212adfbe558165b2",
+   "bim:archive_member": "NBU_Duplex/NBU_Duplex-Apt-COBie_Arch-Programming.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 39115,
+   "bim:archive_member_checksum": "12205e7fe9c72f78418e3aa454cef8f1af3a1c251f4e61c301dafc33548d057c7299"
+  }
+ },
+ "collection": "duraark"
+}

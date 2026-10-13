@@ -1,0 +1,127 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "wbdg-usaf-design-packages.sfo-prototypes-a-c02aa2",
+ "geometry": null,
+ "properties": {
+  "title": "USAF Sfo – SFO Prototypes - A",
+  "description": "RVT Revit 2011 file from 'WBDG US Air Force design packages (AFDP)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2026-10-13T00:00:00Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-US-Government-Public-Domain",
+  "keywords": [
+   "Revit",
+   "USAF",
+   "public domain",
+   "real-project",
+   "revit-native",
+   "sheet set"
+  ],
+  "providers": [
+   {
+    "name": "US Air Force Civil Engineer Center (AFCEC)",
+    "url": "https://www.wbdg.org/ffc/af-afcec",
+    "roles": [
+     "producer"
+    ]
+   },
+   {
+    "name": "Whole Building Design Guide (WBDG), NIBS",
+    "url": "https://www.wbdg.org",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "RVT",
+  "bim:format_family": "BIM-native",
+  "bim:format_version": "Revit 2011",
+  "bim:source": "wbdg-usaf-design-packages",
+  "bim:project": "usaf-sfo",
+  "bim:building_type": "office",
+  "bim:country": "US",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "revit-native",
+   "real-project"
+  ],
+  "bim:license_tier": "open",
+  "bim:license_url": "https://www.usa.gov/government-copyright",
+  "bim:attribution": "US Air Force Civil Engineer Center, via WBDG (wbdg.org)",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "retrieval date",
+  "bim:provenance": {
+   "upstream_href": "https://www.wbdg.org/FFC/AF/AFDP/SFO/SFO%20Prototypes%20-%20A.rvt",
+   "retrieved": "2026-10-13",
+   "rehosted": false
+  },
+  "bim:thumbnail": "not applicable",
+  "rvt:build": "20100903_2115(x64)",
+  "rvt:revit_version": "2011",
+  "rvt:revit_version_estimated_from_build": true,
+  "rvt:worksharing": "Central"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./wbdg-usaf-design-packages.sfo-prototypes-a-c02aa2.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://www.usa.gov/government-copyright",
+   "title": "LicenseRef-US-Government-Public-Domain"
+  },
+  {
+   "rel": "via",
+   "href": "https://www.wbdg.org/ffc/af-afcec/design-packages",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.sfo-bim-manual-255091/wbdg-usaf-design-packages.sfo-bim-manual-255091.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-sfo)"
+  },
+  {
+   "rel": "related",
+   "href": "../wbdg-usaf-design-packages.sfo-pdf-version-of-all-sheets-v1-0-f40411/wbdg-usaf-design-packages.sfo-pdf-version-of-all-sheets-v1-0-f40411.json",
+   "type": "application/geo+json",
+   "title": "Same project (usaf-sfo)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://www.wbdg.org/FFC/AF/AFDP/SFO/SFO%20Prototypes%20-%20A.rvt",
+   "type": "application/octet-stream",
+   "roles": [
+    "data"
+   ],
+   "title": "SFO Prototypes - A.rvt",
+   "file:size": 22777856,
+   "file:checksum": "1220503fbb671495dd0a8c2f136ab9d11893c504155aa11125effbc286d7a4284eb2"
+  }
+ },
+ "collection": "wbdg-usaf-design-packages"
+}

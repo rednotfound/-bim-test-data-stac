@@ -1,0 +1,9 @@
+# 原始数据和精选副本不公开（只链接上游）
+/raw/
+/curated/
+/catalog/cache/
+/tools/.venv/
+/tools/bin/
+/tools/libredwg/
+__pycache__/
+*.pyc

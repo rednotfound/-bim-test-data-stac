@@ -1,0 +1,582 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
+ ],
+ "id": "schependomlaan",
+ "title": "Schependomlaan dataset (Nijmegen, NL)",
+ "description": "Real apartment-building project: Archicad design model in IFC, weekly as-planned 4D IFC models, subcontractor IFC/DWG models, BCF issues, planning PDF and event logs (TU Eindhoven).",
+ "license": "CC-BY-4.0",
+ "keywords": [
+  "real project",
+  "4D",
+  "construction",
+  "BCF",
+  "Netherlands"
+ ],
+ "providers": [
+  {
+   "name": "TU Eindhoven / openBIMstandards (data owners: Bouwbedrijf Van der Ven et al.)",
+   "url": "https://github.com/openBIMstandards/DataSetSchependomlaan",
+   "roles": [
+    "producer",
+    "licensor"
+   ]
+  },
+  {
+   "name": "buildingSMART community (complete copy with Git LFS content)",
+   "url": "https://github.com/buildingsmart-community/Community-Sample-Test-Files/tree/main/IFC%202.3.0.1%20(IFC%202x3)/Schependomlaan",
+   "roles": [
+    "host"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     4.916,
+     52.383,
+     4.916,
+     52.383
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2011-07-12T17:19:12Z",
+     "2024-11-06T00:00:00Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "BCF",
+   "DWG",
+   "IFC-SPF",
+   "IFC-ZIP",
+   "PDF"
+  ],
+  "bim:format_version": [
+   "AC1024 R2010",
+   "BCF 2.0",
+   "IFC2X3",
+   "PDF 1.4"
+  ],
+  "bim:building_type": [
+   "residential"
+  ],
+  "bim:country": [
+   "NL"
+  ],
+  "bim:use_cases": [
+   "4d-construction",
+   "bcf",
+   "data-rich",
+   "federated-models",
+   "real-project"
+  ],
+  "bim:disciplines": [
+   "architecture",
+   "structure"
+  ],
+  "bim:license_tier": [
+   "open"
+  ]
+ },
+ "bim:license_tier": "open",
+ "bim:license_quote": "(C) original owners. This work is licensed under the Creative Commons Attribution 4.0 International License.",
+ "bim:attribution": "Schependomlaan dataset, TU Eindhoven / openBIMstandards, DOI 10.17605/OSF.IO/NE2YU (CC BY 4.0)",
+ "bim:origin": {
+  "kind": "git",
+  "repo": "buildingsmart-community/Community-Sample-Test-Files",
+  "commit": "7ddf57a201f88a0c213d5322b02ed15e94a60a40",
+  "commit_date": "2024-11-06"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 74,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "sci:doi": "10.17605/OSF.IO/NE2YU",
+ "sci:citation": "Schependomlaan dataset, TU Eindhoven / openBIMstandards, DOI 10.17605/OSF.IO/NE2YU (CC BY 4.0)",
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "CC-BY-4.0"
+  },
+  {
+   "rel": "about",
+   "href": "https://github.com/openBIMstandards/DataSetSchependomlaan",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "cite-as",
+   "href": "https://doi.org/10.17605/OSF.IO/NE2YU"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.ifc-schependomlaan-926953/schependomlaan.ifc-schependomlaan-926953.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan design model (Archicad, IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.root-compleet-interne-modelkwaliteit-0b55bc/schependomlaan.root-compleet-interne-modelkwaliteit-0b55bc.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan model-quality issues (BCF)"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.week-26-26-june-ifc-schependomlaan-incl-planningsd-e16b0e/schependomlaan.week-26-26-june-ifc-schependomlaan-incl-planningsd-e16b0e.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 26 26 june IF"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.week-27-3-july-ifc-schependomlaan-incl-planningsda-d6990f/schependomlaan.week-27-3-july-ifc-schependomlaan-incl-planningsda-d6990f.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 27 3 july IFC"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.week-28-10-july-ifc-schependomlaan-incl-planningsd-be77c8/schependomlaan.week-28-10-july-ifc-schependomlaan-incl-planningsd-be77c8.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 28 10 july IF"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.week-29-17-july-ifc-schependomlaan-incl-planningsd-be69b5/schependomlaan.week-29-17-july-ifc-schependomlaan-incl-planningsd-be69b5.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 29 17 july IF"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.week-30-24-july-ifc-schependomlaan-incl-planningsd-429d2d/schependomlaan.week-30-24-july-ifc-schependomlaan-incl-planningsd-429d2d.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 30 24 july IF"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.week-37-11-sept-ifc-schependomlaan-incl-planningsd-c5c142/schependomlaan.week-37-11-sept-ifc-schependomlaan-incl-planningsd-c5c142.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 37 11 sept IF"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.balkonhekken-23-9-2015-fb2376/schependomlaan.balkonhekken-23-9-2015-fb2376.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – BALKONHEKKEN 23-9-2015"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.bernts-staalconstructie-76e96d/schependomlaan.bernts-staalconstructie-76e96d.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – BERNTS-Staalconstructie"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.fek-balkonhekken-en-borstweringsleuningen-86d56b/schependomlaan.fek-balkonhekken-en-borstweringsleuningen-86d56b.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – FEK - Balkonhekken en borstweringsleuningen"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.fek-franse-balkonhekken-en-doorvalbeveiliging-20e166/schependomlaan.fek-franse-balkonhekken-en-doorvalbeveiliging-20e166.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – FEK - Franse balkonhekken en doorvalbeveiliging"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.fek-traphekken-537441/schependomlaan.fek-traphekken-537441.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – FEK - Traphekken"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.geelen-breedplaat-v1-247592/schependomlaan.geelen-breedplaat-v1-247592.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – GEELEN-Breedplaat V1"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.geelen-breedplaat-v2-892483/schependomlaan.geelen-breedplaat-v2-892483.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – GEELEN-Breedplaat V2"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.geelen-breedplaat-v3-1a92d4/schependomlaan.geelen-breedplaat-v3-1a92d4.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – GEELEN-Breedplaat V3"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.geelen-dakvloer-631e16/schependomlaan.geelen-dakvloer-631e16.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – GEELEN-Dakvloer"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.hb-nutsvoorzieningen-8a28cd/schependomlaan.hb-nutsvoorzieningen-8a28cd.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – HB_Nutsvoorzieningen"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.jordahl-gevelderagers-2cd7c2/schependomlaan.jordahl-gevelderagers-2cd7c2.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – JORDAHL-Gevelderagers"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.linden-kozijnen-4d05e6/schependomlaan.linden-kozijnen-4d05e6.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – LINDEN - Kozijnen"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.multicom-balkons-f36436/schependomlaan.multicom-balkons-f36436.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – MULTICOM-balkons"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.multicom-banden-401455/schependomlaan.multicom-banden-401455.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – MULTICOM-banden"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.multicom-trappen-bordessen-80d414/schependomlaan.multicom-trappen-bordessen-80d414.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – MULTICOM-trappen+bordessen"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.root-compleet-f0161c/schependomlaan.root-compleet-f0161c.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-Compleet"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.root-vebo-999a76/schependomlaan.root-vebo-999a76.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-Vebo"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.root-breedplaatvloeren-fd4baa/schependomlaan.root-breedplaatvloeren-fd4baa.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-breedplaatvloeren"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.root-houten-kozijnen-3ab8e2/schependomlaan.root-houten-kozijnen-3ab8e2.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-houten kozijnen"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.root-kalkzandsteen-04d9e3/schependomlaan.root-kalkzandsteen-04d9e3.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-kalkzandsteen"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.root-kanaalplaatvloer-c989c4/schependomlaan.root-kanaalplaatvloer-c989c4.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-kanaalplaatvloer"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.root-kapconstructie-dakkapellen-platdak-520e59/schependomlaan.root-kapconstructie-dakkapellen-platdak-520e59.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-kapconstructie_dakkapellen_platdak"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.root-lateien-en-geveldragers-763b4f/schependomlaan.root-lateien-en-geveldragers-763b4f.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-lateien_en_geveldragers"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.root-prefab-balkons-010df7/schependomlaan.root-prefab-balkons-010df7.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-prefab_balkons"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.root-prefab-trappen-0f3834/schependomlaan.root-prefab-trappen-0f3834.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-prefab_trappen"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.root-prefab-vloer-lifttop-3bad53/schependomlaan.root-prefab-vloer-lifttop-3bad53.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-prefab_vloer_lifttop"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.root-staal-a86264/schependomlaan.root-staal-a86264.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-staal"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.root-traphekken-ae1742/schependomlaan.root-traphekken-ae1742.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – ROOT-traphekken"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-bg-rio-mv-hwa-51ba71/schependomlaan.sonsbeek-bg-rio-mv-hwa-51ba71.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-BG Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-bg-water-gas-cv-f46863/schependomlaan.sonsbeek-bg-water-gas-cv-f46863.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-BG Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-dak-rio-mv-hwa-ca3873/schependomlaan.sonsbeek-dak-rio-mv-hwa-ca3873.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Dak Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-dak-sparingen-4ac796/schependomlaan.sonsbeek-dak-sparingen-4ac796.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Dak Sparingen"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-dak-water-gas-cv-c252aa/schependomlaan.sonsbeek-dak-water-gas-cv-c252aa.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Dak Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-fund-rio-mv-hwa-bd7850/schependomlaan.sonsbeek-fund-rio-mv-hwa-bd7850.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Fund. Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-fund-water-gas-cv-c33aaa/schependomlaan.sonsbeek-fund-water-gas-cv-c33aaa.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-Fund. Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-v1-rio-mv-hwa-8a2c63/schependomlaan.sonsbeek-v1-rio-mv-hwa-8a2c63.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V1 Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-v1-sparingen-a29ee9/schependomlaan.sonsbeek-v1-sparingen-a29ee9.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V1 Sparingen"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-v1-water-gas-cv-7ce3a4/schependomlaan.sonsbeek-v1-water-gas-cv-7ce3a4.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V1 Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-v2-rio-mv-hwa-e11ef8/schependomlaan.sonsbeek-v2-rio-mv-hwa-e11ef8.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V2 Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-v2-sparingen-4dc371/schependomlaan.sonsbeek-v2-sparingen-4dc371.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V2 Sparingen"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-v2-water-gas-cv-977c73/schependomlaan.sonsbeek-v2-water-gas-cv-977c73.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V2 Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-v3-rio-mv-hwa-497f4d/schependomlaan.sonsbeek-v3-rio-mv-hwa-497f4d.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V3 Rio+MV+Hwa"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-v3-sparingen-a82584/schependomlaan.sonsbeek-v3-sparingen-a82584.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V3 Sparingen"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.sonsbeek-v3-water-gas-cv-82b14c/schependomlaan.sonsbeek-v3-water-gas-cv-82b14c.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – SONSBEEK-V3 Water+Gas+CV"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.v-l-constructief-842b15/schependomlaan.v-l-constructief-842b15.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – V_L_Constructief"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.waardo-kanaalplaatvloer-28fc77/schependomlaan.waardo-kanaalplaatvloer-28fc77.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WAARDO-Kanaalplaatvloer"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.willemsen-hoogbouw-dakpannen-707aa6/schependomlaan.willemsen-hoogbouw-dakpannen-707aa6.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WILLEMSEN-Hoogbouw dakpannen"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.willemsen-hoogbouw-eab4cf/schependomlaan.willemsen-hoogbouw-eab4cf.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WILLEMSEN-Hoogbouw"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.willemsen-laagbouw-3206e1/schependomlaan.willemsen-laagbouw-3206e1.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WILLEMSEN-Laagbouw"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.willemsen-laagbouw-dakpannen-fc8c41/schependomlaan.willemsen-laagbouw-dakpannen-fc8c41.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – WILLEMSEN-laagbouw dakpannen"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.xella-1e-verdieping-5f5852/schependomlaan.xella-1e-verdieping-5f5852.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – XELLA-1e verdieping"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.xella-2e-verdieping-114992/schependomlaan.xella-2e-verdieping-114992.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – XELLA-2e verdieping"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.xella-3e-verdieping-25d1f8/schependomlaan.xella-3e-verdieping-25d1f8.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – XELLA-3e verdieping"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.xella-begane-grond-95f64d/schependomlaan.xella-begane-grond-95f64d.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – XELLA-Begane grond"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.ytong-algemeen-ee26f0/schependomlaan.ytong-algemeen-ee26f0.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Algemeen"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.ytong-kavel-01-e81df8/schependomlaan.ytong-kavel-01-e81df8.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 01"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.ytong-kavel-02-5d55f3/schependomlaan.ytong-kavel-02-5d55f3.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 02"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.ytong-kavel-03-bae9fd/schependomlaan.ytong-kavel-03-bae9fd.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 03"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.ytong-kavel-04-619fe7/schependomlaan.ytong-kavel-04-619fe7.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 04"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.ytong-kavel-05-93a5be/schependomlaan.ytong-kavel-05-93a5be.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 05"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.ytong-kavel-06-5f433c/schependomlaan.ytong-kavel-06-5f433c.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 06"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.ytong-kavel-07-25fab7/schependomlaan.ytong-kavel-07-25fab7.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 07"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.ytong-kavel-08-57bcb0/schependomlaan.ytong-kavel-08-57bcb0.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 08"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.ytong-kavel-09-3f9fa6/schependomlaan.ytong-kavel-09-3f9fa6.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 09"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.ytong-kavel-10-26a654/schependomlaan.ytong-kavel-10-26a654.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan subcontractor – YTONG-Kavel 10"
+  },
+  {
+   "rel": "item",
+   "href": "items/schependomlaan.schependomlaan-nijmegen-18-02-2015-34fa37/schependomlaan.schependomlaan-nijmegen-18-02-2015-34fa37.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan construction planning (PDF)"
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.fojab-landsarkivet-ced8bc",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   13.192912,
+   55.702854
+  ]
+ },
+ "bbox": [
+  13.192912,
+  55.702854,
+  13.192912,
+  55.702854
+ ],
+ "properties": {
+  "title": "FOJAB Landsarkivet archive building – FOJAB_Landsarkivet",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2015-12-02T19:32:04Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-fojab-landsarkivet-ifc-e29c4a",
+  "bim:building_type": "public",
+  "bim:country": "SE",
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "xl(>=100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/03_IFC_E57/FOJAB_Landsarkivet_IFC.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "FOJAB_Landsarkivet.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [CoordinationView_V2.0]"
+  ],
+  "ifc:view_definition": "CoordinationView_V2.0",
+  "ifc:header_timestamp": "2015-12-02T19:32:04",
+  "ifc:preprocessor_version": "The EXPRESS Data Manager Version 5.02.0100.07 : 28 Aug 2013",
+  "ifc:originating_system": "20150702_1515(x64) - Naviate IFC Exporter V2015.1",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 9361,
+  "ifc:product_types": 21,
+  "ifc:storeys": 45,
+  "ifc:spaces": 778,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Pset_BeamCommon",
+   "Pset_BuildingCommon",
+   "Pset_BuildingElementProxyCommon",
+   "Pset_BuildingStoreyCommon",
+   "Pset_ColumnCommon",
+   "Pset_CoveringCommon",
+   "Pset_CurtainWallCommon",
+   "Pset_DistributionFlowElementCommon",
+   "Pset_DoorCommon",
+   "Pset_ManufacturerTypeInformation",
+   "Pset_MemberCommon",
+   "Pset_PlateCommon",
+   "Pset_RailingCommon",
+   "Pset_RampCommon",
+   "Pset_RampFlightCommon",
+   "Pset_RoofCommon",
+   "Pset_SlabCommon",
+   "Pset_SpaceCommon",
+   "Pset_StairCommon",
+   "Pset_StairFlightCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon"
+  ],
+  "ifc:props": 17584,
+  "ifc:qsets": 0,
+  "ifc:materials": 79,
+  "ifc:classif_refs": 421,
+  "ifc:type_objects": 983,
+  "ifc:docs": 0,
+  "ifc:score": 18.44,
+  "ifc:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcFurnishingElement": 3440,
+   "IfcWallStandardCase": 1929,
+   "IfcBuildingElementProxy": 1026,
+   "IfcFlowTerminal": 994,
+   "IfcDoor": 551,
+   "IfcWindow": 428,
+   "IfcMember": 185,
+   "IfcCovering": 153,
+   "IfcSlab": 134,
+   "IfcPlate": 131,
+   "IfcColumn": 89,
+   "IfcStair": 81,
+   "IfcRailing": 59,
+   "IfcWall": 52,
+   "IfcBeam": 45,
+   "IfcRoof": 30,
+   "IfcCurtainWall": 16,
+   "IfcRamp": 6,
+   "IfcStairFlight": 5,
+   "IfcRampFlight": 4,
+   "IfcFlowSegment": 3
+  },
+  "ifc:classification_systems": [
+   "Uniformat"
+  ],
+  "ifc:project_name": "10228",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:storey_names": [
+   "Plan08_D",
+   "Plan09_D",
+   "Kulvert vid hus B",
+   "Kulvert",
+   "Plan 09_A",
+   "Plan 09_BC bef nivå",
+   "Över kulvert",
+   "Plan 10_D uk btg",
+   "Plan 10_D",
+   "Plan 10_C uk btg",
+   "Plan 10_BC bef nivå",
+   "Plan 10_C",
+   "Plan 11_D uk btg",
+   "Plan 11_D",
+   "Plan 11_C uk btg",
+   "Plan 11_B uk bjl",
+   "Plan 11_BC bef nivå",
+   "Plan 11_C",
+   "Plan 11_B",
+   "Plan 11_A",
+   "Plan 12_D uk btg",
+   "Plan 12_C uk btg",
+   "Plan 12_B uk bjl",
+   "Plan 12_D",
+   "Plan 12_BC bef nivå",
+   "Plan 12_C",
+   "Plan 12_A ny nedre",
+   "Plan 12_A uk bjl",
+   "Plan 12_A",
+   "Plan 12_A ny övre"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)",
+  "bim:site_elevation": -122.602320868817
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.fojab-landsarkivet-ced8bc.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/03_IFC_E57/FOJAB_Landsarkivet_IFC.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "FOJAB_Landsarkivet.ifc",
+   "file:size": 28658442,
+   "file:checksum": "122033f36865f83b642fecb0fa12e04b285366190a48b0d7b555ac40feaf79705fd9",
+   "bim:archive_member": "FOJAB_Landsarkivet.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 177522583,
+   "bim:archive_member_checksum": "12209d0706a193190ac8520c104cdec20c4db073243de3478faeea93a887a405f2ab"
+  }
+ },
+ "collection": "duraark"
+}

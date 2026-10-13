@@ -1,0 +1,185 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "bsi-ifc5-development.ifc-hero-model-2b48de",
+ "geometry": null,
+ "properties": {
+  "title": "IFC Hero Model (IFC4 twin)",
+  "description": "IFC-SPF IFC4 file from 'buildingSMART IFC5-development examples (IFC5 alpha)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2025-08-06T11:11:18Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-bSI-no-derivatives",
+  "keywords": [
+   "IFC5",
+   "alpha",
+   "future",
+   "future-standards",
+   "ifcx",
+   "schema-versions"
+  ],
+  "providers": [
+   {
+    "name": "buildingSMART International",
+    "url": "https://www.buildingsmart.org",
+    "roles": [
+     "producer",
+     "licensor"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC4",
+  "bim:source": "bsi-ifc5-development",
+  "bim:project": "ifc5-hero-model",
+  "bim:building_type": "generic-building",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "schema-versions",
+   "future-standards"
+  ],
+  "bim:license_tier": "restricted",
+  "bim:license_url": "https://github.com/buildingSMART/IFC5-development#readme",
+  "bim:attribution": "buildingSMART International, IFC5-development, https://github.com/buildingSMART/IFC5-development",
+  "bim:size_class": "m(<20MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://raw.githubusercontent.com/buildingSMART/IFC5-development/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/IFC%20Hero%20Model/IFC%20Hero%20Model.ifc",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "repository": "https://github.com/buildingSMART/IFC5-development",
+   "commit": "1a63082ada967c683cfacee2005f8f749c8e1b79",
+   "path": "examples/IFC Hero Model/IFC Hero Model.ifc",
+   "browse_url": "https://github.com/buildingSMART/IFC5-development/blob/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/IFC%20Hero%20Model/IFC%20Hero%20Model.ifc",
+   "git_lfs": false,
+   "commit_date": "2026-09-08"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "ViewDefinition [ReferenceView_V1.2]",
+   "ExchangeRequirement [Any]"
+  ],
+  "ifc:view_definition": "ReferenceView_V1.2",
+  "ifc:header_timestamp": "2025-08-06T11:11:18",
+  "ifc:preprocessor_version": "TrimBimToIFC rel. 4.0.2",
+  "ifc:originating_system": "Trimble Inc. - SketchUp - 2025.0",
+  "ifc:schema": "IFC4",
+  "ifc:products": 48,
+  "ifc:product_types": 10,
+  "ifc:storeys": 3,
+  "ifc:spaces": 0,
+  "ifc:zones": 0,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Pset_BuildingElementProxyCommon",
+   "Pset_BuildingStoreyCommon",
+   "Pset_ColumnCommon",
+   "Pset_CoveringCommon",
+   "Pset_CurtainWallCommon",
+   "Pset_FurnitureTypeCommon",
+   "Pset_RoofCommon",
+   "Pset_SlabCommon",
+   "Pset_StairCommon",
+   "Pset_WallCommon",
+   "Pset_WindowCommon",
+   "SU_DefinitionSet",
+   "SU_InstanceSet"
+  ],
+  "ifc:props": 367,
+  "ifc:qsets": 0,
+  "ifc:materials": 14,
+  "ifc:classif_refs": 0,
+  "ifc:type_objects": 0,
+  "ifc:docs": 0,
+  "ifc:score": 11.82,
+  "ifc:disciplines": [
+   "architecture",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcCovering": 9,
+   "IfcColumn": 8,
+   "IfcCurtainWall": 8,
+   "IfcFurniture": 7,
+   "IfcWall": 6,
+   "IfcRoof": 4,
+   "IfcBuildingElementProxy": 3,
+   "IfcSlab": 1,
+   "IfcStair": 1,
+   "IfcWindow": 1
+  },
+  "ifc:project_name": "Mies Van der Rohe",
+  "ifc:length_unit": "METRE",
+  "ifc:building_names": [
+   "Pavillon de Barcelona"
+  ],
+  "ifc:storey_names": [
+   "Foundation",
+   "Roof",
+   "First Floor"
+  ],
+  "ifc:map_conversion": false
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./bsi-ifc5-development.ifc-hero-model-2b48de.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://github.com/buildingSMART/IFC5-development#readme",
+   "title": "LicenseRef-bSI-no-derivatives"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/IFC5-development",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "via",
+   "href": "https://github.com/buildingSMART/IFC5-development/blob/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/IFC%20Hero%20Model/IFC%20Hero%20Model.ifc",
+   "title": "Upstream file (pinned commit)"
+  },
+  {
+   "rel": "related",
+   "href": "../bsi-ifc5-development.ifc-hero-model-77b929/bsi-ifc5-development.ifc-hero-model-77b929.json",
+   "type": "application/geo+json",
+   "title": "Same project (ifc5-hero-model)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://raw.githubusercontent.com/buildingSMART/IFC5-development/1a63082ada967c683cfacee2005f8f749c8e1b79/examples/IFC%20Hero%20Model/IFC%20Hero%20Model.ifc",
+   "type": "application/x-step",
+   "roles": [
+    "data"
+   ],
+   "title": "IFC Hero Model.ifc",
+   "file:size": 5583956,
+   "file:checksum": "12202703569411814cf2228c6b6fe3406dc4b19c63e74cbab02ce01f640a24e7290b"
+  }
+ },
+ "collection": "bsi-ifc5-development"
+}

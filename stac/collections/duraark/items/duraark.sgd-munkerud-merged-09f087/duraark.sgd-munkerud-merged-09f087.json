@@ -1,0 +1,150 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.sgd-munkerud-merged-09f087",
+ "geometry": null,
+ "properties": {
+  "title": "Selvaag Munkerud house – SGD_Munkerud_Merged",
+  "description": "IFC-SPF IFC2X2_FINAL file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2006-03-03T15:28:06Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X2_FINAL",
+  "bim:source": "duraark",
+  "bim:project": "duraark-sgd-munkerud-ifc-90d199",
+  "bim:building_type": "residential",
+  "bim:country": "NO",
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_Munkerud_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "SGD_Munkerud/SGD_Munkerud_Merged.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:file_description": [
+   "IFC2X2_FINAL"
+  ],
+  "ifc:header_timestamp": "2006-03-03T15:28:06",
+  "ifc:preprocessor_version": "Building Services Partner Version 6.35 Debug build 2/3-2006",
+  "ifc:originating_system": "DDS",
+  "ifc:schema": "IFC2X2_FINAL",
+  "ifc:parse_error": "SchemaError: Unsupported schema: IFC2X2_FINAL"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.sgd-munkerud-merged-09f087.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-munkerud-arch-1-96c32c/duraark.sgd-munkerud-arch-1-96c32c.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-munkerud-ifc-90d199)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-munkerud-arch-2-8de680/duraark.sgd-munkerud-arch-2-8de680.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-munkerud-ifc-90d199)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-munkerud-arch-3-e03ec0/duraark.sgd-munkerud-arch-3-e03ec0.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-munkerud-ifc-90d199)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-munkerud-eng-ele-075788/duraark.sgd-munkerud-eng-ele-075788.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-munkerud-ifc-90d199)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-munkerud-eng-hvac-sanitary-c31506/duraark.sgd-munkerud-eng-hvac-sanitary-c31506.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-munkerud-ifc-90d199)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-munkerud-eng-hvac-ventilation-ed8922/duraark.sgd-munkerud-eng-hvac-ventilation-ed8922.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-munkerud-ifc-90d199)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_Munkerud_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "SGD_Munkerud_Merged.ifc",
+   "file:size": 10095919,
+   "file:checksum": "122094865ba77c478f5a8e1e602a1a0ee91c0aeb3cc3e95d74125d5c600187872a54",
+   "bim:archive_member": "SGD_Munkerud/SGD_Munkerud_Merged.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 35209570,
+   "bim:archive_member_checksum": "12201d285cee0a4a949e1efdf3c4b79607745476f211b9fa8f98caf377671ffc5c3e"
+  }
+ },
+ "collection": "duraark"
+}

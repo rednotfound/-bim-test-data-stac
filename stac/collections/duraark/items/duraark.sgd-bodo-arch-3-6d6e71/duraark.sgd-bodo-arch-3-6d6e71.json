@@ -1,0 +1,219 @@
+{
+ "type": "Feature",
+ "stac_version": "1.1.0",
+ "stac_extensions": [
+  "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+ ],
+ "id": "duraark.sgd-bodo-arch-3-6d6e71",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   14.333333,
+   67.333333
+  ]
+ },
+ "bbox": [
+  14.333333,
+  67.333333,
+  14.333333,
+  67.333333
+ ],
+ "properties": {
+  "title": "Statsbygg Bodø – SGD_BODO_Arch-3",
+  "description": "IFC-SPF IFC2X3 file from 'DURAARK building datasets (TIB Hannover)'. Data is not re-hosted: the asset links to the upstream download location.",
+  "datetime": "2007-09-14T10:50:51Z",
+  "created": "2026-10-13T11:42:08Z",
+  "updated": "2026-10-13T11:42:08Z",
+  "license": "LicenseRef-unspecified",
+  "keywords": [
+   "multi-discipline",
+   "multi-vendor",
+   "point cloud",
+   "real project",
+   "real-project"
+  ],
+  "providers": [
+   {
+    "name": "DURAARK project / TIB Hannover",
+    "url": "https://duraark.github.io/website/",
+    "roles": [
+     "host"
+    ]
+   }
+  ],
+  "bim:format": "IFC-SPF",
+  "bim:format_family": "IFC",
+  "bim:format_version": "IFC2X3",
+  "bim:source": "duraark",
+  "bim:project": "duraark-sgd-bodo-ifc-1e16ec",
+  "bim:building_type": "public",
+  "bim:country": "NO",
+  "bim:disciplines": [
+   "architecture"
+  ],
+  "bim:use_cases": [
+   "real-project",
+   "multi-discipline"
+  ],
+  "bim:license_tier": "unclear",
+  "bim:license_url": "https://duraark.github.io/website/",
+  "bim:attribution": "DURAARK datasets, TIB Hannover",
+  "bim:size_class": "l(<100MB)",
+  "bim:datetime_source": "IFC header FILE_NAME.time_stamp",
+  "bim:provenance": {
+   "upstream_href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_BODO_ifc.zip",
+   "retrieved": "2026-10-13",
+   "rehosted": false,
+   "archive_member": "SGD_BODO/SGD_BODO_Arch-3.ifc"
+  },
+  "bim:thumbnail": "not generated: license does not allow derivatives/redistribution",
+  "ifc:header_timestamp": "2007-09-14T10:50:51",
+  "ifc:preprocessor_version": "The EXPRESS Data Manager Version 5.00.0100.06-GSK : 16 May 2007",
+  "ifc:schema": "IFC2X3",
+  "ifc:products": 1612,
+  "ifc:product_types": 11,
+  "ifc:storeys": 5,
+  "ifc:spaces": 123,
+  "ifc:zones": 7,
+  "ifc:systems": 0,
+  "ifc:pset_names": [
+   "Graphisoft AC100 BEAM",
+   "Graphisoft AC100 COLUMN",
+   "Graphisoft AC100 DOOR",
+   "Graphisoft AC100 OBJECT",
+   "Graphisoft AC100 ROOF",
+   "Graphisoft AC100 SLAB",
+   "Graphisoft AC100 SPACE",
+   "Graphisoft AC100 WALL",
+   "Graphisoft AC100 WINDOW",
+   "IFC Model Server Metadata",
+   "Pset_BuildingCommon",
+   "Pset_DoorCommon",
+   "Pset_ProjectCommon",
+   "Pset_SiteCommon",
+   "Pset_SpaceCommon",
+   "Pset_SpaceOccupancyRequirements",
+   "Pset_WallCommon",
+   "Pset_WindowCommon",
+   "Pset_dRofus_Beskrivelse",
+   "Pset_dRofus_Elektro",
+   "Pset_dRofus_Tele,_IT,_automatisering",
+   "Pset_dRofus_Utforming/bygg",
+   "Pset_dRofus_VVS",
+   "dRofus_room_core"
+  ],
+  "ifc:props": 2933,
+  "ifc:qsets": 2640,
+  "ifc:materials": 32,
+  "ifc:classif_refs": 9,
+  "ifc:type_objects": 275,
+  "ifc:docs": 0,
+  "ifc:score": 22.63,
+  "ifc:disciplines": [
+   "architecture",
+   "structure"
+  ],
+  "ifc:element_counts": {
+   "IfcAnnotation": 3531,
+   "IfcWallStandardCase": 559,
+   "IfcSlab": 261,
+   "IfcColumn": 249,
+   "IfcVirtualElement": 149,
+   "IfcWindow": 146,
+   "IfcDoor": 119,
+   "IfcBeam": 80,
+   "IfcBuildingElementProxy": 27,
+   "IfcFurnishingElement": 19,
+   "IfcWall": 2,
+   "IfcStair": 1
+  },
+  "ifc:project_name": "Statsbygg-HIBO",
+  "ifc:length_unit": "MILLIMETRE",
+  "ifc:building_names": [
+   "Byggetrinn 4B"
+  ],
+  "ifc:storey_names": [
+   "FUNDAMENTER",
+   "U.ETG.",
+   "1.ETG.",
+   "2.ETG. ",
+   "TAKPLAN"
+  ],
+  "ifc:map_conversion": false,
+  "bim:location_source": "IfcSite.RefLatitude/RefLongitude (as authored; not verified)"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "collection",
+   "href": "../../collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./duraark.sgd-bodo-arch-3-6d6e71.json",
+   "type": "application/geo+json"
+  },
+  {
+   "rel": "license",
+   "href": "https://duraark.github.io/website/",
+   "title": "LicenseRef-unspecified"
+  },
+  {
+   "rel": "via",
+   "href": "https://duraark.github.io/website/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-bodo-arch-1-069842/duraark.sgd-bodo-arch-1-069842.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-bodo-ifc-1e16ec)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-bodo-arch-2-b2fb79/duraark.sgd-bodo-arch-2-b2fb79.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-bodo-ifc-1e16ec)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-bodo-eng-hvac-plumbing-754023/duraark.sgd-bodo-eng-hvac-plumbing-754023.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-bodo-ifc-1e16ec)"
+  },
+  {
+   "rel": "related",
+   "href": "../duraark.sgd-bodo-eng-hvac-ventilation-4f8e07/duraark.sgd-bodo-eng-hvac-ventilation-4f8e07.json",
+   "type": "application/geo+json",
+   "title": "Same project (duraark-sgd-bodo-ifc-1e16ec)"
+  }
+ ],
+ "assets": {
+  "data": {
+   "href": "https://tib.eu/data/duraark/BuildingData/01_IFC/SGD_BODO_ifc.zip",
+   "type": "application/zip",
+   "roles": [
+    "data",
+    "archive"
+   ],
+   "title": "SGD_BODO_Arch-3.ifc",
+   "file:size": 32617382,
+   "file:checksum": "12200df365be41a41d45bc7f9e5a0552e72526a3c73ade8271554275416a57a0130a",
+   "bim:archive_member": "SGD_BODO/SGD_BODO_Arch-3.ifc",
+   "bim:archive_member_type": "application/x-step",
+   "bim:archive_member_size": 64095895,
+   "bim:archive_member_checksum": "12208c40c3ed331092c7359cffa099b90f8fa9146ac24497735ce69f98b5bbd2ac33"
+  }
+ },
+ "collection": "duraark"
+}

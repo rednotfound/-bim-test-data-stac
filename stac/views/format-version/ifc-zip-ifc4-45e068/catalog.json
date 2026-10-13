@@ -1,0 +1,36 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "format-version--ifc-zip-ifc4-45e068",
+ "title": "format-version: IFC-ZIP IFC4",
+ "description": "2 items where format-version = IFC-ZIP IFC4. Items are shared with their source collections.",
+ "bim:dimension": "format-version",
+ "bim:value": "IFC-ZIP IFC4",
+ "bim:item_count": 2,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ifcopenshell-files/items/ifcopenshell-files.wall-with-opening-and-window-ifcxml-format-91bbb3/ifcopenshell-files.wall-with-opening-and-window-ifcxml-format-91bbb3.json",
+   "type": "application/geo+json",
+   "title": "Serialization sample – wall-with-opening-and-window_ifcxml_format.ifczip"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/ifcopenshell-files/items/ifcopenshell-files.wallinstance-ifc4add2-ifcspf-format-3d6482/ifcopenshell-files.wallinstance-ifc4add2-ifcspf-format-3d6482.json",
+   "type": "application/geo+json",
+   "title": "Serialization sample – WallInstance_IFC4Add2_ifcspf_format.ifczip"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "building-type--mixed-b746d7",
+ "title": "building-type: mixed",
+ "description": "2 items where building-type = mixed. Items are shared with their source collections.",
+ "bim:dimension": "building-type",
+ "bim:value": "mixed",
+ "bim:item_count": 2,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tum-gni-bim/items/tum-gni-bim.2025-bimfundamentals/tum-gni-bim.2025-bimfundamentals.json",
+   "type": "application/geo+json",
+   "title": "TUM GNI BIM Fundamentals – 208 student IFC models (zip)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/tum-gni-bim/items/tum-gni-bim.2026-bimprojects/tum-gni-bim.2026-bimprojects.json",
+   "type": "application/geo+json",
+   "title": "TUM GNI BIM Projects – 16 IFC (paired arch/structure, zip)"
+  }
+ ]
+}

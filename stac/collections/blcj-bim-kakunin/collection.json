@@ -1,0 +1,149 @@
+{
+ "type": "Collection",
+ "stac_version": "1.1.0",
+ "stac_extensions": [],
+ "id": "blcj-bim-kakunin",
+ "title": "BLCJ BIM図面審査サンプルモデル (S造1000㎡事務所)",
+ "description": "Official sample for Japan's BIM drawing review (BIM図面審査, from April 2026): confirmation-application drawing PDFs for architecture, structure (with SS7 calculation report) and MEP of a 1,000 m² steel-frame office.",
+ "license": "LicenseRef-BLCJ-no-redistribution",
+ "keywords": [
+  "Japan",
+  "BIM確認申請",
+  "BIM図面審査",
+  "確認申請図"
+ ],
+ "providers": [
+  {
+   "name": "BIMライブラリ技術研究組合 (BLCJ) / 建築設計三会",
+   "url": "https://blcj.or.jp/archive_index/samplemodel/",
+   "roles": [
+    "producer",
+    "host",
+    "licensor"
+   ]
+  }
+ ],
+ "extent": {
+  "spatial": {
+   "bbox": [
+    [
+     -180,
+     -90,
+     180,
+     90
+    ]
+   ]
+  },
+  "temporal": {
+   "interval": [
+    [
+     "2024-03-18T12:17:00Z",
+     "2026-04-01T03:34:00Z"
+    ]
+   ]
+  }
+ },
+ "summaries": {
+  "bim:format": [
+   "PDF"
+  ],
+  "bim:format_version": [
+   "PDF 1.6",
+   "PDF 1.7"
+  ],
+  "bim:building_type": [
+   "office"
+  ],
+  "bim:country": [
+   "JP"
+  ],
+  "bim:use_cases": [
+   "jp-bim-drawing-review",
+   "pdf-drawing"
+  ],
+  "bim:disciplines": [
+   "architecture",
+   "mep",
+   "structure"
+  ],
+  "bim:license_tier": [
+   "restricted"
+  ]
+ },
+ "bim:license_tier": "restricted",
+ "bim:license_quote": "サンプルモデル及び参考テンプレートの著作権は原則としてBLCJ及び建築設計三会に帰属します。データを無断で再配布することはできません。",
+ "bim:attribution": "BIMライブラリ技術研究組合 (BLCJ), BIM図面審査サンプルモデル",
+ "bim:origin": {
+  "kind": "url",
+  "base": "https://blcj.or.jp/wp/wp-content/uploads/2026/04/"
+ },
+ "bim:retrieved": "2026-10-13",
+ "bim:item_count": 6,
+ "bim:license_cross_check": {
+  "href": "https://github.com/BIMvoice/ifcsamples/blob/7a7eb6bdeab3e630eeef0e923a908d0c6af07cd2/SOURCES.md",
+  "title": "BIMvoice ifcsamples SOURCES.md (licence survey dated 2026-10-12), used to cross-check"
+ },
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "parent",
+   "href": "../../catalog.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "self",
+   "href": "./collection.json",
+   "type": "application/json"
+  },
+  {
+   "rel": "license",
+   "href": "https://blcj.or.jp/archive_index/samplemodel/",
+   "title": "LicenseRef-BLCJ-no-redistribution"
+  },
+  {
+   "rel": "about",
+   "href": "https://blcj.or.jp/archive_index/samplemodel/",
+   "title": "Upstream dataset page"
+  },
+  {
+   "rel": "item",
+   "href": "items/blcj-bim-kakunin.03-2-bim-r08-03-001-revit-3b4a98/blcj-bim-kakunin.03-2-bim-r08-03-001-revit-3b4a98.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 A_意匠 – 03_別紙2_BIM図面審査における入出力基準適合申告書（初版）R08_03版(001)_意匠Revit"
+  },
+  {
+   "rel": "item",
+   "href": "items/blcj-bim-kakunin.revit-bim-01-28498f/blcj-bim-kakunin.revit-bim-01-28498f.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 A_意匠 – Revit_BIM申請サンプルモデル_01"
+  },
+  {
+   "rel": "item",
+   "href": "items/blcj-bim-kakunin.s-260319-d1180c/blcj-bim-kakunin.s-260319-d1180c.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 S_構造 – S_構造モデル_260319修正分"
+  },
+  {
+   "rel": "item",
+   "href": "items/blcj-bim-kakunin.s-ss7-bim-fc36ab/blcj-bim-kakunin.s-ss7-bim-fc36ab.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 S_構造 – S_構造モデル_SS7_構造計算書-結果(BIM申請サンプル)"
+  },
+  {
+   "rel": "item",
+   "href": "items/blcj-bim-kakunin.blcjsample-e-revit-01-ef8839/blcj-bim-kakunin.blcjsample-e-revit-01-ef8839.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 MEP_設備 – BLCJsample_E_Revit_01"
+  },
+  {
+   "rel": "item",
+   "href": "items/blcj-bim-kakunin.blcjsample-m-revit-01-7e672c/blcj-bim-kakunin.blcjsample-m-revit-01-7e672c.json",
+   "type": "application/geo+json",
+   "title": "BLCJ S造1000㎡事務所 MEP_設備 – BLCJsample_M_Revit_01"
+  }
+ ]
+}

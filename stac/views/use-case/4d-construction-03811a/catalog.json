@@ -1,0 +1,66 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "use-case--4d-construction-03811a",
+ "title": "use-case: 4d-construction",
+ "description": "7 items where use-case = 4d-construction. Items are shared with their source collections.",
+ "bim:dimension": "use-case",
+ "bim:value": "4d-construction",
+ "bim:item_count": 7,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.week-26-26-june-ifc-schependomlaan-incl-planningsd-e16b0e/schependomlaan.week-26-26-june-ifc-schependomlaan-incl-planningsd-e16b0e.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 26 26 june IF"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.week-27-3-july-ifc-schependomlaan-incl-planningsda-d6990f/schependomlaan.week-27-3-july-ifc-schependomlaan-incl-planningsda-d6990f.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 27 3 july IFC"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.week-28-10-july-ifc-schependomlaan-incl-planningsd-be77c8/schependomlaan.week-28-10-july-ifc-schependomlaan-incl-planningsd-be77c8.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 28 10 july IF"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.week-29-17-july-ifc-schependomlaan-incl-planningsd-be69b5/schependomlaan.week-29-17-july-ifc-schependomlaan-incl-planningsd-be69b5.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 29 17 july IF"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.week-30-24-july-ifc-schependomlaan-incl-planningsd-429d2d/schependomlaan.week-30-24-july-ifc-schependomlaan-incl-planningsd-429d2d.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 30 24 july IF"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.week-37-11-sept-ifc-schependomlaan-incl-planningsd-c5c142/schependomlaan.week-37-11-sept-ifc-schependomlaan-incl-planningsd-c5c142.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan as-planned 4D – Week 37 11 sept IF"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.schependomlaan-nijmegen-18-02-2015-34fa37/schependomlaan.schependomlaan-nijmegen-18-02-2015-34fa37.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan construction planning (PDF)"
+  }
+ ]
+}

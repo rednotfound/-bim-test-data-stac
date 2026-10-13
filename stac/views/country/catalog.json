@@ -1,0 +1,76 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "view-country",
+ "title": "By country (ISO 3166-1 alpha-2)",
+ "description": "Items grouped by country.",
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "child",
+   "href": "at-031fd1/catalog.json",
+   "title": "AT (5)"
+  },
+  {
+   "rel": "child",
+   "href": "ca-09acbb/catalog.json",
+   "title": "CA (1)"
+  },
+  {
+   "rel": "child",
+   "href": "de-ce3e4b/catalog.json",
+   "title": "DE (11)"
+  },
+  {
+   "rel": "child",
+   "href": "gb-505a44/catalog.json",
+   "title": "GB (5)"
+  },
+  {
+   "rel": "child",
+   "href": "it-542203/catalog.json",
+   "title": "IT (1)"
+  },
+  {
+   "rel": "child",
+   "href": "jp-1920a5/catalog.json",
+   "title": "JP (16)"
+  },
+  {
+   "rel": "child",
+   "href": "nl-a59ba2/catalog.json",
+   "title": "NL (74)"
+  },
+  {
+   "rel": "child",
+   "href": "no-a0509b/catalog.json",
+   "title": "NO (31)"
+  },
+  {
+   "rel": "child",
+   "href": "ru-a3ecee/catalog.json",
+   "title": "RU (1)"
+  },
+  {
+   "rel": "child",
+   "href": "se-5dce41/catalog.json",
+   "title": "SE (10)"
+  },
+  {
+   "rel": "child",
+   "href": "us-aa3093/catalog.json",
+   "title": "US (194)"
+  }
+ ]
+}

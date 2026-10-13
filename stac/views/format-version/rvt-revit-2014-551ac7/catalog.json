@@ -1,0 +1,36 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "format-version--rvt-revit-2014-551ac7",
+ "title": "format-version: RVT Revit 2014",
+ "description": "2 items where format-version = RVT Revit 2014. Items are shared with their source collections.",
+ "bim:dimension": "format-version",
+ "bim:value": "RVT Revit 2014",
+ "bim:item_count": 2,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.20141117-entrycontrolfacility-iacp-model-8b028c/wbdg-usaf-design-packages.20141117-entrycontrolfacility-iacp-model-8b028c.json",
+   "type": "application/geo+json",
+   "title": "USAF Entry Control – 20141117_EntryControlFacility-IACP_Model"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/wbdg-usaf-design-packages/items/wbdg-usaf-design-packages.gm-hangar-prototype-dc-9f79d1/wbdg-usaf-design-packages.gm-hangar-prototype-dc-9f79d1.json",
+   "type": "application/geo+json",
+   "title": "USAF Lagmh – GM_Hangar_Prototype_DC"
+  }
+ ]
+}

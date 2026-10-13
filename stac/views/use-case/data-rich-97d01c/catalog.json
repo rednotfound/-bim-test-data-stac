@@ -1,0 +1,90 @@
+{
+ "type": "Catalog",
+ "stac_version": "1.1.0",
+ "id": "use-case--data-rich-97d01c",
+ "title": "use-case: data-rich",
+ "description": "11 items where use-case = data-rich. Items are shared with their source collections.",
+ "bim:dimension": "use-case",
+ "bim:value": "data-rich",
+ "bim:item_count": 11,
+ "links": [
+  {
+   "rel": "root",
+   "href": "../../../catalog.json"
+  },
+  {
+   "rel": "parent",
+   "href": "../catalog.json"
+  },
+  {
+   "rel": "self",
+   "href": "./catalog.json"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/schependomlaan/items/schependomlaan.ifc-schependomlaan-926953/schependomlaan.ifc-schependomlaan-926953.json",
+   "type": "application/geo+json",
+   "title": "Schependomlaan design model (Archicad, IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/web-ifc-tests/items/web-ifc-tests.issue-068-ark-nus-skolebygg-19b6d9/web-ifc-tests.issue-068-ark-nus-skolebygg-19b6d9.json",
+   "type": "application/geo+json",
+   "title": "Norwegian school building, architecture (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/web-ifc-tests/items/web-ifc-tests.issue-159-kleine-wohnung-r22-c3eb57/web-ifc-tests.issue-159-kleine-wohnung-r22-c3eb57.json",
+   "type": "application/geo+json",
+   "title": "Small apartment (Archicad, IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/yousheng-ifcsamplefiles/items/yousheng-ifcsamplefiles.ifc4-revit-arc-b1d0c4/yousheng-ifcsamplefiles.ifc4-revit-arc-b1d0c4.json",
+   "type": "application/geo+json",
+   "title": "Revit sample project – architecture (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/yousheng-ifcsamplefiles/items/yousheng-ifcsamplefiles.ifc4-revit-mep-aed5a4/yousheng-ifcsamplefiles.ifc4-revit-mep-aed5a4.json",
+   "type": "application/geo+json",
+   "title": "Revit sample project – MEP (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20160125trapelo-design-intent-089e6d/auckland-openifc.20160125trapelo-design-intent-089e6d.json",
+   "type": "application/geo+json",
+   "title": "Trapelo office, design intent (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20160125trapelo-existing-trapelo-design-intent-2af74b/auckland-openifc.20160125trapelo-existing-trapelo-design-intent-2af74b.json",
+   "type": "application/geo+json",
+   "title": "Trapelo office, design intent (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20160125otc-conference-center-ifc4-e9a554/auckland-openifc.20160125otc-conference-center-ifc4-e9a554.json",
+   "type": "application/geo+json",
+   "title": "OTC Conference Center (IFC4)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20160124otc-conference-center-f56b72/auckland-openifc.20160124otc-conference-center-f56b72.json",
+   "type": "application/geo+json",
+   "title": "OTC Conference Center (IFC2X3)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20210215ifc4-rv-convenience-store-renga-4-5-092f11/auckland-openifc.20210215ifc4-rv-convenience-store-renga-4-5-092f11.json",
+   "type": "application/geo+json",
+   "title": "Convenience store (Renga, IFC4 Reference View)"
+  },
+  {
+   "rel": "item",
+   "href": "../../../collections/auckland-openifc/items/auckland-openifc.20160613office-model-cv2b-fordesign-142c7d/auckland-openifc.20160613office-model-cv2b-fordesign-142c7d.json",
+   "type": "application/geo+json",
+   "title": "Office model CV2 for design (IFC2X3)"
+  }
+ ]
+}
