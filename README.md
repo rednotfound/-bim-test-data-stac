@@ -3,7 +3,8 @@
 可公开下载的 BIM 测试数据（IFC、DWG/DXF、PDF 图纸、Revit、Jw_cad/SXF、IDS、BCF、COBie）的**静态 STAC 1.1.0 目录**。
 
 - 目录本体：[`stac/`](stac/)，入口为 `stac/catalog.json`，使用说明见 [`stac/README.md`](stac/README.md)
-- 发布后的地址：`https://<user>.github.io/<repo>/catalog.json`，可以在 [STAC Browser](https://radiantearth.github.io/stac-browser/) 中打开
+- 发布后的地址：`https://rednotfound.github.io/-bim-test-data-stac/catalog.json`，可以在 [STAC Browser](https://radiantearth.github.io/stac-browser/) 中打开
+- 直接浏览：[在 STAC Browser 中打开](https://radiantearth.github.io/stac-browser/#/external/rednotfound.github.io/-bim-test-data-stac/catalog.json)
 - 全部条目的扁平索引：`stac/items.parquet`，可用 DuckDB / pandas 直接查询
 
 **本仓库不包含、也不转载任何 BIM 数据文件。** 每个条目都链接到上游的原始下载地址（git 仓库固定到具体 commit），并记录许可证、署名要求和出处。只有许可证允许修改的数据（`bim:license_tier = open`）才附带缩略图。

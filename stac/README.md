@@ -33,7 +33,7 @@ catalog.json                          根目录
 
 ```python
 import pystac
-cat = pystac.Catalog.from_file("https://<host>/catalog.json")
+cat = pystac.Catalog.from_file("https://rednotfound.github.io/-bim-test-data-stac/catalog.json")
 ifc4 = cat.get_child("views").get_child("view-format-version")   # 按版本浏览
 for item in cat.get_items(recursive=True):
     p = item.properties
@@ -46,7 +46,7 @@ for item in cat.get_items(recursive=True):
 ```sql
 INSTALL httpfs; LOAD httpfs;
 SELECT id, bim_format_version, bim_building_type, ifc_spaces, ifc_pset_names, data_href
-FROM 'https://<host>/items.parquet'
+FROM 'https://rednotfound.github.io/-bim-test-data-stac/items.parquet'
 WHERE bim_format = 'IFC-SPF' AND bim_license_tier = 'open' AND ifc_spaces > 50
 ORDER BY ifc_score DESC;
 ```

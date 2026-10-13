@@ -2626,24 +2626,27 @@
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFBIM/usaf_sfile_template_2011.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2768896,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ASOS_DG/ASOS.standard.design.guide.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 36064445,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/CE_ADMIN/CES_SD_drawings_admin_bldg.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 3064922,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://web.archive.org/web/20170408125937id_/https://www.wbdg.org/FFC/AF/AFDP/CE_ADMIN/ce_admin_building.pdf",
@@ -2661,10 +2664,11 @@
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/CE_EXPLOSIVE/CES_sd_drawings_eod_bldg.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2015723,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://web.archive.org/web/20170408130046id_/https://www.wbdg.org/FFC/AF/AFDP/CE_EXPLOSIVE/afdp_ce_explosive_concept_plans.pdf",
@@ -2675,17 +2679,19 @@
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/CE_FAC_MAIN/CES_sd_drawings_fac_main_bldg.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1026707,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/CE_FAC_MAIN/af_remotely_piloted_aircraft_squadron_ops_fac.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 3218001,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://web.archive.org/web/20170408130051id_/https://www.wbdg.org/FFC/AF/AFDP/CE_FAC_MAIN/concept_plans_fac_maint.pdf",
@@ -2696,17 +2702,19 @@
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/CE_FAC_MAIN/squad_ops_facility_standard_design_plans.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 3662868,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/CE_PEST/CES_sd_drawings_pest_bldg.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1334938,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://web.archive.org/web/20170408130057id_/https://www.wbdg.org/FFC/AF/AFDP/CE_PEST/cepestmanagementprototype.pdf",
@@ -2717,136 +2725,155 @@
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/CONFINEMENT/ConfinementFacility01APR15.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 3770939,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/CONFINEMENT/FDWD5022_DPConfinement_Revit2013_Arch_Central.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 55431168,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE%20Dynamic%20Dorm%20Prototypes_111709.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 14347460,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE-DORMS-A-VERSION%202.0-060309.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 14331904,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE-DORMS-ALL-VERSION%202.1.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 24262944,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE-DORMS-E-VERSION%202.0-060309.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 4476928,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE-DORMS-F-VERSION%202.0-060309.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1536000,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE-DORMS-M-VERSION%202.0-060309.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 9977856,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/AFCEE-DORMS-P-VERSION%202.0-060309.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 3424256,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/ArchitectureSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1417485,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/Electrical%20Sheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 7719209,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/FireProtectionSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 9164955,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/MechanicalSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 4320098,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/PlumbingSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1350628,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/StructuralSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 300007,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/V2.1_AFCEE%20Dynamic%20Prototype%20BIM%20Manual_051109.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2022142,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENLISTED_DORM/V2.2_Specifications_061509%20%28rev%29.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1343460,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENTRY_CONTROL/20141117_EntryControlFacility-IACP_Model.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 41541632,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/ENTRY_CONTROL/20150106_ECF-IACP.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 11862250,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://web.archive.org/web/20170408130414id_/https://www.wbdg.org/FFC/AF/AFDP/FIGHTER-HANGAR/DynamicPrototypes-FighterHangarAMU.pdf",
@@ -2864,311 +2891,355 @@
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/FIGHTER-HANGAR/sd_drawings_fight_hangar.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2907713,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/FIRE_STATION/FIRE_STATION_PROTOTYPE_CENTRAL.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 137465856,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/FIRE_STATION/fs_proto_hq.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 38775983,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/FIRE_STATION/fs_proto_sat.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 25533841,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/Fitness%20Center%20BIM%20Manual%20v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 262632,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/Fitness%20Center%20Design%20Guide_With%20Markups.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1479192,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/Fitness%20Center_LARGE.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 40226816,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/Fitness%20Center_MEDIUM2.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 36663296,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/Fitness%20Center_MEGA2.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 38187008,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/LARGEFC_Architectural%20Sheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 11808773,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/MEDIUMFC_Architectural_Sheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 8985157,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/FITNESS_CENTER/MEGAFC_Architectural_Sheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 12715325,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/INDOOR-RANGE/IndoorSmallArmsFiringRangeModel_111714.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 103702528,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/INDOOR-RANGE/IndoorSmallArmsRangeDrawings.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 10440844,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/INDOOR-RANGE/Indoor_Small_Arms_Range_Drawings_2018.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1869275,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/INDOOR-RANGE/standard_design_indoor_small_arms_firing_range_guide_2018.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2156922,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/20130328_BIM%20MANUAL_AFCEC-BIM_Prototype-MWD_Kennel.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2765178,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/20130328_Military_Working_Dog_Kennel_Prototype_Drawings.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 7273588,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/Military_Working_Dog_Kennel_Program.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 14963,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/Military_Working_Dog_Kennel_Prototype_ARCH2013_Central.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 32452608,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/drawings_mil_work_dog_june_2018.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1353232,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/mil_working_dog_cal_spreadsheet_june_2018.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 100623,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/KENNEL/standard_design_mil_working_dog_july_2018.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2715810,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LACCCH/CC-FC_Hangar_Prototype_DC.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2765928,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LACCCH/af_fuel_cell_hangar_standard_design.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 3767616,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LACCCH/af_rpa_general_maintenance_hangar_facility_standard_design.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 6621100,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LACCCH/rpa_maintenance_hangar_drawings.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 4334672,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LAFT/FuT_DefinitiveDesignSubmittalDesignAnalysis.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 68363728,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LAFT/FuT_DefinitiveDesignSubmittalDrawings.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 6361464,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LAFTC/FTC_DefinitiveDesignAnalysis.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 13851024,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LAFTC/FTC_DefinitiveDesignDrawings.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 10226762,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LAGMH/GM_HangarPrgmingWorksheet.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 64068,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LAGMH/GM_Hangar_DC.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 7953404,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LAGMH/GM_Hangar_Prototype_DC.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1511662,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LAGMH/GM_Hangar_Prototype_DC.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 69427200,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LAGMH/MILCONSust_LEED09HPSB_GM-PE.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 88269,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LAOFS/1BFS_DefinitiveSubmittalDesignAnalysis.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 68363422,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/LAOFS/Standard_Design_flight_sim_1_2_DRAWINGS.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2832628,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/PERM_PARTY_ENLISTED_DORM/Dorm_SD_Drawings_jun_2019.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 4567396,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/PERM_PARTY_ENLISTED_DORM/perm_party_enlisted_dorm_DG_jun_2019.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 7708686,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/SFO/SFO%20BIM%20Manual.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 3201900,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/SFO/SFO%20PDF%20Version%20of%20all%20Sheets%20v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 6609030,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/SFO/SFO%20Prototypes%20-%20A.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 22777856,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/SHOPS-WAREHOUSE/CES_sd_drawings_warehouse_bldg.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1443136,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://web.archive.org/web/20170408130058id_/https://www.wbdg.org/FFC/AF/AFDP/SHOPS-WAREHOUSE/concept_plans_shops_warehouse.pdf",
@@ -3179,528 +3250,603 @@
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/STORAGE_IGLOO/standard_design_storage_igloo.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 352734,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/AFCEE-DORMS-ALL-VERSION%202.1.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 24262902,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/ArchitectureSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1417499,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Electrical%20Sheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 7719225,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/FireProtectionSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 9164970,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/MechanicalSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 4320101,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/PlumbingSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1350643,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/StructuralSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 300011,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/THULE-A-DETACHED%2020100201.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 12001280,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/THULE-E-DETACTED-20100205.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 6557696,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/THULE-M-DETACH-2010-02-03.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 8097792,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/THULE-P-DETACHED-20100203.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 5963776,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/THULE-S-DETACHED-20100201.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2359296,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule%20Bldg%201-Officer%20%26%20Cont%20Mgr%2048.dwg",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2015552,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule%20Bldg%202-Cont%20Trainees%20%26%20Lab%2072.dwg",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1330880,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule%20Bldg%203-Enlisted%2048.dwg",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1969440,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule%20Bldg%204%20-%20Officer%2072.dwg",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1423328,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule_Bldg_1_-_Officer_%26_Contractor_Managers_48.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 726474,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule_Bldg_2_-_Contractor_Trainees_%26_Laborers_72.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 926815,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule_Bldg_3_-_Enlisted_48.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 850923,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule_Bldg_4_-_Officer_72.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 962922,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule_Prototypes_BIM_Manual_2010-02-17.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 3238470,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/THULE_DORM/Thule_Specifications.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1034057,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/Architectural%20VQ%20-%20Model%20v1.0.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 58421248,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/ArchitecturalSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 19261120,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/E-Specs%20Database%20v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 29130,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/Electrical%20VQ%20-%20Model%20v1.0.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 4431872,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/ElectricalSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 629079,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/FireProtectionSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 11783913,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/Mechanical%20VQ%20-%20Model%20v1.0.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 4136960,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/MechanicalSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2197465,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/PDF%20Version%20of%20all%20Sheets%20v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 29080465,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/Plumbing%20VQ%20-%20Model%20v1.0.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 3670016,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/PlumbingSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1079685,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/Structural%20VQ%20-%20Model%20v1.0.rvt",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2134016,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/StructuralSheets_v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 181733,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/VISITING_QUARTERS/Visitors%20Quarters%20BIM%20Manual%20v1.0.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 4349532,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/WAREHOUSE/standard_design_warehouse_dabs_fev.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 692717,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/AF/AFDP/WRSS/standard_design_weapons_release_system_shop.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 221120,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division00.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 7929571,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division00.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2560116,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division01.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 243649,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division01.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 199884,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division05.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 360106,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division05.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 358050,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division06.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 207228,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division06.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 142287,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division07.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 113191,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division07.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 250683,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division08.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1167681,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division08.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 623881,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division10.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2093130,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division10.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1279385,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division11.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1194134,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division11.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 521471,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division12.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 376967,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division12.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 230839,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division13.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 860322,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division13.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 446302,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division14.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1411747,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division14.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1140247,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division22.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 10786909,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division22.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2082655,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division23.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 38098947,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division23.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 12935340,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division26.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 9053814,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division26.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 2164073,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division27.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 4128427,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division27.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 643511,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division28.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 5185506,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division28.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 1142430,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division32.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 10017330,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division32.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 4308809,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division33.zip",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 167725,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://www.wbdg.org/FFC/VA/VACAD/vadetails_division33.pdf",
-  "status": "403",
+  "status": "200",
   "remote_size": 118,
   "local_size": 82332,
-  "size_match": false
+  "size_match": false,
+  "rechecked": "serial, 3s delay"
  },
  {
   "href": "https://blcj.or.jp/wp/wp-content/uploads/2026/04/BLCJ_S1000_A_Revit1.zip",
