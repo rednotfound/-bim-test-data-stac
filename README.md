@@ -1,27 +1,36 @@
-# BIM 测试数据 STAC 目录
+# BIM Test Data STAC Catalog
 
-可公开下载的 BIM 测试数据（IFC、DWG/DXF、PDF 图纸、Revit、Jw_cad/SXF、IDS、BCF、COBie）的**静态 STAC 1.1.0 目录**。
+A **static STAC 1.1.0 catalog** of publicly downloadable BIM test data: IFC (IFC2X3 / IFC4 / IFC4X3 / IFC5 alpha), DWG/DXF, PDF drawing sets, Revit, Japanese 2D CAD (Jw_cad / SXF), IDS, BCF and COBie.
 
-- 目录本体：[`stac/`](stac/)，入口为 `stac/catalog.json`，使用说明见 [`stac/README.md`](stac/README.md)
-- 发布后的地址：`https://rednotfound.github.io/-bim-test-data-stac/catalog.json`，可以在 [STAC Browser](https://radiantearth.github.io/stac-browser/) 中打开
-- 直接浏览：[在 STAC Browser 中打开](https://radiantearth.github.io/stac-browser/#/external/rednotfound.github.io/-bim-test-data-stac/catalog.json)
-- 全部条目的扁平索引：`stac/items.parquet`，可用 DuckDB / pandas 直接查询
+- **Browse:** [open in STAC Browser](https://radiantearth.github.io/stac-browser/#/external/rednotfound.github.io/-bim-test-data-stac/catalog.json)
+- **Catalog root:** `https://rednotfound.github.io/-bim-test-data-stac/catalog.json`
+- **Flat index of all items:** `https://rednotfound.github.io/-bim-test-data-stac/items.parquet` (query with DuckDB / pandas)
+- **Usage and field reference:** [`stac/README.md`](stac/README.md)
 
-**本仓库不包含、也不转载任何 BIM 数据文件。** 每个条目都链接到上游的原始下载地址（git 仓库固定到具体 commit），并记录许可证、署名要求和出处。只有许可证允许修改的数据（`bim:license_tier = open`）才附带缩略图。
+**This repository does not contain or re-host any BIM data files.** Every item links to its upstream download URL (git sources are pinned to a commit) and records the license, the attribution requirement and the provenance. Thumbnails are included only for data whose license allows derivatives (`bim:license_tier = open`).
 
-## 仓库内容
-
-| 路径 | 内容 |
+| | |
 |---|---|
-| `stac/` | STAC 目录（JSON、缩略图、items.parquet），由 GitHub Actions 部署到 Pages |
-| `tools/stac/` | 生成脚本：`sources.py`（数据源和许可证登记）、`items.py`（条目清单）、`extract.py`（元数据提取）、`thumbs.py`（缩略图）、`build_stac.py`、`check_links.py` |
-| `tools/*.py` | 早期的数据清点和 IFC 完整度评分脚本 |
-| `catalog/` | 链接检查结果、IFC 完整度评分表 |
+| Items | 562 |
+| Collections (one per upstream source) | 26 |
+| View dimensions | 11 (format, version, discipline, building type, country, use case, license tier, …) |
+| Thumbnails | 248 |
+| Upstream links checked | 544, all HTTP 200 (see `catalog/link_check.json`) |
 
-重新生成需要本地有上游数据副本（`raw/`、`curated/`，不在仓库中），见 `stac/README.md` 末尾。
+## Repository layout
 
-## 许可证
+| Path | Contents |
+|---|---|
+| `stac/` | The STAC catalog (JSON, thumbnails, `items.parquet`). Deployed to GitHub Pages by GitHub Actions. |
+| `tools/stac/` | Build scripts: `sources.py` (source and license registry), `items.py` (item list and tags), `extract.py` (metadata extraction), `thumbs.py` (thumbnails), `build_stac.py`, `check_links.py` |
+| `tools/*.py` | Earlier inventory and IFC data-richness scoring scripts |
+| `tools/requirements.txt` | Pinned Python dependencies |
+| `catalog/` | Link-check results and the IFC data-richness score table |
 
-- 本仓库的脚本和元数据：CC0-1.0（见 `stac/LICENSE`）
-- 缩略图：沿用对应源数据的许可证，署名见各 Collection 的 `bim:attribution`
-- 数据文件本身：归各自的权利人所有，许可证见各 Collection
+Rebuilding requires local copies of the upstream data (`raw/`, `curated/`), which are not part of this repository. See the end of [`stac/README.md`](stac/README.md).
+
+## License
+
+- Scripts and catalog metadata in this repository: CC0-1.0 (see `stac/LICENSE`).
+- Thumbnails: distributed under the license of the source data they were derived from; attribution is given in each Collection's `bim:attribution`.
+- The data files themselves belong to their respective rights holders; see each Collection's `license` and `bim:license_quote`.

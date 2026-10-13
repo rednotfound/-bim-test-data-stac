@@ -1,4 +1,4 @@
-# 重新生成 STAC 所需（另需 LibreDWG 的 dwg2dxf 放在 tools/libredwg/bin/）
+# Needed to rebuild the STAC (LibreDWG dwg2dxf is also expected in tools/libredwg/bin/)
 ifcopenshell==0.9.0
 ezdxf==1.4.4
 ezjww==0.7.0
