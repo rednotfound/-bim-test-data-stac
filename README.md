@@ -2,9 +2,9 @@
 
 A **static STAC 1.1.0 catalog** of publicly downloadable BIM test data: IFC (IFC2X3 / IFC4 / IFC4X3 / IFC5 alpha), DWG/DXF, PDF drawing sets, Revit, Japanese 2D CAD (Jw_cad / SXF), IDS, BCF and COBie.
 
-- **Browse:** [open in STAC Browser](https://radiantearth.github.io/stac-browser/#/external/rednotfound.github.io/-bim-test-data-stac/catalog.json)
-- **Catalog root:** `https://rednotfound.github.io/-bim-test-data-stac/catalog.json`
-- **Flat index of all items:** `https://rednotfound.github.io/-bim-test-data-stac/items.parquet` (query with DuckDB / pandas)
+- **Browse:** [open in STAC Browser](https://radiantearth.github.io/stac-browser/#/external/rednotfound.github.io/bim-test-data-stac/catalog.json)
+- **Catalog root:** `https://rednotfound.github.io/bim-test-data-stac/catalog.json`
+- **Flat index of all items:** `https://rednotfound.github.io/bim-test-data-stac/items.parquet` (query with DuckDB / pandas)
 - **Usage and field reference:** [`stac/README.md`](stac/README.md)
 
 **This repository does not contain or re-host any BIM data files.** Every item links to its upstream download URL (git sources are pinned to a commit) and records the license, the attribution requirement and the provenance. Thumbnails are included only for data whose license allows derivatives (`bim:license_tier = open`).

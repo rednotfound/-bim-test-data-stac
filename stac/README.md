@@ -27,13 +27,13 @@ catalog.json                              root catalog
 
 ## Usage
 
-**Browse:** [open in STAC Browser](https://radiantearth.github.io/stac-browser/#/external/rednotfound.github.io/-bim-test-data-stac/catalog.json)
+**Browse:** [open in STAC Browser](https://radiantearth.github.io/stac-browser/#/external/rednotfound.github.io/bim-test-data-stac/catalog.json)
 
 **Python (pystac)**
 
 ```python
 import pystac
-cat = pystac.Catalog.from_file("https://rednotfound.github.io/-bim-test-data-stac/catalog.json")
+cat = pystac.Catalog.from_file("https://rednotfound.github.io/bim-test-data-stac/catalog.json")
 for item in cat.get_items(recursive=True):
     p = item.properties
     if p["bim:format_family"] == "IFC" and "data-rich" in p.get("bim:use_cases", []):
@@ -47,7 +47,7 @@ A static catalog has no search API. `items.parquet` is a single-file index of ev
 ```sql
 INSTALL httpfs; LOAD httpfs;
 SELECT id, bim_format_version, bim_building_type, ifc_spaces, ifc_pset_names, data_href
-FROM 'https://rednotfound.github.io/-bim-test-data-stac/items.parquet'
+FROM 'https://rednotfound.github.io/bim-test-data-stac/items.parquet'
 WHERE bim_format = 'IFC-SPF' AND bim_license_tier = 'open' AND ifc_spaces > 50
 ORDER BY ifc_score DESC;
 ```
